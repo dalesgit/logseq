@@ -6,3 +6,5 @@
 - **07:53** [[quick capture]]:  [Honey Whole Wheat Bread Recipe](https://www.allrecipes.com/recipe/6799/honey-whole-wheat-bread/)
 - **07:40** [[quick capture]]:  [The Real Problem With American Universities - The Atlantic](https://www.theatlantic.com/technology/archive/2024/01/dei-universities-are-broken/677288/)
 - **07:44** [[quick capture]]:  [Breathtaking JWST Images of 19 Spiral Galaxies Reveal Incredible Diversity : ScienceAlert](https://www.sciencealert.com/breathtaking-jwst-images-of-19-spiral-galaxies-reveal-incredible-diversity)
+- **08:20** [[quick capture]]:  [Mary McCarthy’s Campus Novel and the Crisis in Higher Education - The New York Times](https://www.nytimes.com/2024/01/31/books/review/mary-mccarthy-groves-of-academe-campus-novel-crisis.html)
+- **08:22** [[quick capture]]:  [The End of Joy in College Education | America Magazine](https://www.americamagazine.org/faith/2024/01/29/college-education-vocation-profession-247033)
