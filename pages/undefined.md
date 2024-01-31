@@ -4,3 +4,5 @@
 - **07:39** [[quick capture]]:  [Bread Machine Whole Wheat Bread - Little Sunny Kitchen](https://littlesunnykitchen.com/whole-wheat-bread-machine-recipe/)
 - **07:50** [[quick capture]]:  [Honey Whole Wheat Sandwich Bread Recipe for Bread Machine](https://www.100daysofrealfood.com/honey-whole-wheat-sandwich-bread/)
 - **07:53** [[quick capture]]:  [Honey Whole Wheat Bread Recipe](https://www.allrecipes.com/recipe/6799/honey-whole-wheat-bread/)
+- **07:40** [[quick capture]]:  [The Real Problem With American Universities - The Atlantic](https://www.theatlantic.com/technology/archive/2024/01/dei-universities-are-broken/677288/)
+- **07:44** [[quick capture]]:  [Breathtaking JWST Images of 19 Spiral Galaxies Reveal Incredible Diversity : ScienceAlert](https://www.sciencealert.com/breathtaking-jwst-images-of-19-spiral-galaxies-reveal-incredible-diversity)
