@@ -14,3 +14,5 @@
 - **08:36** [[quick capture]]:  [The Suburbs Have Become a Ponzi Scheme - The Atlantic](https://www.theatlantic.com/books/archive/2024/01/benjamin-herold-disillusioned-suburbs/677229/)
 - **07:41** [[quick capture]]:  [In Finland, the ‘existential threat’ of Russia looms – and US rescue is far from certain | John Kampfner | The Guardian](https://www.theguardian.com/commentisfree/2024/feb/02/finland-russia-us-election-president-vladimir-putin-donald-trump)
 - **08:29** [[quick capture]]:  [A Scalia dissent is now driving the Texas-Biden dispute over illegal immigration](https://news.yahoo.com/decade-old-scalia-dissent-now-163139715.html?guccounter=1)
+- **08:39** [[quick capture]]:  [Living Through the End of California - The Atlantic](https://www.theatlantic.com/books/archive/2024/02/manjula-martin-the-last-fire-season-california-climate-change/677328/)
+- **08:47** [[quick capture]]:  [The Zone of Interest Is Much More Than a Holocaust Film](https://jacobin.com/2024/02/zone-of-interest-holocaust-film)
