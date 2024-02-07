@@ -1,1 +1,2 @@
 - **15:30** [[quick capture]]:  [15 Best Psychedelic Rock Songs of All Time - Singersroom.com](https://singersroom.com/w36/best-psychedelic-rock-songs-of-all-time/)
+- **13:28** [[quick capture]]:  [People who are highly intelligent but lack the discipline to succeed usually display these 5 behaviors - Hack Spirit](https://hackspirit.com/people-who-are-highly-intelligent-but-lack-the-discipline-to-succeed-usually-display-these-behaviors/)
