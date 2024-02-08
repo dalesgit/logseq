@@ -1,0 +1,1 @@
+- **15:30** [[quick capture]]:  [15 Best Psychedelic Rock Songs of All Time - Singersroom.com](https://singersroom.com/w36/best-psychedelic-rock-songs-of-all-time/)
