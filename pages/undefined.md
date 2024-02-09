@@ -9,3 +9,5 @@
 - **00:34** [[quick capture]]:  [People who keep their mind sharp as they age tend to do these 10 little things every day - Hack Spirit](https://hackspirit.com/people-who-keep-their-mind-sharp-as-they-age-tend-to-do-these-little-things-every-day/)
 - **00:44** [[quick capture]]:  [Senate Republicans retreating into the same ungovernable chaos as House GOP - The Washington Post](https://www.washingtonpost.com/politics/2024/02/07/senate-republicans-retreating-into-same-ungovernable-chaos-house-gop/)
 - **00:47** [[quick capture]]:  [Israel scorns America’s unprecedented peace plan](https://www.economist.com/middle-east-and-africa/2024/02/07/israel-scorns-americas-unprecedented-peace-plan)
+- **23:16** [[quick capture]]:  [Trump’s Legal Troubles: What the Law Says in 3 Key Cases - The New York Times](https://www.nytimes.com/interactive/2024/us/trump-supreme-court-cases.html)
+- **23:17** [[quick capture]]:  [Trump’s Legal Troubles: What the Law Says in 3 Key Cases - The New York Times](https://www.nytimes.com/interactive/2024/us/trump-supreme-court-cases.html)
