@@ -1,0 +1,4 @@
+- The one doctrine that has not been defined.
+	- Reformation has acted as if it is settled
+	- cp. the notion of Christ's real presence. Hotly debated, but no one claims a "Real Absence"
+-
