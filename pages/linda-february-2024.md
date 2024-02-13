@@ -34,4 +34,5 @@
 - My relief at conversation with [[Bill]] and Karla.
 - Excitement at the delivery of *The Bible Today* on **Pharisees**
 - [[Suffering]]
+- Looking up Marva Dawn on Sunday. Prolific author. Technology piece?
 -
