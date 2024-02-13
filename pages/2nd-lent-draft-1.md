@@ -52,4 +52,6 @@ Does Jesus' suffering make it all ok for the rest of us? Does Jesus' suffering o
 
 # Atonement / Redemption
 
-One of the things that has stayed with me from classes on theology long ago. One of my teachers would emphasize that of all the basic doctrines of the Christian faith, the atonement is the only one that has never been defined. 
+One of the things that has stayed with me from classes on theology long ago. One of my teachers would emphasize that of all the basic doctrines of the Christian faith, the atonement is the only one that has never been defined. There are various theories about how our redemption  was effected:
+
+1. 
