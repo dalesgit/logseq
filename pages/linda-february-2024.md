@@ -35,4 +35,5 @@
 - Excitement at the delivery of *The Bible Today* on **Pharisees**
 - [[Suffering]]
 - Looking up Marva Dawn on Sunday. Prolific author. Technology piece?
--
+- Walker Percy
+	- The search is what anyone would undertake if he were not sunk in the everydayness of his own life. To become aware of the possibility of the search is to be onto something. Not to be onto something is to be in despair.
