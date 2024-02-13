@@ -12,3 +12,4 @@
 - **23:16** [[quick capture]]:  [Trump’s Legal Troubles: What the Law Says in 3 Key Cases - The New York Times](https://www.nytimes.com/interactive/2024/us/trump-supreme-court-cases.html)
 - **23:17** [[quick capture]]:  [Trump’s Legal Troubles: What the Law Says in 3 Key Cases - The New York Times](https://www.nytimes.com/interactive/2024/us/trump-supreme-court-cases.html)
 - **17:42** [[quick capture]]:  [How do different religions respond to suffering?](https://home.snu.edu/~hculbert/suffer.htm)
+- **11:26** [[quick capture]]:  [‘Utter confusion’ for migrants after crossing the border](https://www.cnn.com/interactive/2024/02/world/migrant-crossing-california-cnnphotos/)
