@@ -1,5 +1,10 @@
 - Writing:
 	- preparing notes for Richard Rohr. He's not a pillar for me, but more like a friend or colleague.
+	- What a pair. Richard and Brian McLaren.
+	- **16:03** [[religion]] :  https://en.wikipedia.org/wiki/Emerging_church
+	- **16:04** [[religion]] :  https://en.wikipedia.org/wiki/Brian_McLaren
+	- **16:04** [[religion]] :  https://en.wikipedia.org/wiki/Postmodern_theology
+	-
 - Sermon [[Feb 11th, 2024]] asked us to find the thing that gives us joy, love, and ?
 - [[2nd-lent-draft-1]] Suffering, Atonement, interlocking gyres
 	- "Second Coming"
