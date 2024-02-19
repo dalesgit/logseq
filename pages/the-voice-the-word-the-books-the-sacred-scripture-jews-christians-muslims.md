@@ -11,4 +11,4 @@
   Chapter 8 Picturing the Word 
   Chapter 9 Giving Voice to the Word 
   Epilogue Three Books, Side by Side
-- [[kindle]] notes found in simplenote under tag "3
+- [[kindle]] notes found in simplenote under tag "3-books"
