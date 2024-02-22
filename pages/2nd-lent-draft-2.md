@@ -34,29 +34,36 @@ So my perspective sees a number of cycles that we follow throughout the church y
 
 ## Sacred time is circular
 
-One of the things that I have found important, mostly since teaching young people about religion, is that Church Time is circular. It's not linear. 
+I have shared with some of you how I can tell whether we've had a good liturgy. I ask myself whether I'm glad I came. I might tell Fr. Peter after a service. If I can truthfully say, "I'm glad I came", then it's been time well-spent. That's time measured 5 minutes at a time, an hour at a time. Clock-wise time. 
+
+Now time is an interesting concept, one that serious thinkers have thought about for thousands of years and still do to this day. Some ways of experiencing time can be described as "sacred" time. In contrast to linear time – like the time on a time card – sacred time is generally circular. It doesn't generally function with a beginning and an ending. 
+
+> What we call the beginning is often the end\
+> And to make an end is to make a beginning.[^2]
+
+One Easter vigil I presided over many years ago lasted for over 2 hours. It was very full with lighting fires, baptism, anointing, Eucharist. One of the people, I think it was a visitor, came up to me afterwards and said, "I couldn't believe it was over." Sacred time isn't measured by a clock. 
 
 ## Life in Christ
 
-My own experience is that being a disciple of Jesus is not like a once-off experience. The whole notion of experiencing conversion, and you're somehow all the way to home base, is a skewed way of thinking of **life in Christ**. 
+The sacred time of our liturgy has the power to bring us face to face with what was time present many centuries ago. As we enter the circle, the gyre, of Lent, the liturgy presents us with utterly iconic scenes from the prophets and the evangelists. It has the potential to make us present in sacred time.
 
-My own experience suggests that each day I enter a new set of challenges to being a disciple of Christ. Each day a cycle within a cycle. 
+Abram faced such a new reality in the passage from Genesis we heard today. He was 99 years old and the LORD showed up at his doorstep and announced a covenant with him. His life changed with new requirements and – as a sign of the changed life – a new name. Sacred time has the potential to bring us into the presence of God and to so transform us that we are as new people.
 
-Abram faced such new reality in the passage from Genesis we heard today. He was 99 years old and the LORD showed up at his doorstep and announced a covenant with him. His life changed with new requirements and – as a sign of the changed life – a new name.
+The evangelist today relates a teaching moment in Jesus's life: " the Son of Man must undergo great suffering, and be rejected by the elders, ..."  He's talking to disciples – those who regard themselves as wanting to follow Jesus. That would be you and me as well as Peter, James, and Thaddeus.  It has the potential to confront us with the reality that our life in Christ is about **suffering**, and **rejection**, **death**, and **resurrection**. 
 
-The power of meeting these texts over and over again, at different moments in our life, with different circumstances, has to do with the day by day task we each of us face to make our lives conform with that of Jesus himself. 
+We hear these narratives over and over again. We know how they begin and we know the end. That's not the challenge of them. The challenge for us is to open ourselves to that sacred time where we are transformed. It is not a once-off experience. 
 
-So in Lent, the gyre we are following, is aimed squarely at the Passion of the Lord and the 3rd day reversal of the Resurrection. Lent, the cycle, pursues round and round, the implications of following Jesus to the cross. We hear Jesus tell us that directly in today's reading:
+My own experience suggests that each day I enter a new set of challenges to being a disciple of Christ. Each day a cycle within a cycle. Each time we meet these texts we are different from the last time. Whether it's day by day or week by week, I am in need of continual renewal, I must be called again and again to life in Christ. Such is the power of sacred time.
+
+The cycle of Lent aims us squarely at the Passion of the Lord and the 3rd day reversal of the Resurrection. Lent, the cycle, pursues round and round, the implications of following Jesus to the cross. We hear Jesus tell us that directly in today's reading:
 
 > If any want to become my followers, let them deny themselves and take up their cross and follow me. For those who want to save their life will lose it, and those who lose their life for my sake, and for the sake of the gospel, will save it.
 
-Peter voices our initial resistance to doing such a thing. 
+Peter voices an initial resistance to doing such a thing. We can easily voice the same thing. "Jesus, you don't really mean that, do you?"
 
 > Jesus began to teach his disciples that the Son of Man must undergo great suffering, and be rejected by the elders, the chief priests, and the scribes, and be killed, and after three days rise again.
 
-> But Peter says, "No. Please. No." 
-
-What he recognizes, of course, is that there will be **suffering** along the way.
+This being a follower of Jesus thing we are called to is the way of **suffering**.
 
 ## Suffering
 
@@ -68,46 +75,23 @@ Jesus suffered (that's what the word "Passion", Latin *patior*,  means in this c
 
 But suffering is not an attractive thing. It's not an inviting thing. Typically we want to avoid it. Look at Peter's response. What do we do with this invitation? 
 
-Does Jesus' suffering make it all ok for the rest of us? Does Jesus' suffering offer a kind of redemption to each of us in our own suffering? Where is the redeeming value of suffering – for us? For Jesus? We know how Jesus's story ends. 
+Does Jesus' suffering make it all ok for the rest of us? Does Jesus' suffering offer a kind of redemption to each of us in our own suffering? Where is the redeeming value of suffering – for us? For Jesus? 
 
-One of the things I love about great stories like the Easter story. We know how it ends. We know the story. But we want to hear it again and again. Like the gyre that goes round and round. Sacred time.
+There are no simple responses. The suffering which is on our path one year may look very different the next. The suffering for some is very different from the suffering of another. Jesus is found in all of the suffering. He invites us to participate. 
 
-## Atonement / Redemption
-
-[[atonement]] One of the things that has stayed with me from classes on theology from long ago is the lesson that the **Atonement** is the one essential Christian doctrine that has never been **defined** by the wider church. There are various theories about how our redemption  was effected in Jesus's death and Resurrection. Some denominations and local churches how to find one theory over another as being essential. But the wider church has not done that.
-
-There are several theories that have stood the test of time. One of them looked to the teaching of Jesus as well as with his actions such as the death, suffering and resurrection. It simply taught that Jesus came and died in order to bring about a positive change to humanity.
-
-Perhaps the most widely held theory holds that Jesus dies in order to defeat the powers of evil (such as sin, death, and the devil) in order to free mankind from their bondage.
-
-Especially prominent where the reformation is dominant are variations of a theory that holds that God pays a price for the sins of humankind. God pays as satisfaction, as substitution, or restitution to make things right.
-
-There are other theories as well, and many books could be written about all of them.
-
-Perhaps here we are on safe ground to say that our salvation and redemption came through the suffering, death and resurrection of Jesus in ways beyond our knowing. Nevertheless as disciples of Jesus we are called to follow him in his way. 
+We know how Jesus's story ends. He invites us into that as well.
 
 ## The final gyre is not the end but our beginning
 
-ὁδὸς ἄνω κάτω μία καὶ ὡυτή. [^2] The way up and the way down are one and the same, said a Greek philosopher 500 years before Christ. 
+ὁδὸς ἄνω κάτω μία καὶ ὡυτή.[^3] The way up and the way down are one and the same, said a Greek philosopher 500 years before Christ. 
 
-Words move, music moves\
-Only in time; but that which is only living\
-Can only die. Words, after speech, reach\
-Into the silence. Only by the form, the pattern,\
-Can words or music reach\
-The stillness, as a Chinese jar still\
-Moves perpetually in its stillness.\
-Not the stillness of the violin, while the note lasts,\
-Not that only, but the co-existence,\
-Or say that the end precedes the beginning,\
-And the end and the beginning were always there\
-Before the beginning and after the end.
+> What we call the beginning is often the end\
+> And to make an end is to make a beginning.
 
-as one of my favorite 20th century poets says. [^3]
+We have entered into this Lent. We do know how the story ends. We've been here before. We will make our efforts to embrace the way of the cross. We will fail. And we will meet the Risen Lord in glory. It will fade. And we will return to hear the story as if it were new. The sacred story goes on and on by going round and round. 
 
-We have entered into this Lent. We know how the story ends. We've been here before. We will make our efforts to embrace the way of the cross. We will fail. We will meet the Risen Lord in glory. It will fade. Because the sacred story goes on and on by going round and round. We have entered the sacred story. It's done. There's no undoing it. And in the end, as that poet and the mystic before him put it, "All shall be well. All manner of thing shall be well."
+We enter the sacred story. We have made a beginning of it. It's done. There's no undoing it. And in the end, as that poet and the mystic before him put it, "All shall be well. All manner of thing shall be well."
 
 [^1]: A circular or spiral motion or form, especially a circular ocean current.
-[^2]: Heraclitus ca. 500 bce
-
-[^3]: T.S. Eliot "Burnt Norton: part V"
+[^2]: T.S. Eliot "Little Gidding"
+[^3]: Heraclitus ca. 500 bce
