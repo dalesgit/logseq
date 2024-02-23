@@ -2,7 +2,7 @@
 	- Capture web page
 	  Template:: Capture
 	  template-including-parent:: false
-		- **<% time %>** [[quick capture]] : []()
+		- **<% time %>** [[quick capture]] :
 	- Gratitude
 	  Template:: Examen
 	  template-including-parent:: false
