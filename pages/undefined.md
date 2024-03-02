@@ -1,1 +1,2 @@
 - **10:38** [[quick capture]]:  [How To Make A Hanging Storage Basket - AppleGreen Cottage](https://www.applegreencottage.com/how-to-make-fabric-hanging-basket/)
+- **12:25** [[quick capture]]:  [How to Get EPUB Books on Kindle: The Ultimate Guide](https://kindlepreneur.com/epub-to-kindle/)
