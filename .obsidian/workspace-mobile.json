@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c56ec4553a5305cc",
+        "id": "b36113387c73a188",
         "type": "tabs",
         "children": [
           {
-            "id": "6e92a9342628a48e",
+            "id": "99816a8ea1d4bbda",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journals/2024_03_07.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "journals/2024_03_07.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "journals/2024_03_07.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "journals/2024_03_07.md"
-          }
+          "state": {}
         }
       },
       {
@@ -139,10 +131,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e92a9342628a48e",
+  "active": "99816a8ea1d4bbda",
   "lastOpenFiles": [
-    "journals/2024_03_06.md",
     "journals/2024_03_07.md",
+    "journals/2024_03_06.md",
     "logseq/bak/journals/2024_03_06/2024-03-06T21_47_35.164Z.android.md",
     "logseq/bak/journals/2024_03_06",
     "/journals/2024_03_06.md",
