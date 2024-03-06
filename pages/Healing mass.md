@@ -71,3 +71,16 @@ The Bible texts of the Old Testament, Epistle and Gospel lessons are from the Ne
 The Collects, Psalms and Canticles are from the Book of Common Prayer, 1979.
 
 Return to [The Lectionary Page](http://lectionarypage.net/)
+
+---
+
+Savior of the world, by your cross and precious blood you have redeemed us;  
+_Save us and help us, we humbly beseech you, O Lord._
+
+_The Priest then lays hands upon the sick person, and says one of the following_
+
+N., I lay my hands upon you in the Name of the Father, and of the Son, and of the Holy Spirit, beseeching our Lord Jesus Christ to sustain you with his presence, to drive away all sickness of body and spirit, and to give you that victory of life and peace which will enable you to serve him both now and evermore. _Amen._
+
+_or this_
+
+N., I lay my hands upon you in the Name of our Lord and Savior Jesus Christ, beseeching him to uphold you and fill you with his grace, that you may know the healing power of his love. _Amen._

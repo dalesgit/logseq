@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "29b924fd08d53674",
+        "id": "961517df917f6a9e",
         "type": "tabs",
         "children": [
           {
-            "id": "2760ecf8229bfa4c",
+            "id": "d49669800b66a379",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journals/2024_03_06.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "journals/2024_03_06.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "journals/2024_03_06.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "journals/2024_03_06.md"
-          }
+          "state": {}
         }
       },
       {
@@ -139,10 +131,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2760ecf8229bfa4c",
+  "active": "d49669800b66a379",
   "lastOpenFiles": [
-    "journals/2024_03_07.md",
     "pages/Healing mass.md",
+    "journals/2024_03_07.md",
     "journals/2024_03_06.md",
     "journals/2024_03_02.md",
     "journals/2024_03_03.md",
