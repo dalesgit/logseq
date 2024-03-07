@@ -1,8 +1,8 @@
-|   |   |
-|---|---|
-|The Lessons Appointed for Use on  <br>the Feast of|![](https://www.lectionarypage.net/Art/Newshield.gif)|
-|Perpetua and Felicity|
-|Martyrs, 202  <br>March 7|
+|                                                    |                                                       |
+| -------------------------------------------------- | ----------------------------------------------------- |
+| The Lessons Appointed for Use on  <br>the Feast of | ![](https://www.lectionarypage.net/Art/Newshield.gif) |
+| Perpetua and Felicity                              |                                                       |
+| Martyrs, 202  <br>March 7                          |                                                       |
 
 - [Hebrews 10:32–39](https://www.lectionarypage.net/LesserFF/Mar/Perpetua.html#nt1)
 - [Psalm 124](https://www.lectionarypage.net/LesserFF/Mar/Perpetua.html#ps1)
