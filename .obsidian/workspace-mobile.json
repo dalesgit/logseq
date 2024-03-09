@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b36113387c73a188",
+        "id": "c450e2345aec1678",
         "type": "tabs",
         "children": [
           {
-            "id": "99816a8ea1d4bbda",
+            "id": "964463d46355f1be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/Healing Mass.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "pages/Healing Mass.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "pages/Healing Mass.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "pages/Healing Mass.md"
-          }
+          "state": {}
         }
       },
       {
@@ -139,11 +131,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "99816a8ea1d4bbda",
+  "active": "964463d46355f1be",
   "lastOpenFiles": [
+    "pages/Healing Mass.md",
     "journals/2024_03_07.md",
     "pages/Perpetua and Felicity.md",
-    "pages/Healing Mass.md",
     "logseq/bak/pages/Healing Mass/2024-03-07T16_35_36.989Z.android.md",
     "logseq/bak/pages/Healing Mass/2024-03-07T16_30_56.857Z.android.md",
     "logseq/bak/pages/Healing Mass/2024-03-07T16_30_56.856Z.android.md",
