@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "1554fd7ac2dfcfb6",
+    "type": "split",
+    "children": [
+      {
+        "id": "c450e2345aec1678",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "964463d46355f1be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journals/2024_03_10.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e169432461035625",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ee32208a6a91883f",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "bf684cc1d688f2ab",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "6402806cc0880689",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "26bc75c261dbac93",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "4377848e0fb17b00",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0e7789b491ad9aa1",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "journals/2024_03_10.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "541e8586c242cb75",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "journals/2024_03_10.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "0bfc8095f4a6ffc7",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "journals/2024_03_10.md"
+          }
+        }
+      },
+      {
+        "id": "64cc032309ed50bf",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "964463d46355f1be",
+  "lastOpenFiles": [
+    "logseq/bak/journals/2024_03_10/2024-03-10T16_35_29.063Z.android.md",
+    "assets/golden_key_essay.pdf",
+    "journals/2024_03_10.md",
+    "logseq/bak/journals/2024_03_10/2024-03-10T16_18_14.531Z.android.md",
+    "logseq/bak/journals/2024_03_10/2024-03-10T16_18_10.473Z.android.md",
+    "logseq/bak/journals/2024_03_10/2024-03-10T16_18_06.415Z.android.md",
+    "logseq/bak/journals/2024_03_10/2024-03-10T16_18_04.409Z.android.md",
+    "logseq/bak/journals/2024_03_10/2024-03-10T16_17_07.548Z.android.md",
+    "logseq/bak/journals/2024_03_10/2024-03-10T16_17_05.519Z.android.md",
+    "logseq/bak/journals/2024_03_10/2024-03-10T16_17_01.458Z.android.md",
+    "logseq/bak/journals/2024_03_10/2024-03-10T16_16_57.411Z.android.md",
+    "logseq/bak/journals/2024_03_10/2024-03-10T16_16_43.178Z.android.md",
+    "logseq/bak/journals/2024_03_10/2024-03-10T16_16_41.141Z.android.md",
+    "logseq/bak/journals/2024_03_10/2024-03-10T16_16_39.117Z.android.md",
+    "logseq/bak/journals/2024_03_10/2024-03-10T16_16_35.055Z.android.md",
+    "logseq/bak/journals/2024_03_10/2024-03-10T16_16_33.031Z.android.md",
+    "logseq/bak/journals/2024_03_10/2024-03-10T16_16_31.002Z.android.md",
+    "logseq/bak/journals/2024_03_10/2024-03-10T16_16_28.973Z.android.md",
+    "logseq/bak/journals/2024_03_10/2024-03-10T16_16_26.946Z.android.md",
+    "logseq/bak/journals/2024_03_10/2024-03-10T16_16_24.950Z.android.md",
+    "logseq/bak/journals/2024_03_10/2024-03-10T16_15_54.451Z.android.md",
+    "logseq/bak/journals/2024_03_10/2024-03-10T16_15_52.426Z.android.md",
+    "logseq/bak/journals/2024_03_10/2024-03-10T16_15_50.396Z.android.md",
+    "logseq/bak/journals/2024_03_10/2024-03-10T16_15_44.311Z.android.md",
+    "logseq/bak/journals/2024_03_10/2024-03-10T16_15_38.197Z.android.md",
+    "logseq/bak/journals/2024_03_10/2024-03-10T16_15_32.091Z.android.md",
+    "logseq/bak/journals/2024_03_10/2024-03-10T16_15_30.060Z.android.md",
+    "logseq/bak/journals/2024_03_10",
+    "assets/Rohr_chap_2_—_2024-02-04_13-05_1707086198658_0.pdf",
+    "logseq/bak/pages/Healing Mass",
+    "logseq/bak/pages/Perpetua and Felicity",
+    "logseq/bak/journals/2024_03_07",
+    "logseq/bak/journals/2024_03_06",
+    "logseq/bak/logseq/custom/2024-03-06T18_28_32.022Z.Desktop.css",
+    "/logseq/bak/logseq/custom/2024-03-06T18_28_32.022Z.Desktop.css"
+  ]
+}
