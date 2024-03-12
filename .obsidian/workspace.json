@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a3a1b0d75c794c16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2024_03_08.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journals/2024_03_08.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journals/2024_03_08.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -155,8 +168,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b0d645aa8766b225",
+  "active": "a3a1b0d75c794c16",
   "lastOpenFiles": [
+    "journals/2024_03_08.md",
+    "conflict-files-obsidian-git.md",
+    "pages/sprinkler system.md",
+    "logseq/bak/journals/2024_03_11/2024-03-11T21_34_48.976Z.Desktop.md",
+    "logseq/bak/journals/2024_03_11",
+    "logseq/bak/journals/2024_02_05/2024-03-11T21_31_03.620Z.Desktop.md",
+    "journals/2024_03_11-bak.md",
     "logseq/bak/pages/undefined/2024-03-04T19_24_03.786Z.ios.md",
     "logseq/bak/pages/Healing Mass/2024-03-08T17_03_39.979Z.android.md",
     "logseq/bak/logseq/custom/2024-03-04T19_24_03.767Z.ios.css",
