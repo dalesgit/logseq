@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "aaa30728eb28521a",
@@ -157,5 +156,26 @@
     }
   },
   "active": "b0d645aa8766b225",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "logseq/bak/pages/undefined/2024-03-04T19_24_03.786Z.ios.md",
+    "logseq/bak/pages/Healing Mass/2024-03-08T17_03_39.979Z.android.md",
+    "logseq/bak/logseq/custom/2024-03-04T19_24_03.767Z.ios.css",
+    "logseq/bak/logseq/config/2024-03-11T02_39_38.100Z.ios.edn",
+    "logseq/bak/journals/2024_03_10/2024-03-11T02_39_37.274Z.ios.md",
+    "logseq/bak/journals/2024_03_10/2024-03-10T16_35_29.063Z.android.md",
+    "logseq/bak/journals/2024_03_10/2024-03-10T16_18_14.531Z.android.md",
+    "logseq/bak/journals/2024_03_10/2024-03-10T16_18_10.473Z.android.md",
+    "logseq/bak/journals/2024_03_10/2024-03-10T16_18_06.415Z.android.md",
+    "logseq/bak/journals/2024_03_10/2024-03-10T16_18_04.409Z.android.md",
+    "logseq/bak/journals/2024_03_10",
+    "logseq/bak/journals/2024_03_04/2024-03-11T02_39_38.137Z.ios.md",
+    "logseq/bak/journals/2024_03_04/2024-03-04T19_24_03.078Z.ios.md",
+    "logseq/bak/journals/2024_03_02/2024-03-04T19_24_03.778Z.ios.md",
+    "logseq/bak/journals/2024_02_05/2024-03-11T02_39_38.134Z.ios.md",
+    "logseq/bak/journals/2024_02_05/2024-03-08T17_03_39.181Z.android.md",
+    "journals/2024_03_11.md",
+    "journals/2024_03_10.md",
+    "journals/2024_03_09.md",
+    "assets/golden_key_essay.pdf"
+  ]
 }
