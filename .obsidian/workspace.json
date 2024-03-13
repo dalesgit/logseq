@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2024_03_12.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd9ce769ff9ab1ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journals/2024_03_12.md",
+                "file": "journals/2024_03_08.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag: technical",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,12 +65,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "aaa30728eb28521a",
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2024_03_12.md",
+                "file": "journals/2024_03_08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journals/2024_03_12.md",
+                "file": "journals/2024_03_08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journals/2024_03_12.md"
+                "file": "journals/2024_03_08.md"
               }
             }
           },
@@ -169,16 +156,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0a2c43f3e32270d9",
-  "lastOpenFiles": [
-    "pages/Easter Vigil Sermon.md",
-    "journals/2024_03_12.md",
-    "journals/2024_03_10.md",
-    "journals/2024_03_09.md",
-    "journals/2024_03_08.md",
-    "journals/2024_03_07.md",
-    "journals/2024_03_06.md",
-    "journals/2024_03_05.md",
-    "journals/2024_03_11.md"
-  ]
+  "active": "b0d645aa8766b225",
+  "lastOpenFiles": []
 }
