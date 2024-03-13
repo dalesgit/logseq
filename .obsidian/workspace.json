@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2024_03_08.md",
+                "file": "journals/2024_03_12.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd9ce769ff9ab1ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journals/2024_03_12.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag: technical",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "aaa30728eb28521a",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2024_03_08.md",
+                "file": "journals/2024_03_12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journals/2024_03_08.md",
+                "file": "journals/2024_03_12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journals/2024_03_08.md"
+                "file": "journals/2024_03_12.md"
               }
             }
           },
@@ -156,6 +168,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b0d645aa8766b225",
-  "lastOpenFiles": []
+  "active": "c2d6a10833577f82",
+  "lastOpenFiles": [
+    "logseq/bak/journals/2024_03_13/2024-03-13T16_47_43.820Z.Desktop.md",
+    "logseq/bak/journals/2024_03_13",
+    "logseq/bak/journals/2024_03_10/2024-03-13T16_47_43.772Z.Desktop.md",
+    "logseq/bak/pages/undefined/2024-03-13T16_47_43.745Z.Desktop.md",
+    "logseq/bak/journals/2024_03_12/2024-03-13T16_47_43.736Z.Desktop.md",
+    "logseq/bak/journals/2024_03_12",
+    "logseq/bak/journals/2024_03_10/2024-03-10T16_18_06.415Z.android.md",
+    "pages/Easter Vigil Sermon.md",
+    "journals/2024_03_12.md",
+    "journals/2024_03_10.md",
+    "journals/2024_03_09.md",
+    "journals/2024_03_08.md",
+    "journals/2024_03_07.md",
+    "journals/2024_03_06.md",
+    "journals/2024_03_05.md",
+    "journals/2024_03_11.md"
+  ]
 }
