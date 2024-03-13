@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Easter Vigil Sermon.md",
+                "file": "journals/2024_03_12.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag: technical",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,12 +78,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "aaa30728eb28521a",
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Easter Vigil Sermon.md",
+                "file": "journals/2024_03_12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/Easter Vigil Sermon.md",
+                "file": "journals/2024_03_12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/Easter Vigil Sermon.md"
+                "file": "journals/2024_03_12.md"
               }
             }
           },
@@ -169,10 +169,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd9ce769ff9ab1ed",
+  "active": "0a2c43f3e32270d9",
   "lastOpenFiles": [
-    "journals/2024_03_12.md",
     "pages/Easter Vigil Sermon.md",
+    "journals/2024_03_12.md",
     "journals/2024_03_10.md",
     "journals/2024_03_09.md",
     "journals/2024_03_08.md",
