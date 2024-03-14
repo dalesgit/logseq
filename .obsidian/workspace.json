@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d7cefbb763dbe48e",
+        "id": "ea87e144fd668daa",
         "type": "tabs",
         "children": [
           {
-            "id": "33fa258fed1d9df2",
+            "id": "0b0ef25380198280",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journals/2024_03_13.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2024_03_13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journals/2024_03_13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "journals/2024_03_13.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,8 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33fa258fed1d9df2",
+  "active": "0b0ef25380198280",
   "lastOpenFiles": [
+    "journals/2024_03_13.md",
+    "logseq/bak/journals/2024_03_13/2024-03-14T03_12_53.866Z.Desktop.md",
+    "logseq/bak/journals/2024_03_13/2024-03-14T03_12_43.658Z.Desktop.md",
     "journals/2024_03_12.md",
     "logseq/bak/journals/2024_03_13/2024-03-13T16_47_43.820Z.Desktop.md",
     "logseq/bak/journals/2024_03_13",
