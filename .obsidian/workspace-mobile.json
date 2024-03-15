@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2024_03_13.md",
+                "file": "journals/2024_03_14.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "journals/2024_03_13.md",
+            "file": "journals/2024_03_14.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "journals/2024_03_13.md",
+            "file": "journals/2024_03_14.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "journals/2024_03_13.md"
+            "file": "journals/2024_03_14.md"
           }
         }
       },
@@ -141,8 +141,8 @@
   },
   "active": "964463d46355f1be",
   "lastOpenFiles": [
-    "journals/2024_03_11.md",
     "journals/2024_03_13.md",
+    "journals/2024_03_11.md",
     "journals/2024_03_10.md",
     "logseq/bak/pages/undefined/2024-03-04T19_24_03.786Z.ios.md",
     "/logseq/bak/pages/undefined/2024-03-04T19_24_03.786Z.ios.md",
