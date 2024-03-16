@@ -72,8 +72,7 @@
           "state": {}
         }
       }
-    ],
-    "currentTab": 0
+    ]
   },
   "right": {
     "id": "4377848e0fb17b00",
@@ -139,7 +138,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "964463d46355f1be",
+  "active": "64cc032309ed50bf",
   "lastOpenFiles": [
     "journals/2024_03_13.md",
     "journals/2024_03_11.md",
