@@ -3,3 +3,5 @@
 - Don't get burned.
 - Pentecost.
 - Moth. Annie Dillard
+- Cf reading from Keating March 21 and 22
+-
