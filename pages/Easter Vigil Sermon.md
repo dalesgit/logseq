@@ -1,5 +1,6 @@
-- Lighting fire {{embed [[Lighting fire]] }}
-- Exultet {{embed [[Exultet]] }}
+[[Easter Vigil Draft 1]]
+- Lighting fire {{embed [[Lighting fire]] }} ![[Lighting fire]]
+- Exultet {{embed [[Exultet]] }}![[Exultet]]
 - The sacred story {{embed [[The sacred story]] }}
 - {{embed [[Baptism]]}}
 - {{embed [[Eucharist]]}}

@@ -23,14 +23,71 @@
             "id": "9843ac2d58571065",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.11"
+                "file": "pages/Easter Vigil Sermon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b366dcd0d75a72b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/Easter Vigil Sermon.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
+      },
+      {
+        "id": "64031ce787b8628f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da5ab9c093ce6b73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/Easter Vigil Sermon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "935caf8de35fb67d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/Easter Vigil Sermon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "224c4ec125929b67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/Easter Vigil Draft 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -49,7 +106,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -76,12 +133,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "aaa30728eb28521a",
@@ -97,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2024_02_05.md",
+                "file": "pages/Easter Vigil Draft 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journals/2024_02_05.md",
+                "file": "pages/Easter Vigil Draft 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journals/2024_02_05.md"
+                "file": "pages/Easter Vigil Draft 1.md"
               }
             }
           },
@@ -149,8 +206,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -166,8 +222,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9843ac2d58571065",
+  "active": "224c4ec125929b67",
   "lastOpenFiles": [
+    "pages/Easter Vigil Sermon.md",
+    "pages/Easter Vigil Draft 1.md",
     "journals/2024_03_13.md",
     "logseq/bak/journals/2024_03_13/2024-03-14T03_12_53.866Z.Desktop.md",
     "logseq/bak/journals/2024_03_13/2024-03-14T03_12_43.658Z.Desktop.md",
@@ -179,7 +237,6 @@
     "logseq/bak/journals/2024_03_12/2024-03-13T16_47_43.736Z.Desktop.md",
     "logseq/bak/journals/2024_03_12",
     "logseq/bak/journals/2024_03_10/2024-03-10T16_18_06.415Z.android.md",
-    "pages/Easter Vigil Sermon.md",
     "journals/2024_03_10.md",
     "journals/2024_03_09.md",
     "journals/2024_03_08.md",
