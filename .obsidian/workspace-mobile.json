@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c450e2345aec1678",
+        "id": "307e625e5ac21a93",
         "type": "tabs",
         "children": [
           {
-            "id": "964463d46355f1be",
+            "id": "060bda273912f91e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journals/2024_03_14.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -84,7 +80,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "journals/2024_03_14.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -101,7 +96,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "journals/2024_03_14.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,9 +106,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "journals/2024_03_14.md"
-          }
+          "state": {}
         }
       },
       {
@@ -126,7 +118,8 @@
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 0,
+    "pinned": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,8 +131,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64cc032309ed50bf",
+  "active": "060bda273912f91e",
   "lastOpenFiles": [
+    "pages/Easter Vigil Sermon.md",
+    "pages/Easter Vigil Draft 1.md",
+    "journals/2024_03_14.md",
     "journals/2024_03_13.md",
     "journals/2024_03_11.md",
     "journals/2024_03_10.md",
@@ -168,9 +164,6 @@
     "logseq/bak/journals/2024_03_10/2024-03-10T16_18_10.473Z.android.md",
     "logseq/bak/journals/2024_03_10/2024-03-10T16_18_06.415Z.android.md",
     "logseq/bak/journals/2024_03_10/2024-03-10T16_18_04.409Z.android.md",
-    "logseq/bak/journals/2024_03_10/2024-03-10T16_17_07.548Z.android.md",
-    "logseq/bak/journals/2024_03_10/2024-03-10T16_17_05.519Z.android.md",
-    "logseq/bak/journals/2024_03_10/2024-03-10T16_17_01.458Z.android.md",
     "logseq/bak/journals/2024_03_10",
     "assets/Rohr_chap_2_—_2024-02-04_13-05_1707086198658_0.pdf",
     "logseq/bak/pages/Healing Mass",
