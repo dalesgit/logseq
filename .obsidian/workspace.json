@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0b0ef25380198280",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journals/2024_02_05.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9843ac2d58571065",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/Easter Vigil Sermon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2b366dcd0d75a72b",
             "type": "leaf",
             "state": {
@@ -43,37 +19,12 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "64031ce787b8628f",
         "type": "tabs",
         "children": [
-          {
-            "id": "da5ab9c093ce6b73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/Easter Vigil Sermon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "935caf8de35fb67d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/Easter Vigil Sermon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "224c4ec125929b67",
             "type": "leaf",
@@ -86,8 +37,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"

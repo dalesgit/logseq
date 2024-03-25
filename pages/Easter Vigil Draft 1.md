@@ -14,7 +14,7 @@ That first Easter Vigil was the first of many that would follow -- up to the pre
   It felt to me like I was entering the dawn of creation. I was somehow present as God was in the act of creating the universe. I felt like I knew **whose** I was. I somehow belonged to the God of creation.
 - With this festival of light that we experience on this night, we are called to recognize our kinship with a god of fire and worlds begotten. but it is not only a creating God, but a God, who gives up himself or herself in a consuming fire.
   
-  Annie Dillard relates similar awesome image of fire, but this one an intimate picture.
+  Annie Dillard relates a similar awesome image of fire, but this one an intimate picture.
   
   One night she was quietly soaking in the wonders of the creation about her and she saw a moth fly into a candle flame. The moth was caught by the fire, consumed and held. Its wings were immediately ignited like tissue paper, and in an instant they were gone. Most of the moss was quickly consumed, except that there was a shell , a skeleton, there in the bit of the flame. And that skeleton began to act as a wick. The wax rose in the moth body from her soaking abdomen to her thorax to the jagged hole, where her head should be, and widened to flame, Ron, yellow flame that robbed her to the ground, like any immolating monk.  (P. 17 oh, holy the firm.)
   
