@@ -20,7 +20,12 @@ With this festival of light that we experience on this night, we are called to r
   One night she was quietly soaking in the wonders of the creation about her and she saw a moth fly into a candle flame. The moth was caught by the fire, consumed and held. Its wings were immediately ignited like tissue paper, and in an instant they were gone. Most of the moss was quickly consumed, except that there was a shell , a skeleton, there in the bit of the flame. And that skeleton began to act as a wick. The wax rose in the moth body from her soaking abdomen to her thorax to the jagged hole, where her head should be, and widened to flame, Ron, yellow flame that robbed her to the ground, like any immolating monk.  (P. 17 oh, holy the firm.)
   
   This night calls us into relationship with a God, who gives all that there is in the divine in order to be in relation to this humble world. The fire calls us each by name and gives us the name of our family. It is the family named *Christian*.
-- # Exultet
+# Exultet
+
+at the time of Passover in a Jewish household, a sacred meal is held. It’s called a Seder.
+
+
+
 
 - # Sacred Story
 - # Baptism
