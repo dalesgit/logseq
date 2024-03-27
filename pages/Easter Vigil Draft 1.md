@@ -6,6 +6,8 @@ When I was a child, I knew my name and I knew that my parents were Helen and Dal
 
 I was in my 20's that I experienced my first Easter Vigil. We didn't have such a thing when I was a child in the church. I returned to the church, trying to be an adult and to figure out what an adult faith looks like. I'm still working at it.
 
+I know of no better expression of what adult Christianity is all about then the Easter vigil.
+
 That first Easter Vigil was the first of many that would follow -- up to the present moment. I have come to experience this liturgy as the fullest possible expression of **who we are as Christians**, as human beings, as children of God. Through the years, what we do here tonight, has often taken my breath away.
 - # Lighting Fire
   
@@ -14,15 +16,17 @@ That first Easter Vigil was the first of many that would follow -- up to the pre
   It felt to me like I was entering the dawn of creation. I was somehow present as God was in the act of creating the universe. I felt like I knew **whose** I was. I somehow belonged to the God of creation.
 
 With this festival of light that we experience on this night, we are called to recognize our kinship with a god of fire and worlds begotten. but it is not only a creating God, but a God, who gives up himself or herself in a consuming fire.
+
+> Fr Keating on spread of light symbol of love spread. 
   
   Annie Dillard relates a similar awesome image of fire, but this one an intimate picture.
   
-  One night she was quietly soaking in the wonders of the creation about her and she saw a moth fly into a candle flame. The moth was caught by the fire, consumed and held. Its wings were immediately ignited like tissue paper, and in an instant they were gone. Most of the moss was quickly consumed, except that there was a shell , a skeleton, there in the bit of the flame. And that skeleton began to act as a wick. The wax rose in the moth body from her soaking abdomen to her thorax to the jagged hole, where her head should be, and widened to flame, Ron, yellow flame that robbed her to the ground, like any immolating monk.  (P. 17 oh, holy the firm.)
+  One night she was quietly soaking in the wonders of the creation about her and she saw a moth fly into a candle flame. The moth was caught by the fire, consumed and held. Its wings were immediately ignited like tissue paper, and in an instant they were gone. Most of the moth xxx was quickly consumed, except that there was a shell , a skeleton, there in the bit of the flame. And that skeleton began to act as a wick. The wax rose in the moth body from her soaking abdomen to her thorax to the jagged hole, where her head should be, and widened into flame, a saffron-yellow flame that robed her to the ground like any immolating monk.  (P. 17 oh, holy the firm.)
   
   This night calls us into relationship with a God, who gives all that there is in the divine in order to be in relation to this humble world. The fire calls us each by name and gives us the name of our family. It is the family named *Christian*.
 # Exultet
 
-at the time of Passover in a Jewish household, a sacred meal is held. It’s called a Seder.
+at the time of Passover in a Jewish household, a sacred meal is held. It’s called a Seder. One of the highlights of that meal is a question that is, asked by a child. The child asks "why is this night more important than any other?"
 
 
 

@@ -4,34 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "307e625e5ac21a93",
+        "id": "4a5a4bbdbd8f639d",
         "type": "tabs",
         "children": [
           {
-            "id": "060bda273912f91e",
+            "id": "9ed20318d1ba2b33",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "pages/Easter Vigil Draft 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "90c059cac486b629",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d31d60b8c1478c6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/Easter Vigil Sermon.md",
                 "mode": "source",
                 "source": false
               }
@@ -52,7 +34,7 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
+            "sortOrder": "byModifiedTime"
           }
         }
       },
@@ -90,7 +72,8 @@
           "state": {}
         }
       }
-    ]
+    ],
+    "currentTab": 0
   },
   "right": {
     "id": "4377848e0fb17b00",
@@ -156,8 +139,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "060bda273912f91e",
+  "active": "9ed20318d1ba2b33",
   "lastOpenFiles": [
+    "pages/Easter Vigil Sermon.md",
+    "pages/Easter Vigil Draft 1.md",
     "logseq/bak/pages/Easter Vigil Draft 1",
     "logseq/bak/pages/Easter Vigil Sermon/2024-03-25T16_53_35.085Z.ios.md",
     "logseq/bak/journals/2024_03_24/2024-03-25T16_53_14.984Z.ios.md",
@@ -173,8 +158,6 @@
     "/logseq/bak/journals/2024_03_24/2024-03-25T16_53_14.984Z.ios.md",
     "/logseq/bak/pages/Easter Vigil Draft 1",
     "journals/2024_03_25.md",
-    "pages/Easter Vigil Sermon.md",
-    "pages/Easter Vigil Draft 1.md",
     "journals/2024_03_14.md",
     "journals/2024_03_13.md",
     "journals/2024_03_11.md",
@@ -192,7 +175,6 @@
     "assets/golden_key_essay.pdf",
     "logseq/bak/journals/2024_03_10",
     "assets/Rohr_chap_2_—_2024-02-04_13-05_1707086198658_0.pdf",
-    "logseq/bak/pages/Healing Mass",
-    "logseq/bak/pages/Perpetua and Felicity"
+    "logseq/bak/pages/Healing Mass"
   ]
 }
