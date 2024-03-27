@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "dd7f1db1cba97c27",
+        "id": "4445b0ea69a212cc",
         "type": "tabs",
         "children": [
           {
-            "id": "2ab5e07845b5ae24",
+            "id": "5c756dd3e6823b02",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/The sacred story.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/The sacred story.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/The sacred story.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "pages/The sacred story.md"
-              }
+              "state": {}
             }
           },
           {
@@ -153,9 +145,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2ab5e07845b5ae24",
+  "active": "5c756dd3e6823b02",
   "lastOpenFiles": [
+    "pages/Eucharist.md",
     "pages/Easter Vigil Sermon.md",
+    "pages/Baptism.md",
+    "pages/The sacred story.md",
     "pages/Easter Vigil Draft 1.md",
     "journals/2024_03_13.md",
     "logseq/bak/journals/2024_03_13/2024-03-14T03_12_53.866Z.Desktop.md",
