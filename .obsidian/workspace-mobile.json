@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Easter Vigil Sermon.md",
+                "file": "pages/Easter Vigil Draft 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "pages/Easter Vigil Sermon.md",
+            "file": "pages/Easter Vigil Draft 1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "pages/Easter Vigil Sermon.md",
+            "file": "pages/Easter Vigil Draft 1.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -132,7 +132,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "pages/Easter Vigil Sermon.md"
+            "file": "pages/Easter Vigil Draft 1.md"
           }
         }
       },
@@ -159,8 +159,8 @@
   },
   "active": "7d3bbfb5d43d6d3d",
   "lastOpenFiles": [
-    "pages/Easter Vigil Draft 1.md",
     "pages/Easter Vigil Sermon.md",
+    "pages/Easter Vigil Draft 1.md",
     "logseq/bak/pages/Easter Vigil Draft 1",
     "logseq/bak/pages/Easter Vigil Sermon/2024-03-25T16_53_35.085Z.ios.md",
     "logseq/bak/journals/2024_03_24/2024-03-25T16_53_14.984Z.ios.md",
