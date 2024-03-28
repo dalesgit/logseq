@@ -4,34 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4a5a4bbdbd8f639d",
+        "id": "70685f74d8008290",
         "type": "tabs",
         "children": [
           {
-            "id": "9ed20318d1ba2b33",
+            "id": "a5de5abeb1f79f29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Easter Vigil Draft 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "90c059cac486b629",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7d3bbfb5d43d6d3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/Easter Vigil Draft 1.md",
+                "file": "pages/Easter Vigil Draft 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,8 +72,7 @@
           "state": {}
         }
       }
-    ],
-    "currentTab": 0
+    ]
   },
   "right": {
     "id": "4377848e0fb17b00",
@@ -103,7 +84,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "pages/Easter Vigil Draft 1.md",
+            "file": "pages/Easter Vigil Draft 2.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -120,7 +101,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "pages/Easter Vigil Draft 1.md",
+            "file": "pages/Easter Vigil Draft 2.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -132,7 +113,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "pages/Easter Vigil Draft 1.md"
+            "file": "pages/Easter Vigil Draft 2.md"
           }
         }
       },
@@ -157,11 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7d3bbfb5d43d6d3d",
+  "active": "a5de5abeb1f79f29",
   "lastOpenFiles": [
+    "pages/Easter Vigil Draft 1.md",
     "/pages/Easter Vigil Draft 1.md",
     "pages/Easter Vigil Sermon.md",
-    "pages/Easter Vigil Draft 1.md",
     "logseq/bak/pages/Easter Vigil Draft 1",
     "logseq/bak/pages/Easter Vigil Sermon/2024-03-25T16_53_35.085Z.ios.md",
     "logseq/bak/journals/2024_03_24/2024-03-25T16_53_14.984Z.ios.md",
