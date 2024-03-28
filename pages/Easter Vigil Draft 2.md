@@ -52,7 +52,7 @@ This song takes us back to the very origins of human life. This song announces t
 
 We have announced then that this is the most important message there is. The story we tell tonight is the most important story there is.
 
-There is space in the liturgy tonight to tell all the fullness of the path from creation to the fulfillment brought brought about by the resurrection. From the great need for redemption, experienced by our ancient ancestors, and by us on a day-to-day basis, through to the "peace that passes all understanding." Tracing the story up through the prophets, and finally Jesus rising from the dead and sending us the adventures of a new life in anticipation of the final fulfillment.
+There is space in the liturgy tonight to tell all the fullness of the path from creation to the fulfillment brought about by the resurrection. From the great need for redemption, experienced by our ancient ancestors, and by us on a day-to-day basis, through to the "peace that passes all understanding." Tracing the story up through the prophets, and finally Jesus rising from the dead and sending us the adventures of a new life in anticipation of the final fulfillment.
 
 A woman named Gretchen Pritchard has been telling the sacred story aimed at Episcopalians, especially young Episcopalians, for several decades. I was gifted many years ago with a transcript of her version of the entire Bible told in language appropriate for children . It begins, "**Once upon a time**". End it ends with, "**the prince and princess get married, and live happily ever after**". Amazingly, that is a pretty good approximation of the first chapter of Genesis, and the last chapter of the book of Revelation.
 
