@@ -1,3 +1,8 @@
+---
+title: Exsultet
+author: Book of Common Prayer
+---
+
 _The Paschal Candle is then lighted from the newly kindled fire, and the Deacon (the Celebrant if there is no deacon) bearing the Candle, leads the procession to the chancel, pausing three times and singing or saying_
 
  > The light of Christ.  
