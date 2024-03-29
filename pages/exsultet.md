@@ -1,6 +1,6 @@
 _The Paschal Candle is then lighted from the newly kindled fire, and the Deacon (the Celebrant if there is no deacon) bearing the Candle, leads the procession to the chancel, pausing three times and singing or saying_
 
-          The light of Christ.  
+ > The light of Christ.  
 _People_  Thanks be to God.
 
 _If candles have been distributed to members of the congregation, they are lighted from the Paschal Candle at this time. Other candles and lamps in the church, except for those at the Altar, may also be lighted._
@@ -16,8 +16,6 @@ Rejoice and sing now, all the round earth, bright with a glorious splendour, for
 Rejoice and be glad now, Mother Church, and let your holy courts, in radiant light, resound with the praises of your people.
 
 > All you who stand near this marvelous and holy flame, pray with me to God the Almighty for the grace to sing the worthy praise of this great light; through Jesus Christ our Lord, who lives and reigns with him, in the unity of the Holy Spirit, one God, for ever and ever. _Amen._
-
-  
 
 _Deacon_  
 The Lord be with you.
@@ -42,11 +40,7 @@ This is the night, when Christ broke the bonds of death and hell, and rose victo
 
 > How wonderful and beyond our knowing, O God, is your mercy and loving-kindness to us, that to redeem a slave, you gave a Son.
 
-  
-
 > How holy is this night, when wickedness is put to flight, and sin is washed away. It restores innocence to the fallen, and joy to those who mourn. It casts out pride and hatred, and brings peace and concord.
-
-  
 
 > How blessed is this night, when earth and heaven are joined and man is reconciled to God.
 
