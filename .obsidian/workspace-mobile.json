@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1c102080d86ff55f",
+        "id": "5793fde4dc3f9e02",
         "type": "tabs",
         "children": [
           {
-            "id": "55a2cad50f448ef1",
+            "id": "e044bf3443a5f78b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -68,7 +68,9 @@
           "state": {}
         }
       }
-    ]
+    ],
+    "currentTab": 0,
+    "pinned": true
   },
   "right": {
     "id": "4377848e0fb17b00",
@@ -130,7 +132,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "55a2cad50f448ef1",
+  "active": "ee32208a6a91883f",
   "lastOpenFiles": [
     "pages/Easter Vigil Draft 2.md",
     "pages/Easter Vigil Draft 1.md",
