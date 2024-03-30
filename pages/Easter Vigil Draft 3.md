@@ -37,8 +37,10 @@ That first Easter Vigil was for me the first of many that would follow -- *up to
   One night she was quietly soaking in the wonders of the creation about her and she saw a moth fly into a candle flame. The moth was caught by the fire, consumed and held. Its wings were immediately ignited like tissue paper, and in an instant they were gone. Most of the moth was quickly consumed, except that there was a shell , a skeleton, there in the bit of the flame. "And that skeleton began to act as a wick. The wax rose in the moth body from her soaking abdomen to her thorax to the jagged hole, where her head should be, and widened into flame, a saffron-yellow flame that robed her to the ground like any immolating monk." [^2] 
   
   This night calls us into relationship with a God who gives all that there is in the divine in order to be in relation to this humble world. The fire calls us each by name and gives us the name of our family. It is the family named *Christian*.
-- # Exultet
-  
+
+# Exsultet
+
+
   At the time of Passover in a Jewish household, a sacred meal is held. It’s called a **Seder**. One of the highlights of that meal is a question that is asked by a child. The child asks, "Why is this night different from all other nights?" When I have lead Seder meals in the past, I have taken particular delight in responding to that question.  I say, "I am so glad you asked me that question because that is exactly what I wanted to share tonight. 
   
   The answer is the story of the deliverance of Israel from bondage. The answer is our deliverance from bondage. The answer is the powerful answer to, "Who are we? Whose are we?"
@@ -52,7 +54,8 @@ That first Easter Vigil was for me the first of many that would follow -- *up to
   > Holy is this night when wickedness is put to flight, and sin is washed away.
   
   This song takes us back to the very origins of human life. This song announces that this is a sacred night. This song announces that tonight we proclaim what it means to be Christian. This song announces for all the world to hear, who we are, and whose we are.
-- # Sacred Story
+
+# Sacred Story
   
   We have announced then that this is the most important message there is. The story we tell tonight is the most important story there is.
   
@@ -70,7 +73,8 @@ That first Easter Vigil was for me the first of many that would follow -- *up to
   By very ancient custom, this is the night that is most appropriate for baptisms. The baptism of stepping into the pool of water, having shed the clothing of an old life, and emerging, dripping, from the pool, into the new life and new clothes of life in Christ. Our life as Christians begins with that ancient movement. 
   
   It is often quoted that we are an Easter people. We are a people who are made out of the consequences of Jesus's Resurrection. We are a people, not just individuals, but a family with the name of Christian. By tradition, baptism was a time when we received a name. Who we are. At the same time we gained a family. Whose we are. Baptism shows us that we are God's people.
-- # Eucharist
+
+# Eucharist
   
   I heard a kind of parable many many years ago that told the story of how orthodox Christians understand the basic sacraments of our life as Christians. It was said that when a child is born, there are three basic actions one must take for the sake of the child:
   
@@ -86,7 +90,8 @@ That first Easter Vigil was for me the first of many that would follow -- *up to
   Washed in the waters of new life. Fed with the bread of life. And sheltered by the gift of the Spirit.
   
   In the orthodox tradition, all three of those things happen at the same time. So tonight, we hear the sacred story, we see and hear how baptism is the basic calling for all of us, and we are nourished in the sacred body and blood of Christ.
-- # Closing
+
+# Closing
   
   This liturgy is the first Eucharist of Easter. This liturgy is the third part of one continuous service lasting from Thursday to Saturday night. There are no dismissals after the Maundy Thursday and Good Friday services. What we do here tonight tells a very big story, the biggest of all. It spans the final meal of Jesus with his disciples, the trial and passion of our Lord, and his emergence from the tomb. This night tells the whole story of what it means to be Christian.
   
