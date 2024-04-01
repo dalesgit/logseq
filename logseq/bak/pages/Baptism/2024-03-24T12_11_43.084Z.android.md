@@ -1,0 +1,3 @@
+- **Abundance** symbolizes in sacrament (God's abundance)
+- Water (fire)
+-
