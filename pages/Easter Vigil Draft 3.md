@@ -38,8 +38,14 @@ That first Easter Vigil was for me the first of many that would follow -- *up to
   
   This night calls us into relationship with a God who gives all that there is in the divine in order to be in relation to this humble world. The fire calls us each by name and gives us the name of our family. It is the family named *Christian*.
 
+<<<<<<< HEAD
 # Exultet
   
+=======
+# Exsultet
+
+
+>>>>>>> e0244ff2ff4879baa146b18e7a6becf4c8aed31c
   At the time of Passover in a Jewish household, a sacred meal is held. It’s called a **Seder**. One of the highlights of that meal is a question that is asked by a child. The child asks, "Why is this night different from all other nights?" When I have lead Seder meals in the past, I have taken particular delight in responding to that question.  I say, "I am so glad you asked me that question because that is exactly what I wanted to share tonight. 
   
   The answer is the story of the deliverance of Israel from bondage. The answer is our deliverance from bondage. The answer is the powerful answer to, "Who are we? Whose are we?"
