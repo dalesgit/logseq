@@ -4,34 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4a5a4bbdbd8f639d",
+        "id": "ce2b42ab1205182c",
         "type": "tabs",
         "children": [
           {
-            "id": "9ed20318d1ba2b33",
+            "id": "91a2ed92a923dad5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/Easter Vigil Draft 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "90c059cac486b629",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7d3bbfb5d43d6d3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/Easter Vigil Draft 1.md",
+                "file": "journals/2024_04_02.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "pages/Easter Vigil Draft 1.md",
+            "file": "journals/2024_04_02.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "pages/Easter Vigil Draft 1.md",
+            "file": "journals/2024_04_02.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -132,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "pages/Easter Vigil Draft 1.md"
+            "file": "journals/2024_04_02.md"
           }
         }
       },
@@ -157,8 +139,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7d3bbfb5d43d6d3d",
+  "active": "91a2ed92a923dad5",
   "lastOpenFiles": [
+    "logseq/bak/journals/2024_04_02/2024-04-02T17_06_07.831Z.android.md",
+    "logseq/bak/journals/2024_04_02/2024-04-02T17_06_03.294Z.android.md",
+    "logseq/bak/journals/2024_04_02/2024-04-02T17_06_01.009Z.android.md",
+    "logseq/bak/journals/2024_04_02/2024-04-02T17_05_58.719Z.android.md",
+    "logseq/bak/journals/2024_04_02",
+    "pages/thawing-arctic.md",
+    "logseq/bak/pages/thawing-arctic/2024-04-02T17_05_40.248Z.android.md",
+    "assets/Pasted image 20240402130539.png",
+    "logseq/bak/pages/thawing-arctic/2024-04-02T17_05_10.303Z.android.md",
+    "assets/Pasted image 20240402130508.png",
+    "logseq/bak/pages/thawing-arctic/2024-04-02T17_04_26.217Z.android.md",
+    "logseq/bak/pages/thawing-arctic/2024-04-02T17_04_16.903Z.android.md",
+    "logseq/bak/pages/thawing-arctic",
+    "pages/Easter Vigil Draft 1.md",
     "logseq/bak/pages/Easter Vigil Draft 2",
     "logseq/bak/pages/The sacred story/2024-04-01T11_07_40.302Z.android.md",
     "pages/Easter Vigil Draft 3.md.orig",
@@ -180,22 +176,10 @@
     "logseq/bak/journals/2024_03_04/2024-03-28T16_52_35.838Z.Desktop.md",
     "logseq/bak/journals/2024_03_31/2024-04-01T18_50_13.678Z.android.md",
     "logseq/bak/journals/2024_03_31",
-    "logseq/bak/journals/2024_01_27_BASE_1792/2024-03-28T16_52_35.785Z.Desktop.md",
-    "logseq/bak/journals/2024_03_11/2024-03-28T16_52_35.869Z.Desktop.md",
     "logseq/bak/journals/2024_03_29",
-    "journals/2024_03_29.md",
-    "logseq/bak/pages/Eucharist/2024-04-01T11_06_57.363Z.android.md",
-    "logseq/bak/journals/2024_03_10/2024-03-28T16_52_35.863Z.Desktop.md",
-    "logseq/bak/pages/Easter Vigil Sermon/2024-04-01T11_07_41.673Z.android.md",
     "journals/2024_03_28.md.orig",
-    "logseq/bak/journals/2024_03_26/2024-03-29T11_50_57.875Z.ios.md",
     "logseq/bak/journals/2024_03_26",
-    "pages/sermon-vigil-final.epub",
     "assets/image_1711728201322_0.jpeg",
-    "logseq/bak/journals/2024_03_06/2024-03-28T16_52_35.842Z.Desktop.md",
-    "logseq/bak/journals/2024_02_05/2024-03-28T16_52_35.787Z.Desktop.md",
-    "journals/2024_04_01.md.orig",
-    "logseq/bak/pages/Easter Vigil Draft 3",
     "assets/image_1711583314032_0.png",
     "/assets/image_1711728201322_0.jpeg",
     "/assets/image_1711583314032_0.png"
