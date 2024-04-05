@@ -18,3 +18,5 @@ num-pages:: 264
 - p. 13-14
 - Everything visible, without exception, is the outpouring of God. What else could it really be? “Christ” is a word for the Primordial Template (“Logos”) through whom “all things came into being, and not one thing had its being except through him” (John 1:3). Seeing in this way has reframed, reenergized, and broadened my own religious belief, and I believe it could be Christianity’s unique contribution among the world religions.*2
 - 4 worldviews: Appendix 1
+- [[universal-christ-contents]]
+-
