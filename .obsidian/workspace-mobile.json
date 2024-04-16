@@ -11,8 +11,12 @@
             "id": "30e652f4eeee972e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "pages/pre-passover-todos.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -135,7 +139,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee32208a6a91883f",
+  "active": "30e652f4eeee972e",
   "lastOpenFiles": [
     "journals/2024_04_13.md",
     "journals/2024_04_12.md",
