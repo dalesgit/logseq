@@ -127,7 +127,7 @@
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -139,7 +139,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "30e652f4eeee972e",
+  "active": "0e7789b491ad9aa1",
   "lastOpenFiles": [
     "journals/2024_04_13.md",
     "journals/2024_04_12.md",
