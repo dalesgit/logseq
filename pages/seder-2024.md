@@ -1,4 +1,9 @@
 - Music
 	- easy abc
 		- Kiddush
+		- Dayenu
+		- Jingle Bell Seder
+		- Battle Hymn Seder
+	- pdfs
+		- chad gad ya
 		-
