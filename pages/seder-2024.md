@@ -4,6 +4,7 @@
 		- Dayenu
 		- Jingle Bell Seder
 		- Battle Hymn Seder
+		- Go down Moses (Let my people go)
 	- pdfs
 		- chad gad ya
 		-
