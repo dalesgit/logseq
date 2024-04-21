@@ -5,7 +5,11 @@
 		- Jingle Bell Seder
 		- Battle Hymn Seder
 		- Go down Moses (Let my people go)
+		- My Favorite Things
 	- pdfs
 		- chad gad ya
 		- l'shanah habah
+		- Shalom Haverim
+		- She love you
+		-
 		-
