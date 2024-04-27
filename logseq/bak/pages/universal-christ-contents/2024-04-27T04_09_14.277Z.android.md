@@ -27,7 +27,7 @@
 	- Chapter 9: Things at Their Depth
 	- Chapter 10: The Feminine Incarnation
 	- Chapter 11: This Is My Body
-	- Chapter 12: Why Did Jesus Die?
+	- Chapter 12: Why Did Jesus Die?ts
 	- Chapter 13: It Can’t Be Carried Alone
 	- Chapter 14: The Resurrection Journey
 	- Chapter 15: Two Witnesses to Jesus and Christ
