@@ -15,3 +15,6 @@
 - # Florida room
 	- MPS would like to discard CD's and DVD's.
 	- She would like to discard Math books.
+	- DH observes that "no AC" is destructive to electronics and especially to books.
+- # Garage
+	- Sell the Miata for more space. MPS accepts that she needs to take the lead. Needs to be cleaned and photos taken.
