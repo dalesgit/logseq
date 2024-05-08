@@ -15,7 +15,7 @@
 	  Template:: Morning review
 	  template-including-parent:: true
 		- <iframe src="https://indify.co/widgets/live/quotes/l2NrY3j6Da1wFFEXeu8l" style="height:275px;width:275px" title="Iframe Example"></iframe>
-		- TODO Create solid schedule for today.  Look at your "TODOS" down below and make sure you are developing a good plan.
+		- DONE Create solid schedule for today.  Look at your "TODOS" down below and make sure you are developing a good plan.
 		- ### Critical Tasks for today
 		- ### Notes
 		- ### Working on
@@ -25,7 +25,7 @@
 		- <iframe src="https://indify.co/widgets/live/quotes/l2NrY3j6Da1wFFEXeu8l" style="height:275px;width:275px" title="Iframe Example"></iframe>
 		- ---
 		- ## WELCOME TO TODAY!!  YOU ARE AWESOME
-		- TODO Create solid schedule for today.  Look at your "TODOS" down below and make sure you are developing a good plan.
+		- DONE Create solid schedule for today.  Look at your "TODOS" down below and make sure you are developing a good plan.
 		- ###  Critical Tasks for Today
 		- ### Notes
 	- Daily Template
