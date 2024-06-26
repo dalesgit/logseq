@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "90802eb3df76df2b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,7 +165,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5c756dd3e6823b02",
+  "active": "90802eb3df76df2b",
   "lastOpenFiles": [
     "logseq/bak/pages/Template/2024-05-10T17_10_23.420Z.android.md",
     "logseq/bak/logseq/config/2024-05-13T17_58_12.047Z.android.edn",
