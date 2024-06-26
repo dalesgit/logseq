@@ -23,14 +23,26 @@
             "id": "90802eb3df76df2b",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journals/2024_06_26.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05c9f635a666987b",
+            "type": "leaf",
+            "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.5.11"
+                "currentVersion": "1.6.5"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2024_05_11.md",
+                "file": "journals/2024_06_26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journals/2024_05_11.md",
+                "file": "journals/2024_06_26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journals/2024_05_11.md"
+                "file": "journals/2024_06_26.md"
               }
             }
           },
@@ -165,7 +177,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "90802eb3df76df2b",
+  "active": "05c9f635a666987b",
   "lastOpenFiles": [
     "logseq/bak/pages/Template/2024-05-10T17_10_23.420Z.android.md",
     "logseq/bak/logseq/config/2024-05-13T17_58_12.047Z.android.edn",
