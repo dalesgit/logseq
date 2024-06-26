@@ -5,6 +5,7 @@
 	- Wastepro:
 		- rubbish
 		- recycle
+		- payment is automatic to Dale's Amex
 	- window maintenance
 		- labels on 2 different kind of windows for accessing screens
 	- laundry
