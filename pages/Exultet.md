@@ -1,6 +1,6 @@
 - Passover questions
 - It needs to be sung. Bards were next to king. Voice from God's.
-- **09:45** [[quick capture]]:  [The Exsultet: Christ Our Light | USCCB](https://www.usccb.org/prayer-and-worship/liturgical-year-and-calendar/easter/commentary-on-easter-proclamation-exsultet)
+- **09:45** [[church]] :  [The Exsultet: Christ Our Light | USCCB](https://www.usccb.org/prayer-and-worship/liturgical-year-and-calendar/easter/commentary-on-easter-proclamation-exsultet)
 	- The first major section of the annual Easter Vigil celebration may be the most memorable and engaging to the senses.
 	- Incense
 	- The liturgy’s symbolic movement has been from darkness to light; now words and music are used to praise and thank God for what the light represents: God’s saving activity throughout human history, culminating in Christ’s defeat of death and resurrection from the dead.
