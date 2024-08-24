@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bb074216369295c8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,40 +165,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5c756dd3e6823b02",
+  "active": "bb074216369295c8",
   "lastOpenFiles": [
-    "logseq/bak/pages/Template/2024-05-10T17_10_23.420Z.android.md",
+    "pages/spite your face.md",
+    "pages/pages___trump-living-in-90s.md",
+    "pages/assets___golden_key_essay.pdf.md",
+    "pages/GitHub - magicmontybash-git-prompt An informative and fancy bash prompt for Git users.md",
+    "logseq/bak/pages/Template/2024-06-18T12_24_23.816Z.Desktop.md",
+    "logseq/bak/pages/Irrigation system/2024-06-18T12_24_23.609Z.Desktop.md",
+    "logseq/bak/pages/Irrigation system/2024-06-14T22_39_03.524Z.android.md",
+    "logseq/bak/pages/Irrigation system/2024-05-27T20_12_45.301Z.android.md",
+    "logseq/bak/pages/Irrigation system/2024-05-23T16_24_29.290Z.ios.md",
+    "logseq/bak/pages/Irrigation system",
+    "logseq/bak/pages/@The universal Christ; how a forgotten reality can change everything we see, hope for, and believe/2024-04-10T11_36_48.117Z.Desktop.md",
+    "logseq/bak/pages/@Caste%3A the origins of our discontents/2024-06-19T12_29_25.763Z.android.md",
+    "logseq/bak/pages/@Caste%3A the origins of our discontents/2024-06-18T12_24_23.201Z.Desktop.md",
+    "logseq/bak/pages/@Caste%3A the origins of our discontents/2024-06-14T22_39_03.496Z.android.md",
+    "logseq/bak/pages/@Caste%3A the origins of our discontents/2024-06-14T21_58_45.660Z.android.md",
+    "logseq/bak/logseq/config/2024-05-16T16_47_45.034Z.ios.edn",
+    "logseq/bak/journals/2024_06_14/2024-06-14T22_20_33.268Z.android.md",
+    "logseq/bak/journals/2024_06_14",
+    "logseq/bak/journals/2024_05_25/2024-06-05T18_41_39.299Z.ios.md",
+    "logseq/bak/journals/2024_05_25/2024-05-25T17_47_11.738Z.android.md",
+    "logseq/bak/journals/2024_05_25",
+    "logseq/bak/journals/2024_05_16/2024-05-23T16_24_29.259Z.ios.md",
+    "logseq/bak/journals/2024_05_16/2024-05-22T01_57_33.811Z.android.md",
+    "logseq/bak/journals/2024_05_16",
+    "logseq/bak/journals/2024_05_14/2024-06-19T12_29_25.380Z.android.md",
+    "logseq/bak/journals/2024_05_14/2024-06-14T22_39_01.736Z.android.md",
+    "logseq/bak/journals/2024_05_14/2024-06-05T18_41_39.298Z.ios.md",
+    "logseq/bak/journals/2024_05_14/2024-05-27T20_12_46.434Z.android.md",
+    "logseq/bak/journals/2024_05_14/2024-05-16T18_48_53.335Z.ios.md",
+    "logseq/bak/journals/2024_05_13/2024-05-14T19_25_28.030Z.android.md",
+    "logseq/bak/journals/2024_05_12/2024-05-16T16_47_45.106Z.ios.md",
+    "journals/2024_05_14.md.orig",
     "logseq/bak/logseq/config/2024-05-13T17_58_12.047Z.android.edn",
-    "logseq/bak/journals/2024_05_14/2024-05-15T10_44_15.800Z.android.md",
     "logseq/bak/journals/2024_05_14",
-    "logseq/bak/journals/2024_05_13/2024-05-13T17_58_09.612Z.android.md",
     "logseq/bak/journals/2024_05_13",
-    "logseq/bak/journals/2024_05_12/2024-05-13T17_58_12.255Z.android.md",
-    "logseq/bak/journals/2024_05_12/2024-05-13T17_57_51.095Z.android.md",
-    "logseq/bak/journals/2024_05_12/2024-05-12T22_35_30.593Z.android.md",
-    "logseq/bak/journals/2024_05_12",
-    "logseq/bak/journals/2024_05_11/2024-05-12T22_32_16.866Z.ios.md",
-    "logseq/bak/journals/2024_05_11/2024-05-12T11_10_30.217Z.android.md",
-    "logseq/bak/journals/2024_05_10/2024-05-12T22_32_16.865Z.ios.md",
-    "logseq/bak/journals/2024_05_10/2024-05-13T17_57_51.083Z.android.md",
-    "logseq/bak/journals/2024_05_10",
-    "logseq/bak/journals/2024_05_07/2024-05-10T17_10_22.372Z.android.md",
-    "logseq/bak/journals/2024_05_06/2024-05-10T17_10_22.369Z.android.md",
-    "logseq/bak/journals/2024_05_05/2024-05-10T17_10_22.367Z.android.md",
-    "logseq/bak/journals/2024_05_04/2024-05-10T17_10_22.364Z.android.md",
-    "logseq/bak/journals/2024_05_02/2024-05-03T11_23_45.439Z.android.md",
-    "logseq/bak/journals/2024_04_29/2024-05-10T17_10_22.358Z.android.md",
-    "logseq/bak/journals/2024_02_14_LOCAL_5498/2024-05-10T17_10_22.240Z.android.md",
-    "logseq/bak/journals/2024_02_14_BACKUP_5498/2024-05-10T17_10_22.237Z.android.md",
-    "logseq/bak/journals/2024_02_14/2024-05-10T17_10_22.234Z.android.md",
-    "logseq/bak/journals/2024_02_03/2024-05-10T17_10_22.222Z.android.md",
-    "journals/2024_05_16.md",
-    "journals/2024_05_15.md",
-    "journals/2024_05_14.md",
-    "journals/2024_05_13.md",
-    "journals/2024_05_12.md",
-    "pages/Eucharist.md",
-    "logseq/bak/journals/2024_03_13",
-    "logseq/bak/journals/2024_03_12"
+    "logseq/bak/journals/2024_05_12"
   ]
 }
