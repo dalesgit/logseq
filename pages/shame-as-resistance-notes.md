@@ -26,3 +26,4 @@
 	  |          | James Fowler        | accepting our defect and undertaking change with another                                                                    |
 	  |          | CG Jung             | What was virtue in first 1/2 of life is vice in the second 1/2.                                                             |
 - "*Original Blessing*"by Matthew Fox
+	- Living the questions
