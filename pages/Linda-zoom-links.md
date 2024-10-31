@@ -1,0 +1,2 @@
+- https://us02web.zoom.us/j/83865433767?pwd=CwCSZbYxjKfy3z9Zzz3mn4b7lC6Zbj.1 monthly
+- Training
