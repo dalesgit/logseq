@@ -53,3 +53,4 @@
 	- Just leave it at "What does that feel like?" (simple, focus on SDee)
 	- need to acknowledge, in a gracious manner, "Thank you for sharing with me ..."
 	- Unpack the image of the poster board.
+	- The theological questioning led to a loop that didn't go anywhere.
