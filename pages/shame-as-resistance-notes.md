@@ -52,3 +52,4 @@
 	- "What is (God, Holy, Universe) telling you by bringing this to your attention today?"
 	- Just leave it at "What does that feel like?" (simple, focus on SDee)
 	- need to acknowledge, in a gracious manner, "Thank you for sharing with me ..."
+	- Unpack the image of the poster board.
