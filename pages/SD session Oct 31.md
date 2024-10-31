@@ -27,6 +27,11 @@
 		- "Tool for individual growth" -- Spiritual journey
 		- Danny, Esther were not here last week
 		- Cherrie discovered she's a 4 not a 2
+			- recognizing that people process differently
+			- e.g.
+		- education in compassion for (my)self
+			- a red flag there
+			- compassion for
 		- Esther struggles with the whole thing, in part because she identifies as 2
 		-
 - ## n.b. the Contemplative summit
