@@ -25,14 +25,15 @@
 		- Invitation to "wake up" (fr. Allison)
 			- Will be bicycling in Central Park with son next week
 		- "Tool for individual growth" -- Spiritual journey
+		- Esther struggles with the whole thing, in part because she identifies as 2
 		- Danny, Esther were not here last week
 		- Cherrie discovered she's a 4 not a 2
 			- recognizing that people process differently
 			- e.g.
-		- education in compassion for (my)self
-			- a red flag there
-			- compassion for
-		- Esther struggles with the whole thing, in part because she identifies as 2
+		- Linda
+			- education in compassion for (my)self
+				- a red flag there
+				- compassion for humanity
 		-
 - ## n.b. the Contemplative summit
 	- [[1729776317-spirituality-summit]]
