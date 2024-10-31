@@ -2,7 +2,25 @@
 	- [[shame-as-resistance-notes]]
 - ## Conversation notes
 	- Looking at the shame in ourselves, looking at the false self.
-	- Carol: *The road back to you* book recommendation.
+	- Carol:
+		- *The road back to you* book recommendation.
+		  collapsed:: true
+			- The Book That Started a Million Enneagram Journeys!
+			  
+			  What you don't know about yourself can hurt you and your relationships―and even keep you in the shallows with God. Do you want help figuring out who you are and why you're stuck in the same ruts?
+			  
+			  The Enneagram is an ancient personality typing system with an uncanny accuracy in describing how human beings are wired, both positively and negatively. In The Road Back to You Ian Morgan Cron and Suzanne Stabile forge a unique approach―a practical, comprehensive way of accessing Enneagram wisdom and exploring its connections with Christian spirituality for a deeper knowledge of ourselves, compassion for others, and love for God.
+			  
+			  Witty and filled with stories, this book allows you to peek inside each of the nine Enneagram types, keeping you turning the pages long after you have read the chapter about your own number. Not only will you learn more about yourself, but you will also start to see the world through other people's eyes, understanding how and why people think, feel, and act the way they do.
+			  
+			  To guide your first steps into your self-awareness journey, The Road Back to You offers:
+			  
+			      Introductions to each Enneagram type
+			      Questions to help you identify your number
+			      Changes you can make today to pursue deeper self-awareness
+			      Digestible windows into the other types, helping you see others with more compassion and empathy
+			  
+			  The wisdom of the Enneagram can help take you further along into who you really are―leading you into places of spiritual discovery you would never have found on your own, and paving the way to the wiser, more compassionate person you want to become.
 		- Invitation to "wake up" (fr. Allison)
 		- "Tool for individual growth" -- Spiritual journey
 - ## n.b. the Contemplative summit
