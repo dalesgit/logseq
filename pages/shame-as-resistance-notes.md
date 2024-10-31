@@ -38,4 +38,4 @@
 	- What makes someone "good".
 	- get at images of God?
 	- point out the use of the word "ought" or "should" or "need". What means?
-	- Craig: sees "resistance" "block" in SD is when they revert to Head-stuff, theology, e.g. "Original sin"
+	- Craig: sees "resistance" "block" in SD is when they revert to Head-stuff, theology, e.g. "Original sin". Linda could respond: "How is that life-giving" to you?" People need to hit a "bottom" so that they have to make a change.
