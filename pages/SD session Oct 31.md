@@ -26,6 +26,8 @@
 			- Will be bicycling in Central Park with son next week
 		- "Tool for individual growth" -- Spiritual journey
 		- Danny, Esther were not here last week
+		- Cherrie discovered she's a 4 not a 2
+		- Esther struggles with the whole thing, in part because she identifies as
 		-
 - ## n.b. the Contemplative summit
 	- [[1729776317-spirituality-summit]]
