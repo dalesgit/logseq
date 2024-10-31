@@ -55,4 +55,4 @@
 	- Unpack the image of the poster board.
 	- The theological questioning led to a loop that didn't go anywhere.
 	- When do you draw attention to weeping? When let it go?
-	- When do you make a referral? "Thank you for your authenticity. Sharing what you did. I feel like something important happened. You may
+	- When do you make a referral? "Thank you for your authenticity. Sharing what you did. I feel like something important happened. You may want to consider seeking further therapy from someone. How should we ask God to be with you right now?
