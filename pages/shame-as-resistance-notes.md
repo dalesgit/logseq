@@ -28,4 +28,4 @@
 	- Living the questions: "Original Sin" never occurred til 4th c.
 		- Our value comes from Incarnation. Jesus took on the flesh so it must be good.
 - Nina: Shame is used to control people
-- Linda: Step 4 of 12 steps is not about things I've **done** rather the elements of **shame**
+- Linda: Step 4 of 12 steps is not about things I've **done** rather the elements of **shame**. Name it is the power.
