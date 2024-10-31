@@ -34,3 +34,4 @@
 	- Caution against saying to someone that, "Yes I have felt that too" -- wanting them to share. **Linda says don't do that**! Cherrie "I have been taught that questions can produce **defensiveness**." Rather, e.g., "tell me more."
 		- How we ask the questions makes a difference. Gentle ...
 	- "What are the parts of you that you don't want to be seen."
+	- "seldom feel..." talk about expectations, ... when didn't you feel?
