@@ -45,4 +45,5 @@
 		- point out the use of the word "ought" or "should" or "need". What means?
 		- Craig: sees "resistance" "block" in SD is when they revert to Head-stuff, theology, e.g. "Original sin". Linda could respond: "How is that life-giving" to you?" People need to hit a "bottom" so that they have to make a change.
 - Verbatim:
+	- Yes/No questions can fall flat
 	-
