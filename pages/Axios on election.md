@@ -11,8 +11,8 @@
   
   > Democrats are turning Trump MSG rally and Johnson's Obamacare comments into their de facto closing message.
 - # Trump and Johnson hand Democrats an 11th-hour lifeline
-  
-  ![Mike Johnson, wearing a blue windbreaker and speaking at a "Trump Force 47" podium.](https://images.axios.com/EElFrFAk2V8VbxjOd-MYR396YPg=/0x470:4500x3001/1920x1080/2024/10/30/1730322690810.jpg?w=1920)
+- []
+- ![Mike Johnson, wearing a blue windbreaker and speaking at a "Trump Force 47" podium.](https://images.axios.com/EElFrFAk2V8VbxjOd-MYR396YPg=/0x470:4500x3001/1920x1080/2024/10/30/1730322690810.jpg?w=1920)
   
   House Speaker Mike Johnson at a Trump campaign office in Bethlehem, Pa., on Oct. 28. Photo: Samuel Corum/AFP via Getty Images
   
