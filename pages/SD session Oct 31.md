@@ -2,6 +2,7 @@
 
 [[shame-as-resistance-notes]]
 
-## Conversation notes
-- 
-## n.b. the Contemplative summit
+- ## Conversation notes
+-
+- ## n.b. the Contemplative summit
+-
