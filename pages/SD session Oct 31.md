@@ -50,7 +50,7 @@
 			- The opposite of this: Where is the wound of my shame?
 		- Music: Sick Puppies Free hugs.
 			- [I don't care to](https://genius.com/Sick-puppies-all-the-same-lyrics)
-			-
+			- I'll take you for who you are ...
 		-
 - ## n.b. the Contemplative summit
 	- [[1729776317-spirituality-summit]]
