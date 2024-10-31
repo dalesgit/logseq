@@ -32,3 +32,5 @@
 - n.b. the things we might hear in SD (26)
 - Linda: "Truth-telling (about self) is so important in SD"
 - Caution against saying to someone that, "Yes I have felt that too" -- wanting them to share. **Linda says don't do that**! Cherrie "I have been taught that questions can produce **defensiveness**." Rather, e.g., "tell me more."
+	- How we ask the questions makes a difference. Gentle ...
+-
