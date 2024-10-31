@@ -25,19 +25,24 @@
 	  | 32       |                     | discretionary shame puts us in touch with our true identity before God.                                                     |
 	  |          | James Fowler        | accepting our defect and undertaking change with another                                                                    |
 	  |          | CG Jung             | What was virtue in first 1/2 of life is vice in the second 1/2.                                                             |
--
-- "*Original Blessing*"by Matthew Fox
-	- Living the questions: "Original Sin" never occurred til 4th c.
-		- Our value comes from Incarnation. Jesus took on the flesh so it must be good.
-- Nina: Shame is used to control people
-- Linda: Step 4 of 12 steps is not about things I've **done** rather the elements of **shame**. Name it is the power.
-- n.b. the things we might hear in SD (26)
-	- Linda: "Truth-telling (about self) is so important in SD"
-	- Caution against saying to someone that, "Yes I have felt that too" -- wanting them to share. **Linda says don't do that**! Cherrie "I have been taught that questions can produce **defensiveness**." Rather, e.g., "tell me more."
-		- How we ask the questions makes a difference. Gentle ...
-	- "What are the parts of you that you don't want to be seen."
-	- "seldom feel..." talk about expectations, ... when didn't you feel?
-	- What makes someone "good".
-	- get at images of God?
-	- point out the use of the word "ought" or "should" or "need". What means?
-	- Craig: sees "resistance" "block" in SD is when they revert to Head-stuff, theology, e.g. "Original sin". Linda could respond: "How is that life-giving" to you?" People need to hit a "bottom" so that they have to make a change.
+- Opening conversation from the article
+  collapsed:: true
+	- "*Original Blessing*"by Matthew Fox
+	  collapsed:: true
+		- Living the questions: "Original Sin" never occurred til 4th c.
+			- Our value comes from Incarnation. Jesus took on the flesh so it must be good.
+	- Nina: Shame is used to control people
+	- Linda: Step 4 of 12 steps is not about things I've **done** rather the elements of **shame**. Name it is the power.
+	- n.b. the things we might hear in SD (26)
+	  collapsed:: true
+		- Linda: "Truth-telling (about self) is so important in SD"
+		- Caution against saying to someone that, "Yes I have felt that too" -- wanting them to share. **Linda says don't do that**! Cherrie "I have been taught that questions can produce **defensiveness**." Rather, e.g., "tell me more."
+			- How we ask the questions makes a difference. Gentle ...
+		- "What are the parts of you that you don't want to be seen."
+		- "seldom feel..." talk about expectations, ... when didn't you feel?
+		- What makes someone "good".
+		- get at images of God?
+		- point out the use of the word "ought" or "should" or "need". What means?
+		- Craig: sees "resistance" "block" in SD is when they revert to Head-stuff, theology, e.g. "Original sin". Linda could respond: "How is that life-giving" to you?" People need to hit a "bottom" so that they have to make a change.
+- Verbatim:
+	-
