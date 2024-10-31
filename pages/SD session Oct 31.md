@@ -5,4 +5,7 @@
 - ## Conversation notes
 -
 - ## n.b. the Contemplative summit
+- [[1729776317-spirituality-summit]]
+- [[1729858425-contemplative-summit-schedule]]
+- [[1729858491-the-contemplative-summit]]
 -
