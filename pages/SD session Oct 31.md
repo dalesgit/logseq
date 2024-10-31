@@ -48,6 +48,8 @@
 				- 8 I am strong
 				- 9 I am mutual? neutral?
 			- The opposite of this: Where is the wound of my shame?
+		- Music: Sick Puppies Free hugs.
+			- I don't care to
 		-
 - ## n.b. the Contemplative summit
 	- [[1729776317-spirituality-summit]]
