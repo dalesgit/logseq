@@ -34,14 +34,14 @@
 			- education in compassion for (my)self
 				- a red flag there
 				- compassion for humanity
-			- Enneagram as "I am good
-			- 4 I am good ... I am unique
+			- Enneagram as "I am good because ..."
 				- 1 because I care
-				-
+				- 2 because I am loyal
+				- 4 I am good ... I am unique
 				- 5 because I know
 				- 6 I am loyal
 					- What is my wound that I feel unique?
-				- 7 I am fun
+					- 7 I am fun
 				- 8 I am strong
 				- 9 I am mutual? neutral?
 			- Where is the wound of my shame?
