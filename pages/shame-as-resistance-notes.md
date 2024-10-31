@@ -54,3 +54,4 @@
 	- need to acknowledge, in a gracious manner, "Thank you for sharing with me ..."
 	- Unpack the image of the poster board.
 	- The theological questioning led to a loop that didn't go anywhere.
+	- When do you draw attention to weeping? When
