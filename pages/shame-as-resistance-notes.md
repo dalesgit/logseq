@@ -31,3 +31,4 @@
 - Linda: Step 4 of 12 steps is not about things I've **done** rather the elements of **shame**. Name it is the power.
 - n.b. the things we might hear in SD (26)
 - Linda: "Truth-telling (about self) is so important in SD"
+- Caution against saying to someone that, "Yes I have felt that too" -- wanting them to
