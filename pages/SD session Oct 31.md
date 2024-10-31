@@ -35,7 +35,13 @@
 				- a red flag there
 				- compassion for humanity
 			- 4 I am good ... I am unique
-				-
+				- 5 because I know
+				- 6 I am loywl
+					- What is my wound that I feel
+				- 7 I am fun
+				- 8 I am strong
+				- 9 I am mutual? neutral?
+			- Where is the wound of my shame?
 		-
 - ## n.b. the Contemplative summit
 	- [[1729776317-spirituality-summit]]
