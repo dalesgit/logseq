@@ -5,6 +5,7 @@
 	- Carol:
 		- *The road back to you* book recommendation.
 		  collapsed:: true
+			- 978-0830846283
 			- The Book That Started a Million Enneagram Journeys!
 			  
 			  What you don't know about yourself can hurt you and your relationships―and even keep you in the shallows with God. Do you want help figuring out who you are and why you're stuck in the same ruts?
@@ -23,6 +24,7 @@
 			  The wisdom of the Enneagram can help take you further along into who you really are―leading you into places of spiritual discovery you would never have found on your own, and paving the way to the wiser, more compassionate person you want to become.
 		- Invitation to "wake up" (fr. Allison)
 		- "Tool for individual growth" -- Spiritual journey
+		-
 - ## n.b. the Contemplative summit
 	- [[1729776317-spirituality-summit]]
 	- [[1729858425-contemplative-summit-schedule]]
