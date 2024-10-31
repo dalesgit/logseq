@@ -1,5 +1,4 @@
 - Table of notes
-  collapsed:: true
 	- | Location | Key                 | Note                                                                                                                        |
 	  | -------- | ------------------- | --------------------------------------------------------------------------------------------------------------------------- |
 	  | 25       | Shame               | Transference or By-pass                                                                                                     |
@@ -27,4 +26,5 @@
 	  |          | CG Jung             | What was virtue in first 1/2 of life is vice in the second 1/2.                                                             |
 - "*Original Blessing*"by Matthew Fox
 	- Living the questions: "Original Sin" never occurred til 4th c.
-		-
+		- Our value comes from Incarnation. Jesus took on the flesh so it must be good.
+-
