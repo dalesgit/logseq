@@ -1,11 +1,9 @@
-[[Shame-As-Resistance---Oct-6-2024---7-37-PM-8fd01_ocr.pdf]]
-
-[[shame-as-resistance-notes]]
-
+- [[Shame-As-Resistance---Oct-6-2024---7-37-PM-8fd01_ocr.pdf]]
+	- [[shame-as-resistance-notes]]
 - ## Conversation notes
--
+	-
 - ## n.b. the Contemplative summit
-- [[1729776317-spirituality-summit]]
-- [[1729858425-contemplative-summit-schedule]]
-- [[1729858491-the-contemplative-summit]]
+	- [[1729776317-spirituality-summit]]
+	- [[1729858425-contemplative-summit-schedule]]
+	- [[1729858491-the-contemplative-summit]]
 -
