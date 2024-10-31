@@ -35,3 +35,4 @@
 		- How we ask the questions makes a difference. Gentle ...
 	- "What are the parts of you that you don't want to be seen."
 	- "seldom feel..." talk about expectations, ... when didn't you feel?
+	- What makes someone "good".
