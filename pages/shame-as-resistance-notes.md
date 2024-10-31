@@ -27,4 +27,4 @@
 - "*Original Blessing*"by Matthew Fox
 	- Living the questions: "Original Sin" never occurred til 4th c.
 		- Our value comes from Incarnation. Jesus took on the flesh so it must be good.
--
+- Nina: Shame is used to control people
