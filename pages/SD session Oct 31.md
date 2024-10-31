@@ -23,7 +23,9 @@
 			  
 			  The wisdom of the Enneagram can help take you further along into who you really are―leading you into places of spiritual discovery you would never have found on your own, and paving the way to the wiser, more compassionate person you want to become.
 		- Invitation to "wake up" (fr. Allison)
+			- Will be bicycling in Central Park with son next week
 		- "Tool for individual growth" -- Spiritual journey
+		- Danny, Esther were not here last week
 		-
 - ## n.b. the Contemplative summit
 	- [[1729776317-spirituality-summit]]
