@@ -1,6 +1,7 @@
 - [[Shame-As-Resistance---Oct-6-2024---7-37-PM-8fd01_ocr.pdf]]
 	- [[shame-as-resistance-notes]]
 - ## Conversation notes
+  collapsed:: true
 	- Looking at the shame in ourselves, looking at the false self.
 	- Carol:
 		- *The road back to you* book recommendation.
