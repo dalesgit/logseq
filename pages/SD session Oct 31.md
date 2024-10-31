@@ -4,6 +4,7 @@
 	- Looking at the shame in ourselves, looking at the false self.
 	- Carol: *The road back to you* book recommendation.
 		- Invitation to "wake up" (fr. Allison)
+		- "Tool for individual growth"
 - ## n.b. the Contemplative summit
 	- [[1729776317-spirituality-summit]]
 	- [[1729858425-contemplative-summit-schedule]]
