@@ -47,3 +47,4 @@
 - Verbatim:
 	- Yes/No questions can fall flat
 	- The SD brought her own theological perspective,
+	- Cherrie suggests that Linda share documents  ()so that we are not dependent: Google doc, share the link in chat, ...
