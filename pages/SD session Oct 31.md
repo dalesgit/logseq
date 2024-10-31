@@ -31,12 +31,15 @@
 			- recognizing that people process differently
 			- e.g.
 		- Linda
+		  collapsed:: true
 			- education in compassion for (my)self
+			  collapsed:: true
 				- a red flag there
 				- compassion for humanity
 			- Enneagram as "I am good because ..."
 				- 1 because I care
-				- 2 because I am loyal
+				- 2 because I ..
+				- 3 ...
 				- 4 I am good ... I am unique
 				- 5 because I know
 				- 6 I am loyal
@@ -44,7 +47,7 @@
 					- 7 I am fun
 				- 8 I am strong
 				- 9 I am mutual? neutral?
-			- Where is the wound of my shame?
+			- The opposite of this: Where is the wound of my shame?
 		-
 - ## n.b. the Contemplative summit
 	- [[1729776317-spirituality-summit]]
