@@ -37,4 +37,4 @@
 	- "seldom feel..." talk about expectations, ... when didn't you feel?
 	- What makes someone "good".
 	- get at images of God?
-	-
+	- point out the use of the word "ought" or "should" or "need". What means?
