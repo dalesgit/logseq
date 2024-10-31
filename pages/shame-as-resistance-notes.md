@@ -50,4 +50,5 @@
 	- Cherrie suggests that Linda share documents  (verbatim)so that we are not dependent: Google doc, share the link in chat, ...
 	- In verbatim get the **skeleton** -- can't get everything.
 	- "What is (God, Holy, Universe) telling you by bringing this to your attention today?"
-	- Just leave it at "What
+	- Just leave it at "What does that feel like?" (simple, focus on SDee)
+	-
