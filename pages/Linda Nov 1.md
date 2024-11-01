@@ -6,3 +6,4 @@
 - Spiritual Exercises?
 	- every day set aside 1 hour for prayer/journaling
 	- book written for Jesuits -- walked through with SJ friends
+	- As much as she loves, caution
