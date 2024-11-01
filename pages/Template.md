@@ -9,8 +9,8 @@
 		  Journal
 		  
 		  Diary
-	- S
--
+	- SD Journal
+  	- 
 	- Capture web page
 	  Template:: Capture
 	  template-including-parent:: false
