@@ -4,4 +4,4 @@
 		- The will to expend oneself for purpose own or another's spiritual growth
 		- all called to love
 - Spiritual Exercises?
-	-
+	- every day set aside 1 hour for prayer/journaling
