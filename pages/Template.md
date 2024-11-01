@@ -5,10 +5,7 @@
 		- Created: {date} {time}
 		- [/Gratitude Journal](/Gratitude
 		- Journal.md)
-		  
-		  Journal
-		  
-		  Diary
+		- Diary
 	- SD Journal
 	  template:: SD Journal
 	  template-including-parent:: false
