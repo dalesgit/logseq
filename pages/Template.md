@@ -5,7 +5,12 @@
 		- Created: {date} {time}
 		- [/Gratitude Journal](/Gratitude
 		- Journal.md)
-- SD Journal
+		  
+		  Journal
+		  
+		  Diary
+	- S
+-
 	- Capture web page
 	  Template:: Capture
 	  template-including-parent:: false
