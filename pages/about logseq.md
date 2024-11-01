@@ -1,0 +1,2 @@
+- [Logseq — A Powerful Tool for Thought  by TfTHacker  Medium](https://tfthacker.medium.com/logseq-a-powerful-tool-for-thought-9058dec80dbe)
+-
