@@ -1,5 +1,6 @@
 - Template gallery
 	- Nvim home
+	  template:: nvim home
 	  Template: Nvim home
 	  tem
 	- Capture web page
