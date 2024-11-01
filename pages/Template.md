@@ -1,8 +1,5 @@
 - Template gallery
 	- Nvim home
-	  template:: nvim home
-	  Template: Nvim home
-	  tem
 	- Capture web page
 	  Template:: Capture
 	  template-including-parent:: false
