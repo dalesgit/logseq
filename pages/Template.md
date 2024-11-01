@@ -1,6 +1,6 @@
 - Template gallery
 	- Nvim home
-	- template:: Nvim Home
+	  template:: Nvim Home
 	  template-including-parent:: false
 	- Capture web page
 	  Template:: Capture
