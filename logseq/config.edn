@@ -172,8 +172,7 @@
  ;;  :editor/down            ["ctrl+j" "down"]
  ;;  :editor/left            ["ctrl+h" "left"]
  ;;  :editor/right           ["ctrl+l" "right"]}
- :shortcuts {:command-palette/toggle "alt+ctrl+p"
- :editor/escape-editing "alt+ctrl+e"}
+ :shortcuts {:command-palette/toggle "alt+ctrl+p", :editor/escape-editing "alt+ctrl+e", :graph/save "alt+ctrl+s"}
 
  ;; Configure the behavior of pressing Enter in document mode.
  ;; if set to true, pressing Enter will create a new block.
