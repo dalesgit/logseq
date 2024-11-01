@@ -1,4 +1,6 @@
 - Template gallery
+	- Nvim home
+		- Template
 	- Capture web page
 	  Template:: Capture
 	  template-including-parent:: false
