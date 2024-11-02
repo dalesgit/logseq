@@ -2,7 +2,7 @@
 	- Nvim home
 	  template:: Nvim Home
 	  template-including-parent:: false
-		- Created: {date} {time}
+		- Created: <%today%>
 		- [/Gratitude Journal](/Gratitude-Journal.md)
 		- [[Lectio]]
 		- Diary
