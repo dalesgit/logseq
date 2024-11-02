@@ -116,5 +116,4 @@ title: Sacred Fire discussion
 - ## Discussion
 - N.B. the dynamic that many have a compulsion to giving and at the same time having a great difficulty in receiving graciously. Peter there is something of a contemporary "thing" about e.g. birthdays being a time that the honoree **gets to give** to others. (Jeanette, Jo)
 - Jonathan Lehrer, _How we make decisions_. What we say is intuition, or Holy Spirit, ...
-- ## Chapt 5
--
+- # Chapt 5
