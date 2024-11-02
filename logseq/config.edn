@@ -35,7 +35,8 @@
  ;;   journal directory to match the new format.
  ;; Default value: "yyyy_MM_dd"
  ;; :journal/file-name-format "yyyy_MM_dd"
-
+ :journal/file-name-format "yyyy-MM-dd"
+ 
  ;; Enable tooltip preview on hover.
  ;; Default value: true
  :ui/enable-tooltip? true
