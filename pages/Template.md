@@ -1,4 +1,18 @@
 - Template gallery
+	- Nvim home
+	  template:: Nvim Home
+	  template-including-parent:: false
+		- Created: <%today%>
+		- [/Gratitude Journal](/Gratitude-Journal.md)
+		- [[Lectio]]
+		- Diary
+	- SD Journal
+	  template:: SD Journal
+	  template-including-parent:: false
+		- *Reflection for Spiritual Direction Course*
+		- 1. **I notice…(awareness)**:
+		- 2. **I’m curious about… (attentive exploration)**:
+		- 3. **I wonder how I can… (active response)**:
 	- Capture web page
 	  Template:: Capture
 	  template-including-parent:: false
