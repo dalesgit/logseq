@@ -117,18 +117,19 @@ title: Sacred Fire discussion
 - N.B. the dynamic that many have a compulsion to giving and at the same time having a great difficulty in receiving graciously. Peter there is something of a contemporary "thing" about e.g. birthdays being a time that the honoree **gets to give** to others. (Jeanette, Jo)
 - Jonathan Lehrer, _How we make decisions_. What we say is intuition, or Holy Spirit, ...
 - # Chapt 5
-- |Loc | Key | Note|
-  |--|--|--|
-  |Ch. 5|Scripture invitations| Rich man|
-  |136|flame|Become all flame|
-  |142|poem|by Margaret Halaska: the father will wait til ready|
-  |144|Mary|Ponder as Mary did|
-  |||maturity and discipline|
-  |||notion of pondering|
-  |150|amazement|vs. pondering, awe - often the people/disciples responded with amazement|
-  |154||difference|
-  |156|efficacy of pondering|"take away sins of the world"|
-  |160|imitation|respond with imitation rather than amazement|
-  |164|transformation|transforming energy|
-  |||I now see that my job in the midst of evil is to make my body a grave for hate.”|
-  ||||
+	- Table of notes
+	  |Loc | Key | Note|
+	  |--|--|--|
+	  |Ch. 5|Scripture invitations| Rich man|
+	  |136|flame|Become all flame|
+	  |142|poem|by Margaret Halaska: the father will wait til ready|
+	  |144|Mary|Ponder as Mary did|
+	  |||maturity and discipline|
+	  |||notion of pondering|
+	  |150|amazement|vs. pondering, awe - often the people/disciples responded with amazement|
+	  |154||difference|
+	  |156|efficacy of pondering|"take away sins of the world"|
+	  |160|imitation|respond with imitation rather than amazement|
+	  |164|transformation|transforming energy|
+	  |||I now see that my job in the midst of evil is to make my body a grave for hate.”|
+	  ||||
