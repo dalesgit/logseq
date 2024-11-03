@@ -6,7 +6,10 @@ tags:
 
 - # Gratitude Journal
 - # November
+	- [[Nov 3rd, 2024]]
+		- Remember
 - # September
+  collapsed:: true
 	- ## Thu 19 Sep 2024 
 	  I had forgot Mary Pat's Boston Cream Pie. It came up again at the dinner with Fran and Joey when I commented that the dinner was kind of like a birthday dinner for [MP](MP.md). It was a month anniversary of her birth anniversary.
 	  
