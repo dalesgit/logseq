@@ -6,7 +6,8 @@ tags:
 
 - # Lectio
 - November
-	-
+	- [[Nov 3rd, 2024]]
+		- From #MP (via one of the Marianists?) in the parable of the Rich Young Man
 - September
   collapsed:: true
 	- ## Tue 17 Sep 2024
