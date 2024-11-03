@@ -13,7 +13,10 @@ tags:
 - [[cup-journal|journaling the cup]]
 - # Nov
 - [[Nov 3rd, 2024]]
-	-
+	- *Reflection for Spiritual Direction Course*
+	- 1. **I notice…(awareness)**: Associate [[MP]] reaction to being manipulated and deceived
+	- 2. **I’m curious about… (attentive exploration)**:
+	- 3. **I wonder how I can… (active response)**:
 - ## October
 - ## [[2024-10-30-Wednesday]]
   
