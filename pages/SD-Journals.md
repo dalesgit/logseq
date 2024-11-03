@@ -6,7 +6,7 @@ tags:
   - journal
 ---
 
-- # SD Journals
+- # SD Journals #spiritual-direction 
   
   _These are mostly nvim links (Obsidian.nvim)_
 - ## Cup journal
