@@ -15,8 +15,8 @@ tags:
 - [[Nov 3rd, 2024]]
 	- *Reflection for Spiritual Direction Course*
 	- 1. **I notice…(awareness)**: Associate [[MP]] reaction to being manipulated and deceived to the way in which Bob did the same. Each time he came to St. Mary's he emphasized how he was getting younger clergy, while I was one of the oldest in the diocese.
-	- 2. **I’m curious about… (attentive exploration)**: The feelings of betrayal. I didn't care about
-	- 3. **I wonder how I can… (active response)**:
+	- 2. **I’m curious about… (attentive exploration)**: The feelings of betrayal. I didn't care about watching the **coronation** of the new Presiding Bishop yesterday.
+	- 3. **I wonder how I can… (active response)**: How to embrace life.
 - ## October
 - ## [[2024-10-30-Wednesday]]
   
