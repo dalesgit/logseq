@@ -2,13 +2,16 @@
 	- Nvim home
 	  template:: Nvim Home
 	  template-including-parent:: false
+	  collapsed:: true
 		- Created: <%today%>
 		- [/Gratitude Journal](/Gratitude-Journal.md)
 		- [[Lectio]]
+		- [[SD-Journals]]
 		- Diary
 	- SD Journal
 	  template:: SD Journal
 	  template-including-parent:: false
+	  collapsed:: true
 		- *Reflection for Spiritual Direction Course*
 		- 1. **I notice…(awareness)**:
 		- 2. **I’m curious about… (attentive exploration)**:
@@ -16,6 +19,7 @@
 	- Capture web page
 	  Template:: Capture
 	  template-including-parent:: false
+	  collapsed:: true
 		- **<% time %>** [[quick capture]] :
 	- Gratitude
 	  Template:: Examen
