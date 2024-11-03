@@ -7,7 +7,7 @@ tags:
 - # Lectio
 - November
 	- [[Nov 3rd, 2024]]
-		- From #MP (via one of the Marianists?) in the parable of the Rich Young Man
+		- From #MP (via one of the Marianists?) in the parable of the *Rich Young Man*, the text says he went away **sad**. But we don't know whether he followed or left Jesus. Was he **sad** for all the things he had to give away.
 - September
   collapsed:: true
 	- ## Tue 17 Sep 2024
