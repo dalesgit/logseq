@@ -7,7 +7,7 @@ tags:
 - # Gratitude Journal
 - # November
 	- [[Nov 3rd, 2024]]
-		- Remember
+		- Remember all that I have accomplished since I started seeing Linda. [[affirmations]]
 - # September
   collapsed:: true
 	- ## Thu 19 Sep 2024 
