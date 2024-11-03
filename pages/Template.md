@@ -24,6 +24,7 @@
 	- Gratitude
 	  Template:: Examen
 	  template-including-parent:: false
+	  collapsed:: true
 		- <iframe src="https://indify.co/widgets/live/quotes/l2NrY3j6Da1wFFEXeu8l" style="height:275px;width:275px" title="Iframe Example"></iframe>
 		- [[affirmations]] today:
 		- What happened today:
@@ -32,6 +33,7 @@
 	- Morning review
 	  Template:: Morning review
 	  template-including-parent:: true
+	  collapsed:: true
 		- <iframe src="https://indify.co/widgets/live/quotes/l2NrY3j6Da1wFFEXeu8l" style="height:275px;width:275px" title="Iframe Example"></iframe>
 		- DONE Create solid schedule for today.  Look at your "TODOS" down below and make sure you are developing a good plan.
 		- ### Critical Tasks for today
@@ -40,6 +42,7 @@
 	- Daily Agenda
 	  template:: Daily Agenda
 	  template-including-parent:: false
+	  collapsed:: true
 		- <iframe src="https://indify.co/widgets/live/quotes/l2NrY3j6Da1wFFEXeu8l" style="height:275px;width:275px" title="Iframe Example"></iframe>
 		- ---
 		- ## WELCOME TO TODAY!!  YOU ARE AWESOME
@@ -49,6 +52,7 @@
 	- Daily Template
 	  template:: Morning Daily
 	  template-including-parent:: false
+	  collapsed:: true
 		- ## Morning Pages
 			- **A line about today**
 			- **3 Things I'm Grateful For**
