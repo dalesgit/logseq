@@ -2,7 +2,6 @@
 	- Nvim home
 	  template:: Nvim Home
 	  template-including-parent:: false
-	  collapsed:: true
 		- Created: <%today%>
 		- [/Gratitude Journal](/Gratitude-Journal.md)
 		- [[Lectio]]
