@@ -9,7 +9,8 @@ tags:
 	- [[Nov 3rd, 2024]]
 		- From #MP (via one of the Marianists?) in the parable of the *Rich Young Man*, the text says he went away **sad**. But we don't know whether he followed or left Jesus. Was he **sad** for all the things he had to give away.
 		  
-		  This seems to a common interpretation in some Catholic circles -- seeing in the rich young man a prefigured Francis of Assisi
+		  This seems to a common interpretation in some Catholic circles -- seeing in the rich young man a prefigured Francis of Assisi.
+		- Peter preached on 1 Co. 13 --
 - September
   collapsed:: true
 	- ## Tue 17 Sep 2024
