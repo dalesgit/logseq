@@ -170,6 +170,7 @@
 		  icon:: 📚
 	- Identifying Trailhead #spiritual-direction 
 	  Template:: Trailhead
+	  collapsed:: true
 		- Choose a trailhead that you are interested in exploring. If it is not current in your life, take a moment to close your eyes and imagine you are in that situation now. Ask yourself, “What parts are here as I connect with this situation or look at this issue?” List the parts at this trailhead one by one as they arise. For each part, write as much of the following information as you can. Remember, you haven't fully explored these Parts, so don't be concerned if you don’t know much about them. Just fill in what you know. You can add more information later.
 			- Name of part:
 			- What the part feels emotionally:
