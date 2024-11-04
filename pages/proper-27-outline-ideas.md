@@ -11,7 +11,7 @@
 	  logseq.order-list-type:: number
 	- [Unlikely Heroes The Women of Matthew 1 - Wycliffe Bible Translators USA Homepage](https://www.wycliffe.org/blog/posts/unlikely-heroes-the-women-of-matthew-1)
 	  logseq.order-list-type:: number
-	- From rejected and scandalous to forebears of the whole ball of wax (*Kerygma*)
+	- From rejected and scandalous to forebears of the whole ball of wax (*Kerygma*, "Good news")
 	  logseq.order-list-type:: number
 - [Reading Augustine’s City of God Understanding the Two Cities – Discourses on Minerva](https://minervawisdom.com/2024/03/15/reading-augustines-city-of-god-understanding-the-two-cities/)
   logseq.order-list-type:: number
