@@ -1,4 +1,5 @@
 - [[/Gratitude Journal.md|Gratitude Journal]]
-- Journal
+- [[SD-Journal.md|SD-Journal]]
+- [[Lectio.md|Lectio]]
 - Diary 
 	- 

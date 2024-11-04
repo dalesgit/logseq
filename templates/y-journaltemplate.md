@@ -1,5 +1,3 @@
-Created: {{date}} {{time}}
-
 *Reflection for Spiritual Direction Course*
 
 1. **I notice…(awareness)**:
