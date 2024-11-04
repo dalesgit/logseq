@@ -6,6 +6,7 @@
 	- Stories
 		- Mayonaisse
 		- Burning Moth
+		- Insects
 - from kerygma
 	- Great reversal: Jesus repeated over and over a variation of:
 	  logseq.order-list-type:: number
