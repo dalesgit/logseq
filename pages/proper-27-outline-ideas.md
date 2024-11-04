@@ -5,8 +5,9 @@
 - # from kerygma
 - Great reversal
   logseq.order-list-type:: number
-- Grace in umlikely place s
+- Grace is found the most unlikely places
   logseq.order-list-type:: number
+	- logseq.order-list-type:: number
 - From rejected to forebears of the matter
   logseq.order-list-type:: number
 - [Unlikely Heroes The Women of Matthew 1 - Wycliffe Bible Translators USA Homepage](https://www.wycliffe.org/blog/posts/unlikely-heroes-the-women-of-matthew-1)
@@ -14,4 +15,6 @@
 - [Reading Augustine’s City of God Understanding the Two Cities – Discourses on Minerva](https://minervawisdom.com/2024/03/15/reading-augustines-city-of-god-understanding-the-two-cities/)
   logseq.order-list-type:: number
 	- While the *City of God* is a work of tremendous cultural criticism and exploration into power dynamics, human-to-human, structural-to-human, human-to-structural, and nation-to-nation analysis, it all boils down to Augustine’s theology of love.
+	  logseq.order-list-type:: number
+	- Love of self vs. Love of others and esp. God
 	  logseq.order-list-type:: number
