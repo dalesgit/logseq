@@ -9,4 +9,5 @@
   logseq.order-list-type:: number
 - From rejected to forebears of the matter
   logseq.order-list-type:: number
--
+- [Unlikely Heroes The Women of Matthew 1 - Wycliffe Bible Translators USA Homepage](https://www.wycliffe.org/blog/posts/unlikely-heroes-the-women-of-matthew-1)
+  logseq.order-list-type:: number
