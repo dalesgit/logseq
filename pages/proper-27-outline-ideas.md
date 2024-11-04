@@ -9,3 +9,4 @@
   logseq.order-list-type:: number
 - From rejected to forebears of the matter
   logseq.order-list-type:: number
+-
