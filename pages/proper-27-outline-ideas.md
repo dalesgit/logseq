@@ -5,6 +5,9 @@
 - # from kerygma
 - Great reversal
   logseq.order-list-type:: number
+	- Victors? vs. Losers?
+	  logseq.order-list-type:: number
+	- logseq.order-list-type:: number
 - Grace is found the most unlikely places
   logseq.order-list-type:: number
 	- Ruth
