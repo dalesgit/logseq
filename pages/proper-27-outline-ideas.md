@@ -3,11 +3,16 @@
 - # Faith bigger than nation or politics #preaching
 - Augustine: 2 cities
 - # from kerygma
-- Great reversal
+- Great reversal: Jesus repeated over and over a variation of:
   logseq.order-list-type:: number
-	- Victors? vs. Losers?
+	- Victors vs. Losers
 	  logseq.order-list-type:: number
-	- logseq.order-list-type:: number
+	- Rich vs. Poor
+	  logseq.order-list-type:: number
+	- powerful vs. weak
+	  logseq.order-list-type:: number
+	- outcast vs. incrowd
+	  logseq.order-list-type:: number
 - Grace is found the most unlikely places
   logseq.order-list-type:: number
 	- Ruth
