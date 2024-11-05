@@ -267,8 +267,8 @@
  ;; becomes
  ;; Rose is red, violet's blue. Life's ordered: Org assists you.
  :macros {
-          "today" "Today is **<% today %>**"
-          :short-meet "<div class='kit' data-kit='expandmacro'>Talk with $1 <%today%> <%time%>\n background-color:: yellow \n participant:: $1\n tag:: $1 \n collapsed:: true</div>"
+          "today in English" "Today is **<% today %>**"
+          "short-meet" "<div class='kit' data-kit='expandmacro'>Talk with $1 <%today%> <%time%>\n background-color:: yellow \n participant:: $1\n tag:: $1 \n collapsed:: true</div>"
           }
 
  ;; Configure the default expansion level for linked references.
