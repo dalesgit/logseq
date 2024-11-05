@@ -266,7 +266,10 @@
  ;; input "{{poem red,blue}}"
  ;; becomes
  ;; Rose is red, violet's blue. Life's ordered: Org assists you.
- :macros {}
+ :macros {
+          "today" "Today is **<% today %>**"
+          
+          }
 
  ;; Configure the default expansion level for linked references.
  ;; For example, consider the following block hierarchy:
