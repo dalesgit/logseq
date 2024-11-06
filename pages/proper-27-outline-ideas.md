@@ -20,3 +20,4 @@
 		  logseq.order-list-type:: number
 		- Love of self vs. Love of others and esp. God
 		  logseq.order-list-type:: number
+-
