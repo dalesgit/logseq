@@ -1,5 +1,6 @@
 - {{embed ((672b0abf-ed9c-452b-8ad7-bc030a231521))}}
-- [[Big Enough God?]] {{embed ((Big Enough God?))}}
+- [[Big Enough God?]]
+	-
 - from kerygma
 	- Great reversal: Jesus repeated over and over a variation of:
 	  logseq.order-list-type:: number
