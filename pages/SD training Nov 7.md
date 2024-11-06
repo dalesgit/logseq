@@ -41,5 +41,8 @@
 			- awareness of grief, however, and knowing how to heal the pain of it are two vastly different realities
 		- p. 8
 			- ather, it was the loss that allowed me to understand that my grieving path was mine alone to forge: Eyer when I was lucky enough to journey alongside others who supported me in ways that helped me heal.
+			- ## Finding our way from grieving to healing
+			- elling and retelling stories of trauma may be re-traumatizing.
+		- p. 9
 			-
 -
