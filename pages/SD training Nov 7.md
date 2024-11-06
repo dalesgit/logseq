@@ -54,5 +54,12 @@
 				  logseq.order-list-type:: number
 				- heartening
 				  logseq.order-list-type:: number
-				- logseq.order-list-type:: number
+				- tempering
+				  logseq.order-list-type:: number
+				- integrating
+				  logseq.order-list-type:: number
+		- p. 11
+		  logseq.order-list-type:: number
+			- ### Lamenting: grief is more than emotion
+			  logseq.order-list-type:: number
 -
