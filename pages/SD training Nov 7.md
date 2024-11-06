@@ -45,4 +45,8 @@
 			- elling and retelling stories of trauma may be re-traumatizing.
 		- p. 9
 			- Some losses fuel grief fa never goes away. Expectations that it **should** can cause more helplessnes
+			- ### Journey to the heart of adaptive grieving
+			- he hard news is: there is no cure for grief. We grieve what, and who, we love and lose permanently.
+		- p. 10
+			-
 -
