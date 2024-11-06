@@ -1,4 +1,20 @@
-- ![[PR27b opening-nov-10]]
+-
+- Opening Proper 27
+  collapsed:: true
+	- We had an election this past week. You may have noticed.
+	- There was a lot of emotion leading up to the vote. I think there probably is an equal amount leading away from it.
+	- Vow to Bishop at my ordination
+		- As a priest, it will be your task to proclaim by word and deed the Gospel of Jesus Christ, and to fashion your life in accordance with its precepts. You are to love and serve the people among whom you work, caring alike for **young and old, strong and weak, rich and poor**. You are to preach, to declare God's forgiveness to penitent sinners, to pronounce God's blessing, to share in the administration of Holy Baptism and in the celebration of the mysteries of Christ's Body and Blood, and to perform the other ministrations entrusted to you.
+		- In all that you do, you are to nourish Christ's people from the riches of his grace, and strengthen them to glorify God in this life and in the life to come.
+		- That may sound straight forward, but in practice it has not always been obvious to me how to go about preaching the Good News of God to **everybody**, young and old, rich and poor, Democrat and Republican.
+		- One of the preachers here at St. Alfred's recently said that he was preaching to himself in the first place. Preaching to myself today, I don't know quite how to go about it.
+	- One of the ways I have found to preach to myself "Good News" is by way of expanding my horizon. In days gone by you might have called it looking at things from God's perspective. It's easier for me to say, "Imagining God's perspective."
+	-
+	- Vow to Bishop at my ordination
+	- As a priest, it will be your task to proclaim by word and deed the Gospel of Jesus Christ, and to fashion your life in accordance with its precepts. You are to love and serve the people among whom you work, caring alike for **young and old, strong and weak, rich and poor**. You are to preach, to declare God's forgiveness to penitent sinners, to pronounce God's blessing, to share in the administration of Holy Baptism and in the celebration of the mysteries of Christ's Body and Blood, and to perform the other ministrations entrusted to you.
+	- In all that you do, you are to nourish Christ's people from the riches of his grace, and strengthen them to glorify God in this life and in the life to come.
+	- That may sound straight forward, but in practice it has not always been obvious to me how to go about preaching the Good News of God to **everybody**, young and old, rich and poor, Democrat and Republican.
+	- One of the preachers here at St. Alfred's recently said that he was preaching to himself in the first place. Preaching to myself today, I don't know quite how to go about it.
 	- {{embed ((672b0abf-ed9c-452b-8ad7-bc030a231521))}}
 - [[PR27b Big Enough God?]]  - [[PR27b Big Enough God%3F]]
 	- {{embed ((672b10cf-43e3-4029-9bbf-8b1fe233fe66))}}
