@@ -6,5 +6,7 @@
 		- p. 2
 			- A spiritual crisis results when the circumstances of our lives shift so drastically that all we understand about God, our world, and ourselves ...
 			- We have regrets and wish it could have been different, but we know we cannotgo back and change things. We realize chat nothing is perfect, at least according to the standards we have counted on for so long. Faith communities sometimes gossip and are unsupportive; spiritual leaders betray our trust, manipulating for power and control.
-			-
+			- Were We Wrong about God?
+			- What could we possibly have done to deserve such pain and loss?
+			- When I suffered a loss that was profound enough to shatter my lifelong understanding of who and what God was, I felt deceived, betrayed, and abandoned.
 		-
