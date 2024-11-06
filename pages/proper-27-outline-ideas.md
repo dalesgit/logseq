@@ -5,7 +5,8 @@
   collapsed:: true
 	- {{embed ((672b10cf-43e3-4029-9bbf-8b1fe233fe66))}}
 - [[PR27b from the kerygma]] {{embed ((672b113d-4585-43e7-91e1-51b2c381abe7)) }}
-- [[PR27b Gr]]
+- [[PR27b City of God]]
+-
 - Grace is found the most unlikely places
   logseq.order-list-type:: number
 	- Ruth
