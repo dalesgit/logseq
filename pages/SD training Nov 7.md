@@ -1,12 +1,20 @@
 - Reading
 	- ![SD-for-the-Bereaved---Oct-6-2024---7-41-PM-umb3v_ocr.pdf](../assets/SD-for-the-Bereaved---Oct-6-2024---7-41-PM-umb3v_ocr_1730928253902_0.pdf)
 		- p. 1
+		  collapsed:: true
 			- The power of loss: to shake our core beliefs
 			- Loss takes many different forms
 		- p. 2
+		  collapsed:: true
 			- A spiritual crisis results when the circumstances of our lives shift so drastically that all we understand about God, our world, and ourselves ...
 			- We have regrets and wish it could have been different, but we know we cannotgo back and change things. We realize chat nothing is perfect, at least according to the standards we have counted on for so long. Faith communities sometimes gossip and are unsupportive; spiritual leaders betray our trust, manipulating for power and control.
 			- Were We Wrong about God?
 			- What could we possibly have done to deserve such pain and loss?
 			- When I suffered a loss that was profound enough to shatter my lifelong understanding of who and what God was, I felt deceived, betrayed, and abandoned.
+		- p.3
+			- 1. God sends the loss and pain since [God] loves us and wants to strengthen our faith.
+			- 2. God sends pain to punish us for some sin we have committed.
+			- 3. God sends suffering to test our fidelity and to prove that we love God no matter what.
+			- 4. God sends suffering for unknowable reasons. As a demonstration of faith, submission, and humility, we must accept our suffering as God's will
+			-
 		-
