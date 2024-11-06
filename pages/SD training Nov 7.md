@@ -59,7 +59,10 @@
 				- integrating
 				  logseq.order-list-type:: number
 		- p. 11
-		  logseq.order-list-type:: number
 			- ### Lamenting: grief is more than emotion
 			  logseq.order-list-type:: number
+			- how experience grief in bodies, heart, thinking patterns, relationships etc.
+			  logseq.order-list-type:: number
+		- p. 12
+			- ###
 -
