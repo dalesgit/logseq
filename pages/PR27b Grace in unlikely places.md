@@ -1,0 +1,4 @@
+- Grace is found the most unlikely places
+	- Ruth
+	- [Unlikely Heroes The Women of Matthew 1 - Wycliffe Bible Translators USA Homepage](https://www.wycliffe.org/blog/posts/unlikely-heroes-the-women-of-matthew-1)
+	- From rejected and scandalous to forebears of the whole ball of wax (*Kerygma*, "Good news")
