@@ -64,5 +64,8 @@
 			- how experience grief in bodies, heart, thinking patterns, relationships etc.
 			  logseq.order-list-type:: number
 		- p. 12
-			- ###
+			- ### Heartening: suffering with grief is overrated
+			- Heartening may be more prevalent with losses that were expected or welcomed, such as the death of a loved one who endured a prolonged, painful illness. However, even with sudden or traumatic losses, some tend to focus on the aspects of a loss experience that provides buoyancy. Doing so does not indicate that theyare not fully engaged in the grieving process.
+		- p. 13
+			-
 -
