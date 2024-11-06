@@ -23,8 +23,8 @@
 		  | Homo sapiens, tools, hunting           | 500k      | 50            |
 		  | Fire, living in caves                  | 200k      | 20            |
 		  | Neanderthal disappear                  | 40k       | .4 (4.8 in)   |
-		  | Villages, agriculture, complex society | 8k        | .08  (.97 in) |
-		  | History begins                         | 6k        | .07 (.72 in)  |
+		  | Villages, agriculture, complex society | 8k        | .08  (.97 in) 1in |
+		  | History begins                         | 6k        | .07 (.72 in)   3/4 in|
 - ## Prezi
   
   | Event              | Year                | knot Rope |
