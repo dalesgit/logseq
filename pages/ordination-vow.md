@@ -5,4 +5,4 @@
 	- In all that you do, you are to nourish Christ's people from the
 	  riches of his grace, and strengthen them to glorify God in this
 	  life and in the life to come.
-	- In my
+	- That may sound straight forward
