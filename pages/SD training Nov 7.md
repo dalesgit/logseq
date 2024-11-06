@@ -48,5 +48,11 @@
 			- ### Journey to the heart of adaptive grieving
 			- he hard news is: there is no cure for grief. We grieve what, and who, we love and lose permanently.
 		- p. 10
-			-
+			- holistic grieving involves more than just experiencing and expressing, pain and suffering.
+			- MAGD 4 types of universal grieving responses
+				- lamenting
+				  logseq.order-list-type:: number
+				- heartening
+				  logseq.order-list-type:: number
+				- logseq.order-list-type:: number
 -
