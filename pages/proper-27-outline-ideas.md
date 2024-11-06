@@ -1,4 +1,4 @@
-- {{embed ((opening-nov-10))}}
+- {{embed (())}}
 - Big Enough God?
 	- Expand our perspective
 	- String foundation - Perspective / Big Picture
