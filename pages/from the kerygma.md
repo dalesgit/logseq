@@ -1,1 +1,6 @@
 - from the kerygma
+	- Great reversal: Jesus repeated over and over a variation of:
+		- Victors vs. Losers
+		- Rich vs. Poor
+		- powerful vs. weak
+		- outcast vs. incrowd
