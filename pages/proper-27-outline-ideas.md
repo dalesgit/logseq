@@ -6,7 +6,7 @@
 	- {{embed ((672b10cf-43e3-4029-9bbf-8b1fe233fe66))}}
 - [[PR27b from the kerygma]] {{embed ((672b113d-4585-43e7-91e1-51b2c381abe7)) }}
 - [[PR27b Grace in unlikely places]]
-	-
--
 - [[PR27b City of God]]
+	- {{embed ((672b3741-3eba-4fe9-ba99-99a4e0196f13))}}
+-
 -
