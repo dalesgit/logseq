@@ -31,4 +31,4 @@
 			- If we seek out a spiritual director, he or she is more likely to see our experience for its graced potential and help us to gain insight into what is happening to us from a spiritual perspective
 			- In a dark night of the soul, alchough we are suffering an apparent loss and are grieving, we are probably not angry with God. We continue to long for an experience of the Divine Presence
 				- dark night: longstanding practice; we can think of nothing but God; **apparent**  loss is really a **gain**
-			-
+			- we realize chat we really would not change things, even if we could.
