@@ -74,17 +74,22 @@
 			- Heartening may be more prevalent with losses that were expected or welcomed, such as the death of a loved one who endured a prolonged, painful illness. However, even with sudden or traumatic losses, some tend to focus on the aspects of a loss experience that provides buoyancy. Doing so does not indicate that theyare not fully engaged in the grieving process.
 			- In a grief context, we listen deeply to f what brings joy, comfort, meaning, laughter, or personal growth, as well as to our suffering. (13)
 		- p. 13
+		  collapsed:: true
 			- ### Tempering: denial is not a dirty word
 			- We should listen deeply for how grievers seek healing by way of diversion, relief, and release from their suffering
 		- p. 14
+		  collapsed:: true
 			- ### Grievers as change-agents
 			- Deep listening to those who are&rieving includes discerning the intentional choices they make to be their own best change agents for healing,
 			- ### Getting our bearings in the grieving process
 			- n the bibliography to this article, there are links for self-inventories grievers can use to assess their tendencies and preferences for lamenting, heartening, tempering, and integrating, and to reflect on strengths, growing edges, and needs for balance in the grieving process. It can be helpful for spiritual care providers to use this self-assessment tool as well, to explore our own relationship with grief, so as to provide an important reference point on our sessions with those actively grieving.
 		- p. 15
+		  collapsed:: true
 			- Inviting a silent pause
 			- acknowledging a griever's balancing responses
 			- posing a question or offering a prompt
 		- p. 16
+		  collapsed:: true
 			- As spiritual directors, we are obliged to receive each and every tale of mourning as if it were the first grief story ever told.
--
+- Conversation
+- Verbatim
