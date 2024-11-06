@@ -93,3 +93,5 @@
 			- As spiritual directors, we are obliged to receive each and every tale of mourning as if it were the first grief story ever told.
 - Conversation
 - Verbatim
+	- {{renderer :interstitial, yesterday, ntnds}} Remember the fancy add-ons
+	-
