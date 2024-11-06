@@ -74,5 +74,9 @@
 			- ### Grievers as change-agents
 			- Deep listening to those who are&rieving includes discerning the intentional choices they make to be their own best change agents for healing,
 			- ### Getting our bearings in the grieving process
+			- n the bibliography to this article, there are links for self-inventories grievers can use to assess their tendencies and preferences for lamenting, heartening, tempering, and integrating, and to reflect on strengths, growing edges, and needs for balance in the grieving process. It can be helpful for spiritual care providers to use this self-assessment tool as well, to explore our own relationship with grief, so as to provide an important reference point on our sessions with those actively grieving.
+		- p. 15
+			- Inviting a silent pause
+			- acknowledging a griever's balancing responses
 			-
 -
