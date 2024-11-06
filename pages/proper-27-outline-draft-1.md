@@ -53,8 +53,20 @@
 		- powerful vs. weak
 		- outcast vs. incrowd
 	- {{embed ((672b113d-4585-43e7-91e1-51b2c381abe7)) }}
--
+- Grace is found the most unlikely places
+  collapsed:: true
+	- Ruth
+	- [Unlikely Heroes The Women of Matthew 1 - Wycliffe Bible Translators USA Homepage](https://www.wycliffe.org/blog/posts/unlikely-heroes-the-women-of-matthew-1)
+	- From rejected and scandalous to forebears of the whole ball of wax (*Kerygma*, "Good news")
+	- Grace is found the most unlikely places
+	- Ruth
+	- [Unlikely Heroes The Women of Matthew 1 - Wycliffe Bible Translators USA Homepage](https://www.wycliffe.org/blog/posts/unlikely-heroes-the-women-of-matthew-1)
+	- From rejected and scandalous to forebears of the whole ball of wax (*Kerygma*, "Good news")
 	- {{embed ((672b36b9-cb5b-40cf-9e41-57871c96f14e))}}
-- [[PR27b City of God]]
+- City of God
+  collapsed:: true
+	- [Reading Augustine's *City of God* Understanding the Two Cities Discourses on Minerva](https://minervawisdom.com/2024/03/15/reading-augustines-city-of-god-understanding-the-two-cities/)
+		- Augustine: 2 cities
+		- While the *City of God* is a work of tremendous cultural criticism and exploration into power dynamics, human-to-human, structural-to-human, human-to-structural, and nation-to-nation analysis, it all boils down to Augustine's **theology of love.**
+		- Love of self vs. Love of others and esp. God
 	- {{embed ((672b3741-3eba-4fe9-ba99-99a4e0196f13))}}
--
