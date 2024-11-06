@@ -16,5 +16,9 @@
 			- 2. God sends pain to punish us for some sin we have committed.
 			- 3. God sends suffering to test our fidelity and to prove that we love God no matter what.
 			- 4. God sends suffering for unknowable reasons. As a demonstration of faith, submission, and humility, we must accept our suffering as God's will
-			-
+			- 1. We do not deserve what we asked for.
+			- . We did not pray hard enough.
+			- 3. God knows what is best for us better chan we do.
+			- 4. Someone else's prayer for the opposite result was more worthy
+			- In fact, the rage I felt cowardGod arose from these very beliefs. Ironically, they are all false (Rupp, pp. 35-36). Unlearning these beliefs often comes through painful circumstances accompanied by dramatic realizations.
 		-
