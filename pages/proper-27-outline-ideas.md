@@ -2,7 +2,7 @@
 - [[Big Enough God?]]
   collapsed:: true
 	- {{embed ((672b10cf-43e3-4029-9bbf-8b1fe233fe66))}}
-- from kerygma
+- [[from the kerygma]]
 	- Great reversal: Jesus repeated over and over a variation of:
 	  logseq.order-list-type:: number
 		- Victors vs. Losers
