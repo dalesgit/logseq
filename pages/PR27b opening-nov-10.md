@@ -1,4 +1,4 @@
-- Opening Proper 27 [[PR27b opening-nov-10]]
+- Opening Proper 27 
   id:: 672b0abf-ed9c-452b-8ad7-bc030a231521
   title:: PR27b opening-nov-10
   collapsed:: true
