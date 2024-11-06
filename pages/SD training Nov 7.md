@@ -44,5 +44,5 @@
 			- ## Finding our way from grieving to healing
 			- elling and retelling stories of trauma may be re-traumatizing.
 		- p. 9
-			-
+			- Some losses fuel grief fa never goes away. Expectations that it **should** can cause more helplessnes
 -
