@@ -38,4 +38,8 @@
 			- learned early in my spiritual direction practice that counseling grievers is like herding cats. Each one goes their own way.
 			- Early on, they came to me grieving all kinds of lossesdeath, divorce, illness, injury, domestic abuse, trauma, loss of belief, identity, a job or home, safety or protection...the list goes on.
 			- he Covid-19 pandemic catapulted grief into the spotlight
+			- awareness of grief, however, and knowing how to heal the pain of it are two vastly different realities
+		- p. 8
+			- ather, it was the loss that allowed me to understand that my grieving path was mine alone to forge: Eyer when I was lucky enough to journey alongside others who supported me in ways that helped me heal.
+			-
 -
