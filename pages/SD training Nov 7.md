@@ -28,4 +28,6 @@
 			- when I could no longer rely on myself o¢ on my old, limiting understandings of God—when I was completely empty of any imagery or belief at all—something new emerged. This time the second bar was clearly God's willingness to meet me at the point of my complete surrender— in the very heart of my vulnerability. This new experience of God became my strength, allowing me to crust that this loving Presence would carry me forward. Even though I would not be free of the pain and fear that are a part of human experience, God would not permit me to fall
 			- spiritual crisis results when the circumstances of our lives shift so drastically thar all we understand about God, our world, and ourselves comes into question
 		- p. 5
-			-
+			- If we seek out a spiritual director, he or she is more likely to see our experience for its graced potential and help us to gain insight into what is happening to us from a spiritual perspective
+			- In a dark night of the soul, alchough we are suffering an apparent loss and are grieving, we are probably not angry with God. We continue to long for an experience of the Divine Presence
+				-
