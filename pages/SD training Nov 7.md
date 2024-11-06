@@ -70,4 +70,9 @@
 		- p. 13
 			- ### Tempering: denial is not a dirty word
 			- We should listen deeply for how grievers seek healing by way of diversion, relief, and release from their suffering
+		- p. 14
+			- ### Grievers as change-agents
+			- Deep listening to those who are&rieving includes discerning the intentional choices they make to be their own best change agents for healing,
+			- ### Getting our bearings in the grieving process
+			-
 -
