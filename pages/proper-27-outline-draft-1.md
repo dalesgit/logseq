@@ -45,9 +45,15 @@
 		  | Villages, agriculture, complex society | 8k | .08  (.97 in) 1in |
 		  | History begins | 6k | .07 (.72 in)   3/4 in |
 	- {{embed ((672b10cf-43e3-4029-9bbf-8b1fe233fe66))}}
-- [[PR27b from the kerygma]]
+- from the kerygma
+  collapsed:: true
+	- Great reversal: Jesus repeated over and over a variation of:
+		- Victors vs. Losers
+		- Rich vs. Poor
+		- powerful vs. weak
+		- outcast vs. incrowd
 	- {{embed ((672b113d-4585-43e7-91e1-51b2c381abe7)) }}
-- [[PR27b Grace in unlikely places]]
+-
 	- {{embed ((672b36b9-cb5b-40cf-9e41-57871c96f14e))}}
 - [[PR27b City of God]]
 	- {{embed ((672b3741-3eba-4fe9-ba99-99a4e0196f13))}}
