@@ -35,19 +35,23 @@
 			- we realize chat we really would not change things, even if we could.
 	- ![Listening-to-the-Whole-Story-Of-Grieving---Oct-7-2023---5-46-ap501_ocr.pdf](../assets/Listening-to-the-Whole-Story-Of-Grieving---Oct-7-2023---5-46-ap501_ocr_1730928971458_0.pdf)
 		- p. 7
+		  collapsed:: true
 			- learned early in my spiritual direction practice that counseling grievers is like herding cats. Each one goes their own way.
 			- Early on, they came to me grieving all kinds of lossesdeath, divorce, illness, injury, domestic abuse, trauma, loss of belief, identity, a job or home, safety or protection...the list goes on.
 			- he Covid-19 pandemic catapulted grief into the spotlight
 			- awareness of grief, however, and knowing how to heal the pain of it are two vastly different realities
 		- p. 8
+		  collapsed:: true
 			- ather, it was the loss that allowed me to understand that my grieving path was mine alone to forge: Eyer when I was lucky enough to journey alongside others who supported me in ways that helped me heal.
 			- ## Finding our way from grieving to healing
 			- elling and retelling stories of trauma may be re-traumatizing.
 		- p. 9
+		  collapsed:: true
 			- Some losses fuel grief fa never goes away. Expectations that it **should** can cause more helplessnes
 			- ### Journey to the heart of adaptive grieving
 			- he hard news is: there is no cure for grief. We grieve what, and who, we love and lose permanently.
 		- p. 10
+		  collapsed:: true
 			- holistic grieving involves more than just experiencing and expressing, pain and suffering.
 			- MAGD 4 types of universal grieving responses
 				- lamenting
@@ -59,11 +63,13 @@
 				- integrating
 				  logseq.order-list-type:: number
 		- p. 11
+		  collapsed:: true
 			- ### Lamenting: grief is more than emotion
 			  logseq.order-list-type:: number
 			- how experience grief in bodies, heart, thinking patterns, relationships etc.
 			  logseq.order-list-type:: number
 		- p. 12
+		  collapsed:: true
 			- ### Heartening: suffering with grief is overrated
 			- Heartening may be more prevalent with losses that were expected or welcomed, such as the death of a loved one who endured a prolonged, painful illness. However, even with sudden or traumatic losses, some tend to focus on the aspects of a loss experience that provides buoyancy. Doing so does not indicate that theyare not fully engaged in the grieving process.
 			- In a grief context, we listen deeply to f what brings joy, comfort, meaning, laughter, or personal growth, as well as to our suffering. (13)
