@@ -66,6 +66,8 @@
 		- p. 12
 			- ### Heartening: suffering with grief is overrated
 			- Heartening may be more prevalent with losses that were expected or welcomed, such as the death of a loved one who endured a prolonged, painful illness. However, even with sudden or traumatic losses, some tend to focus on the aspects of a loss experience that provides buoyancy. Doing so does not indicate that theyare not fully engaged in the grieving process.
+			- In a grief context, we listen deeply to f what brings joy, comfort, meaning, laughter, or personal growth, as well as to our suffering. (13)
 		- p. 13
-			-
+			- ### Tempering: denial is not a dirty word
+			- We should listen deeply for how grievers seek healing by way of diversion, relief, and release from their suffering
 -
