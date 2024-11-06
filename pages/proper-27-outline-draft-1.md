@@ -1,4 +1,3 @@
--
 - Opening Proper 27
   collapsed:: true
 	- We had an election this past week. You may have noticed.
