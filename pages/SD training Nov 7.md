@@ -21,4 +21,5 @@
 			- 3. God knows what is best for us better chan we do.
 			- 4. Someone else's prayer for the opposite result was more worthy
 			- In fact, the rage I felt cowardGod arose from these very beliefs. Ironically, they are all false (Rupp, pp. 35-36). Unlearning these beliefs often comes through painful circumstances accompanied by dramatic realizations.
-		-
+		- p. 4
+			- According to the Spiritual Directors International Web site (www.sdiworld. org), spiritual direction is far more about companionship, guidance, and mentoring than it is about giving direction. Spiritual direction is a relationship of trust between one who guides others on their spiritual journeys and another who longs to deepen the connection with God and to discern the movement of God in her or his life.
