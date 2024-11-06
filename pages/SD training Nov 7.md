@@ -1,4 +1,5 @@
 - Reading
+  collapsed:: true
 	- ![SD-for-the-Bereaved---Oct-6-2024---7-41-PM-umb3v_ocr.pdf](../assets/SD-for-the-Bereaved---Oct-6-2024---7-41-PM-umb3v_ocr_1730928253902_0.pdf)
 		- p. 1
 		  collapsed:: true
@@ -11,7 +12,7 @@
 			- Were We Wrong about God?
 			- What could we possibly have done to deserve such pain and loss?
 			- When I suffered a loss that was profound enough to shatter my lifelong understanding of who and what God was, I felt deceived, betrayed, and abandoned.
-		- p.3
+		- p. 3
 		  collapsed:: true
 			- 1. God sends the loss and pain since [God] loves us and wants to strengthen our faith.
 			- 2. God sends pain to punish us for some sin we have committed.
