@@ -1,2 +1,2 @@
 - We had an election this past week. You may have noticed.
-- There was a lot of emotion leading up to the vote. I think there probably is an equal amount
+- There was a lot of emotion leading up to the vote. I think there probably is an equal amount leading away from it.
