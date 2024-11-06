@@ -16,7 +16,34 @@
 	- That may sound straight forward, but in practice it has not always been obvious to me how to go about preaching the Good News of God to **everybody**, young and old, rich and poor, Democrat and Republican.
 	- One of the preachers here at St. Alfred's recently said that he was preaching to himself in the first place. Preaching to myself today, I don't know quite how to go about it.
 	- {{embed ((672b0abf-ed9c-452b-8ad7-bc030a231521))}}
-- [[PR27b Big Enough God?]]  - [[PR27b Big Enough God%3F]]
+- Big Enough God?
+  collapsed:: true
+	- Expand our perspective
+		- String foundation - Perspective / Big Picture
+			- [https://blogdotbighistoryprojectdotcom.wordpress.com/wp-content/uploads/2019/06/bhp_activity_2019_u1-1_scale-human_history_on_a_string.pdf](https://blogdotbighistoryprojectdotcom.wordpress.com/wp-content/uploads/2019/06/bhp_activity_2019_u1-1_scale-human_history_on_a_string.pdf)
+			- Prezi table
+		- New scale
+		  
+		  
+		  
+		  | New scale | Years ago | Distance |
+		  | Big bang | 13.8 bill | 100 ft |
+		  | Stars & New chemicals | 13.6 bill | 98 |
+		  | Earth & solar system | 4.5 bill | 33 |
+		  | Life | 3.8 bill | 28 |
+		  | Humans | .0002.8 bill | 1/2 in |
+		  
+		  
+		  
+		  
+		  
+		  | New scale | Years ago | Distance |
+		  | Humans | 2.8 mill | 100 |
+		  | Homo sapiens, tools, hunting | 500k | 50 |
+		  | Fire, living in caves | 200k | 20 |
+		  | Neanderthal disappear | 40k | .4 (4.8 in) |
+		  | Villages, agriculture, complex society | 8k | .08  (.97 in) 1in |
+		  | History begins | 6k | .07 (.72 in)   3/4 in |
 	- {{embed ((672b10cf-43e3-4029-9bbf-8b1fe233fe66))}}
 - [[PR27b from the kerygma]]
 	- {{embed ((672b113d-4585-43e7-91e1-51b2c381abe7)) }}
