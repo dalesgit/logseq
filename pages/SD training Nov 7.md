@@ -34,4 +34,8 @@
 				- dark night: longstanding practice; we can think of nothing but God; **apparent**  loss is really a **gain**
 			- we realize chat we really would not change things, even if we could.
 	- ![Listening-to-the-Whole-Story-Of-Grieving---Oct-7-2023---5-46-ap501_ocr.pdf](../assets/Listening-to-the-Whole-Story-Of-Grieving---Oct-7-2023---5-46-ap501_ocr_1730928971458_0.pdf)
-		-
+		- p. 7
+			- learned early in my spiritual direction practice that counseling grievers is like herding cats. Each one goes their own way.
+			- Early on, they came to me grieving all kinds of lossesdeath, divorce, illness, injury, domestic abuse, trauma, loss of belief, identity, a job or home, safety or protection...the list goes on.
+			- he Covid-19 pandemic catapulted grief into the spotlight
+-
