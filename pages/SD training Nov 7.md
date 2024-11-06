@@ -78,5 +78,7 @@
 		- p. 15
 			- Inviting a silent pause
 			- acknowledging a griever's balancing responses
-			-
+			- posing a question or offering a prompt
+		- p. 16
+			- As spiritual directors, we are obliged to receive each and every tale of mourning as if it were the first grief story ever told.
 -
