@@ -150,4 +150,4 @@
 			- gratitude
 			- difficult to sit with others' grief when SD is grieving
 		- This is good re. the different ways people grieve: 	https://doinggrief.org/checklist-contemplation-8/
-		- Nina: had a voice teacher who could hear e.g. "grief" in a person's voice
+		- Nina: had a voice teacher who could hear e.g. "grief" in a person's voice.
