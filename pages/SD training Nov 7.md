@@ -95,5 +95,12 @@
 	- Terry Balikon at Atrium (supervisor CPE?) with next week
 		- When the wounds go deep = is the topic
 - Verbatim
+	- create a "faux" verbatim
+	- choose the topic from our readings
+		- come in grieving
+		- crisis of faith
+		- celebrating God in their life
+		- shadow work
+		-
 	-
 	-
