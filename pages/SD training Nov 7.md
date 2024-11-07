@@ -139,7 +139,8 @@
 			- Cherie works with students at Duke.
 		- LS: my helping to bury casket an eg. of "**heartening**"
 			- worked with folks in domestic violence situations. Emotional turmoil, not the immediate crisis, telling and telling helps them to recognize it as **normal** for themselves
-			- 4,6,8 are
+		- Enneagram
+			- 4,6,8 are "What is going on?" Lament first. Freak out. It take
 			- 1,3,5 solution based
-			- 2
+			- 2, 7,9 caring
 		-
