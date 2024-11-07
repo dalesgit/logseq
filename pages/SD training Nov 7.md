@@ -137,5 +137,6 @@
 			- spiritual loss.
 		- Allison pushes back: p. 8 re. telling healing or not?
 			- Cherie works with students at Duke.
+		- LS: my helping to bury casket an eg. of "**heartening**"
 		-
 		-
