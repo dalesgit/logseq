@@ -119,41 +119,43 @@
 			- "Spiritual Growth" means?
 		- Wanting to give weight to "love" (for the sermon)
 	- Discussion on articles
-		- Grief = "love percevering" (movie Gwanda?)
-		- You'll never be prepared for the loss (surprising and entangled)
-		- Not a progressive process but a simultaneous process
-		- Movie: 2 characters discussing "What do you think happens after you die?"
+		- Listening to whole story
 		  collapsed:: true
-			- *Midnight Mass* Catholic doubt
-		- Allison is drawn to grief-care
-		- Naming kinds of grief
-		  collapsed:: true
-			- LS: "ambiguous grief" -- someone who is always on phone, don't pay attention to me. Some grateful to finally have a **word** to put on their experience.
-			- SD: naming things. Someone physically presence but emotionally absent.
+			- Grief = "love percevering" (movie Gwanda?)
+			- You'll never be prepared for the loss (surprising and entangled)
+			- Not a progressive process but a simultaneous process
+			- Movie: 2 characters discussing "What do you think happens after you die?"
 			  collapsed:: true
-				- Esther Carol written book
-				- disenfranchised grief: grief not socially recognized. e.g. trans person.
-				- cf. e.g. grief when one is promoted
-				- grief over having a baby. e.g. weaning is a loss. marriage is a loss of freedom.
-			- Institutional grief. Idealism that is lost.
-			- still the **caution** over naming things for people. "Hold the back of the bicycle moments -- as you're helping someone learn. Need to let go when they begin to get it.
-			- civic sadness (over many things)
-			- spiritual loss.
-		- Allison pushes back: p. 8 re. telling healing or not?
-			- Cherie works with students at Duke.
-		- LS: my helping to bury casket an eg. of "**heartening**"
-		  collapsed:: true
-			- worked with folks in domestic violence situations. Emotional turmoil, not the immediate crisis, telling and telling helps them to recognize it as **normal** for themselves
-		- Enneagram
-		  collapsed:: true
-			- 4,6,8 are "What is going on?" Lament first. Freak out. It take (chaotic)
-			- 1,3,5 solution based (reactive stances)
-			- 2, 7,9 caring, nurturing
-		- reactions to election. Responses include:
-		  collapsed:: true
-			- catastrophe
-			- solutions
-			- gratitude
-			- difficult to sit with others' grief when SD is grieving
-		- This is good re. the different ways people grieve: 	https://doinggrief.org/checklist-contemplation-8/
-		- Nina: had a voice teacher who could hear e.g. "grief" in a person's voice.
+				- *Midnight Mass* Catholic doubt
+			- Allison is drawn to grief-care
+			- Naming kinds of grief
+			  collapsed:: true
+				- LS: "ambiguous grief" -- someone who is always on phone, don't pay attention to me. Some grateful to finally have a **word** to put on their experience.
+				- SD: naming things. Someone physically presence but emotionally absent.
+				  collapsed:: true
+					- Esther Carol written book
+					- disenfranchised grief: grief not socially recognized. e.g. trans person.
+					- cf. e.g. grief when one is promoted
+					- grief over having a baby. e.g. weaning is a loss. marriage is a loss of freedom.
+				- Institutional grief. Idealism that is lost.
+				- still the **caution** over naming things for people. "Hold the back of the bicycle moments -- as you're helping someone learn. Need to let go when they begin to get it.
+				- civic sadness (over many things)
+				- spiritual loss.
+			- Allison pushes back: p. 8 re. telling healing or not?
+				- Cherie works with students at Duke.
+			- LS: my helping to bury casket an eg. of "**heartening**"
+			  collapsed:: true
+				- worked with folks in domestic violence situations. Emotional turmoil, not the immediate crisis, telling and telling helps them to recognize it as **normal** for themselves
+			- Enneagram
+			  collapsed:: true
+				- 4,6,8 are "What is going on?" Lament first. Freak out. It take (chaotic)
+				- 1,3,5 solution based (reactive stances)
+				- 2, 7,9 caring, nurturing
+			- reactions to election. Responses include:
+			  collapsed:: true
+				- catastrophe
+				- solutions
+				- gratitude
+				- difficult to sit with others' grief when SD is grieving
+			- This is good re. the different ways people grieve: 	https://doinggrief.org/checklist-contemplation-8/
+			- Nina: had a voice teacher who could hear e.g. "grief" in a person's voice.
