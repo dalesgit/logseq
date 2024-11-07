@@ -161,3 +161,4 @@
 			- cf. "Transformation of consciousness" ony happens when we're not holding too tightly onto our defenses. How be in complete surrender mode.
 		- Esther dislikes phrase "spiritual maturity" -- patronizing or condescending (p. 41)
 		- Nina likes article because she recognizes that her spiritual growth has often come through times of trauma
+		- Shea: family of his spouse has a child with Cerebral Palsey. ... "Everything happens for a reason" "i
