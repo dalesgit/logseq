@@ -32,6 +32,7 @@
 				- dark night: longstanding practice; we can think of nothing but God; **apparent**  loss is really a **gain**
 			- we realize chat we really would not change things, even if we could.
 	- ![Listening-to-the-Whole-Story-Of-Grieving---Oct-7-2023---5-46-ap501_ocr.pdf](../assets/Listening-to-the-Whole-Story-Of-Grieving---Oct-7-2023---5-46-ap501_ocr_1730928971458_0.pdf)
+	  collapsed:: true
 		- p. 7
 		  collapsed:: true
 			- learned early in my spiritual direction practice that counseling grievers is like herding cats. Each one goes their own way.
@@ -90,6 +91,7 @@
 			- Inviting a silent pause
 			- acknowledging a griever's balancing responses
 			- posing a question or offering a prompt
+		- ## Listening with beginner's mind
 		- p. 16
 		  collapsed:: true
 			- As spiritual directors, we are obliged to receive each and every tale of mourning as if it were the first grief story ever told.
