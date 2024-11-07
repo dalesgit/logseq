@@ -131,5 +131,6 @@
 				- cf. e.g. grief when one is promoted
 				- grief over having a baby. e.g. weaning is a loss. marriage is a loss of freedom.
 			- Institutional grief. Idealism that is lost.
-			- still the **caution**
+			- still the **caution** over naming things for people. "Hold the back of the bicycle moments -- as you're helping someone learn. Need to let go when they begin to get it.
+			-
 		-
