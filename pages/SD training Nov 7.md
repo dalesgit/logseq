@@ -35,6 +35,7 @@
 				- dark night: longstanding practice; we can think of nothing but God; **apparent**  loss is really a **gain**
 			- we realize chat we really would not change things, even if we could.
 	- ![Listening-to-the-Whole-Story-Of-Grieving---Oct-7-2023---5-46-ap501_ocr.pdf](../assets/Listening-to-the-Whole-Story-Of-Grieving---Oct-7-2023---5-46-ap501_ocr_1730928971458_0.pdf)
+	  collapsed:: true
 		- p. 7
 		  collapsed:: true
 			- learned early in my spiritual direction practice that counseling grievers is like herding cats. Each one goes their own way.
@@ -122,6 +123,8 @@
 		- You'll never be prepared for the loss (surprising and entangled)
 		- Not a progressive process but a simultaneous process
 		- Movie: 2 characters discussing "What do you think happens after you die?"
+		  collapsed:: true
+			- *Midnight Mass* Catholic doubt
 		- Allison is drawn to grief-care
 		- Naming kinds of grief
 		  collapsed:: true
@@ -139,16 +142,18 @@
 		- Allison pushes back: p. 8 re. telling healing or not?
 			- Cherie works with students at Duke.
 		- LS: my helping to bury casket an eg. of "**heartening**"
+		  collapsed:: true
 			- worked with folks in domestic violence situations. Emotional turmoil, not the immediate crisis, telling and telling helps them to recognize it as **normal** for themselves
 		- Enneagram
+		  collapsed:: true
 			- 4,6,8 are "What is going on?" Lament first. Freak out. It take (chaotic)
 			- 1,3,5 solution based (reactive stances)
 			- 2, 7,9 caring, nurturing
 		- reactions to election. Responses include:
+		  collapsed:: true
 			- catastrophe
 			- solutions
 			- gratitude
 			- difficult to sit with others' grief when SD is grieving
 		- This is good re. the different ways people grieve: 	https://doinggrief.org/checklist-contemplation-8/
 		- Nina: had a voice teacher who could hear e.g. "grief" in a person's voice.
-		- *Midnight Mass* Catholic doubt
