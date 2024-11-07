@@ -138,5 +138,6 @@
 		- Allison pushes back: p. 8 re. telling healing or not?
 			- Cherie works with students at Duke.
 		- LS: my helping to bury casket an eg. of "**heartening**"
-			- worked with folks in domestic violence situations. Emotional turmoil, not the immediate crisis,
+			- worked with folks in domestic violence situations. Emotional turmoil, not the immediate crisis, telling and telling helps them to recognize it as **normal** for themselves
+			-
 		-
