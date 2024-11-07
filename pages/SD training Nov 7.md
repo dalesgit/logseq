@@ -139,5 +139,7 @@
 			- Cherie works with students at Duke.
 		- LS: my helping to bury casket an eg. of "**heartening**"
 			- worked with folks in domestic violence situations. Emotional turmoil, not the immediate crisis, telling and telling helps them to recognize it as **normal** for themselves
-			-
+			- 4,6,8 are
+			- 1,3,5 solution based
+			- 2
 		-
