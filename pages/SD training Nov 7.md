@@ -10,14 +10,16 @@
 			- What could we possibly have done to deserve such pain and loss?
 			- When I suffered a loss that was profound enough to shatter my lifelong understanding of who and what God was, I felt deceived, betrayed, and abandoned.
 		- p. 3
-			- 1. God sends the loss and pain since [God] loves us and wants to strengthen our faith.
-			- 2. God sends pain to punish us for some sin we have committed.
-			- 3. God sends suffering to test our fidelity and to prove that we love God no matter what.
-			- 4. God sends suffering for unknowable reasons. As a demonstration of faith, submission, and humility, we must accept our suffering as God's will
-			- 1. We do not deserve what we asked for.
-			- . We did not pray hard enough.
-			- 3. God knows what is best for us better chan we do.
-			- 4. Someone else's prayer for the opposite result was more worthy
+			- Rupp: Theological perspectives
+				- 1. God sends the loss and pain since [God] loves us and wants to strengthen our faith.
+				- 2. God sends pain to punish us for some sin we have committed.
+				- 3. God sends suffering to test our fidelity and to prove that we love God no matter what.
+				- 4. God sends suffering for unknowable reasons. As a demonstration of faith, submission, and humility, we must accept our suffering as God's will
+			- Kushner
+				- 1. We do not deserve what we asked for.
+				- 2. We did not pray hard enough.
+				- 3. God knows what is best for us better chan we do.
+				- 4. Someone else's prayer for the opposite result was more worthy
 			- In fact, the rage I felt cowardGod arose from these very beliefs. Ironically, they are all false (Rupp, pp. 35-36). Unlearning these beliefs often comes through painful circumstances accompanied by dramatic realizations.
 		- p. 4
 			- According to the Spiritual Directors International Web site (www.sdiworld. org), spiritual direction is far more about companionship, guidance, and mentoring than it is about giving direction. Spiritual direction is a relationship of trust between one who guides others on their spiritual journeys and another who longs to deepen the connection with God and to discern the movement of God in her or his life.
