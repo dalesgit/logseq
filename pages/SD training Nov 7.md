@@ -105,6 +105,7 @@
 	- don't write a whole thing -- 4 pages a guide?
 	- dale danny cherie nina for Nov 21
 		- others on Dec. 5
-	-
+	- Share on Google Drive?
+	- In intro hide name, or identifying information
 	-
 	-
