@@ -112,4 +112,4 @@
 		-
 		-
 	- Opening music (What is good for me when I'm grieving, a heavy event?)
-		- 5 min of repetition (Taize)
+		- 5 min of repetition (Taize) "Come and fill our hearts"
