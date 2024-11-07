@@ -167,3 +167,4 @@
 				- Chat: what to say to some in grief. 	https://grief.com/10-best-worst-things-to-say-to-someone-in-grief/
 			- When to ask directly about the truisms that people cling to? What would re-writing your story look like?
 			- Nina had a brother with Downs Syndrome. One pastor came Presby: why God punishing you. Another (Methodist) when you going to baptize the child?
+			- Don't "take all the furniture out of the room". It works for the people until it doesn't.
