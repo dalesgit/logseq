@@ -119,5 +119,6 @@
 	- Discussion on articles
 		- Grief = "love percevering" (movie Gwanda?)
 		- You'll never be prepared for the loss (surprising and entangled)
-		- Not a progressive process a
+		- Not a progressive process but a simultaneous process
+		- Movie: 2 characters discussing "What do you think happens after you die?"
 		-
