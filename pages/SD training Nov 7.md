@@ -135,6 +135,7 @@
 			- still the **caution** over naming things for people. "Hold the back of the bicycle moments -- as you're helping someone learn. Need to let go when they begin to get it.
 			- civic sadness (over many things)
 			- spiritual loss.
-		- p. 8 re. telling healing or not?
+		- Allison pushes back: p. 8 re. telling healing or not?
+		- Cherie works with students at Duke
 		-
 		-
