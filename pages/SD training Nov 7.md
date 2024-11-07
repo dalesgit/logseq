@@ -159,3 +159,4 @@
 		- SD for the bereaved
 			- What does "ego" mean
 			- cf. "Transformation of consciousness" ony happens when we're not holding too tightly onto our defenses. How be in complete surrender mode.
+		- Esther dislikes phrase "spiritual maturity" -- patronizing or condescending
