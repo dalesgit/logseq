@@ -161,7 +161,9 @@
 			- cf. "Transformation of consciousness" ony happens when we're not holding too tightly onto our defenses. How be in complete surrender mode.
 		- Esther dislikes phrase "spiritual maturity" -- patronizing or condescending (p. 41)
 		- Nina likes article because she recognizes that her spiritual growth has often come through times of trauma
-		- Shea: family of his spouse has a child with Cerebral Palsey. ... "Everything happens for a reason" "it all works out" ... = "Grief denial" or at least "grief delaying" ... "God is punishing us"
-			- If someone comes to SD it is because they are feeling uncomfortable in that space.
-			- Chat: what to say to some in grief. 	https://grief.com/10-best-worst-things-to-say-to-someone-in-grief/
-		- When to ask directly about the truisms that people cling to? What would re-writing your story look like?
+		- Pastoral care vs. SD
+			- Shea: family of his spouse has a child with Cerebral Palsey. ... "Everything happens for a reason" "it all works out" ... = "Grief denial" or at least "grief delaying" ... "God is punishing us"
+				- If someone comes to SD it is because they are feeling uncomfortable in that space.
+				- Chat: what to say to some in grief. 	https://grief.com/10-best-worst-things-to-say-to-someone-in-grief/
+			- When to ask directly about the truisms that people cling to? What would re-writing your story look like?
+			- Nina had a brother with Downs Syndrome. One pastor came Presby: why G
