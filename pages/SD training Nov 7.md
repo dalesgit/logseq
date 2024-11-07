@@ -20,7 +20,7 @@
 				- 2. We did not pray hard enough.
 				- 3. God knows what is best for us better chan we do.
 				- 4. Someone else's prayer for the opposite result was more worthy
-			- In fact, the rage I felt cowardGod arose from these very beliefs. Ironically, they are all false (Rupp, pp. 35-36). Unlearning these beliefs often comes through painful circumstances accompanied by dramatic realizations.
+			- In fact, the rage I felt coward God arose from these very beliefs. Ironically, they are all false (Rupp, pp. 35-36). Unlearning these beliefs often comes through painful circumstances accompanied by dramatic realizations.
 		- p. 4
 			- According to the Spiritual Directors International Web site (www.sdiworld. org), spiritual direction is far more about companionship, guidance, and mentoring than it is about giving direction. Spiritual direction is a relationship of trust between one who guides others on their spiritual journeys and another who longs to deepen the connection with God and to discern the movement of God in her or his life.
 			- when I could no longer rely on myself o¢ on my old, limiting understandings of God—when I was completely empty of any imagery or belief at all—something new emerged. This time the second bar was clearly God's willingness to meet me at the point of my complete surrender— in the very heart of my vulnerability. This new experience of God became my strength, allowing me to crust that this loving Presence would carry me forward. Even though I would not be free of the pain and fear that are a part of human experience, God would not permit me to fall
@@ -159,13 +159,14 @@
 		- SD for the bereaved
 			- What does "ego" mean
 			- cf. "Transformation of consciousness" ony happens when we're not holding too tightly onto our defenses. How be in complete surrender mode.
-		- Esther dislikes phrase "spiritual maturity" -- patronizing or condescending (p. 41)
-		- Nina likes article because she recognizes that her spiritual growth has often come through times of trauma
-		- Pastoral care vs. SD
-			- Shea: family of his spouse has a child with Cerebral Palsey. ... "Everything happens for a reason" "it all works out" ... = "Grief denial" or at least "grief delaying" ... "God is punishing us"
-				- If someone comes to SD it is because they are feeling uncomfortable in that space.
-				- Chat: what to say to some in grief. 	https://grief.com/10-best-worst-things-to-say-to-someone-in-grief/
-			- When to ask directly about the truisms that people cling to? What would re-writing your story look like?
-			- Nina had a brother with Downs Syndrome. One pastor came Presby: why God punishing you. Another (Methodist) when you going to baptize the child?
-			- Don't "take all the furniture out of the room". It works for the people until it doesn't.
-			- Always OK to get to the question, "Say more about your understanding/experience of God."
+			- Esther dislikes phrase "spiritual maturity" -- patronizing or condescending (p. 41)
+			- Nina likes article because she recognizes that her spiritual growth has often come through times of trauma
+			- Pastoral care vs. SD
+			  collapsed:: true
+				- Shea: family of his spouse has a child with Cerebral Palsey. ... "Everything happens for a reason" "it all works out" ... = "Grief denial" or at least "grief delaying" ... "God is punishing us"
+					- If someone comes to SD it is because they are feeling uncomfortable in that space.
+					- Chat: what to say to some in grief. 	https://grief.com/10-best-worst-things-to-say-to-someone-in-grief/
+				- When to ask directly about the truisms that people cling to? What would re-writing your story look like?
+				- Nina had a brother with Downs Syndrome. One pastor came Presby: why God punishing you. Another (Methodist) when you going to baptize the child?
+				- Don't "take all the furniture out of the room". It works for the people until it doesn't.
+				- Always OK to get to the question, "Say more about your understanding/experience of God."
