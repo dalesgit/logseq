@@ -179,3 +179,4 @@
 		- Shea cf. the way in which our contemporary rituals are too anemic. (Ritual studies). He's in Banff Canada (because of election?) But he needs refueling ...
 		- LS: ask about self-care: "What are you doing to ..." **Tempering** in grief share?
 			- Can turn into avoidance.
+		- LS: You can never go wrong with "Taking a pause"
