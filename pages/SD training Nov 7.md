@@ -101,6 +101,7 @@
 		- crisis of faith
 		- celebrating God in their life
 		- shadow work
-		-
+	- don't write a whole thing --
+		- "verbatims are all lies, but they are your lies"
 	-
 	-
