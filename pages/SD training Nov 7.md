@@ -122,11 +122,14 @@
 		- Not a progressive process but a simultaneous process
 		- Movie: 2 characters discussing "What do you think happens after you die?"
 		- Allison is drawn to grief-care
-		- LS: "ambiguous grief" -- someone who is always on phone, don't pay attention to me. Some grateful to finally have a **word** to put on their experience.
-		- SD: naming things. Someone physically presence but emotionally absent.
-			- Esther Carol written book
-			- disenfranchised grief: grief not socially recognized. e.g. trans person.
-			- cf. e.g. grief when one is promoted
-			- grief over having a baby. e.g. weaning is a loss. marriage is a loss of freedom.
-		-
+		- Naming kinds of grief
+			- LS: "ambiguous grief" -- someone who is always on phone, don't pay attention to me. Some grateful to finally have a **word** to put on their experience.
+			- SD: naming things. Someone physically presence but emotionally absent.
+			  collapsed:: true
+				- Esther Carol written book
+				- disenfranchised grief: grief not socially recognized. e.g. trans person.
+				- cf. e.g. grief when one is promoted
+				- grief over having a baby. e.g. weaning is a loss. marriage is a loss of freedom.
+			- Institutional grief. Idealism that is lost.
+			- still the **caution**
 		-
