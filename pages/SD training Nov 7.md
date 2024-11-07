@@ -101,7 +101,8 @@
 		- crisis of faith
 		- celebrating God in their life
 		- shadow work
-	- don't write a whole thing --
+	- don't write a whole thing -- 4 pages a guide?
+	- dale danny cherie nina for Nov 21
 		- "verbatims are all lies, but they are your lies"
 	-
 	-
