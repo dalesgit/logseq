@@ -1,5 +1,6 @@
 - Reading
 	- ![SD-for-the-Bereaved---Oct-6-2024---7-41-PM-umb3v_ocr.pdf](../assets/SD-for-the-Bereaved---Oct-6-2024---7-41-PM-umb3v_ocr_1730928253902_0.pdf)
+	  collapsed:: true
 		- p. 1
 			- The power of loss: to shake our core beliefs
 			- Loss takes many different forms
@@ -171,4 +172,5 @@
 				- Don't "take all the furniture out of the room". It works for the people until it doesn't.
 				- Always OK to get to the question, "Say more about your understanding/experience of God."
 		- Shea cf. the way in which our contemporary rituals are too anemic. (Ritual studies). He's in Banff Canada (because of election?) But he needs refueling ...
-		- LS: t
+		- LS: ask about self-care: "What are you doing to ..." **Tempering** in grief share?
+			- Can turn into avoidance.
