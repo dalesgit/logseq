@@ -78,6 +78,7 @@
 		  collapsed:: true
 			- ### Tempering: denial is not a dirty word
 			- We should listen deeply for how grievers seek healing by way of diversion, relief, and release from their suffering
+		- ## Integrating -- Getting our bearing
 		- p. 14
 		  collapsed:: true
 			- ### Grievers as change-agents
