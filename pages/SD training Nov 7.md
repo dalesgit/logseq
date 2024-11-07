@@ -168,3 +168,4 @@
 			- When to ask directly about the truisms that people cling to? What would re-writing your story look like?
 			- Nina had a brother with Downs Syndrome. One pastor came Presby: why God punishing you. Another (Methodist) when you going to baptize the child?
 			- Don't "take all the furniture out of the room". It works for the people until it doesn't.
+			- Always OK to get to the question, "Say more about your understanding/experience of God."
