@@ -147,3 +147,4 @@
 				- catastrophe
 				- solutions
 				- gratitude
+			- difficult to sit with others' grief when SD is grieving
