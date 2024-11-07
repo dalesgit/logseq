@@ -42,9 +42,9 @@
 			- awareness of grief, however, and knowing how to heal the pain of it are two vastly different realities
 		- p. 8
 		  collapsed:: true
-			- ather, it was the loss that allowed me to understand that my grieving path was mine alone to forge: Eyer when I was lucky enough to journey alongside others who supported me in ways that helped me heal.
+			- rather, it was the loss that allowed me to understand that my grieving path was mine alone to forge: Eyer when I was lucky enough to journey alongside others who supported me in ways that helped me heal.
 			- ## Finding our way from grieving to healing
-			- elling and retelling stories of trauma may be re-traumatizing.
+			- telling and retelling stories of trauma may be re-traumatizing.
 		- p. 9
 		  collapsed:: true
 			- Some losses fuel grief fa never goes away. Expectations that it **should** can cause more helplessnes
@@ -123,6 +123,7 @@
 		- Movie: 2 characters discussing "What do you think happens after you die?"
 		- Allison is drawn to grief-care
 		- Naming kinds of grief
+		  collapsed:: true
 			- LS: "ambiguous grief" -- someone who is always on phone, don't pay attention to me. Some grateful to finally have a **word** to put on their experience.
 			- SD: naming things. Someone physically presence but emotionally absent.
 			  collapsed:: true
@@ -134,5 +135,6 @@
 			- still the **caution** over naming things for people. "Hold the back of the bicycle moments -- as you're helping someone learn. Need to let go when they begin to get it.
 			- civic sadness (over many things)
 			- spiritual loss.
+		- p. 8 re. telling healing or not?
 		-
 		-
