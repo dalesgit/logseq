@@ -144,10 +144,11 @@
 			- 4,6,8 are "What is going on?" Lament first. Freak out. It take (chaotic)
 			- 1,3,5 solution based (reactive stances)
 			- 2, 7,9 caring, nurturing
-		- reactions to election. Responses
+		- reactions to election. Responses include:
 			- catastrophe
 			- solutions
 			- gratitude
 			- difficult to sit with others' grief when SD is grieving
 		- This is good re. the different ways people grieve: 	https://doinggrief.org/checklist-contemplation-8/
 		- Nina: had a voice teacher who could hear e.g. "grief" in a person's voice.
+-
