@@ -1,6 +1,5 @@
 - Reading
 	- ![SD-for-the-Bereaved---Oct-6-2024---7-41-PM-umb3v_ocr.pdf](../assets/SD-for-the-Bereaved---Oct-6-2024---7-41-PM-umb3v_ocr_1730928253902_0.pdf)
-	  collapsed:: true
 		- p. 1
 		  collapsed:: true
 			- The power of loss: to shake our core beliefs
@@ -159,3 +158,5 @@
 				- difficult to sit with others' grief when SD is grieving
 			- This is good re. the different ways people grieve: 	https://doinggrief.org/checklist-contemplation-8/
 			- Nina: had a voice teacher who could hear e.g. "grief" in a person's voice.
+		- SD for the bereaved
+			- What does "ego" mean
