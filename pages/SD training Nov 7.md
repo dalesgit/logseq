@@ -148,3 +148,4 @@
 			- solutions
 			- gratitude
 			- difficult to sit with others' grief when SD is grieving
+		- This is good re. the different ways people grieve: 	https://doinggrief.org/checklist-contemplation-8/
