@@ -32,7 +32,6 @@
 				- dark night: longstanding practice; we can think of nothing but God; **apparent**  loss is really a **gain**
 			- we realize chat we really would not change things, even if we could.
 	- ![Listening-to-the-Whole-Story-Of-Grieving---Oct-7-2023---5-46-ap501_ocr.pdf](../assets/Listening-to-the-Whole-Story-Of-Grieving---Oct-7-2023---5-46-ap501_ocr_1730928971458_0.pdf)
-	  collapsed:: true
 		- p. 7
 		  collapsed:: true
 			- learned early in my spiritual direction practice that counseling grievers is like herding cats. Each one goes their own way.
@@ -62,7 +61,6 @@
 				- integrating
 				  logseq.order-list-type:: number
 		- p. 11
-		  collapsed:: true
 			- ### Lamenting: grief is more than emotion
 			  logseq.order-list-type:: number
 			- how experience grief in bodies, heart, thinking patterns, relationships etc.
