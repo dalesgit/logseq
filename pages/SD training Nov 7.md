@@ -136,6 +136,6 @@
 			- civic sadness (over many things)
 			- spiritual loss.
 		- Allison pushes back: p. 8 re. telling healing or not?
-		- Cherie works with students at Duke
+			- Cherie works with students at Duke.
 		-
 		-
