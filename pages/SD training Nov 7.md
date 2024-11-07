@@ -93,19 +93,21 @@
 			- As spiritual directors, we are obliged to receive each and every tale of mourning as if it were the first grief story ever told.
 - Conversation
 	- Terry Balikon at Atrium (supervisor CPE?) with next week
+	  collapsed:: true
 		- When the wounds go deep = is the topic
-- Verbatim
-	- create a "faux" verbatim
-	- choose the topic from our readings
-		- come in grieving
-		- crisis of faith
-		- celebrating God in their life
-		- shadow work
-		- "verbatims are all lies, but they are your lies"
-	- don't write a whole thing -- 4 pages a guide?
-	- dale danny cherie nina for Nov 21
-		- others on Dec. 5
-	- Share on Google Drive?
-	- In intro hide name, or identifying information
-	-
-	-
+	- Verbatim
+	  collapsed:: true
+		- create a "faux" verbatim
+		- choose the topic from our readings
+			- come in grieving
+			- crisis of faith
+			- celebrating God in their life
+			- shadow work
+			- "verbatims are all lies, but they are your lies"
+		- don't write a whole thing -- 4 pages a guide?
+		- dale danny cherie nina for Nov 21
+			- others on Dec. 5
+		- Share on Google Drive?
+		- In intro hide name, or identifying information
+		-
+		-
