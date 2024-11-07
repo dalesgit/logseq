@@ -60,16 +60,20 @@
 				  logseq.order-list-type:: number
 				- integrating
 				  logseq.order-list-type:: number
+		- ## Lamenting
 		- p. 11
+		  collapsed:: true
 			- ### Lamenting: grief is more than emotion
 			  logseq.order-list-type:: number
 			- how experience grief in bodies, heart, thinking patterns, relationships etc.
 			  logseq.order-list-type:: number
+		- ## Heartening
 		- p. 12
 		  collapsed:: true
 			- ### Heartening: suffering with grief is overrated
 			- Heartening may be more prevalent with losses that were expected or welcomed, such as the death of a loved one who endured a prolonged, painful illness. However, even with sudden or traumatic losses, some tend to focus on the aspects of a loss experience that provides buoyancy. Doing so does not indicate that theyare not fully engaged in the grieving process.
 			- In a grief context, we listen deeply to f what brings joy, comfort, meaning, laughter, or personal growth, as well as to our suffering. (13)
+		- ## Tempering
 		- p. 13
 		  collapsed:: true
 			- ### Tempering: denial is not a dirty word
