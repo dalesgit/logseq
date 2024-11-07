@@ -126,5 +126,7 @@
 		- SD: naming things. Someone physically presence but emotionally absent.
 			- Esther Carol written book
 			- disenfranchised grief: grief not socially recognized. e.g. trans person.
-			- cf. e.g. grief when one is
+			- cf. e.g. grief when one is promoted
+			- grief over having a baby. e.g. weaning is a loss. marriage is a loss of freedom.
+		-
 		-
