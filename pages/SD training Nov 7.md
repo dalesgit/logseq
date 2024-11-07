@@ -113,6 +113,7 @@
 		-
 		-
 	- Opening music (What is good for me when I'm grieving, a heavy event?)
+	  collapsed:: true
 		- 5 min of repetition (Taize) "Come and fill our hearts with your peace" arr. Mark Haas?
 		- LS: What is it that heals in the world. Love (we agree). Love is an elusive term. cf. bell hooks *All about love: new visions*. Love: the will to extend one's self for the purpose of nurturing one's own or another's spiritual growth (M. Scott Peck as quoted by bell hooks, p.4)
 			- "Spiritual Growth" means?
@@ -160,3 +161,4 @@
 			- Nina: had a voice teacher who could hear e.g. "grief" in a person's voice.
 		- SD for the bereaved
 			- What does "ego" mean
+			- cf. "Transformation of consciousness" ony happens when we're not holding too tightly onto our defenses. How be in complete surrender mode.
