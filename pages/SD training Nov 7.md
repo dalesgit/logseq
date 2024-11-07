@@ -92,7 +92,8 @@
 		  collapsed:: true
 			- As spiritual directors, we are obliged to receive each and every tale of mourning as if it were the first grief story ever told.
 - Conversation
-	-
+	- Terry Balikon at Atrium (supervisor CPE?) with next week
+		- When the wounds go deep = is the topic
 - Verbatim
 	-
 	-
