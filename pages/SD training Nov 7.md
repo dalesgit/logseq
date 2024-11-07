@@ -118,5 +118,6 @@
 		- Wanting to give weight to "love" (for the sermon)
 	- Discussion on articles
 		- Grief = "love percevering" (movie Gwanda?)
-		- You'll never be prepared for the loss ()
+		- You'll never be prepared for the loss (surprising and entangled)
+		-
 		-
