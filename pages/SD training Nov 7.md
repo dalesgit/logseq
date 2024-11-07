@@ -163,4 +163,5 @@
 		- Nina likes article because she recognizes that her spiritual growth has often come through times of trauma
 		- Shea: family of his spouse has a child with Cerebral Palsey. ... "Everything happens for a reason" "it all works out" ... = "Grief denial" or at least "grief delaying" ... "God is punishing us"
 			- If someone comes to SD it is because they are feeling uncomfortable in that space.
-			- Chat: what to say to some in grief.
+			- Chat: what to say to some in grief. 	https://grief.com/10-best-worst-things-to-say-to-someone-in-grief/
+		- W
