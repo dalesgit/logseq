@@ -116,4 +116,6 @@
 		- LS: What is it that heals in the world. Love (we agree). Love is an elusive term. cf. bell hooks *All about love: new visions*. Love: the will to extend one's self for the purpose of nurturing one's own or another's spiritual growth (M. Scott Peck as quoted by bell hooks, p.4)
 			- "Spiritual Growth" means?
 		- Wanting to give weight to "love" (for the sermon)
-			-
+	- Discussion on articles
+		- Grief = "love percevering" (movie )
+		-
