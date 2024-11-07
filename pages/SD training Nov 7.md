@@ -122,5 +122,6 @@
 		- Not a progressive process but a simultaneous process
 		- Movie: 2 characters discussing "What do you think happens after you die?"
 		- Allison is drawn to grief-care
-		- LS: "ambiguous grief" -- someone who is always on phone, don't pay attention to me.
+		- LS: "ambiguous grief" -- someone who is always on phone, don't pay attention to me. Some grateful to finally have a **word** to put on their experience.
+		- SD: naming things
 		-
