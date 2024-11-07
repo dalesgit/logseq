@@ -140,11 +140,11 @@
 		- LS: my helping to bury casket an eg. of "**heartening**"
 			- worked with folks in domestic violence situations. Emotional turmoil, not the immediate crisis, telling and telling helps them to recognize it as **normal** for themselves
 		- Enneagram
-			- 4,6,8 are "What is going on?" Lament first. Freak out. It take
+			- 4,6,8 are "What is going on?" Lament first. Freak out. It take (chaotic)
 			- 1,3,5 solution based (reactive stances)
 			- 2, 7,9 caring, nurturing
-			- reactions to election
-				- catastrophe
-				- solutions
-				- gratitude
+		- reactions to election. Responses
+			- catastrophe
+			- solutions
+			- gratitude
 			- difficult to sit with others' grief when SD is grieving
