@@ -113,4 +113,4 @@
 		-
 	- Opening music (What is good for me when I'm grieving, a heavy event?)
 		- 5 min of repetition (Taize) "Come and fill our hearts with your peace" arr. Mark Haas?
-		- LS: What is it that heals in the world.
+		- LS: What is it that heals in the world. Love (we agree). Love is an elusive term. cf. bell hook **
