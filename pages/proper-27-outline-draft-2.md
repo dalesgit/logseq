@@ -10,15 +10,15 @@ date: Nov. 9-10, 2024
 ## Opening
 
 We had an election this past week. You may have noticed. My sense is that across the nation Wednesday brought a lot of intense emotions – but they varied a lot. I felt it. But I did anticipate it. I have been thinking about this sermon for weeks now. I thought about previous occasions when I was called upon to preach after the nation had experienced something intense. I thought about the charge I accepted on the occasion of my ordination, that I preach the Gospel to all people, regardless of any distinction other than that they were children of God. The bishop's words to me were, in part ...
-## Vow to Bishop at my ordination
 
-[*From the Examination*]
+## Vow to Bishop at my ordination [^1]
 
 > As a priest, it will be your task to proclaim by word and deed the Gospel of Jesus Christ, and to fashion your life in accordance with its precepts. You are to love and serve the people among whom you work, caring alike for **young and old, strong and weak, rich and poor**. You are to preach, to declare God's forgiveness to penitent sinners, to pronounce God's blessing, to share in the administration of Holy Baptism and in the celebration of the mysteries of Christ's Body and Blood, and to perform the other ministrations entrusted to you.
 >
 > In all that you do, you are to nourish Christ's people from the riches of his grace, and strengthen them to glorify God in this life and in the life to come. ...
 
 I have had no trouble accepting that **charge** and **vow.** But I have often thought, "How do I do that when my audience is made up of children and retirees, people living in mansions and people living on the streets (out front of my church building), … ?" That is to say, **ALL** people.
+
 ## The challenge
 
 One of the preachers here at St. Alfred's recently, when I told him that his sermon had been outstanding, he said in response that he was preaching to himself in the first place. Today, in part, I am preaching to myself. What I have to say speaks to me of the Good News of God. It may not to you, but I am genuinely trying not to exclude anyone from that Good News.
@@ -28,6 +28,7 @@ One of the ways I have found to preach to myself the "Good News of God" is by wa
 ## Big Enough God?
 
 Getting a picture of **eternity** is, of course, quite impossible. But I was introduced many years ago to a picture of time leading up to eternity. It involves a ball of string. Actually 2 balls.
+
 ### Expand our perspective
 
 So, the first step is for you to imagine that this length of twine represents time since the beginning. God gets in the picture. At various places along the timeline I have placed various events, proportionate to the approximate date.
@@ -59,7 +60,7 @@ The text from Scripture today point to another aspect of my search for seeking t
 
 ### women in today's reading
 
-The first reading is included in our cycle of readings because of its ending. The short, sort of charming, story about Ruth ends with a kind of footnote. It points out that Ruth was an ancestor of David. That makes her an ancestor of Jesus -- according to the geneaology in Matthew's gospel. In that lengthy list describing the lineage of Jesus, we read lots of **men** -- and 5 **women**. [^1]
+The first reading is included in our cycle of readings because of its ending. The short, sort of charming, story about Ruth ends with a kind of footnote. It points out that Ruth was an ancestor of David. That makes her an ancestor of Jesus -- according to the geneaology in Matthew's gospel. In that lengthy list describing the lineage of Jesus, we read lots of **men** -- and 5 **women**. [^2]
 
 - Tamar
 - Rahab
@@ -92,9 +93,11 @@ If I get to heaven I shall seek out this passionate soul, searching among the an
 
 (3) God so loved the world that the Word (which was in the beginning and was with God and was God) became flesh and dwelt among us, full of grace and truth, and we beheld that glory, glory as of the only Son from the Father.
 
+---
+
 ## City of God
 
-In closing this effort to put things in perspective, I would like to add a particularl Christian perspective.[^2]
+In closing this effort to put things in perspective, I would like to add a particularl Christian perspective.[^3]
 
 St. Augustine wrote an extended piece at a time when the foundations of his world had fallen to pieces. The city of Rome was sacked by invaders. The reflection he wrote was titled *City of God*. He contrasted 2 cities, sort of obviously labeled "**City of Humans**" and "**City of God**". Much has been written about his work through the centuries, but it all boils down to Augustine's **theology of love.**
 
@@ -102,7 +105,7 @@ It all comes down to **Love of self** vs. **Love of others** – including love 
 
 The **City of God** is not some place or time in the hereafter. It exists alongside the **City of Humans**. Wherever the primary activity is **Love of self** -- there you have the city of human beings. Wherever there is love of others --  there you have the City of God.
 
-The true home for the children of God is in the City of God.[^3]
+The true home for the children of God is in the City of God.[^4]
 
 ## Burn (Annie Dillard)
 
@@ -128,7 +131,8 @@ Then, to close, I can hear that image of fire as Good News. Teilhard de Chardin 
 
 ---
 
-[^1]: [Unlikely Heroes The Women of Matthew 1 - Wycliffe Bible Translators USA Homepage](https://www.wycliffe.org/blog/posts/unlikely-heroes-the-women-of-matthew-1)
+[^1]: [*From the Examination*]
+[^2]: [Unlikely Heroes The Women of Matthew 1 - Wycliffe Bible Translators USA Homepage](https://www.wycliffe.org/blog/posts/unlikely-heroes-the-women-of-matthew-1)
 
-[^2]: [Reading Augustine's *City of God* Understanding the Two Cities Discourses on Minerva](https://minervawisdom.com/2024/03/15/reading-augustines-city-of-god-understanding-the-two-cities/)
-[^3]:   <https://www.liberty.edu/ace/articles/city-god-city-man/>
+[^3]: [Reading Augustine's *City of God* Understanding the Two Cities Discourses on Minerva](https://minervawisdom.com/2024/03/15/reading-augustines-city-of-god-understanding-the-two-cities/)
+[^4]:   <https://www.liberty.edu/ace/articles/city-god-city-man/>
