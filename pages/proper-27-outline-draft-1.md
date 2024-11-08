@@ -4,7 +4,6 @@ aliases: []
 tags: []
 author: St. Alfred's Episcopal church
 date: Nov. 9-10, 2024
-title: Proper 27-
 ---
 
 ## Opening
@@ -27,15 +26,15 @@ One of the preachers here at St. Alfred's recently, when I told him that his ser
 
 One of the ways I have found to preach to myself the "Good News of God" is by way of keeping a right perspective on things. In days gone I might have called it "looking at things from God's perspective." Seeing things in the light of eternity." It's easier for me to say, "Imagining God's perspective."
 
-# Big Enough God?
+## Big Enough God?
 
 Getting a picture of **eternity** is, of course, quite impossible. But I was introduced many years ago to a picture of time leading up to eternity. It involves a ball of string. Actually 2 balls.
 
-## Expand our perspective
+### Expand our perspective
 
 So, the first step is for you to imagine that this length of twine represents time since the beginning. God gets in the picture, remember,
 
-### New cosmic scale
+#### New cosmic scale
 
 | New scale             | Years ago    | Distance |
 | --------------------- | ------------ | -------- |
@@ -45,7 +44,7 @@ So, the first step is for you to imagine that this length of twine represents ti
 | Life                  | 3.8 bill     | 28       |
 | Humans                | .0002.8 bill | 1/2 in   |
 
-### New human scale
+#### New human scale
 
 | New scale                              | Years ago | Distance            |
 | -------------------------------------- | --------- | ------------------- |
@@ -56,9 +55,9 @@ So, the first step is for you to imagine that this length of twine represents ti
 | Villages, agriculture, complex society | 8k        | .08 (.97 in) 1in    |
 | History begins                         | 6k        | .07 (.72 in) 3/4 in |
 
-# Grace is found the most unlikely places
+## Grace is found the most unlikely places
 
-## women in today's reading
+### women in today's reading
 
 - Ruth
 - [Unlikely Heroes The Women of Matthew 1 - Wycliffe Bible Translators USA Homepage](https://www.wycliffe.org/blog/posts/unlikely-heroes-the-women-of-matthew-1)
@@ -70,7 +69,7 @@ So, the first step is for you to imagine that this length of twine represents ti
 
 ## Wonder in unlikely places
 
-- A Big-Enough God: Sara Maitland
+A Big-Enough God: Sara Maitland
 
 …
 
@@ -91,9 +90,9 @@ If I get to heaven I shall seek out this passionate soul, searching among the an
 
 (3) God so loved the world that the Word (which was in the beginning and was with God and was God) became flesh and delt among us, full of grace and truth, and we beheld that Bory, glory as of the only Son from the Father.
 
-# from the kerygma "God's good news to the people"
+## from the kerygma "God's good news to the people"
 
-## Great reversal: Jesus repeated over and over a variation of
+### Great reversal: Jesus repeated over and over a variation of
 
 | Jesus's  | Reversal |
 | -------- | -------- |
@@ -102,24 +101,24 @@ If I get to heaven I shall seek out this passionate soul, searching among the an
 | powerful | weak     |
 | outcast  | incrowd  |
 
-## Message of "God's good news?"
+### Message of "God's good news?"
 
 Guess who comes out on top, every time?
 
-# City of God
+## City of God
 
 - [Reading Augustine's *City of God* Understanding the Two Cities Discourses on Minerva](https://minervawisdom.com/2024/03/15/reading-augustines-city-of-god-understanding-the-two-cities/)
 - Augustine: 2 cities
 - While the *City of God* is a work of tremendous cultural criticism and exploration into power dynamics, human-to-human, structural-to-human, human-to-structural, and nation-to-nation analysis, it all boils down to Augustine's **theology of love.**
 - Love of self vs. Love of others and esp. God
 
-## about City
+### about City
 
 <https://www.liberty.edu/ace/articles/city-god-city-man/>
 
 It may be tempting to believe that because the many institutions of life, such as civil governments, businesses, or families, deal with very temporal concerns, they are only part of the City of Man. However, this would be to misunderstand the distinction which Augustine is making. According to him, while all of these institutions inhabit the same saeculum, they do not necessarily belong to one city or the other. Rather, each institution can participate in either city, depending on the attitudes and orientations of its members, and the nature of its structures.
 
-## Pilgrims on Different Roads
+### Pilgrims on Different Roads
 
 According to Augustine, these two cities intersect but can be distinguished. He explains that “In this world, in fact these two cities, remain intermixed and intermingled with each other until they are finally separated at the last judgment.” [11] The two cities relate but cannot be collapsed into one entity. In Books XI-XXII of The City of God, he sets out what he thinks should be said “about the origin, the course, and the appointed end of the two cities.” [12]
 
