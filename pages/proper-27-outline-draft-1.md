@@ -1,49 +1,60 @@
-# Opening Proper 27
+---
+id: proper-27-outline-draft-1
+aliases: []
+tags: []
+author: St. Alfred's Episcopal church
+date: Nov. 9-10, 2024
+title: Proper 27-
+---
 
-- We had an election this past week. You may have noticed.
-- There was a lot of emotion leading up to the vote. I think there probably is an equal amount leading away from it.
+## Opening
+
+We had an election this past week. You may have noticed. My sense is that across the nation Wednesday brought a lot of intense emotions – but they varied a lot. I felt it. But I did anticipate it. I have been thinking about this sermon for weeks now. I thought about previous occasions when I was called upon to preach after the nation had experienced something intense. I thought about the charge I accepted on the occasion of my ordination, that I preach the Gospel to all people, regardless of any distinction other than that they were children of God. The bishop's words to me were, in part ...
 
 ## Vow to Bishop at my ordination
 
+[*From the Examination*]
+
 > As a priest, it will be your task to proclaim by word and deed the Gospel of Jesus Christ, and to fashion your life in accordance with its precepts. You are to love and serve the people among whom you work, caring alike for **young and old, strong and weak, rich and poor**. You are to preach, to declare God's forgiveness to penitent sinners, to pronounce God's blessing, to share in the administration of Holy Baptism and in the celebration of the mysteries of Christ's Body and Blood, and to perform the other ministrations entrusted to you.
-> 
-> In all that you do, you are to nourish Christ's people from the riches of his grace, and strengthen them to glorify God in this life and in the life to come.
+>
+> In all that you do, you are to nourish Christ's people from the riches of his grace, and strengthen them to glorify God in this life and in the life to come. ...
+
+I have had no trouble accepting that **charge** and **vow.** But I have often thought, "How do I do that when my audience is made up of children and retirees, people living in mansions and people living on the streets (out front of my church building), … ?" That is to say, **ALL** people.
 
 ## The challenge
 
-- That may sound straight forward, but in practice it has not always been obvious to me how to go about preaching the Good News of God to **everybody**, young and old, rich and poor, Democrat and Republican.
-- One of the preachers here at St. Alfred's recently said that he was preaching to himself in the first place. Preaching to myself today, I don't know quite how to go about it.
-- One of the ways I have found to preach to myself "Good News" is by way of expanding my horizon. In days gone by you might have called it looking at things from God's perspective. It's easier for me to say, "Imagining God's perspective."
+One of the preachers here at St. Alfred's recently, when I told him that his sermon had been outstanding, he saidn in response that he was preaching to himself in the first place. Today, in part, I am preaching to myself. What I have to say speaks to me of the Good News of God. It may not to you, but I am genuinely trying not to exclude anyone from that Good News.
+
+One of the ways I have found to preach to myself the "Good News of God" is by way of keeping a right perspective on things. In days gone I might have called it "looking at things from God's perspective." Seeing things in the light of eternity." It's easier for me to say, "Imagining God's perspective."
 
 # Big Enough God?
 
+Getting a picture of **eternity** is, of course, quite impossible. But I was introduced many years ago to a picture of time leading up to eternity. It involves a ball of string. Actually 2 balls.
 
 ## Expand our perspective
 
-I don't have
+So, the first step is for you to imagine that this length of twine represents time since the beginning. God gets in the picture, remember,
 
-- String foundation - Perspective / Big Picture
+### New cosmic scale
 
-###  New cosmic scale
+| New scale             | Years ago    | Distance |
+| --------------------- | ------------ | -------- |
+| Big bang              | 13.8 bill    | 100 ft   |
+| Stars & New chemicals | 13.6 bill    | 98       |
+| Earth & solar system  | 4.5 bill     | 33       |
+| Life                  | 3.8 bill     | 28       |
+| Humans                | .0002.8 bill | 1/2 in   |
 
-| New scale | Years ago | Distance |
-| --- | --- | --- |
-| Big bang | 13.8 bill | 100 ft |
-| Stars & New chemicals | 13.6 bill | 98 |
-| Earth & solar system | 4.5 bill | 33 |
-| Life | 3.8 bill | 28 |
-| Humans | .0002.8 bill | 1/2 in |
+### New human scale
 
-### New human scale 
-
-| New scale | Years ago | Distance |
-| --- | --- | --- |
-| Humans | 2.8 mill | 100 |
-| Homo sapiens, tools, hunting | 500k | 50 |
-| Fire, living in caves | 200k | 20 |
-| Neanderthal disappear | 40k | .4 (4.8 in) |
-| Villages, agriculture, complex society | 8k | .08  (.97 in) 1in |
-| History begins | 6k | .07 (.72 in)   3/4 in |
+| New scale                              | Years ago | Distance            |
+| -------------------------------------- | --------- | ------------------- |
+| Humans                                 | 2.8 mill  | 100                 |
+| Homo sapiens, tools, hunting           | 500k      | 50                  |
+| Fire, living in caves                  | 200k      | 20                  |
+| Neanderthal disappear                  | 40k       | .4 (4.8 in)         |
+| Villages, agriculture, complex society | 8k        | .08 (.97 in) 1in    |
+| History begins                         | 6k        | .07 (.72 in) 3/4 in |
 
 # Grace is found the most unlikely places
 
@@ -61,13 +72,13 @@ I don't have
 
 - A Big-Enough God: Sara Maitland
 
-… 
+…
 
 So l am not going to attempt to read off an ethical code From the material I have outlined. Instead I want to talk about responses; about how we might respond to, react to, the Big-Enough God in her particular revelation through creation.
 
 An immediate and necessary response is a humbled and shaken ejaculation of 'Oh wow. The same sort of "wow' that I suggested would be a poet's response to the creation narra-tive. This wowed posture, it seems to me, is what is meant by that odd word joy. For people who have difficulty in assuming this posture I can recommend the exercise of drawing up a list of things for which it would be insane to give thanks, but which are obviously extraordinary. I will give you three of my favourites to start you off:
 
-(1) Once upon a time someone invented mayonnaise.  It may not have struck you what an extraordinary thing this is, but think about it. While you do, be sure to bear in mind that in rural societies every egg is precious, and every drop of olive oil has been pressed out by the feet of children who doubtless complained ceaselessly as they stamped.
+(1) Once upon a time someone invented mayonnaise. It may not have struck you what an extraordinary thing this is, but think about it. While you do, be sure to bear in mind that in rural societies every egg is precious, and every drop of olive oil has been pressed out by the feet of children who doubtless complained ceaselessly as they stamped.
 
 Nonetheless, and for no apparent reason, it occurred to someone in Mahon on Minorca, without an electric blender, that if you wasted a great number of egg yolks by pouring olive oil on to them very slowly while half breaking your wrist with a whisk, the resulting mixture, far from being yellowish and perfectly revolting, would be white and fluffy and taste delicious with cold meat, hard-boiled eggs and particularly cold poached salmon.
 Legend tells that mayonnaise was first made for a passing king, but this seems to me improbable. It is most unusual for any cook to start messing about with unlikely experiments when a king is waiting for his dinner; and your rivals -jealous that you got the job - are more than half hoping your souffe will flop, and a small but perfectly formed slug will sneak into the salad and lurk under a rose-cut radish.
@@ -80,18 +91,16 @@ If I get to heaven I shall seek out this passionate soul, searching among the an
 
 (3) God so loved the world that the Word (which was in the beginning and was with God and was God) became flesh and delt among us, full of grace and truth, and we beheld that Bory, glory as of the only Son from the Father.
 
-
-
 # from the kerygma "God's good news to the people"
 
-## Great reversal: Jesus repeated over and over a variation of:
+## Great reversal: Jesus repeated over and over a variation of
 
-| Jesus's | Reversal |
-|--- | --- |
-| Victors  | Losers |
-| Rich | Poor |
-| powerful | weak |
-| outcast | incrowd |
+| Jesus's  | Reversal |
+| -------- | -------- |
+| Victors  | Losers   |
+| Rich     | Poor     |
+| powerful | weak     |
+| outcast  | incrowd  |
 
 ## Message of "God's good news?"
 
@@ -106,7 +115,7 @@ Guess who comes out on top, every time?
 
 ## about City
 
-https://www.liberty.edu/ace/articles/city-god-city-man/
+<https://www.liberty.edu/ace/articles/city-god-city-man/>
 
 It may be tempting to believe that because the many institutions of life, such as civil governments, businesses, or families, deal with very temporal concerns, they are only part of the City of Man. However, this would be to misunderstand the distinction which Augustine is making. According to him, while all of these institutions inhabit the same saeculum, they do not necessarily belong to one city or the other. Rather, each institution can participate in either city, depending on the attitudes and orientations of its members, and the nature of its structures.
 
