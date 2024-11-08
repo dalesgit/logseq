@@ -33,7 +33,7 @@ Getting a picture of **eternity** is, of course, quite impossible. But I was int
 
 So, the first step is for you to imagine that this length of twine represents time since the beginning. God gets in the picture. At various places along the timeline I have placed various events, proportionate to the approximate date.
 
-#### New cosmic scale
+#### New Cosmic scale
 
 | New scale             | Years ago    | Distance |
 | --------------------- | ------------ | -------- |
@@ -43,22 +43,23 @@ So, the first step is for you to imagine that this length of twine represents ti
 | Life                  | 3.8 bill     | 28       |
 | Humans                | .0002.8 bill | 1/2 in   |
 
-#### New human scale
+#### New Human scale [^5]
 
-| New scale                              | Years ago | Distance            |
-| -------------------------------------- | --------- | ------------------- |
-| Humans                                 | 2.8 mill  | 100                 |
-| Homo sapiens, tools, hunting           | 500k      | 50                  |
-| Fire, living in caves                  | 200k      | 20                  |
-| Neanderthal disappear                  | 40k       | .4 (4.8 in)         |
-| Villages, agriculture, complex society | 8k        | .08 (.97 in) 1in    |
-| History begins                         | 6k        | .07 (.72 in) 3/4 in |
+| New scale                              | Years ago | Distance |
+|----------------------------------------|-----------|----------|
+| Humans                                 | 2.8 mill  | 100      |
+| Homo sapiens, tools, hunting           | 500k      | 50       |
+| Fire, living in caves                  | 200k      | 20       |
+| Neanderthal disappear                  | 40k       | 17.1     |
+| Villages, agriculture, complex society | 8k        | 3.4 in   |
+| History begins                         | 6k        | 2.6 in   |
+| Jesus                                  | 2k        | .9 in    |
 
-## Grace is found the most unlikely places
+## Grace is found in the most unlikely places
 
-The text from Scripture today point to another aspect of my search for seeking to enlarge my perspective.
+The text from Scripture today points to another aspect of my search to enlarge our perspective.
 
-### women in today's reading
+### Women in today's reading
 
 The first reading is included in our cycle of readings because of its ending. The short, sort of charming, story about Ruth ends with a kind of footnote. It points out that Ruth was an ancestor of David. That makes her an ancestor of Jesus -- according to the geneaology in Matthew's gospel. In that lengthy list describing the lineage of Jesus, we read lots of **men** -- and 5 **women**. [^2]
 
@@ -68,11 +69,11 @@ The first reading is included in our cycle of readings because of its ending. Th
 - Bathsheba
 - Mary
 
-Each of these women were somehow rejected and or scandalous in the lives they lived. But God saw fit to use them to his larger purposes. They were forebears of the whole ball of wax (*Kerygma*, "Good news") -- the Good News of God.
+Each of these women were socially and sexually compromised in the lives they lived. But God saw fit to use them to his larger purposes. They were forebears of the whole ball of wax (the *Kerygma*, the "Gospel") -- the Good News of God.
 
 ## Wonder in unlikely places
 
-Part of what I am able to hear as the Good News is that what we see with our ordinary eyes is not what God sees with his/her eyes. God's handiwork is often not obvious to us -- maybe **usually** not obvious. Consider this reflection from *A Big-Enough God* by Sara Maitland.
+Part of what I am able to hear as the Good News is that what we see with our ordinary eyes is not what God sees with God's eyes. God's handiwork is often not obvious to us -- maybe **usually** not obvious. Consider this reflection from *A Big-Enough God* by Sara Maitland.
 
 ---
 
@@ -89,7 +90,7 @@ But then what circumstances are probable? Mayonnaise is not something you could 
 
 If I get to heaven I shall seek out this passionate soul, searching among the angels for one whose wings have that particular soft and lustrous sheen, and thank her. For it gives me some vague notion of how God must have made the world - smashing whole galaxies, more precious than eggs; slowly pouring in the dust of trampled stars and patiently stirring the primaeval goo - simply for delight and to see how it turned out.
 
-(2) There are 9 planets and 47 moons in our solar system. (Actually there are more: the Voyager spacecraft photographed several extra moons around Saturn, but their orbits are not known and they are not named yet.) They all spin in the same direction except one: Triton, Neptune's giant moon, orbits its planet in reverse; which means that it is rotating the other way from Neptune itself. All that dis-lance away, across cold space and out into the dark where the sun's light is as frail as moonshine, Triton-wrapped in crimson oceans of liquid nitrogen, down which sail majestic great blue-white icebergs of frozen methane-spins alone in a different direction.
+(2) There are 9 planets and 47 moons in our solar system. (Actually there are more: the Voyager spacecraft photographed several extra moons around Saturn, but their orbits are not known and they are not named yet.) They all spin in the same direction except one: Triton, Neptune's giant moon, orbits its planet in reverse; which means that it is rotating the other way from Neptune itself. All that distance away, across cold space and out into the dark where the sun's light is as frail as moonshine, Triton – wrapped in crimson oceans of liquid nitrogen, down which sail majestic great blue-white icebergs of frozen methane – spins alone in a different direction.
 
 (3) God so loved the world that the Word (which was in the beginning and was with God and was God) became flesh and dwelt among us, full of grace and truth, and we beheld that glory, glory as of the only Son from the Father.
 
@@ -97,7 +98,7 @@ If I get to heaven I shall seek out this passionate soul, searching among the an
 
 ## City of God
 
-In closing this effort to put things in perspective, I would like to add a particularl Christian perspective.[^3]
+In closing this effort to put things in perspective, I would like to add a particularly Christian perspective.[^3]
 
 St. Augustine wrote an extended piece at a time when the foundations of his world had fallen to pieces. The city of Rome was sacked by invaders. The reflection he wrote was titled *City of God*. He contrasted 2 cities, sort of obviously labeled "**City of Humans**" and "**City of God**". Much has been written about his work through the centuries, but it all boils down to Augustine's **theology of love.**
 
@@ -119,19 +120,26 @@ Annie Dillard gave me an image of what life in the City of God looks like in a l
 >
 > The wax rose in the moth's body from her soaking abdomen to her thorax to the jagged hole where her head should be, and widened into flame, a saffron yellow flame that robed her to the ground like any immolating monk. That candle had two wicks, two flames of identical height, side by side. The moth's head was fire. She burned for two hours, until I blew her out.
 >
-> She burned for two hours without changing, without bending or leaning-only glowing within, like a building fire glimpsed through silhouetted walls, like a hollow saint, like a flame-faced virgin gone to God, while I read by her light, kindled, while Rimbaud in Paris burnt out his brains in a thousand poems, while night pooled wetly at my feet.
+> She burned for two hours without changing, without bending or leaning – only glowing within, like a building fire glimpsed through silhouetted walls, like a hollow saint, like a flame-faced virgin gone to God, while I read by her light, kindled, while Rimbaud in Paris burnt out his brains in a thousand poems, while night pooled wetly at my feet.
 
-Then, to close, I can hear that image of fire as Good News. Teilhard de Chardin said this:
+Annie Dillard was able to see into the heart of things and in the most ordinary of things to recognize the awesome presence of God. Good news. 
+
+My effort today has been to try to put the present into a proper perspective, God's perspective, and to let the Good News of God soak in.
+
+To close, I can hear that image of fire as Good News in the words of Teilhard de Chardin:
 
 > A story from the [desert fathers](https://abbeyofthearts.com/books/desert-mothers-and-fathers-early-christian-wisdom-sayings-annotated-explained/): Abba Lot came to Abba Joseph and said: Father, according as I am able, I keep my little rule, and my little fast, my prayer, meditation and contemplative silence; and, according as I am able, I strive to cleanse my heart of thoughts: now what more should I do? The elder rose up in reply and stretched out his hands to heaven, and his fingers became like ten lamps of fire. He said: Why not become fire?:
 >
 > Someday, after we have mastered the winds, the waves and gravity, we shall harness for God energies of love. Then for the second time in the history of the world we will have discovered fire.
 
+If I can sometimes be a light to illumine the Good News of God – it will be enough.
+
 **Keep Burning**.
 
 ---
 
-[^1]: [*From the Examination*]
+[^5]: The oldest known remains of *Homo sapiens*—a collection of skull fragments, a complete jawbone, and stone tools—date to about 315,000 years ago. "**History**" means recorded history which requires the development of written language which began ca. 6,000 years ago.
+[^1]: *From the Examination*
 [^2]: [Unlikely Heroes The Women of Matthew 1 - Wycliffe Bible Translators USA Homepage](https://www.wycliffe.org/blog/posts/unlikely-heroes-the-women-of-matthew-1)
 
 [^3]: [Reading Augustine's *City of God* Understanding the Two Cities Discourses on Minerva](https://minervawisdom.com/2024/03/15/reading-augustines-city-of-god-understanding-the-two-cities/)
