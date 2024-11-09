@@ -20,13 +20,12 @@
  ;; Define the default journal page template.
  ;; Enter the template name between the quotes.
  :default-templates
- {:journals ""}
+ {:journals "journal"}
 
  ;; Set a custom date format for the journal page title.
  ;; Default value: "MMM do, yyyy"
  ;; e.g., "Jan 19th, 2038"
  ;; Example usage e.g., "Tue 19th, Jan 2038"
- ;; :journal/page-title-format "EEE do, MMM yyyy"
 
  ;; Specify the journal filename format using a valid date format string.
  ;; !Warning:
@@ -267,7 +266,10 @@
  ;; input "{{poem red,blue}}"
  ;; becomes
  ;; Rose is red, violet's blue. Life's ordered: Org assists you.
- :macros {}
+ :macros {
+        "short-meet" "<div class='kit' data-kit='expandmacro'>Talk with $1 <%today%> <%time%>\n background-color:: yellow \n participant:: $1\n tag:: $1 \n collapsed:: true</div>"
+        "compare" "This is better than $1 and $2"
+         }
 
  ;; Configure the default expansion level for linked references.
  ;; For example, consider the following block hierarchy:

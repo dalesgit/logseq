@@ -1,4 +1,4 @@
 {
-  "format": "YYYY_MM_DD",
-  "folder": "journals"
+  "format": "YYYY-MM-DD",
+  "folder": "journal"
 }
