@@ -41,12 +41,17 @@ So, the first step is for you to imagine that this length of twine represents ti
 | Stars & New chemicals | 13.6 bill    | 98       |
 | Earth & solar system  | 4.5 bill     | 33       |
 | Life                  | 3.8 bill     | 28       |
+<<<<<<< HEAD
 | Humans                | .0002.8 bill | 1/2 in   |
+=======
+| Humans                | 2.8 mill | 1/4 in   |
+>>>>>>> fab52dcfb86508459eff2280035295f995315854
 
 #### New Human scale [^5]
 
 | New scale                              | Years ago | Distance |
 |----------------------------------------|-----------|----------|
+<<<<<<< HEAD
 | Humans                                 | 2.8 mill  | 100      |
 | Homo sapiens, tools, hunting           | 500k      | 50       |
 | Fire, living in caves                  | 200k      | 20       |
@@ -54,6 +59,15 @@ So, the first step is for you to imagine that this length of twine represents ti
 | Villages, agriculture, complex society | 8k        | 3.4 in   |
 | History begins                         | 6k        | 2.6 in   |
 | Jesus                                  | 2k        | .9 in    |
+=======
+| Humans                                 | 2.8 mill  | 100 ft     |
+| Homo sapiens, tools, hunting           | 315 k      | 11.3 ft       |
+| Fire, living in caves                  | 200 k      | 7.1 ft      |
+| Neanderthal disappear                  | 40 k       | 1.4 ft    |
+| Villages, agriculture, complex society | 8 k        | 3.4 in   |
+| History begins                         | 6 k        | 2.6 in   |
+| Jesus                                  | 2 k        | .9 in    |
+>>>>>>> fab52dcfb86508459eff2280035295f995315854
 
 ## Grace is found in the most unlikely places
 
