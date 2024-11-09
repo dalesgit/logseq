@@ -2,9 +2,9 @@
 id: proper-27-outline-draft-1
 aliases: []
 tags: []
-title: Proper 27B
 author: St. Alfred's Episcopal church
 date: Nov. 9-10, 2024
+title: Proper 27B
 ---
 
 ## Opening
@@ -35,39 +35,25 @@ So, the first step is for you to imagine that this length of twine represents ti
 
 #### New Cosmic scale
 
-| New scale             | Years ago    | Distance |
-| --------------------- | ------------ | -------- |
-| Big bang              | 13.8 bill    | 100 ft   |
-| Stars & New chemicals | 13.6 bill    | 98       |
-| Earth & solar system  | 4.5 bill     | 33       |
-| Life                  | 3.8 bill     | 28       |
-<<<<<<< HEAD
-| Humans                | .0002.8 bill | 1/2 in   |
-=======
-| Humans                | 2.8 mill | 1/4 in   |
->>>>>>> fab52dcfb86508459eff2280035295f995315854
+| New scale             | Years ago | Distance |
+| --------------------- | --------- | -------- |
+| Big bang              | 13.8 bill | 100 ft   |
+| Stars & New chemicals | 13.6 bill | 98       |
+| Earth & solar system  | 4.5 bill  | 33       |
+| Life                  | 3.8 bill  | 28       |
+| Hominids              | 2.8 mill  | 1/4 in   |
 
 #### New Human scale [^5]
 
 | New scale                              | Years ago | Distance |
-|----------------------------------------|-----------|----------|
-<<<<<<< HEAD
-| Humans                                 | 2.8 mill  | 100      |
-| Homo sapiens, tools, hunting           | 500k      | 50       |
-| Fire, living in caves                  | 200k      | 20       |
-| Neanderthal disappear                  | 40k       | 17.1     |
-| Villages, agriculture, complex society | 8k        | 3.4 in   |
-| History begins                         | 6k        | 2.6 in   |
-| Jesus                                  | 2k        | .9 in    |
-=======
-| Humans                                 | 2.8 mill  | 100 ft     |
-| Homo sapiens, tools, hunting           | 315 k      | 11.3 ft       |
-| Fire, living in caves                  | 200 k      | 7.1 ft      |
-| Neanderthal disappear                  | 40 k       | 1.4 ft    |
-| Villages, agriculture, complex society | 8 k        | 3.4 in   |
-| History begins                         | 6 k        | 2.6 in   |
-| Jesus                                  | 2 k        | .9 in    |
->>>>>>> fab52dcfb86508459eff2280035295f995315854
+| -------------------------------------- | --------- | -------- |
+| Hominids                               | 2.8 mill  | 100 ft   |
+| Homo sapiens, tools, hunting           | 315 k     | 11.3 ft  |
+| Fire, living in caves                  | 200 k     | 7.1 ft   |
+| Neanderthal disappear                  | 40 k      | 1.4 ft   |
+| Villages, agriculture, complex society | 8 k       | 3.4 in   |
+| History begins                         | 6 k       | 2.6 in   |
+| Jesus                                  | 2 k       | .9 in    |
 
 ## Grace is found in the most unlikely places
 
@@ -83,15 +69,15 @@ The first reading is included in our cycle of readings because of its ending. Th
 - Bathsheba
 - Mary
 
-Each of these women were socially and sexually compromised in the lives they lived. But God saw fit to use them to his larger purposes. They were forebears of the whole ball of wax (the *Kerygma*, the "Gospel") -- the Good News of God.
+Each of these women were socially and sexually compromised in the lives they lived. But God saw fit to use them to his larger purposes. They were forebears of the whole ball of wax (the _Kerygma_, the "Gospel") -- the Good News of God.
 
 ## Wonder in unlikely places
 
-Part of what I am able to hear as the Good News is that what we see with our ordinary eyes is not what God sees with God's eyes. God's handiwork is often not obvious to us -- maybe **usually** not obvious. Consider this reflection from *A Big-Enough God* by Sara Maitland.
+Part of what I am able to hear as the Good News is that what we see with our ordinary eyes is not what God sees with God's eyes. God's handiwork is often not obvious to us -- maybe **usually** not obvious. Consider this reflection from _A Big-Enough God_ by Sara Maitland.
 
 ---
 
-…  we might respond to, react to, the Big-Enough God in her particular revelation through creation.
+… we might respond to, react to, the Big-Enough God in her particular revelation through creation.
 
 An immediate and necessary response is a humbled and shaken ejaculation of 'Oh wow. The same sort of "wow' that I suggested would be a poet's response to the creation narrative. This wowed posture, it seems to me, is what is meant by that odd word joy. For people who have difficulty in assuming this posture I can recommend the exercise of drawing up a list of things for which it would be insane to give thanks, but which are obviously extraordinary. I will give you three of my favourites to start you off:
 
@@ -114,11 +100,11 @@ If I get to heaven I shall seek out this passionate soul, searching among the an
 
 In closing this effort to put things in perspective, I would like to add a particularly Christian perspective.[^3]
 
-St. Augustine wrote an extended piece at a time when the foundations of his world had fallen to pieces. The city of Rome was sacked by invaders. The reflection he wrote was titled *City of God*. He contrasted 2 cities, sort of obviously labeled "**City of Humans**" and "**City of God**". Much has been written about his work through the centuries, but it all boils down to Augustine's **theology of love.**
+St. Augustine wrote an extended piece at a time when the foundations of his world had fallen to pieces. The city of Rome was sacked by invaders. The reflection he wrote was titled _City of God_. He contrasted 2 cities, sort of obviously labeled "**City of Humans**" and "**City of God**". Much has been written about his work through the centuries, but it all boils down to Augustine's **theology of love.**
 
 It all comes down to **Love of self** vs. **Love of others** – including love of God.
 
-The **City of God** is not some place or time in the hereafter. It exists alongside the **City of Humans**. Wherever the primary activity is **Love of self** -- there you have the city of human beings. Wherever there is love of others --  there you have the City of God.
+The **City of God** is not some place or time in the hereafter. It exists alongside the **City of Humans**. Wherever the primary activity is **Love of self** -- there you have the city of human beings. Wherever there is love of others -- there you have the City of God.
 
 The true home for the children of God is in the City of God.[^4]
 
@@ -136,7 +122,7 @@ Annie Dillard gave me an image of what life in the City of God looks like in a l
 >
 > She burned for two hours without changing, without bending or leaning – only glowing within, like a building fire glimpsed through silhouetted walls, like a hollow saint, like a flame-faced virgin gone to God, while I read by her light, kindled, while Rimbaud in Paris burnt out his brains in a thousand poems, while night pooled wetly at my feet.
 
-Annie Dillard was able to see into the heart of things and in the most ordinary of things to recognize the awesome presence of God. Good news. 
+Annie Dillard was able to see into the heart of things and in the most ordinary of things to recognize the awesome presence of God. Good news.
 
 My effort today has been to try to put the present into a proper perspective, God's perspective, and to let the Good News of God soak in.
 
@@ -152,9 +138,12 @@ If I can sometimes be a light to illumine the Good News of God – it will be en
 
 ---
 
-[^5]: The oldest known remains of *Homo sapiens*—a collection of skull fragments, a complete jawbone, and stone tools—date to about 315,000 years ago. "**History**" means recorded history which requires the development of written language which began ca. 6,000 years ago.
-[^1]: *From the Examination*
+[^5]: The oldest known remains of _Homo sapiens_—a collection of skull fragments, a complete jawbone, and stone tools—date to about 315,000 years ago. "**History**" means recorded history which requires the development of written language which began ca. 6,000 years ago.
+
+[^1]: _From the Examination_
+
 [^2]: [Unlikely Heroes The Women of Matthew 1 - Wycliffe Bible Translators USA Homepage](https://www.wycliffe.org/blog/posts/unlikely-heroes-the-women-of-matthew-1)
 
-[^3]: [Reading Augustine's *City of God* Understanding the Two Cities Discourses on Minerva](https://minervawisdom.com/2024/03/15/reading-augustines-city-of-god-understanding-the-two-cities/)
-[^4]:   <https://www.liberty.edu/ace/articles/city-god-city-man/>
+[^3]: [Reading Augustine's _City of God_ Understanding the Two Cities Discourses on Minerva](https://minervawisdom.com/2024/03/15/reading-augustines-city-of-god-understanding-the-two-cities/)
+
+[^4]: <https://www.liberty.edu/ace/articles/city-god-city-man/>
