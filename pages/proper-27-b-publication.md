@@ -1,11 +1,13 @@
 ---
-id: proper-27-outline-draft-2b
+id: proper-27-2b-publication
 aliases: []
 tags: []
 author: St. Alfred's Episcopal church
 date: Nov. 9-10, 2024
 title: Proper 27B
 ---
+
+> After 42 years of ministry, this past Sunday's was among the most challenging sermons I ever had to prepare and deliver. It can be viewed at https://boxcast.tv/highlights/st-alfreds-episcopal-church-sunday-holy-eucharist-rite-2-syur7m0hxikht6lj1phm/pggokxirk3vhysidsow7/sp7txlsd8q19tvifjuyv.
 
 ## Opening
 
