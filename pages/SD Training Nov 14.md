@@ -85,8 +85,10 @@ collapsed:: true
 - Next module "arts in SD". creative exploration.
 	- write a poem with me:
 	- "being with what is"
-	- Write down the (word that they use) as first line. 2nd 2 adjectives describing the first line. 3rd line
+	- Write down the (word that they use) as first line. 2nd 2 adjectives describing the first line. 3rd line 3 adverbs what is the [] doing?
 		- Quinzaine
 		- "loss"
+			- quietly deeply
+			- spreading throughout memory
 			-
 	-
