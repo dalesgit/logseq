@@ -92,6 +92,5 @@ collapsed:: true
 			- spreading throughout memory
 			- stalking inner and outer
 			- fearful
-				-
 		- **13:14** [[writing]]:  [Cinquain Poetry: How to Write a Cinquain Poem | Writers.com](https://writers.com/cinquain-poetry)
 		- effective when naming something but not aware of how it is affecting them. Lesson for what to do or not do next.
