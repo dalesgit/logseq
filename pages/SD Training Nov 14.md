@@ -66,7 +66,7 @@ collapsed:: true
 				- She went on being raped at 15 which her mother orchestrated
 				- As a 71 year old woman what do you think you have a right to?
 				- What physical response? Linda, along with "clean language" I tried to use her responses. A slight touch? Reflect back what they are giving.
-	- Christian theodicy. In the context of SD -- if they bring with them one of these ...
+	- Christian theodicy. In the context of SD -- if they bring with them one of these ... Church culture says you can't talk about it, privatized, don't deserve it.
 		- punishment for sins
 		- one element within harmony of creation
 		- purgation
