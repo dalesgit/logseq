@@ -86,7 +86,7 @@ collapsed:: true
 	- write a poem with me:
 	- "being with what is"
 	- Write down the (word that they use) as first line. 2nd 2 adjectives describing the first line. 3rd line 3 adverbs what is the [?] doing? 4th line 4 . word sentence that describes [?]. 1 word as symbol or metaphor.
-		- Quinzaine
+		- cuinquain
 		  collapsed:: true
 			- "loss"
 			- quietly deeply
