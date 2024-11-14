@@ -58,6 +58,7 @@ collapsed:: true
 			- Les Miserables: "I dreamed a dream" scene
 - Linda:
 	- Difference between pain and suffering
+	  collapsed:: true
 		- co-discover resources available to empower the SDee
 		- When one's identity is lost, asking "what are your resources" is nonsensical
 		- cf. constructions de/construction with the SDee
@@ -75,3 +76,4 @@ collapsed:: true
 		- sign of future vindication of God's glory
 	- In SD setting
 		- What are the gains and losses of staying? ... of leaving?
+		- e.g. Woman
