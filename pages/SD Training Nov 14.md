@@ -29,4 +29,6 @@ collapsed:: true
 		- We all talk in metaphors.
 		- Listening while honoring the SDee's language
 		- Use of timeline in looking at the place of suffering / grief in their life
+		- suffering is different from **pain** -- suffering has to do with identity as well as circumstances
+		-
 -
