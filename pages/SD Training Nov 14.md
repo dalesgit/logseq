@@ -39,6 +39,9 @@ collapsed:: true
 				- grief can be a component of all these
 		- *The wild edge of sorrow*: Francis Weller
 			- Gates of grief
-				- logseq.order-list-type:: number
+				- everything we love, we will lose
+				  logseq.order-list-type:: number
+				- the places that have not known love: e.g. **shame**, places that
+				  logseq.order-list-type:: number
 		-
 -
