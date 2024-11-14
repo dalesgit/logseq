@@ -58,5 +58,6 @@ collapsed:: true
 			- Les Miserables: "I dreamed a dream" scene
 - Linda:
 	- Difference between pain and suffering
-		-
+		- co-discover resources available to empower the SDee
+		- When one's identity is lost, asking what are your resources"
 -
