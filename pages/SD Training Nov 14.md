@@ -18,3 +18,5 @@ collapsed:: true
 		- martyrdom of saints -- but the draw was the "heroic" model of what it means to be Christian
 		- How to make meaning out of my own suffering
 		- today: ambivalence of Christian glorification of suffering ... path to God
+	- Discussion
+		- concensus around this is **proscriptive** rather than "prescriptive" i.e.
