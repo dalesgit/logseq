@@ -10,10 +10,13 @@ collapsed:: true
 		- "Lord if I ever needed someone I need you. Someone to hold onto ..."
 		- [[Van Morrison]]
 - ### Terry
-	- been at Atrium for ca. 30 yrs
-	- Linda knew 20  years
-	- cf. page of quotes [Suffering quotes.Clergy.SD.docx](../assets/Suffering_quotes.Clergy.SD_1731602931432_0.docx)
+	- Intro
+	  collapsed:: true
+		- been at Atrium for ca. 30 yrs
+		- Linda knew 20  years
+		- cf. page of quotes [Suffering quotes.Clergy.SD.docx](../assets/Suffering_quotes.Clergy.SD_1731602931432_0.docx)
 	- #### Her background
+	  collapsed:: true
 		- grew up Catholicism
 		- martyrdom of saints -- but the draw was the "heroic" model of what it means to be Christian
 		- How to make meaning out of my own suffering
@@ -25,5 +28,5 @@ collapsed:: true
 		- using **clean language** a thing. i.e. use the language that SDee gives us. In trying to connect we sometimes use our language, rather than the SDee, to reflect it back.
 		- We all talk in metaphors.
 		- Listening while honoring the SDee's language
-		- Use of timeline
+		- Use of timeline in looking at the place of suffering / grief in their life
 -
