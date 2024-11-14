@@ -82,3 +82,6 @@ collapsed:: true
 		- usually when people come to SD the typical "theodicy" answers are not working.
 		- SD often presents with "Chaos narrative" -- imagines life as never getting better; stuck in their suffering narrative. Talk about **fear**. What might God be inviting you in this moment.
 		- SDor is a safe space to hold the suffering they're experiencing.
+- Next module "arts in SD". creative exploration.
+	-
+	-
