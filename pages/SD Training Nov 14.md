@@ -21,5 +21,5 @@ collapsed:: true
 	- Discussion
 		- concensus around this is **proscriptive** rather than "prescriptive" i.e. that suffering is useful or positive
 		  **12:00** [[quick capture]]:  [Elizabeth Johnson (theologian) - Wikipedia](https://en.wikipedia.org/wiki/Elizabeth_Johnson_(theologian))
-		- Esther at interview: She was told
+		- Esther at interview: She was told that she is young and couldn't have suffered that much. *She bristled with that*
 -
