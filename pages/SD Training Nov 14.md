@@ -67,3 +67,8 @@ collapsed:: true
 				- As a 71 year old woman what do you think you have a right to?
 				- What physical response? Linda, along with "clean language" I tried to use her responses. A slight touch? Reflect back what they are giving.
 	- Christian theodicy.
+		- punishment for sins
+		- one element within harmony of creation
+		- purgation
+		- pedagogy
+		-
