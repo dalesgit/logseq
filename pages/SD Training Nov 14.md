@@ -24,4 +24,6 @@ collapsed:: true
 		- Esther at interview: She was told that she is young and couldn't have suffered that much. *She bristled with that*
 		- using **clean language** a thing. i.e. use the language that SDee gives us. In trying to connect we sometimes use our language, rather than the SDee, to reflect it back.
 		- We all talk in metaphors.
+		- Listening while honoring the SDee's language
+		- Use of timeline
 -
