@@ -16,7 +16,7 @@ collapsed:: true
 		- cf. page of quotes [Suffering quotes.Clergy.SD.docx](../assets/Suffering_quotes.Clergy.SD_1731602931432_0.docx)
 			- Elizabeth Johnson **12:00** [[quick capture]]:  [Elizabeth Johnson (theologian) - Wikipedia](https://en.wikipedia.org/wiki/Elizabeth_Johnson_(theologian))
 			- Nina says she's on her way to "Process" theology, e.g. Moltmann
-				- cf. *Touch the wounds*
+				- cf. *Touch the wounds* Tomas Halik
 	- #### Her background
 	  collapsed:: true
 		- grew up Catholicism
@@ -31,5 +31,11 @@ collapsed:: true
 		- Listening while honoring the SDee's language
 		- Use of timeline in looking at the place of suffering / grief in their life
 		- suffering is different from **pain** -- suffering has to do with identity as well as circumstances. Suffering is when our stories, our narrative, (who we are) is broken or lost.
+		- Types of
+			- radical
+			- chronic
+			- developmental
+			- traumatic
+				- grief can be a component of all these
 		-
 -
