@@ -4,5 +4,6 @@
 - ## Discussion
 	- cf. paper journal with short account of my grieving
 	- current grieving re. election
-- Terry
-	- been at Atrium for a
+- ### Terry
+	- been at Atrium for ca. 30 yrs
+	- Linda knew 20  years
