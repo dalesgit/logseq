@@ -19,4 +19,6 @@ collapsed:: true
 		- How to make meaning out of my own suffering
 		- today: ambivalence of Christian glorification of suffering ... path to God
 	- Discussion
-		- concensus around this is **proscriptive** rather than "prescriptive" i.e.
+		- concensus around this is **proscriptive** rather than "prescriptive" i.e. that suffering is useful or positive
+		  **12:00** [[quick capture]]:  [Elizabeth Johnson (theologian) - Wikipedia](https://en.wikipedia.org/wiki/Elizabeth_Johnson_(theologian))
+-
