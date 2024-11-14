@@ -84,7 +84,7 @@ collapsed:: true
 		- SDor is a safe space to hold the suffering they're experiencing.
 - Next module "arts in SD". creative exploration.
 	- write a poem with me:
-	- SD is about "being with what is" -- (n.b. How much our life is spent avoiding what is)
+	- SD is about "being with what is" -- (n.b. How much our life is spent avoiding what is). Hopeful that people will leaving SD a little more comfortable with what is.
 	- Write down the (word that they use) as first line. 2nd 2 adjectives describing the first line. 3rd line 3 adverbs what is the [?] doing? 4th line 4 . word sentence that describes [?]. 1 word as symbol or metaphor.
 		- cuinquain
 			- "loss"
