@@ -62,7 +62,7 @@ collapsed:: true
 		- When one's identity is lost, asking "what are your resources" is nonsensical
 		- cf. constructions de/construction with the SDee
 		- when what they have been doing isn't working. "Who do you know you're not?"  Back into "Who are you?"
-			- age 74 woman coming to Linda, in spiritual formation program. twin sister. It's an identity suffering for many years. Mother gave the sister praise. Gave the woman, "You are ugly".
+			- age 71 woman coming to Linda, in spiritual formation program. twin sister. It's an identity suffering for many years. Mother gave the sister praise. Gave the woman, "You are ugly".
 				- She went on being raped at 15 which her mother orchestrated
-				-
+				- As a 71 year old woman what do you think you deserve?
 -
