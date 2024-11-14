@@ -71,4 +71,4 @@ collapsed:: true
 		- one element within harmony of creation
 		- purgation
 		- pedagogy
-		-
+		- sign of future vindication of God's glory
