@@ -11,10 +11,11 @@ collapsed:: true
 		- [[Van Morrison]]
 - ### Terry
 	- Intro
-	  collapsed:: true
 		- been at Atrium for ca. 30 yrs
 		- Linda knew 20  years
 		- cf. page of quotes [Suffering quotes.Clergy.SD.docx](../assets/Suffering_quotes.Clergy.SD_1731602931432_0.docx)
+			- Elizabeth Johnson **12:00** [[quick capture]]:  [Elizabeth Johnson (theologian) - Wikipedia](https://en.wikipedia.org/wiki/Elizabeth_Johnson_(theologian))
+			-
 	- #### Her background
 	  collapsed:: true
 		- grew up Catholicism
@@ -23,7 +24,6 @@ collapsed:: true
 		- today: ambivalence of Christian glorification of suffering ... path to God
 	- Discussion
 		- concensus around this is **proscriptive** rather than "prescriptive" i.e. that suffering is useful or positive
-		  **12:00** [[quick capture]]:  [Elizabeth Johnson (theologian) - Wikipedia](https://en.wikipedia.org/wiki/Elizabeth_Johnson_(theologian))
 		- Esther at interview: She was told that she is young and couldn't have suffered that much. *She bristled with that*
 		- using **clean language** a thing. i.e. use the language that SDee gives us. In trying to connect we sometimes use our language, rather than the SDee, to reflect it back.
 		- We all talk in metaphors.
