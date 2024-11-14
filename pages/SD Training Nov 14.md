@@ -76,5 +76,5 @@ collapsed:: true
 		- sign of future vindication of God's glory
 	- In SD setting
 		- What are the gains and losses of staying? ... of leaving?
-		- e.g. Woman who lost her husband on a mission trip. She
+		- e.g. Woman who lost her husband on a mission trip. She was "standing on her faith" that the setting was a Godly thing. To disabuse her of that would be to leave her with nothing (until she's ready to change)
 		- usually when people come to SD the typical "theodicy" answers are not working.
