@@ -57,6 +57,7 @@ collapsed:: true
 			- S. experienced by persons, not bodies: meanign, context, coping, families
 			- Les Miserables: "I dreamed a dream" scene
 - Linda:
+  collapsed:: true
 	- Difference between pain and suffering
 	  collapsed:: true
 		- co-discover resources available to empower the SDee
@@ -75,7 +76,9 @@ collapsed:: true
 		- pedagogy
 		- sign of future vindication of God's glory
 	- In SD setting
+	  collapsed:: true
 		- What are the gains and losses of staying? ... of leaving?
 		- e.g. Woman who lost her husband on a mission trip. She was "standing on her faith" that the setting was a Godly thing. To disabuse her of that would be to leave her with nothing (until she's ready to change)
 		- usually when people come to SD the typical "theodicy" answers are not working.
-		- SD often presents with "Chaos narrative" -- imagines life as never getting better; stuck in their suffering narrative. Talk about **fear**
+		- SD often presents with "Chaos narrative" -- imagines life as never getting better; stuck in their suffering narrative. Talk about **fear**. What might God be inviting you in this moment.
+		- SDor is a safe space to hold the suffering they're experiencing.
