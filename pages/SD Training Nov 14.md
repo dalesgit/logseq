@@ -11,6 +11,7 @@ collapsed:: true
 		- [[Van Morrison]]
 - ### Terry
 	- Intro
+	  collapsed:: true
 		- been at Atrium for ca. 30 yrs
 		- Linda knew 20  years
 		- cf. page of quotes [Suffering quotes.Clergy.SD.docx](../assets/Suffering_quotes.Clergy.SD_1731602931432_0.docx)
