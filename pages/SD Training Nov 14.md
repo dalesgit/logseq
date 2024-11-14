@@ -13,4 +13,7 @@ collapsed:: true
 	- been at Atrium for ca. 30 yrs
 	- Linda knew 20  years
 	- #### Her background
-		- ca
+		- grew up Catholicism
+		- martyrdom of saints -- but the draw was the "heroic" model of what it means to be Christian
+		- How to make meaning out of my own suffering
+		- today: ambivalence of Christian glorification of suffering
