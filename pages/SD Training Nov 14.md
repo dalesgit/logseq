@@ -56,5 +56,7 @@ collapsed:: true
 				  logseq.order-list-type:: number
 			- S. experienced by persons, not bodies: meanign, context, coping, families
 			- Les Miserables: "I dreamed a dream" scene
+- Linda:
+	- Difference between pain and suffering
 		-
 -
