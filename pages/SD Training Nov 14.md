@@ -41,7 +41,11 @@ collapsed:: true
 			- Gates of grief
 				- everything we love, we will lose
 				  logseq.order-list-type:: number
-				- the places that have not known love: e.g. **shame**, places that
+				- the places that have not known love: e.g. **shame**, places that have been wrapped in shame
+				  logseq.order-list-type:: number
+				- the sorrows of the world, *anima mundi*, global ...
+				  logseq.order-list-type:: number
+				- what we expected and did not receive
 				  logseq.order-list-type:: number
 		-
 -
