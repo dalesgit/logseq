@@ -61,5 +61,6 @@ collapsed:: true
 		- co-discover resources available to empower the SDee
 		- When one's identity is lost, asking "what are your resources" is nonsensical
 		- cf. constructions de/construction with the SDee
-		- when what they have been doing isn't working. "Who do you know you're not
+		- when what they have been doing isn't working. "Who do you know you're not?"  Back into "Who are you?"
+			- age 74 woman coming to Linda, in spiritual formation program. twin sister. It's an identity suffering for many years.
 -
