@@ -32,7 +32,7 @@ collapsed:: true
 		- Use of timeline in looking at the place of suffering / grief in their life
 		- suffering is different from **pain** -- suffering has to do with identity as well as circumstances. Suffering is when our stories, our narrative, (who we are) is broken or lost.
 		- Types of
-			- radical
+			- radical:
 			- chronic
 			- developmental
 			- traumatic
