@@ -94,4 +94,4 @@ collapsed:: true
 			- stalking inner and outer
 			- fearful
 				-
-		-
+		- effective when naming something but not aware of how it is affecting them. Lesson for what to do or not do next.
