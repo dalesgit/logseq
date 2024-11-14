@@ -24,14 +24,17 @@ collapsed:: true
 		- How to make meaning out of my own suffering
 		- today: ambivalence of Christian glorification of suffering ... path to God
 	- Discussion
-		- concensus around this is **proscriptive** rather than "prescriptive" i.e. that suffering is useful or positive
-		- Esther at interview: She was told that she is young and couldn't have suffered that much. *She bristled with that*
-		- using **clean language** a thing. i.e. use the language that SDee gives us. In trying to connect we sometimes use our language, rather than the SDee, to reflect it back.
-		- We all talk in metaphors.
-		- Listening while honoring the SDee's language
-		- Use of timeline in looking at the place of suffering / grief in their life
-		- suffering is different from **pain** -- suffering has to do with identity as well as circumstances. Suffering is when our stories, our narrative, (who we are) is broken or lost.
+		- General
+		  collapsed:: true
+			- concensus around this is **proscriptive** rather than "prescriptive" i.e. that suffering is useful or positive
+			- Esther at interview: She was told that she is young and couldn't have suffered that much. *She bristled with that*
+			- using **clean language** a thing. i.e. use the language that SDee gives us. In trying to connect we sometimes use our language, rather than the SDee, to reflect it back.
+			- We all talk in metaphors.
+			- Listening while honoring the SDee's language
+			- Use of timeline in looking at the place of suffering / grief in their life
+			- suffering is different from **pain** -- suffering has to do with identity as well as circumstances. Suffering is when our stories, our narrative, (who we are) is broken or lost.
 		- Types of
+		  collapsed:: true
 			- radical: We do not live in a just world, but a tragic one. Suffering is at the core of tragedy and, according to Wendy Farley, "it winesses to the power of absurdity or malice or sheer force to bring down what is noble and good"
 			- chronic
 			- developmental
