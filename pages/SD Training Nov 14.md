@@ -45,7 +45,10 @@ collapsed:: true
 				  logseq.order-list-type:: number
 				- the sorrows of the world, *anima mundi*, global ...
 				  logseq.order-list-type:: number
-				- what we expected and did not receive
+				- what we expected and did not receive. "diminished experience of who we are"
 				  logseq.order-list-type:: number
+				- ancestral grief: sorrows experienced by our ancestors
+				  logseq.order-list-type:: number
+			-
 		-
 -
