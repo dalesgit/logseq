@@ -87,11 +87,11 @@ collapsed:: true
 	- "being with what is"
 	- Write down the (word that they use) as first line. 2nd 2 adjectives describing the first line. 3rd line 3 adverbs what is the [?] doing? 4th line 4 . word sentence that describes [?]. 1 word as symbol or metaphor.
 		- cuinquain
-		  collapsed:: true
 			- "loss"
 			- quietly deeply
 			- spreading throughout memory
 			- stalking inner and outer
 			- fearful
 				-
+		- **13:14** [[writing]]:  [Cinquain Poetry: How to Write a Cinquain Poem | Writers.com](https://writers.com/cinquain-poetry)
 		- effective when naming something but not aware of how it is affecting them. Lesson for what to do or not do next.
