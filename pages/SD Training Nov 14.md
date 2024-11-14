@@ -76,4 +76,5 @@ collapsed:: true
 		- sign of future vindication of God's glory
 	- In SD setting
 		- What are the gains and losses of staying? ... of leaving?
-		- e.g. Woman
+		- e.g. Woman who lost her husband on a mission trip. She
+		- usually when people come to SD the typical "theodicy" answers are not working.
