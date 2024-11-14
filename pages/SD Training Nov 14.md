@@ -66,4 +66,4 @@ collapsed:: true
 				- She went on being raped at 15 which her mother orchestrated
 				- As a 71 year old woman what do you think you have a right to?
 				- What physical response? Linda, along with "clean language" I tried to use her responses. A slight touch? Reflect back what they are giving.
--
+	- Christian theodicy.
