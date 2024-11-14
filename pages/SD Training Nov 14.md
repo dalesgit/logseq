@@ -95,4 +95,4 @@ collapsed:: true
 		- **13:14** [[writing]]:  [Cinquain Poetry: How to Write a Cinquain Poem | Writers.com](https://writers.com/cinquain-poetry)
 		- effective when naming something but not aware of how it is affecting them. Lesson for what to do or not do next.
 		- How would like God to be with you in this darkness? How are you giving yourself permission to be in the darkenss? Questions ...
--
+- Verbatim: send to everyone. by Thursday. 3 pp.
