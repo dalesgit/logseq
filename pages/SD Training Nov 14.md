@@ -6,6 +6,7 @@
 	- current grieving re. election
 	- Van Morrison music to open: *His band and the street choir*
 		- "Lord if I ever needed someone I need you. Someone to hold onto ..."
+		- [[Van Morrison]]
 - ### Terry
 	- been at Atrium for ca. 30 yrs
 	- Linda knew 20  years
