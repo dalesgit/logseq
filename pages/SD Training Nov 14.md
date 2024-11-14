@@ -37,5 +37,6 @@ collapsed:: true
 			- developmental
 			- traumatic
 				- grief can be a component of all these
+		- *The wild edge of sorrow*: Francis Weller
 		-
 -
