@@ -32,13 +32,14 @@ collapsed:: true
 		- Use of timeline in looking at the place of suffering / grief in their life
 		- suffering is different from **pain** -- suffering has to do with identity as well as circumstances. Suffering is when our stories, our narrative, (who we are) is broken or lost.
 		- Types of
-			- radical: We do not live in a just world, but a tragic one. Suffering is at the core of tragedy and, according to Wendy Farley, "it winesses to the power of absurdity or malice or shee
+			- radical: We do not live in a just world, but a tragic one. Suffering is at the core of tragedy and, according to Wendy Farley, "it winesses to the power of absurdity or malice or sheer force to bring down what is noble and good"
 			- chronic
 			- developmental
 			- traumatic
 				- grief can be a component of all these
 		- *The wild edge of sorrow*: Francis Weller
 			- Gates of grief
+			  collapsed:: true
 				- everything we love, we will lose
 				  logseq.order-list-type:: number
 				- the places that have not known love: e.g. **shame**, places that have been wrapped in shame
@@ -49,6 +50,7 @@ collapsed:: true
 				  logseq.order-list-type:: number
 				- ancestral grief: sorrows experienced by our ancestors
 				  logseq.order-list-type:: number
-			-
+			- S. experienced by persons, not bodies: meanign, context, coping, families
+			- Les Miserables: "I dreamed a dream" scene
 		-
 -
