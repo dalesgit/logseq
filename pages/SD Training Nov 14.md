@@ -64,5 +64,5 @@ collapsed:: true
 		- when what they have been doing isn't working. "Who do you know you're not?"  Back into "Who are you?"
 			- age 71 woman coming to Linda, in spiritual formation program. twin sister. It's an identity suffering for many years. Mother gave the sister praise. Gave the woman, "You are ugly".
 				- She went on being raped at 15 which her mother orchestrated
-				- As a 71 year old woman what do you think you deserve?
+				- As a 71 year old woman what do you think you have a right to?
 -
