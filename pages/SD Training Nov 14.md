@@ -59,5 +59,7 @@ collapsed:: true
 - Linda:
 	- Difference between pain and suffering
 		- co-discover resources available to empower the SDee
-		- When one's identity is lost, asking what are your resources"
+		- When one's identity is lost, asking "what are your resources" is nonsensical
+		- cf. constructions de/construction with the SDee
+		- when what they have been doing isn't working. "Who do you know you're not
 -
