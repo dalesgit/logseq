@@ -1,1 +1,3 @@
-- [[SD-]]
+- [[Spiritual Direction 101-notes-index]]
+-
+-
