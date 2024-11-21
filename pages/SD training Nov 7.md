@@ -100,7 +100,6 @@
 	  collapsed:: true
 		- When the wounds go deep = is the topic
 	- Verbatim
-	  collapsed:: true
 		- create a "faux" verbatim
 		- choose the topic from our readings
 			- come in grieving
