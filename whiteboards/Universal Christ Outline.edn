@@ -1,5 +1,5 @@
 {:blocks (
-{:block/created-at 1712329771276
+{:block/created-at 1732186596224
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -15,7 +15,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 40.615386962890625]
+:size [400 47.86460498331587]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -24,9 +24,9 @@
 :point [549.8605651855469 112.12668228149415]
 :parentId "66101395-b5dd-4877-90d9-b62c891adfe8"
 :collapsedHeight 0
-:nonce 1712329664877}}
-:block/updated-at 1712329771276} 
-{:block/created-at 1712329768535
+:nonce 1712329664881}}
+:block/updated-at 1732186596224} 
+{:block/created-at 1732186581486
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -42,7 +42,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 40.615386962890625]
+:size [400 79.06250978697841]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -51,9 +51,9 @@
 :point [37.51686096191406 39.24338493347169]
 :parentId "66101395-b5dd-4877-90d9-b62c891adfe8"
 :collapsedHeight 0
-:nonce 1712329753471}}
-:block/updated-at 1712329768535} 
-{:block/created-at 1712329789787
+:nonce 1712329753473}}
+:block/updated-at 1732186581486} 
+{:block/created-at 1732186581497
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -69,7 +69,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 40.615386962890625]
+:size [400 79.06250978697841]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -78,8 +78,8 @@
 :point [81.14427185058594 140.59432182312014]
 :parentId "66101395-b5dd-4877-90d9-b62c891adfe8"
 :collapsedHeight 0
-:nonce 1712329779046}}
-:block/updated-at 1712329789787} 
+:nonce 1712329779048}}
+:block/updated-at 1732186581497} 
 {:block/content ""
 :block/format :markdown
 :block/left 
@@ -89,7 +89,7 @@
 :block/properties 
 {}
 :block/uuid #uuid "6610144a-cbf3-44a1-9d3f-a1b766803bb7"} 
-{:block/created-at 1712329898340
+{:block/created-at 1732186581510
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -105,7 +105,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 64.61538696289062]
+:size [400 79.06248576439505]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -114,9 +114,9 @@
 :point [85.92308044433594 237.71456108093264]
 :parentId "66101395-b5dd-4877-90d9-b62c891adfe8"
 :collapsedHeight 0
-:nonce 1712329886826}}
-:block/updated-at 1712329898340} 
-{:block/created-at 1712329921568
+:nonce 1712329886828}}
+:block/updated-at 1732186581510} 
+{:block/created-at 1732186581523
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -132,7 +132,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 40.615386962890625]
+:size [400 47.86460498331587]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -141,9 +141,9 @@
 :point [172.2163848876953 372.7313457489014]
 :parentId "66101395-b5dd-4877-90d9-b62c891adfe8"
 :collapsedHeight 0
-:nonce 1712329912704}}
-:block/updated-at 1712329921568} 
-{:block/created-at 1712329934971
+:nonce 1712329912706}}
+:block/updated-at 1732186581523} 
+{:block/created-at 1732186581549
 :block/properties 
 {:ls-type :whiteboard-shape
 :logseq.tldraw.shape 
@@ -159,7 +159,7 @@
 :compact true
 :isAutoResizing true
 :type "logseq-portal"
-:size [400 40.61534881591797]
+:size [400 47.86456094191304]
 :strokeType "line"
 :strokeWidth 2
 :opacity 1
@@ -168,8 +168,42 @@
 :point [209.6298065185547 471.63277397155764]
 :parentId "66101395-b5dd-4877-90d9-b62c891adfe8"
 :collapsedHeight 0
-:nonce 1712329927995}}
-:block/updated-at 1712329934971})
+:nonce 1712329927997}}
+:block/updated-at 1732186581549} 
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "6610144a-cbf3-44a1-9d3f-a1b766803bb7"}
+:block/parent 
+{:block/uuid #uuid "66101395-b5dd-4877-90d9-b62c891adfe8"}
+:block/uuid #uuid "673f1222-b1e4-4768-aeb8-08fcc53b372f"} 
+{:block/created-at 1732186660881
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 6
+:scale [1 1]
+:pageId "673f1222-b1e4-4768-aeb8-08fcc53b372f"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 40.66669227201001]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "6bf84c50-a7f7-11ef-8960-e3bcbbd25f41"
+:noFill false
+:point [928 344]
+:parentId "66101395-b5dd-4877-90d9-b62c891adfe8"
+:collapsedHeight 0
+:nonce 1732186658200}}
+:block/updated-at 1732186660881})
 :pages (
 {:block/uuid #uuid "66101395-b5dd-4877-90d9-b62c891adfe8"
 :block/properties 
@@ -181,8 +215,9 @@
 {}
 :nonce 1
 :assets []
-:shapes-index ("419d3040-f35e-11ee-90a7-75def01f6bfa" "76688220-f35e-11ee-90a7-75def01f6bfa" "85aff240-f35e-11ee-90a7-75def01f6bfa" "c5edde80-f35e-11ee-90a7-75def01f6bfa" "d55a89e0-f35e-11ee-90a7-75def01f6bfa" "de77c290-f35e-11ee-90a7-75def01f6bfa")}}
-:block/updated-at 1712329934971
+:shapes-index ("419d3040-f35e-11ee-90a7-75def01f6bfa" "76688220-f35e-11ee-90a7-75def01f6bfa" "85aff240-f35e-11ee-90a7-75def01f6bfa" "c5edde80-f35e-11ee-90a7-75def01f6bfa" "d55a89e0-f35e-11ee-90a7-75def01f6bfa" "de77c290-f35e-11ee-90a7-75def01f6bfa" "6bf84c50-a7f7-11ef-8960-e3bcbbd25f41")}}
+:block/journal? false
+:block/updated-at 1732186663881
 :block/created-at 1712329621414
 :block/type "whiteboard"
 :block/name "universal christ outline"
