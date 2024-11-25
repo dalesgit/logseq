@@ -4,7 +4,7 @@ aliases: []
 tags: []
 author: St. Alfred's Episcopal church
 date: Nov. 9-10, 2024
-title: Proper 27B
+title: Proper 27B draft 2b
 ---
 
 ## Opening
