@@ -8,9 +8,9 @@ date: Nov. 28
 ## Introduction: Various approaches to this day
 
 
-*We have come together in the presence of God to witness and bless* ...
+*Dearly beloved, we have come together in the presence of God to witness and bless* ...
 
-Oh, that's from the marriage liturgy. This is Thanksgiving. Another occasion. Another festive time. The focus here is **Thanksgiving. Gratitude. Thank you.**
+Oh, that's from a different liturgy. This is Thanksgiving Day. Another occasion. Another festive time. The focus here is **Thanksgiving. Gratitude. Thank you.**
 
 But I must say, there's a mixed up pile of subjects that come to mind, driving this theme of "Thanksgiving".  
 
