@@ -41,3 +41,5 @@
 		- Rohr's meditation today that the universe is all energy -- we are energy inter-connected
 		- **12:28** [[quick capture]]:  [Amazon.com: The Energy of Prayer: How to Deepen Your Spiritual Practice: 9781888375558: Nhat Hanh, Thich, Dossey MD, Larry: Books](https://www.amazon.com/Energy-Prayer-Deepen-Spiritual-Practice/dp/1888375558)
 		-
+-
+-
