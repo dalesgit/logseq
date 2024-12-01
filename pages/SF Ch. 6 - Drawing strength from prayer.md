@@ -15,14 +15,15 @@
 		  logseq.order-list-type:: number
 		- highlighting the distinction
 		  logseq.order-list-type:: number
-			- logseq.order-list-type:: number
 			- a note on prayer of petition
 			  logseq.order-list-type:: number
 			- a note on prayer for the dead
 			  logseq.order-list-type:: number
-			- a note on praying while in crisis**
+			- a note on praying while in crisis
 			  logseq.order-list-type:: number
 - ## essential methods of prayer
+	- liturgical / devotional
+	- meditation / contemplation
 - ## Sustaining ourselves in prayer
 	- obstacles blocking prayer
 	  logseq.order-list-type:: number
@@ -32,3 +33,10 @@
 	  logseq.order-list-type:: number
 	- Our one great act of fidelity -- **show up**
 	  logseq.order-list-type:: number
+- ## Discussion
+	- Intercessory prayer
+		- My story of Stephen Spicer & prayer for reconciliation
+		- Peter  Prayer iis in the context of our being a part of the inter-connected whole which is God's universe
+		- Rohr's meditation today that the universe is all energy -- we are energy inter-connected
+		- **12:28** [[quick capture]]:  [Amazon.com: The Energy of Prayer: How to Deepen Your Spiritual Practice: 9781888375558: Nhat Hanh, Thich, Dossey MD, Larry: Books](https://www.amazon.com/Energy-Prayer-Deepen-Spiritual-Practice/dp/1888375558)
+		-
