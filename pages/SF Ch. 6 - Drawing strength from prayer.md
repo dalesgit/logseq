@@ -1,9 +1,13 @@
 - **12:31** [[quick capture]]:  [Ritual Studies | Oxford Research Encyclopedia of Religion](https://oxfordre.com/religion/display/10.1093/acrefore/9780199340378.001.0001/acrefore-9780199340378-e-21?d=%2F10.1093%2Facrefore%2F9780199340378.001.0001%2Facrefore-9780199340378-e-21&p=emailA0YCZ6xUADKSk#:~:text=Summary,Grimes%3A%20it%20is%20a%20field.)
 -
 - ## need to draw strength from prayer
+	- Our adult years are a marathon, not a sprint, and so it is difficult to sustain graciousness, generosity, and patience through the tiredness, trials, and temptations that beset us through those years.
+	- Recognize the power **and** that it is not our power. 171
 - ## What is prayer?
+	- John Damascene: lifting mind and heart to God
 - ## essential kinds of prayer
 	- liturgical
+		- I spoke last week about experiencing corporate prayer at seminary
 	- private/devotional
 		- priestly prayer
 		  logseq.order-list-type:: number
