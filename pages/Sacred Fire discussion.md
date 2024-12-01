@@ -150,4 +150,6 @@ title: Sacred Fire discussion
 	- ## Discussion
 		- Seeking God's will for me. Challenging. But "the Program" says just "do the next right thing."
 		- Same seeking: Do whatever is going to do the best way to advance my life's narrative. (Lyn)
-		-
+- # SF Ch. 6
+	- ## Table
+	- ## Discussion

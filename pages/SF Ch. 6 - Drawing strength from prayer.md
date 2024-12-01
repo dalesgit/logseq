@@ -1,6 +1,6 @@
 - **12:31** [[quick capture]]:  [Ritual Studies | Oxford Research Encyclopedia of Religion](https://oxfordre.com/religion/display/10.1093/acrefore/9780199340378.001.0001/acrefore-9780199340378-e-21?d=%2F10.1093%2Facrefore%2F9780199340378.001.0001%2Facrefore-9780199340378-e-21&p=emailA0YCZ6xUADKSk#:~:text=Summary,Grimes%3A%20it%20is%20a%20field.)
 -
-## need to draw strength from prayer
+- ## need to draw strength from prayer
 - ## What is prayer?
 - ## essential kinds of prayer
 	- liturgical
