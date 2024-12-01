@@ -24,6 +24,7 @@
 - ## essential methods of prayer
 	- liturgical / devotional
 	- meditation / contemplation
+	- Various new names appeared to designate these different methods: meditation came to be identified with lectio divina,11 devotional prayers of all kinds, and with most of what is formally done as private, quiet prayer within monasteries and religious houses. Contemplation, on the other hand, came to be identified with the prayer of the cloud of unknowing,12 centering prayer, and some of the prayer practices within the Buddhist and Zen traditions.13 p.198
 - ## Sustaining ourselves in prayer
 	- obstacles blocking prayer
 	  logseq.order-list-type:: number
