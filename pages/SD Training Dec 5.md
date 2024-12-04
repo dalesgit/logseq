@@ -2,7 +2,7 @@
 - [[SD Training Nov. 21]]
 - # Verbatim
 	- ((673f916c-7481-4f9f-b96f-8b58b44f3ba9))
-	- ![Epiphany Cycle - Oct 27 2022 - 7-31 PM.pdf](../assets/Epiphany_Cycle_-_Oct_27_2022_-_7-31_PM_1733345955829_0.pdf)
+	- ![Epiphany_Cycle_-_Oct_27_2022_-_7-31_PM_1733345955829_0-rotated.pdf](../assets/Epiphany_Cycle_-_Oct_27_2022_-_7-31_PM_1733345955829_0-rotated_1733346438245_0.pdf)
 	- Craig
 		- ![Verbatim 1 - Craig Sefa.pdf](../assets/Verbatim_1_-_Craig_Sefa_1733345866184_0.pdf)
 	- Shea
