@@ -4,6 +4,7 @@
 	- LS: You all did well -- explore new avenues?
 	-
 - ## Verbatims
+  id:: 673f916c-7481-4f9f-b96f-8b58b44f3ba9
 	- ![Nina Wynn_ verbatim 11_22_24 copy.pdf](../assets/Nina_Wynn_verbatim_11_22_24_copy_1732195690551_0.pdf)
 	  id:: 673f916c-3b67-45c4-94d5-02c00c0255cb
 		- DH
