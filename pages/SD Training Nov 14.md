@@ -1,5 +1,4 @@
 ## References
-collapsed:: true
 	- [[SD training Nov 7]]
 	- [[CAP-module-one-syllabus.md]]
 - ## Discussion

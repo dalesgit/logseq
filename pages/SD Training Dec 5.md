@@ -1,0 +1,11 @@
+- [[SD Training Nov 14]]
+- # Verbatim
+	- ((673f916c-3b67-45c4-94d5-02c00c0255cb))
+	-
+	- Craig
+	- Shea
+	- Esther
+	- Alison (updatedgh)
+- # Discussion
+- # Notes
+-
