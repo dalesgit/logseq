@@ -9,7 +9,7 @@
 			- Allah another God
 			- thinking in the moment as pastor and theologican
 			- wished he'd asked more about her feelings
-			- wife responded at a more emotional level
+			- wife responded at a more **emotional** level
 			- He wants to give guiding advice.
 			- He wants to be able to find a different SD way. (Jesuit who told him that Confession is never about looking backward with regret but about finding a way forward.)
 			- He recognizes intellectualizing is a trigger for him.
