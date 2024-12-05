@@ -14,7 +14,8 @@
 	- Shea
 		- ![Verbatim_Shea_Watts.pdf](../assets/Verbatim_Shea_Watts_1733345912707_0.pdf)
 			- fellow musician, feeling alienated from church
-			-
+			- "tell me more"
+			- D is "conservative"
 	- Esther
 		- ![Hethcox verbatim.pdf](../assets/Hethcox_verbatim_1733345928943_0.pdf)
 	- Alison (updatedgh)
