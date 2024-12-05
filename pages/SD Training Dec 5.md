@@ -40,7 +40,7 @@
 			- **Linda**: what happened after this? **Esther**: warmth and affection.
 			- **Linda**: Is there a place for blending pastoring and SD?
 			- Nina: conversation 35 years. woman said, "My daughter's going to hell." At that moment she needed a pastor's authority. SD could have come later? Times when pastoral authority takes precedent.
-			- Linda: discern in own tradition. "
+			- Linda: discern in own tradition. "Follow the bicycle" i.e. let the conversation lead.
 	- Alison (updatedgh)
 		- ![alison-verbatim template updated.pdf](../assets/alison-verbatim_template_updated_1733345944127_0.pdf)
 - # Discussion
