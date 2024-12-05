@@ -34,13 +34,14 @@
 	- Esther
 		- ![Hethcox verbatim.pdf](../assets/Hethcox_verbatim_1733345928943_0.pdf)
 			- PhD at UNC, from Spain, "queer"
-			- "Is there a word that comes to mind ...
+			- "Is there a word that comes to mind ... **Linda**: "Gold star"
 			- D hearing "love" in a personal way
 			- challenge: to not respond in effort to heal -- pastors vs. spiritual directors
 			- **Linda**: what happened after this? **Esther**: warmth and affection.
 			- **Linda**: Is there a place for blending pastoring and SD?
-			- Nina: conversation 35 years. woman said, "My daughter's going to hell." At that moment she needed a pastor's authority. SD could have come later? Times when pastoral authority takes precedent.
-			- Linda: discern in own tradition. "Follow the bicycle" i.e. let the conversation lead.
+			- **Nina**: conversation 35 years. woman said, "My daughter's going to hell." At that moment she needed a pastor's authority. SD could have come later? Times when pastoral authority takes precedent.
+			- **Linda**: discern in own tradition. "Follow the bicycle" i.e. let the conversation lead.
+			-
 	- Alison (updatedgh)
 		- ![alison-verbatim template updated.pdf](../assets/alison-verbatim_template_updated_1733345944127_0.pdf)
 - # Discussion
