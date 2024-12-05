@@ -12,6 +12,7 @@
 			- wished he'd asked more about her feelings
 			- wife responded at a more emotional level
 	- Shea
+	  collapsed:: true
 		- ![Verbatim_Shea_Watts.pdf](../assets/Verbatim_Shea_Watts_1733345912707_0.pdf)
 			- fellow musician, feeling alienated from church
 			- "tell me more"
