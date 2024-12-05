@@ -42,7 +42,7 @@
 			- **Nina**: conversation 35 years. woman said, "My daughter's going to hell." At that moment she needed a pastor's authority. SD could have come later? Times when pastoral authority takes precedent.
 			- **Linda**: discern in own tradition. "Follow the bicycle" i.e. let the conversation lead.
 			- **Esther**: There was a lot of my history in this conversation.
-			-
+			- **Linda**: Esther could have reflected back to her that she sees and hears a tremendous **love**.
 			-
 	- Alison (updatedgh)
 		- ![alison-verbatim template updated.pdf](../assets/alison-verbatim_template_updated_1733345944127_0.pdf)
