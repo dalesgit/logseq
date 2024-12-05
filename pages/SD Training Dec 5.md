@@ -55,6 +55,7 @@
 	- Alison (updatedgh)
 		- ![alison-verbatim template updated.pdf](../assets/alison-verbatim_template_updated_1733345944127_0.pdf)
 			- politics and SD
+			- Linda: asking the D to articulate what they **don't believe**
 			-
 - # Discussion
 	- Nina has had pneumonia
