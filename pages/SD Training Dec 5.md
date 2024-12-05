@@ -11,7 +11,8 @@
 			- wished he'd asked more about her feelings
 			- wife responded at a more emotional level
 			- He wants to give guiding advice.
-			- He wants to be able to find a different SD way. (Jesuit who )
+			- He wants to be able to find a different SD way. (Jesuit who told him that Confession is never about looking backward with regret but about finding a way forward.)
+			- He recognizes intellectualizing is a trigger for him.
 	- Shea
 	  collapsed:: true
 		- ![Verbatim_Shea_Watts.pdf](../assets/Verbatim_Shea_Watts_1733345912707_0.pdf)
