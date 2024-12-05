@@ -37,7 +37,8 @@
 			- "Is there a word that comes to mind ...
 			- D hearing "love" in a personal way
 			- challenge: to not respond in effort to heal -- pastors vs. spiritual directors
-			- Linda: what happened after this? Esther: warmth and affection.
+			- **Linda**: what happened after this? **Esther**: warmth and affection.
+			-
 	- Alison (updatedgh)
 		- ![alison-verbatim template updated.pdf](../assets/alison-verbatim_template_updated_1733345944127_0.pdf)
 - # Discussion
