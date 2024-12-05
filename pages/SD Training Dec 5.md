@@ -10,6 +10,8 @@
 			- thinking in the moment as pastor and theologican
 			- wished he'd asked more about her feelings
 			- wife responded at a more emotional level
+			- He wants to give guiding advice.
+			- He wants to be able to find a different SD way. (Jesuit who )
 	- Shea
 	  collapsed:: true
 		- ![Verbatim_Shea_Watts.pdf](../assets/Verbatim_Shea_Watts_1733345912707_0.pdf)
