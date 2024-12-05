@@ -24,6 +24,7 @@
 			- **Craig**: what is the goal as SD? Not care?
 			- **Linda**: "Being OK with what is." Pastoral = give comfort. In SD allow people to be comforted by **God**. Empowering rather than giving them something
 	- Shea
+	  collapsed:: true
 		- ![Verbatim_Shea_Watts.pdf](../assets/Verbatim_Shea_Watts_1733345912707_0.pdf)
 			- fellow musician, feeling alienated from church
 			- "tell me more"
