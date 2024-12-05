@@ -58,6 +58,9 @@
 			- **Linda:** asking the D to articulate what they **don't believe**
 			- **Alison**: this was a totally **new way** of exchanging with this person. She felt excited about it.
 			- **Linda**: good work at mostly just reflecting back
+			- **Linda:** I love what you did here!
+			- Alison was alright about referring to Pastor Joe -- no ownership or defensiveness
+			-
 - # Discussion
 	- Nina has had pneumonia
 	- Linda: one day at a time (husband cancer)
