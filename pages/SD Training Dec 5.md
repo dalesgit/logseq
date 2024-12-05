@@ -21,6 +21,8 @@
 			- traditional music, he gets out of his musician head
 	- Esther
 		- ![Hethcox verbatim.pdf](../assets/Hethcox_verbatim_1733345928943_0.pdf)
+			- PhD at UNC, from Spain, "queer"
+			- "Is there a word that
 	- Alison (updatedgh)
 		- ![alison-verbatim template updated.pdf](../assets/alison-verbatim_template_updated_1733345944127_0.pdf)
 - # Discussion
