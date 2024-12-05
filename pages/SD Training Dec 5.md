@@ -30,7 +30,8 @@
 			- D is "conservative"
 			- whatever politics, can worship together
 			- traditional music, he gets out of his musician head
-			- Linda: What is your **job** as a spiritual director?
+			- **Linda**: What is your **job** as a spiritual director? Shea: to listen. to ask appropriate question that promote discovering God's place in our world.
+			-
 	- Esther
 	  collapsed:: true
 		- ![Hethcox verbatim.pdf](../assets/Hethcox_verbatim_1733345928943_0.pdf)
