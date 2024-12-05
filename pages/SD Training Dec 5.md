@@ -38,7 +38,8 @@
 			- D hearing "love" in a personal way
 			- challenge: to not respond in effort to heal -- pastors vs. spiritual directors
 			- **Linda**: what happened after this? **Esther**: warmth and affection.
-			-
+			- **Linda**: Is there a place for blending pastoring and SD?
+			- Nina: conversation 35 years. woman said, "My daughter's going to hell."
 	- Alison (updatedgh)
 		- ![alison-verbatim template updated.pdf](../assets/alison-verbatim_template_updated_1733345944127_0.pdf)
 - # Discussion
