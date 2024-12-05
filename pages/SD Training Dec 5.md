@@ -62,8 +62,8 @@
 			- Alison was alright about referring to Pastor Joe -- no ownership or defensiveness
 			- **Linda**: In SD we believe that you have within you to answer these questions.
 			- Could have asked: "Why is it so important to you that you not be alone here."
-			- Linda: Where did it go after D10.
-			- Alison: there was a time that he has felt very alone in the church. He is perhaps moving past that now. He is still coming to the church for healing.
+			- **Linda**: Where did it go after D10.
+			- **Alison**: there was a time that he has felt very alone in the church. He is perhaps moving past that now. He is still coming to the church for healing. (He needed to tell the story again.)
 - # Discussion
 	- Nina has had pneumonia
 	- Linda: one day at a time (husband cancer)
