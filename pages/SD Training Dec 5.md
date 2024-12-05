@@ -13,9 +13,9 @@
 			- He wants to give guiding advice.
 			- He wants to be able to find a different SD way. (Jesuit who told him that Confession is never about looking backward with regret but about finding a way forward.)
 			- He recognizes intellectualizing is a trigger for him.
-			- Linda: how do we deal with having "triggers" ? **Do less about thinking about what's going on and paying more attention to what's going on in the moment** What happens when we start mirroring?
+			- **Linda**: how do we deal with having "triggers" ? **Do less about thinking about what's going on and paying more attention to what's going on in the moment** What happens when we start mirroring?
 			- What was your intention?  Could have been asked of the "D"
-			- Cherrie: Do ritual with the "feeling". e.g. "do something with the necklace"
+			- **Cherrie**: Do ritual with the "feeling". e.g. "do something with the necklace"
 			- Craig: She is Presbyterian and I am Methodist.
 			- Linda: What in your heart would make this right with Jesus?
 	- Shea
