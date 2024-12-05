@@ -53,6 +53,7 @@
 			- Cherrie seems like a very insightful and experienced SD (psychotherapy?)
 			-
 	- Alison (updatedgh)
+	  collapsed:: true
 		- ![alison-verbatim template updated.pdf](../assets/alison-verbatim_template_updated_1733345944127_0.pdf)
 			- politics and SD
 			- **Linda:** asking the D to articulate what they **don't believe**
