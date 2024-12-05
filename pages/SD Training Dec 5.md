@@ -17,6 +17,7 @@
 			- What was your intention?  Could have been asked of the "D"
 			- Cherrie: Do ritual with the "feeling". e.g. "do something with the necklace"
 			- Craig: She is Presbyterian and I am Methodist.
+			- Linda: What in your heart would make this right with Jesus?
 	- Shea
 	  collapsed:: true
 		- ![Verbatim_Shea_Watts.pdf](../assets/Verbatim_Shea_Watts_1733345912707_0.pdf)
