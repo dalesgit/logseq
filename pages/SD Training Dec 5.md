@@ -33,7 +33,8 @@
 			- **Linda**: What is your **job** as a spiritual director? Shea: to listen. to ask appropriate question that promote discovering God's place in our world.
 			- **Linda**: "tell me more about what it feels like to be an outsider" is an excellent SD question.
 			- The issue of mixture of politics in our interactions. What would that look like? as a response.
-			- Could have reflected back his statement about the different backgrounds in the D ()
+			- Could have reflected back his statement about the different backgrounds in the D (D7)
+			-
 	- Esther
 	  collapsed:: true
 		- ![Hethcox verbatim.pdf](../assets/Hethcox_verbatim_1733345928943_0.pdf)
