@@ -5,6 +5,7 @@
 	- ![Epiphany_Cycle_-_Oct_27_2022_-_7-31_PM_1733345955829_0-rotated.pdf](../assets/Epiphany_Cycle_-_Oct_27_2022_-_7-31_PM_1733345955829_0-rotated_1733346438245_0.pdf)
 	- Craig
 		- ![Verbatim 1 - Craig Sefa.pdf](../assets/Verbatim_1_-_Craig_Sefa_1733345866184_0.pdf)
+			- st
 	- Shea
 		- ![Verbatim_Shea_Watts.pdf](../assets/Verbatim_Shea_Watts_1733345912707_0.pdf)
 	- Esther
