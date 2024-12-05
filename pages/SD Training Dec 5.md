@@ -32,6 +32,7 @@
 			- traditional music, he gets out of his musician head
 			- **Linda**: What is your **job** as a spiritual director? Shea: to listen. to ask appropriate question that promote discovering God's place in our world.
 			- **Linda**: "tell me more about what it feels like to be an outsider" is an excellent SD question.
+			- The issue of mixture of politics in our interactions. What would that look like? as a response.
 			-
 	- Esther
 	  collapsed:: true
