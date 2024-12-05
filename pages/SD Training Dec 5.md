@@ -30,6 +30,7 @@
 			- D is "conservative"
 			- whatever politics, can worship together
 			- traditional music, he gets out of his musician head
+			- Linda: What is your **job** as a spiritual director?
 	- Esther
 	  collapsed:: true
 		- ![Hethcox verbatim.pdf](../assets/Hethcox_verbatim_1733345928943_0.pdf)
