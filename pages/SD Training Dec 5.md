@@ -60,7 +60,7 @@
 			- **Linda**: good work at mostly just reflecting back
 			- **Linda:** I love what you did here!
 			- Alison was alright about referring to Pastor Joe -- no ownership or defensiveness
-			-
+			- **Linda**: In SD we believe that you have within you to answer these questions.
 - # Discussion
 	- Nina has had pneumonia
 	- Linda: one day at a time (husband cancer)
