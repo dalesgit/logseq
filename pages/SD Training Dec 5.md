@@ -24,6 +24,7 @@
 			- PhD at UNC, from Spain, "queer"
 			- "Is there a word that comes to mind ...
 			- D hearing "love" in a personal way
+			- challenge: to not respond in effort to heal -- pastors vs. spiritual directors
 	- Alison (updatedgh)
 		- ![alison-verbatim template updated.pdf](../assets/alison-verbatim_template_updated_1733345944127_0.pdf)
 - # Discussion
