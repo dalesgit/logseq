@@ -20,7 +20,8 @@
 			- **Linda**: What in your heart would make this right with Jesus? Echo to her (D)  the love for Jesus and her contrition.
 			- **Danny**: "Judas" is a trigger for me. Judas rabbit hole.
 			- **Nina**: she didn't come to you for SD, but for pastoral care. He delivered on that. Pastoral care: give comfort or confrontation. She expects to be able to use SD in the call is pastor.
-			- **Craig**: what is the goal as SD? Not care? Linda: "Being OK with what is."
+			- **Craig**: what is the goal as SD? Not care?
+			- **Linda**: "Being OK with what is." Pastoral = give comfort. In SD allow people to be comforted by **God**. Empowering rather than giving them something
 	- Shea
 	  collapsed:: true
 		- ![Verbatim_Shea_Watts.pdf](../assets/Verbatim_Shea_Watts_1733345912707_0.pdf)
