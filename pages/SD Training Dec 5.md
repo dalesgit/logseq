@@ -6,7 +6,8 @@
 	- Craig
 		- ![Verbatim 1 - Craig Sefa.pdf](../assets/Verbatim_1_-_Craig_Sefa_1733345866184_0.pdf)
 			- struggle with image of God as all controlling vs. loving
-			-
+			- Allah another God
+			- thinking in the moment as pastor and theologican
 	- Shea
 		- ![Verbatim_Shea_Watts.pdf](../assets/Verbatim_Shea_Watts_1733345912707_0.pdf)
 	- Esther
