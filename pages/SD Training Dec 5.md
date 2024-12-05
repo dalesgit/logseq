@@ -55,8 +55,9 @@
 	- Alison (updatedgh)
 		- ![alison-verbatim template updated.pdf](../assets/alison-verbatim_template_updated_1733345944127_0.pdf)
 			- politics and SD
-			- Linda: asking the D to articulate what they **don't believe**
-			- Alison: this was a totally **new way** of exchanging with this person. She felt excited about it.
+			- **Linda:** asking the D to articulate what they **don't believe**
+			- **Alison**: this was a totally **new way** of exchanging with this person. She felt excited about it.
+			- **Linda**: good work at mostly just reflecting back
 - # Discussion
 	- Nina has had pneumonia
 	- Linda: one day at a time (husband cancer)
