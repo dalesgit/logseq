@@ -15,7 +15,8 @@
 			- He recognizes intellectualizing is a trigger for him.
 			- Linda: how do we deal with having "triggers" ? **Do less about thinking about what's going on and paying more attention to what's going on in the moment** What happens when we start mirroring?
 			- What was your intention?  Could have been asked of the "D"
-			- Cherrie: Do ritual with the
+			- Cherrie: Do ritual with the "feeling". e.g. "do something with the necklace"
+			- Craig: She is Presbyterian and I am Methodist.
 	- Shea
 	  collapsed:: true
 		- ![Verbatim_Shea_Watts.pdf](../assets/Verbatim_Shea_Watts_1733345912707_0.pdf)
