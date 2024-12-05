@@ -13,6 +13,7 @@
 			- He wants to give guiding advice.
 			- He wants to be able to find a different SD way. (Jesuit who told him that Confession is never about looking backward with regret but about finding a way forward.)
 			- He recognizes intellectualizing is a trigger for him.
+			- Linda: how do we deal with having "triggers" ? Do less about thinking about what's going on and paying more attention to what's going on in the moment
 	- Shea
 	  collapsed:: true
 		- ![Verbatim_Shea_Watts.pdf](../assets/Verbatim_Shea_Watts_1733345912707_0.pdf)
