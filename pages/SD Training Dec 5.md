@@ -16,6 +16,8 @@
 			- fellow musician, feeling alienated from church
 			- "tell me more"
 			- D is "conservative"
+			- whatever politics, can worship together
+			- traditional music, he gets out of his musician head
 	- Esther
 		- ![Hethcox verbatim.pdf](../assets/Hethcox_verbatim_1733345928943_0.pdf)
 	- Alison (updatedgh)
