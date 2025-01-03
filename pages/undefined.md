@@ -2,3 +2,7 @@
 - **16:42** [[quick capture]]:  [neovim - Nvim Lazyvim activate Obsidian Plugin only with Obsidian - Vi and Vim Stack Exchange](https://vi.stackexchange.com/questions/45416/nvim-lazyvim-activate-obsidian-plugin-only-with-obsidian)
 - **07:10** [[quick capture]]:  [nvim-lua/kickstart.nvim: A launch point for your personal nvim configuration](https://github.com/nvim-lua/kickstart.nvim)
 - **07:10** [[quick capture]]:  [nvim-lua/kickstart.nvim: A launch point for your personal nvim configuration](https://github.com/nvim-lua/kickstart.nvim)
+- **07:16** [[quick capture]]:  [nvim-lua/kickstart.nvim: A launch point for your personal nvim configuration](https://github.com/nvim-lua/kickstart.nvim)
+- **07:16** [[quick capture]]:  [nvim-lua/kickstart.nvim: A launch point for your personal nvim configuration](https://github.com/nvim-lua/kickstart.nvim)
+- **07:17** [[quick capture]]:  [nvim-lua/kickstart.nvim: A launch point for your personal nvim configuration](https://github.com/nvim-lua/kickstart.nvim)
+- **07:17** [[quick capture]]:  [nvim-lua/kickstart.nvim: A launch point for your personal nvim configuration](https://github.com/nvim-lua/kickstart.nvim)
