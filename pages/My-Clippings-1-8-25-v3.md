@@ -56,32 +56,30 @@
 	  collapsed:: true
 		- This safe place for a bull is called the querencia. For humans the querencia is the safe place in our inner world.... When a person finds their querencia, in full view of the matador, they are calm and peaceful. Wise. They have gathered their strength around them.'
 	- ### Prayerful reflection on One's Day
-	  collapsed:: true
 		- "the examen of consciousness."
-		  
-		  This prayer is not an attempt to master the day but rather our way of acknowledging how we want to live.
+		- This prayer is not an attempt to master the day but rather our way of acknowledging how we want to live.
 		  
 		  Often, in the very act of praying over events that are to come, we begin to see more clearly "the tactics of the matador" within us that keep us from living in our querencia.
-	- ### Spiritual Direction
-		- The Buddha called it "friendship with admirable people."4
+		- ### Spiritual Direction## Freedom for love
+		  collapsed:: true
 		  
-		  In cultivating the habit of discernment, we are invited to let go of the goal, to allow our lives "to flow unceasingly in that deep unknown where all that is necessary is to love and accept the present moment as the best, with perfect trust in God's universal goodness."'
-- ## Freedom for love
-  
-  Discernment is ultimately about love.
-- ### Freedom and Unfreedom
-  
-  If this freedom is our true essence, why is it that it seems so seldom available to us?
-  
-  I would identify the world as aspects of our culture, our personal histories, our self-expectations, and all influences that contribute to the formation of a false identity.
-  
-  "God, this is where I am right now. I wish I could choose from a different place, but I'm not there yet. Maybe some day I will be, but for now, I just trust that you are with me as I move ahead from the place where I am."
-  
-  As stated earlier, discernment doesn't only have relevance for times of decision making. It is a stance, a way of being in all of life.
-  
-  "That's enough; this smoking is taking me away from what I most want." And she quit. (**very close to my experience**)
-  
-  You should roam in places that are your own, that arise in accordance with your own true nature. And what is the place that is your own? It's the pasture of ardent clearness and mindfulness, fulness, where discontent and greed are put aside for the sake of the world. That is your own place, your natural range.4
+		  Discernment is ultimately about love.
+			- The Buddha called it "friendship with admirable people."4
+			  
+			  In cultivating the habit of discernment, we are invited to let go of the goal, to allow our lives "to flow unceasingly in that deep unknown where all that is necessary is to love and accept the present moment as the best, with perfect trust in God's universal goodness."'
+	- ### Freedom and Unfreedom
+	  collapsed:: true
+		- If this freedom is our true essence, why is it that it seems so seldom available to us?
+		  
+		  I would identify the world as aspects of our culture, our personal histories, our self-expectations, and all influences that contribute to the formation of a false identity.
+		  
+		  "God, this is where I am right now. I wish I could choose from a different place, but I'm not there yet. Maybe some day I will be, but for now, I just trust that you are with me as I move ahead from the place where I am."
+		  
+		  As stated earlier, discernment doesn't only have relevance for times of decision making. It is a stance, a way of being in all of life.
+		  
+		  "That's enough; this smoking is taking me away from what I most want." And she quit. (**very close to my experience**)
+		  
+		  You should roam in places that are your own, that arise in accordance with your own true nature. And what is the place that is your own? It's the pasture of ardent clearness and mindfulness, fulness, where discontent and greed are put aside for the sake of the world. That is your own place, your natural range.4
 - ### Self-Knowledge and Interior Freedom
   
   Spiritual giants of most religious traditions speak of the need for self-knowledge. Some see it as a prerequisite for interior freedom. I would say that it is a companion to interior freedom.
