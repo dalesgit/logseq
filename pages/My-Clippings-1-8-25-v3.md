@@ -181,35 +181,37 @@
 	  
 	  Sr. Maura Eichner, *Hope Is a Blind Bard* (Wheaton, IL: Harold Shaw Publishers, 1989).
 - ## Imported
-- ## God is actively caring and involved with us
-  
-  Inherent in this discussion on the habit of discernment is the belief that God is actively and caringly involved with us in every moment of our lives, even the seemingly most mundane ones.
-- Your Highlight on Location 248-249 | Added on Wednesday, January 8, 2025 5:55:43 PM
+- ### God is actively caring and involved with us
+	- Inherent in this discussion on the habit of discernment is the belief that God is actively and caringly involved with us in every moment of our lives, even the seemingly most mundane ones.
+	- Your Highlight on Location 248-249 | Added on Wednesday, January 8, 2025 5:55:43 PM
 - ### openness to God in all of life or simply as prayerfulness.
-- Your Highlight on Location 258-258 | Added on Wednesday, January 8, 2025 5:56:34 PM
+  collapsed:: true
+	- Your Highlight on Location 258-258 | Added on Wednesday, January 8, 2025 5:56:34 PM
 - ### Contemplative -Practices
-- Your Highlight on Location 253-253 | Added on Wednesday, January 8, 2025 5:56:59 PM
-  
-  Intentional Prayer
-- Your Highlight on Location 246-247 | Added on Wednesday, January 8, 2025 5:57:26 PM
-  
-  Perhaps we need to pray that the eyes of our hearts be opened so we can see the gift that is there and look to the practices and people that might encourage us to cultivate our discerning hearts.
-- Your Highlight on Location 105-105 | Added on Wednesday, January 8, 2025 5:58:26 PM
+  collapsed:: true
+	- Your Highlight on Location 253-253 | Added on Wednesday, January 8, 2025 5:56:59 PM
+	  
+	  Intentional Prayer
+	- Your Highlight on Location 246-247 | Added on Wednesday, January 8, 2025 5:57:26 PM
+	  
+	  Perhaps we need to pray that the eyes of our hearts be opened so we can see the gift that is there and look to the practices and people that might encourage us to cultivate our discerning hearts.
+	- Your Highlight on Location 105-105 | Added on Wednesday, January 8, 2025 5:58:26 PM
 - ### Discernment as habit
-- Your Highlight on Location 76-76 | Added on Wednesday, January 8, 2025 5:58:40 PM
-  
-  Ignatius and Buddha
-- Your Highlight on Location 71-71 | Added on Wednesday, January 8, 2025 5:58:47 PM
-  
-  May it be so!
-- Your Highlight on Location 21 | Added on Wednesday, January 8, 2025 5:59:09 PM
+  collapsed:: true
+	- Your Highlight on Location 76-76 | Added on Wednesday, January 8, 2025 5:58:40 PM
+	  
+	  Ignatius and Buddha
+	- Your Highlight on Location 71-71 | Added on Wednesday, January 8, 2025 5:58:47 PM
+	  
+	  May it be so!
+	- Your Highlight on Location 21 | Added on Wednesday, January 8, 2025 5:59:09 PM
 - ###  Introduction
-- Your Highlight on Location 263-265 | Added on Wednesday, January 8, 2025 6:01:16 PM
-  
-  This safe place for a bull is called the querencia. For humans the querencia is the safe place in our inner world.... When a person finds their querencia, in full view of the matador, they are calm and peaceful. Wise. They have gathered their strength around them.'
-- Your Highlight on Location 273-273 | Added on Wednesday, January 8, 2025 6:01:56 PM
-  
-  'Prayerful Reflection on One's Day
+	- Your Highlight on Location 263-265 | Added on Wednesday, January 8, 2025 6:01:16 PM
+	  
+	  This safe place for a bull is called the querencia. For humans the querencia is the safe place in our inner world.... When a person finds their querencia, in full view of the matador, they are calm and peaceful. Wise. They have gathered their strength around them.'
+	- Your Highlight on Location 273-273 | Added on Wednesday, January 8, 2025 6:01:56 PM
+	  
+	  'Prayerful Reflection on One's Day
 - Your Highlight on Location 273-274 | Added on Wednesday, January 8, 2025 6:02:15 PM
   
   "the examen of consciousness."
