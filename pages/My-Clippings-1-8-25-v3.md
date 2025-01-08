@@ -50,6 +50,7 @@
 	  
 	  Inherent in this discussion on the habit of discernment is the belief that God is actively and caringly involved with us in every moment of our lives, even the seemingly most mundane ones.
 - ## Openness to God
+  collapsed:: true
 	- The habit of discernment is an attitude of listening to God in all of life.
 	- ### Intentional Prayer
 	- ### Contemplative practices
@@ -64,10 +65,13 @@
 			  Often, in the very act of praying over events that are to come, we begin to see more clearly "the tactics of the matador" within us that keep us from living in our querencia.
 	- ### Spiritual Direction
 - ## Freedom for love
+  collapsed:: true
 	- The Buddha called it "friendship with admirable people."4
+	  collapsed:: true
 		- In cultivating the habit of discernment, we are invited to let go of the goal, to allow our lives "to flow unceasingly in that deep unknown where all that is necessary is to love and accept the present moment as the best, with perfect trust in God's universal goodness."'
 		- Discernment is ultimately about love.
 	- ### Freedom and Unfreedom
+	  collapsed:: true
 		- If this freedom is our true essence, why is it that it seems so seldom available to us?
 		  
 		  I would identify the world as aspects of our culture, our personal histories, our self-expectations, and all influences that contribute to the formation of a false identity.
@@ -80,6 +84,7 @@
 		  
 		  You should roam in places that are your own, that arise in accordance with your own true nature. And what is the place that is your own? It's the pasture of ardent clearness and mindfulness, fulness, where discontent and greed are put aside for the sake of the world. That is your own place, your natural range.4
 	- ### Self-Knowledge and Interior Freedom
+	  collapsed:: true
 		- Spiritual giants of most religious traditions speak of the need for self-knowledge. Some see it as a prerequisite for interior freedom. I would say that it is a companion to interior freedom.
 		  
 		  It is our willingness to accept ourselves as okay or not that frees us to see ourselves as we are.
@@ -87,28 +92,28 @@
 		  Some may find a fitness in the prayer of Macrina Wiederkehr: "0 God help me to believe the truth about myself no matter how beautiful it is.""
 		  
 		  it is important that we detach ourselves from results, that we resist the temptation to make something happen.
-- ### I Look at God, I look at You
-  
-  When asked by a friend how she prayed for her, Julian responded, "I look at God, I look at you, and I keep on looking at God."13
-  
-  As we do this, as we see the bigger picture, we also see ourselves in relation to it. We are freed to see our essential goodness and our desire to live in love, to be love. We also begin to notice our blind spots, the places where we cling to the little self for fear of losing ourselves, the places of attachment that keep us from living who we are. We cannot make ourselves free.
-  
-  We live in the ashes of our freedom. 4
+	- ### I Look at God, I look at You
+	  collapsed:: true
+		- When asked by a friend how she prayed for her, Julian responded, "I look at God, I look at you, and I keep on looking at God."13
+		  
+		  As we do this, as we see the bigger picture, we also see ourselves in relation to it. We are freed to see our essential goodness and our desire to live in love, to be love. We also begin to notice our blind spots, the places where we cling to the little self for fear of losing ourselves, the places of attachment that keep us from living who we are. We cannot make ourselves free.
+		  
+		  We live in the ashes of our freedom. 4
 - ## Help along the way
-- ### Spiritual direction and prayer
-  
-  This prayer begins when a person realizes the desire for spiritual direction and prays to recognize the right spiritual director or group. It continues through the discernment process of the people who are considering coming together in direction.
-  
-  The prayerfulness of the spiritual direction meeting is more important than the knowledge, skills, and style of those gathered together.
-- ### The relationship between Images and Experience
-  
-  Our images of God often outlive their usefulness.
-  
-  I find for myself and others that it is often something outside our normal range of consideration that most facilitates fresh ways of seeing.
-  
-  It is also useful to outline the stepping-stones of our spiritual life-the key experiences that seem to have moved us from one place to another,
-- ### Finding one's authentic prayer
-- ### Moving to the Holy Center
+	- ### Spiritual direction and prayer
+	  collapsed:: true
+		- This prayer begins when a person realizes the desire for spiritual direction and prays to recognize the right spiritual director or group. It continues through the discernment process of the people who are considering coming together in direction.
+		  
+		  The prayerfulness of the spiritual direction meeting is more important than the knowledge, skills, and style of those gathered together.
+	- ### The relationship between Images and Experience
+	  collapsed:: true
+		- Our images of God often outlive their usefulness.
+		  
+		  I find for myself and others that it is often something outside our normal range of consideration that most facilitates fresh ways of seeing.
+		  
+		  It is also useful to outline the stepping-stones of our spiritual life-the key experiences that seem to have moved us from one place to another,
+	- ### Finding one's authentic prayer
+	- ### Moving to the Holy Center
 - ## Choosing from the center
   
   sometimes we are impatient in the waiting. We repeatedly ask ourselves, "Who am I?" Instead of simple living with the question, we push to answer it.
