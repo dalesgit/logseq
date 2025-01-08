@@ -33,16 +33,17 @@
 
 
 ## Thoughts
-- [[Certificates.md|Certificates]]
-- [[not an end but the beginning of a journey.md|not an end but the beginning of a journey]]
-- [[From Owen Morphing understand of baptism.md|From Owen Morphing understand of baptism]]
-- [[Biblical.md|Biblical]]: 
+- [Certificates](Certificates.md)
+- [not an end but the beginning of a journey](not an end but the beginning of a journey.md)
+- [From Owen Morphing understand of baptism](From Owen Morphing understand of baptism.md)
+- [Biblical](Biblical.md): 
 beginning of ministry thence to wilderness and into ministry. Call. testing. "wow's". Share with others, pass it on, the good news as I have received it. To Jerusalem (brokenness) and death. return to true identity.
-- [[Julian and Pentecost tradition.md|Julian and Pentecost tradition]]
-- [[video of sacraments as "abundance".md|video of sacraments as "abundance"]]
-- Latin America ([[Westerhoff story.md|Westerhoff story]]) I bury you … I raise you up as "Christian"
-- Dale: "[[Would you baptize me?.md|Would you baptize me?]]"
-- the question: [[what do you seek?.md|what do you seek?]]
-- [[My beloved.md|My beloved]] (MPS) reading. 
+- [Julian and Pentecost tradition](Julian and Pentecost tradition.md)
+- [video of sacraments as "abundance"](video of sacraments as "abundance".md)
+- Latin America ([Westerhoff story](Westerhoff story.md)) I bury you … I raise you up as "Christian"
+- Dale: "[Would you baptize me?](Would you baptize me?.md)"
+- the question: [what do you seek?](what do you seek?.md)
+- [My beloved](My beloved.md) (MPS) reading. 
+
 
 
