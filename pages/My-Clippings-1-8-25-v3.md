@@ -30,27 +30,27 @@
 	  
 	  A crucial role of the literature on the discernment of God's will is, I think, the encouragement to reflect on our own experience and then seek to live in the authenticity of who we are.
 - ### Consolation and desolation
-  For John (of the Cross), this decline may have to do very much with God's purifying spirit detaching us from images of ourselves or God related to faith, hope, and love, rather than being the work of an undermining spirit.13
-  
-  important not to allow our awareness of their presence or absence to become the basis of our judgment of what is going on between ourselves and God
-  
-  "Desire is the key to discernment. It is a more reliable criterion than feelings or inner peace.... Our habitual inner peace may be lacking, yet we still `hang on' to the desire to love and serve....
-  
-  In doing so, they use the language of "good spirit" and "evil spirit." I prefer to use the terms "friend of my authentic self" and "enemy of my authentic self."
-  
-  Finally, both Saint Teresa and Saint Ignatius remind us that sometimes the experience of desolation is meant for our good, to allow us to see through to our desire for God that can be constant, despite what we are feeling.
-  
-  There is the need then to return periodically to that classic discernment question, "What do I want: the consolation of God or the God of consolation?" and to Teresa of Avila's caution against praying for experiences of consolation lest we begin to try to create these experiences.'8
+  collapsed:: true
+	- For John (of the Cross), this decline may have to do very much with God's purifying spirit detaching us from images of ourselves or God related to faith, hope, and love, rather than being the work of an undermining spirit.13
+	  
+	  important not to allow our awareness of their presence or absence to become the basis of our judgment of what is going on between ourselves and God
+	  
+	  "Desire is the key to discernment. It is a more reliable criterion than feelings or inner peace.... Our habitual inner peace may be lacking, yet we still `hang on' to the desire to love and serve....
+	  
+	  In doing so, they use the language of "good spirit" and "evil spirit." I prefer to use the terms "friend of my authentic self" and "enemy of my authentic self."
+	  
+	  Finally, both Saint Teresa and Saint Ignatius remind us that sometimes the experience of desolation is meant for our good, to allow us to see through to our desire for God that can be constant, despite what we are feeling.
+	  
+	  There is the need then to return periodically to that classic discernment question, "What do I want: the consolation of God or the God of consolation?" and to Teresa of Avila's caution against praying for experiences of consolation lest we begin to try to create these experiences.'8
 - ### Listening to the many voices of God
-  
-  The habit of discernment is an attitude of listening to God in all of life.
-  
-  It is a life of prayerful attention to God-a contemplative stance that Thomas Kelly refers to as "simplification" and that he describes as living "with a singleness of eye, from a holy Center where.. .we are wholly yielded to God."21
-  
-  Inherent in this discussion on the habit of discernment is the belief that God is actively and caringly involved with us in every moment of our lives, even the seemingly most mundane ones.
+  collapsed:: true
+	- The habit of discernment is an attitude of listening to God in all of life.
+	  
+	  It is a life of prayerful attention to God-a contemplative stance that Thomas Kelly refers to as "simplification" and that he describes as living "with a singleness of eye, from a holy Center where.. .we are wholly yielded to God."21
+	  
+	  Inherent in this discussion on the habit of discernment is the belief that God is actively and caringly involved with us in every moment of our lives, even the seemingly most mundane ones.
 - ## Openness to God
-  
-  The habit of discernment is an attitude of listening to God in all of life.
+- The habit of discernment is an attitude of listening to God in all of life.
 - ### Intentional Prayer
 - ### Contemplative practices
   
