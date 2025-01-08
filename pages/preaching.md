@@ -41,8 +41,8 @@ beginning of ministry thence to wilderness and into ministry. Call. testing. "wo
 - [Julian and Pentecost tradition](Julian and Pentecost tradition.md)
 - [video of sacraments as "abundance"](video of sacraments as "abundance".md)
 - Latin America ([Westerhoff story](Westerhoff story.md)) I bury you … I raise you up as "Christian"
-- Dale: "[Would you baptize me?](Would you baptize me?.md)"
-- the question: [what do you seek?](what do you seek?.md)
+- Dale:[[Would you baptize me.md]] 
+- the question: [what do you seek](what do you seek.md)
 - [My beloved](My beloved.md) (MPS) reading. 
 
 
