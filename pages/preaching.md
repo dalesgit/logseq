@@ -33,16 +33,16 @@
 
 
 ## Thoughts
-- Certificates
-- not an end but the beginning of a journey
-- From Owen Morphing understand of baptism
-- Biblical: 
+- [[Certificates.md|Certificates]]
+- [[not an end but the beginning of a journey.md|not an end but the beginning of a journey]]
+- [[From Owen Morphing understand of baptism.md|From Owen Morphing understand of baptism]]
+- [[Biblical.md|Biblical]]: 
 beginning of ministry thence to wilderness and into ministry. Call. testing. "wow's". Share with others, pass it on, the good news as I have received it. To Jerusalem (brokenness) and death. return to true identity.
-- Julian and Pentecost tradition
-- video of sacraments as "abundance"
-- Latin America (Westerhoff story) I bury you … I raise you up as "Christian"
-- Dale: "Would you baptize me?"
-- the question: what do you seek?
-- My beloved (MPS) reading. 
+- [[Julian and Pentecost tradition.md|Julian and Pentecost tradition]]
+- [[video of sacraments as "abundance".md|video of sacraments as "abundance"]]
+- Latin America ([[Westerhoff story.md|Westerhoff story]]) I bury you … I raise you up as "Christian"
+- Dale: "[[Would you baptize me?.md|Would you baptize me?]]"
+- the question: [[what do you seek?.md|what do you seek?]]
+- [[My beloved.md|My beloved]] (MPS) reading. 
 
 
