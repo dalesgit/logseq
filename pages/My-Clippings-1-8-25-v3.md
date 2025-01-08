@@ -309,70 +309,70 @@
 	- Your Highlight on Location 440-440 | Added on Wednesday, January 8, 2025 7:15:15 PM
 - ### finding One's Authentic Brayer
   Inherent
-- Your Highlight on Location 440-440 | Added on Wednesday, January 8, 2025 7:15:20 PM
-  
-  finding One's Authentic Brayer
-- Your Highlight on Location 448-448 | Added on Wednesday, January 8, 2025 7:15:54 PM
-  
-  YVovfngq to the ,io/v Center
-- Your Highlight on Location 463-464 | Added on Wednesday, January 8, 2025 7:17:01 PM
-  
-  In our time together we recognize with the poet, Antonio Machado, that "beyond living and dreaming there is something more important: waking up."4
-- Your Highlight on Location 461-465 | Added on Wednesday, January 8, 2025 7:22:02 PM
-  
-  creative life of God is always coming, always entering to refresh and enhance our lives."3 Spiritual direction is one arena in which we can reflect on how we have experienced this creative life of God entering our lives and how we have prayed in response to it. However, spiritual direction itself is also an expression of the creative life of God. In our time together we recognize with the poet, Antonio Machado, that "beyond living and dreaming there is something more important: waking up."4 In his poem, "The Water Wheel," Rumi tells us that "our friendship is made of staying awake."5 Together we wake up and stay awake to the newness of life being poured forth in this moment.
-  5
-- Your Highlight on Location 465-466 | Added on Wednesday, January 8, 2025 7:22:27 PM
+	- Your Highlight on Location 440-440 | Added on Wednesday, January 8, 2025 7:15:20 PM
+	  
+	  finding One's Authentic Brayer
+	- Your Highlight on Location 448-448 | Added on Wednesday, January 8, 2025 7:15:54 PM
+	  
+	  YVovfngq to the ,io/v Center
+	- Your Highlight on Location 463-464 | Added on Wednesday, January 8, 2025 7:17:01 PM
+	  
+	  In our time together we recognize with the poet, Antonio Machado, that "beyond living and dreaming there is something more important: waking up."4
+	- Your Highlight on Location 461-465 | Added on Wednesday, January 8, 2025 7:22:02 PM
+	  
+	  creative life of God is always coming, always entering to refresh and enhance our lives."3 Spiritual direction is one arena in which we can reflect on how we have experienced this creative life of God entering our lives and how we have prayed in response to it. However, spiritual direction itself is also an expression of the creative life of God. In our time together we recognize with the poet, Antonio Machado, that "beyond living and dreaming there is something more important: waking up."4 In his poem, "The Water Wheel," Rumi tells us that "our friendship is made of staying awake."5 Together we wake up and stay awake to the newness of life being poured forth in this moment.
+	  5
+	- Your Highlight on Location 465-466 | Added on Wednesday, January 8, 2025 7:22:27 PM
 - ### Choosing from the Center
   As we become aware of our freedom, we sense a depth we have not yet come
-- Your Highlight on Location 465 | Added on Wednesday, January 8, 2025 7:22:37 PM
-  
-  5
-- Your Highlight on Location 466-467 | Added on Wednesday, January 8, 2025 7:23:11 PM
-  
-  sometimes we are impatient in the waiting. We repeatedly ask ourselves, "Who am I?" Instead of simple living with the question, we push to answer it.
-- Your Highlight on Location 474-474 | Added on Wednesday, January 8, 2025 7:24:05 PM
-  
-  Their choices become expressions of their being.2
-- Your Highlight on Location 475-477 | Added on Wednesday, January 8, 2025 7:24:30 PM
-  
-  What really decides any problem is the way we think in our hearts. How we see what our life is. Out of that we make our decision.... Serious practice changes the way we see our life, and so what we do with that life begins to shift. People want a mechanism for making decisions, for solving problems. There can be no fixed mechanism. But if we know more and more who we are, out of that we will make our decision.'
-- Your Highlight on Location 480-480 | Added on Wednesday, January 8, 2025 7:24:53 PM
+	- Your Highlight on Location 465 | Added on Wednesday, January 8, 2025 7:22:37 PM
+	  
+	  5
+	- Your Highlight on Location 466-467 | Added on Wednesday, January 8, 2025 7:23:11 PM
+	  
+	  sometimes we are impatient in the waiting. We repeatedly ask ourselves, "Who am I?" Instead of simple living with the question, we push to answer it.
+	- Your Highlight on Location 474-474 | Added on Wednesday, January 8, 2025 7:24:05 PM
+	  
+	  Their choices become expressions of their being.2
+	- Your Highlight on Location 475-477 | Added on Wednesday, January 8, 2025 7:24:30 PM
+	  
+	  What really decides any problem is the way we think in our hearts. How we see what our life is. Out of that we make our decision.... Serious practice changes the way we see our life, and so what we do with that life begins to shift. People want a mechanism for making decisions, for solving problems. There can be no fixed mechanism. But if we know more and more who we are, out of that we will make our decision.'
+	- Your Highlight on Location 480-480 | Added on Wednesday, January 8, 2025 7:24:53 PM
 - ### Acts of Discernment
-- Your Highlight on Location 486-487 | Added on Wednesday, January 8, 2025 7:25:32 PM
-  
-  Often, what is most important about the act of discernment is not really the decision itself or the process we use to arrive at it, but rather the process of opening to God through the decision and the learning that takes place in the process.
-- Your Bookmark on Location 490 | Added on Wednesday, January 8, 2025 7:26:20 PM
-- Your Highlight on Location 490-491 | Added on Wednesday, January 8, 2025 8:28:31 PM
-  
-  We may become aware of core values that hadn't shown themselves before, or a direction in which we are subtly being drawn without having noticed it.
-  Choosing
-- Your Highlight on Location 490-490 | Added on Wednesday, January 8, 2025 8:28:36 PM
-  
-  We may become aware of core values that hadn't shown themselves before, or a direction in which we are subtly being drawn without having noticed it.
-- Your Highlight on Location 492-492 | Added on Wednesday, January 8, 2025 8:28:53 PM
-  
-  It can also tell us something about our need to act as though we were autonomous.
-- Your Highlight on Location 502-503 | Added on Wednesday, January 8, 2025 8:30:53 PM
-  
-  "My true identity lies hidden in God's call to my freedom and my response to God."6 What is that call? How do I discern my response in this moment?
-- Your Highlight on Location 502-503 | Added on Wednesday, January 8, 2025 8:30:58 PM
-  
-  Perhaps we will find Thomas Merton's response to his questions ringing true for us: "My true identity lies hidden in God's call to my freedom and my response to God."6 What is that call? How do I discern my response in this moment?
-- Your Highlight on Location 524-525 | Added on Wednesday, January 8, 2025 8:33:11 PM
-  
-  In retrospect, I wonder if God's seeming silence in these circumstances isn't a tacit act of God's trust in me, inviting me to claim what I already know.
-- Your Highlight on Location 550-550 | Added on Wednesday, January 8, 2025 8:36:19 PM
-  
-  said, too, that we are a fun-loving, iconoclastic community, unafraid to dismantle our illusions of self-importance.
-- Your Highlight on Location 550-550 | Added on Wednesday, January 8, 2025 8:36:27 PM
-  
-  I said, too, that we are a fun-loving, iconoclastic community, unafraid to dismantle our illusions of self-importance.
-- Your Highlight on Location 574-574 | Added on Wednesday, January 8, 2025 8:38:31 PM
+	- Your Highlight on Location 486-487 | Added on Wednesday, January 8, 2025 7:25:32 PM
+	  
+	  Often, what is most important about the act of discernment is not really the decision itself or the process we use to arrive at it, but rather the process of opening to God through the decision and the learning that takes place in the process.
+	- Your Bookmark on Location 490 | Added on Wednesday, January 8, 2025 7:26:20 PM
+	- Your Highlight on Location 490-491 | Added on Wednesday, January 8, 2025 8:28:31 PM
+	  
+	  We may become aware of core values that hadn't shown themselves before, or a direction in which we are subtly being drawn without having noticed it.
+	  Choosing
+	- Your Highlight on Location 490-490 | Added on Wednesday, January 8, 2025 8:28:36 PM
+	  
+	  We may become aware of core values that hadn't shown themselves before, or a direction in which we are subtly being drawn without having noticed it.
+	- Your Highlight on Location 492-492 | Added on Wednesday, January 8, 2025 8:28:53 PM
+	  
+	  It can also tell us something about our need to act as though we were autonomous.
+	- Your Highlight on Location 502-503 | Added on Wednesday, January 8, 2025 8:30:53 PM
+	  
+	  "My true identity lies hidden in God's call to my freedom and my response to God."6 What is that call? How do I discern my response in this moment?
+	- Your Highlight on Location 502-503 | Added on Wednesday, January 8, 2025 8:30:58 PM
+	  
+	  Perhaps we will find Thomas Merton's response to his questions ringing true for us: "My true identity lies hidden in God's call to my freedom and my response to God."6 What is that call? How do I discern my response in this moment?
+	- Your Highlight on Location 524-525 | Added on Wednesday, January 8, 2025 8:33:11 PM
+	  
+	  In retrospect, I wonder if God's seeming silence in these circumstances isn't a tacit act of God's trust in me, inviting me to claim what I already know.
+	- Your Highlight on Location 550-550 | Added on Wednesday, January 8, 2025 8:36:19 PM
+	  
+	  said, too, that we are a fun-loving, iconoclastic community, unafraid to dismantle our illusions of self-importance.
+	- Your Highlight on Location 550-550 | Added on Wednesday, January 8, 2025 8:36:27 PM
+	  
+	  I said, too, that we are a fun-loving, iconoclastic community, unafraid to dismantle our illusions of self-importance.
+	- Your Highlight on Location 574-574 | Added on Wednesday, January 8, 2025 8:38:31 PM
 - ### methods of Decision
-- Your Highlight on Location 583-583 | Added on Wednesday, January 8, 2025 8:39:07 PM
-  
-  Net-hods as a -Way into 'Prayer
+	- Your Highlight on Location 583-583 | Added on Wednesday, January 8, 2025 8:39:07 PM
+	  
+	  Net-hods as a -Way into 'Prayer
 - Your Highlight on Location 583-584 | Added on Wednesday, January 8, 2025 8:39:24 PM
   
   methods, although often very appealing, are not always necessary to discernment. In fact, they may militate against it.
