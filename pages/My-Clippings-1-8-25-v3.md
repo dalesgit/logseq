@@ -63,13 +63,11 @@
 			  
 			  Often, in the very act of praying over events that are to come, we begin to see more clearly "the tactics of the matador" within us that keep us from living in our querencia.
 	- ### Spiritual Direction
-	- ## Freedom for love
-		- The Buddha called it "friendship with admirable people."4
-		  
-		  In cultivating the habit of discernment, we are invited to let go of the goal, to allow our lives "to flow unceasingly in that deep unknown where all that is necessary is to love and accept the present moment as the best, with perfect trust in God's universal goodness."'
+- ## Freedom for love
+	- The Buddha called it "friendship with admirable people."4
+		- In cultivating the habit of discernment, we are invited to let go of the goal, to allow our lives "to flow unceasingly in that deep unknown where all that is necessary is to love and accept the present moment as the best, with perfect trust in God's universal goodness."'
 		- Discernment is ultimately about love.
 	- ### Freedom and Unfreedom
-	  collapsed:: true
 		- If this freedom is our true essence, why is it that it seems so seldom available to us?
 		  
 		  I would identify the world as aspects of our culture, our personal histories, our self-expectations, and all influences that contribute to the formation of a false identity.
@@ -82,14 +80,13 @@
 		  
 		  You should roam in places that are your own, that arise in accordance with your own true nature. And what is the place that is your own? It's the pasture of ardent clearness and mindfulness, fulness, where discontent and greed are put aside for the sake of the world. That is your own place, your natural range.4
 	- ### Self-Knowledge and Interior Freedom
-	  
-	  Spiritual giants of most religious traditions speak of the need for self-knowledge. Some see it as a prerequisite for interior freedom. I would say that it is a companion to interior freedom.
-	  
-	  It is our willingness to accept ourselves as okay or not that frees us to see ourselves as we are.
-	  
-	  Some may find a fitness in the prayer of Macrina Wiederkehr: "0 God help me to believe the truth about myself no matter how beautiful it is.""
-	  
-	  it is important that we detach ourselves from results, that we resist the temptation to make something happen.
+		- Spiritual giants of most religious traditions speak of the need for self-knowledge. Some see it as a prerequisite for interior freedom. I would say that it is a companion to interior freedom.
+		  
+		  It is our willingness to accept ourselves as okay or not that frees us to see ourselves as we are.
+		  
+		  Some may find a fitness in the prayer of Macrina Wiederkehr: "0 God help me to believe the truth about myself no matter how beautiful it is.""
+		  
+		  it is important that we detach ourselves from results, that we resist the temptation to make something happen.
 - ### I Look at God, I look at You
   
   When asked by a friend how she prayed for her, Julian responded, "I look at God, I look at you, and I keep on looking at God."13
