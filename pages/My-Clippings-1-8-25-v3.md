@@ -286,27 +286,27 @@
 	  We live in the ashes of our freedom.
 	- Your Highlight on Location 396-396 | Added on Wednesday, January 8, 2025 6:20:02 PM
 - ### Spiritual Direction and 'Prayer
-- Your Bookmark on Location 398 | Added on Wednesday, January 8, 2025 6:20:24 PM
-- Your Highlight on Location 397-398 | Added on Wednesday, January 8, 2025 7:11:03 PM
-  
-  This prayer begins when a person realizes the desire for spiritual direction and prays to recognize the right spiritual director or group. It continues through the discernment process of the people who are considering coming together in direction.
-- Your Highlight on Location 406-407 | Added on Wednesday, January 8, 2025 7:11:58 PM
-  
-  The prayerfulness of the spiritual direction meeting is more important than the knowledge, skills, and style of those gathered together.
-- Your Highlight on Location 416-416 | Added on Wednesday, January 8, 2025 7:12:38 PM
-  
-  withpray  God,God,  letlet ialonel dir canyoneeeting  else's.else's.
-  tThean
-- Your Highlight on Location 421-421 | Added on Wednesday, January 8, 2025 7:13:28 PM
-  
-  Our images of God often outlive their usefulness.
-- Your Highlight on Location 430-430 | Added on Wednesday, January 8, 2025 7:14:07 PM
-  
-  I find for myself and others that it is often something outside our normal range of consideration that most facilitates fresh ways of seeing.
-- Your Highlight on Location 430-431 | Added on Wednesday, January 8, 2025 7:14:38 PM
-  
-  It is also useful to outline the stepping-stones of our spiritual life-the key experiences that seem to have moved us from one place to another,
-- Your Highlight on Location 440-440 | Added on Wednesday, January 8, 2025 7:15:15 PM
+	- Your Bookmark on Location 398 | Added on Wednesday, January 8, 2025 6:20:24 PM
+	- Your Highlight on Location 397-398 | Added on Wednesday, January 8, 2025 7:11:03 PM
+	  
+	  This prayer begins when a person realizes the desire for spiritual direction and prays to recognize the right spiritual director or group. It continues through the discernment process of the people who are considering coming together in direction.
+	- Your Highlight on Location 406-407 | Added on Wednesday, January 8, 2025 7:11:58 PM
+	  
+	  The prayerfulness of the spiritual direction meeting is more important than the knowledge, skills, and style of those gathered together.
+	- Your Highlight on Location 416-416 | Added on Wednesday, January 8, 2025 7:12:38 PM
+	  
+	  withpray  God,God,  letlet ialonel dir canyoneeeting  else's.else's.
+	  tThean
+	- Your Highlight on Location 421-421 | Added on Wednesday, January 8, 2025 7:13:28 PM
+	  
+	  Our images of God often outlive their usefulness.
+	- Your Highlight on Location 430-430 | Added on Wednesday, January 8, 2025 7:14:07 PM
+	  
+	  I find for myself and others that it is often something outside our normal range of consideration that most facilitates fresh ways of seeing.
+	- Your Highlight on Location 430-431 | Added on Wednesday, January 8, 2025 7:14:38 PM
+	  
+	  It is also useful to outline the stepping-stones of our spiritual life-the key experiences that seem to have moved us from one place to another,
+	- Your Highlight on Location 440-440 | Added on Wednesday, January 8, 2025 7:15:15 PM
 - ### finding One's Authentic Brayer
   Inherent
 - Your Highlight on Location 440-440 | Added on Wednesday, January 8, 2025 7:15:20 PM
