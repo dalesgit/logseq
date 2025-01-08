@@ -35,13 +35,14 @@
 ## Thoughts
 - Certificates
 - not an end but the beginning of a journey
-- From Owen
-Morphing understand of baptism
-- Biblical: beginning of ministry thence to wilderness and into ministry. Call. testing. "wow's". Share with others, pass it on, the good news as I have received it. To Jerusalem (brokenness) and death. return to true identity.
+- From Owen Morphing understand of baptism
+- Biblical: 
+beginning of ministry thence to wilderness and into ministry. Call. testing. "wow's". Share with others, pass it on, the good news as I have received it. To Jerusalem (brokenness) and death. return to true identity.
 - Julian and Pentecost tradition
 - video of sacraments as "abundance"
 - Latin America (Westerhoff story) I bury you … I raise you up as "Christian"
 - Dale: "Would you baptize me?"
 - the question: what do you seek?
+- My beloved (MPS) reading. 
 
 
