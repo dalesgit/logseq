@@ -50,23 +50,22 @@
 	  
 	  Inherent in this discussion on the habit of discernment is the belief that God is actively and caringly involved with us in every moment of our lives, even the seemingly most mundane ones.
 - ## Openness to God
-- The habit of discernment is an attitude of listening to God in all of life.
-- ### Intentional Prayer
-- ### Contemplative practices
-  
-  This safe place for a bull is called the querencia. For humans the querencia is the safe place in our inner world.... When a person finds their querencia, in full view of the matador, they are calm and peaceful. Wise. They have gathered their strength around them.'
-- ### Prayerful reflection on One's Day
-  
-  "the examen of consciousness."
-  
-  This prayer is not an attempt to master the day but rather our way of acknowledging how we want to live.
-  
-  Often, in the very act of praying over events that are to come, we begin to see more clearly "the tactics of the matador" within us that keep us from living in our querencia.
-- ### Spiritual Direction
-  
-  The Buddha called it "friendship with admirable people."4
-  
-  In cultivating the habit of discernment, we are invited to let go of the goal, to allow our lives "to flow unceasingly in that deep unknown where all that is necessary is to love and accept the present moment as the best, with perfect trust in God's universal goodness."'
+	- The habit of discernment is an attitude of listening to God in all of life.
+	- ### Intentional Prayer
+	- ### Contemplative practices
+	  collapsed:: true
+		- This safe place for a bull is called the querencia. For humans the querencia is the safe place in our inner world.... When a person finds their querencia, in full view of the matador, they are calm and peaceful. Wise. They have gathered their strength around them.'
+	- ### Prayerful reflection on One's Day
+	  collapsed:: true
+		- "the examen of consciousness."
+		  
+		  This prayer is not an attempt to master the day but rather our way of acknowledging how we want to live.
+		  
+		  Often, in the very act of praying over events that are to come, we begin to see more clearly "the tactics of the matador" within us that keep us from living in our querencia.
+	- ### Spiritual Direction
+		- The Buddha called it "friendship with admirable people."4
+		  
+		  In cultivating the habit of discernment, we are invited to let go of the goal, to allow our lives "to flow unceasingly in that deep unknown where all that is necessary is to love and accept the present moment as the best, with perfect trust in God's universal goodness."'
 - ## Freedom for love
   
   Discernment is ultimately about love.
