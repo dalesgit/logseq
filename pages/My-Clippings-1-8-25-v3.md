@@ -258,30 +258,29 @@
 	- Your Highlight on Location 334-336 | Added on Wednesday, January 8, 2025 6:11:57 PM
 	  
 	  You should roam in places that are your own, that arise in accordance with your own true nature. And what is the place that is your own? It's the pasture of ardent clearness and mindfulness, where discontent and greed are put aside for the sake of the world. That is your own place, your natural range.4
-- Your Bookmark on Location 334 | Added on Wednesday, January 8, 2025 6:12:10 PM
-- Your Highlight on Location 338-339 | Added on Wednesday, January 8, 2025 6:14:26 PM
-  
-  Spiritual giants of most religious traditions speak of the need for self-knowledge. Some see it as a prerequisite for interior freedom. I would say that it is a companion to interior freedom.
-- Your Highlight on Location 342-343 | Added on Wednesday, January 8, 2025 6:14:49 PM
-  
-  It is our willingness to accept ourselves as okay or not that frees us to see ourselves as we are.
-- Your Highlight on Location 364-365 | Added on Wednesday, January 8, 2025 6:16:54 PM
-  
-  Some may find a fitness in the prayer of Macrina Wiederkehr: "0 God help me to believe the truth about myself no matter how beautiful it is.""
-- Your Highlight on Location 366-367 | Added on Wednesday, January 8, 2025 6:17:08 PM
-  
-  it is important that we detach ourselves from results, that we resist the temptation to make something happen.
-- Your Highlight on Location 375-375 | Added on Wednesday, January 8, 2025 6:17:52 PM
-  
-  I Cook at God, I look at
-- Your Highlight on Location 376-377 | Added on Wednesday, January 8, 2025 6:18:13 PM
-  
-  When asked by a friend how she prayed for her, Julian responded, "I look at God, I look at you, and I keep on looking at God."13
-- Your Highlight on Location 380-383 | Added on Wednesday, January 8, 2025 6:18:48 PM
-  
-  As we do this, as
-  we see the bigger picture, we also see ourselves in relation to it. We are freed to see our essential goodness and our desire to live in love, to be love. We also begin to notice our blind spots, the places where we cling to the little self for fear of losing ourselves, the places of attachment that keep us from living who we are. We cannot make ourselves free.
-  begin to notice our blind spots, the places where we cling to the little self for fear of losing ourselves, the places of attachment that keep us from living who we are. We cannot make ourselves free.
+	- Your Bookmark on Location 334 | Added on Wednesday, January 8, 2025 6:12:10 PM
+	- Your Highlight on Location 338-339 | Added on Wednesday, January 8, 2025 6:14:26 PM
+	  
+	  Spiritual giants of most religious traditions speak of the need for self-knowledge. Some see it as a prerequisite for interior freedom. I would say that it is a companion to interior freedom.
+	- Your Highlight on Location 342-343 | Added on Wednesday, January 8, 2025 6:14:49 PM
+	  
+	  It is our willingness to accept ourselves as okay or not that frees us to see ourselves as we are.
+	- Your Highlight on Location 364-365 | Added on Wednesday, January 8, 2025 6:16:54 PM
+	  
+	  Some may find a fitness in the prayer of Macrina Wiederkehr: "**0 God help me to believe the truth about myself no matter how beautiful it is.**""
+	- Your Highlight on Location 366-367 | Added on Wednesday, January 8, 2025 6:17:08 PM
+	  
+	  it is important that we detach ourselves from results, that we resist the temptation to make something happen.
+	- Your Highlight on Location 375-375 | Added on Wednesday, January 8, 2025 6:17:52 PM
+	  
+	  I Cook at God, I look at
+	- Your Highlight on Location 376-377 | Added on Wednesday, January 8, 2025 6:18:13 PM
+	  
+	  When asked by a friend how she prayed for her, Julian responded, "I look at God, I look at you, and I keep on looking at God."13
+	- Your Highlight on Location 380-383 | Added on Wednesday, January 8, 2025 6:18:48 PM
+	  
+	  As we do this, as we see the bigger picture, we also see ourselves in relation to it. We are freed to see our essential goodness and our desire to live in love, to be love. We also begin to notice our blind spots, the places where we cling to the little self for fear of losing ourselves, the places of attachment that keep us from living who we are. We cannot make ourselves free.
+	  begin to notice our blind spots, the places where we cling to the little self for fear of losing ourselves, the places of attachment that keep us from living who we are. We cannot make ourselves free.
 - Your Highlight on Location 389-389 | Added on Wednesday, January 8, 2025 6:19:13 PM
   
   We live in the ashes of our freedom.
