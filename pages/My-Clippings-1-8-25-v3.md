@@ -1,6 +1,7 @@
 # Discernment: A Path to Spiritual Awakening (Rose Mary Dougherty)
 - ## Introduction
 - ## An overview of discernment
+  collapsed:: true
 	- "Don't get bogged down by concepts or analysis. Let this initial material `wash over you,' and see what, if anything, remains with you as you come to the end of this reflection."
 	- ### lgnatius and Buddha
 	  collapsed:: true
@@ -179,6 +180,7 @@
 	  created a road to travel by (3)
 	  
 	  Sr. Maura Eichner, *Hope Is a Blind Bard* (Wheaton, IL: Harold Shaw Publishers, 1989).
+- ## Imported
 - ## God is actively caring and involved with us
   
   Inherent in this discussion on the habit of discernment is the belief that God is actively and caringly involved with us in every moment of our lives, even the seemingly most mundane ones.
