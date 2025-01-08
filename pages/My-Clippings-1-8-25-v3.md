@@ -2,53 +2,53 @@
 - ## Introduction
 - ## An overview of discernment
 	- "Don't get bogged down by concepts or analysis. Let this initial material `wash over you,' and see what, if anything, remains with you as you come to the end of this reflection."
-- ### lgnatius and Buddha
-  collapsed:: true
-	- The fruit of discernment is a deepening awareness of our oneness with all and a growing participation in God's caring love for all. Saint Ignatius speaks of this as "finding God in all things, in order that we might love and serve God in all."5
-- ### Discernment as Habit
-  collapsed:: true
-	- Supporting the reflections in this book is the understanding standing that discernment is primarily a habit, a way of being that, while initially cultivated by our skillful means, ultimately takes us beyond them.
-	  
-	  This discernment that I speak of is a gift that has been given all of us.
-	  
-	  We sensitize ourselves to the uniqueness of discernment through ongoing attentiveness to our experience in prayer and reflection and often through the assistance of spiritual direction and companionship,
-	  
-	  We might also clarify our understanding through listening to the experience of others and reading some of the classical literature on discernment.
-	  
-	  Thus the *Spiritual Exercises* were meant to foster the habit of discernment, a discerning way of life.
-	  
-	  The Spiritual Exercises, might better be called A School of Discernment.
-- ### Discernment of Spirits and Discernment of God's -Will
-  collapsed:: true
-	- Discernment of spirits is concerned with the discrimination of interior movements, those attractions or nudgings of the heart that evoke a response or move us toward a particular action.
-	  
-	  The purpose of this discrimination would be to facilitate a growing self-knowledge knowledge that frees us to move in harmony with those movements that draw us toward God.
-	  
-	  For this reason, the Spiritual Exercises suggest that we "track" a movement from the beginning, through the middle, to the end to see where it might be leading.
-	  
-	  Discerning of God's will is concerned with recognizing ing and making choices congruent with who we are in God.
-	  
-	  A crucial role of the literature on the discernment of God's will is, I think, the encouragement to reflect on our own experience and then seek to live in the authenticity of who we are.
-- ### Consolation and desolation
-  collapsed:: true
-	- For John (of the Cross), this decline may have to do very much with God's purifying spirit detaching us from images of ourselves or God related to faith, hope, and love, rather than being the work of an undermining spirit.13
-	  
-	  important not to allow our awareness of their presence or absence to become the basis of our judgment of what is going on between ourselves and God
-	  
-	  "Desire is the key to discernment. It is a more reliable criterion than feelings or inner peace.... Our habitual inner peace may be lacking, yet we still `hang on' to the desire to love and serve....
-	  
-	  In doing so, they use the language of "good spirit" and "evil spirit." I prefer to use the terms "friend of my authentic self" and "enemy of my authentic self."
-	  
-	  Finally, both Saint Teresa and Saint Ignatius remind us that sometimes the experience of desolation is meant for our good, to allow us to see through to our desire for God that can be constant, despite what we are feeling.
-	  
-	  There is the need then to return periodically to that classic discernment question, "What do I want: the consolation of God or the God of consolation?" and to Teresa of Avila's caution against praying for experiences of consolation lest we begin to try to create these experiences.'8
-- ### Listening to the many voices of God
-  collapsed:: true
-	- The habit of discernment is an attitude of listening to God in all of life.
-	  
-	  It is a life of prayerful attention to God-a contemplative stance that Thomas Kelly refers to as "simplification" and that he describes as living "with a singleness of eye, from a holy Center where.. .we are wholly yielded to God."21
-	  
-	  Inherent in this discussion on the habit of discernment is the belief that God is actively and caringly involved with us in every moment of our lives, even the seemingly most mundane ones.
+	- ### lgnatius and Buddha
+	  collapsed:: true
+		- The fruit of discernment is a deepening awareness of our oneness with all and a growing participation in God's caring love for all. Saint Ignatius speaks of this as "finding God in all things, in order that we might love and serve God in all."5
+	- ### Discernment as Habit
+	  collapsed:: true
+		- Supporting the reflections in this book is the understanding standing that discernment is primarily a habit, a way of being that, while initially cultivated by our skillful means, ultimately takes us beyond them.
+		  
+		  This discernment that I speak of is a gift that has been given all of us.
+		  
+		  We sensitize ourselves to the uniqueness of discernment through ongoing attentiveness to our experience in prayer and reflection and often through the assistance of spiritual direction and companionship,
+		  
+		  We might also clarify our understanding through listening to the experience of others and reading some of the classical literature on discernment.
+		  
+		  Thus the *Spiritual Exercises* were meant to foster the habit of discernment, a discerning way of life.
+		  
+		  The Spiritual Exercises, might better be called A School of Discernment.
+	- ### Discernment of Spirits and Discernment of God's -Will
+	  collapsed:: true
+		- Discernment of spirits is concerned with the discrimination of interior movements, those attractions or nudgings of the heart that evoke a response or move us toward a particular action.
+		  
+		  The purpose of this discrimination would be to facilitate a growing self-knowledge knowledge that frees us to move in harmony with those movements that draw us toward God.
+		  
+		  For this reason, the Spiritual Exercises suggest that we "track" a movement from the beginning, through the middle, to the end to see where it might be leading.
+		  
+		  Discerning of God's will is concerned with recognizing ing and making choices congruent with who we are in God.
+		  
+		  A crucial role of the literature on the discernment of God's will is, I think, the encouragement to reflect on our own experience and then seek to live in the authenticity of who we are.
+	- ### Consolation and desolation
+	  collapsed:: true
+		- For John (of the Cross), this decline may have to do very much with God's purifying spirit detaching us from images of ourselves or God related to faith, hope, and love, rather than being the work of an undermining spirit.13
+		  
+		  important not to allow our awareness of their presence or absence to become the basis of our judgment of what is going on between ourselves and God
+		  
+		  "Desire is the key to discernment. It is a more reliable criterion than feelings or inner peace.... Our habitual inner peace may be lacking, yet we still `hang on' to the desire to love and serve....
+		  
+		  In doing so, they use the language of "good spirit" and "evil spirit." I prefer to use the terms "friend of my authentic self" and "enemy of my authentic self."
+		  
+		  Finally, both Saint Teresa and Saint Ignatius remind us that sometimes the experience of desolation is meant for our good, to allow us to see through to our desire for God that can be constant, despite what we are feeling.
+		  
+		  There is the need then to return periodically to that classic discernment question, "What do I want: the consolation of God or the God of consolation?" and to Teresa of Avila's caution against praying for experiences of consolation lest we begin to try to create these experiences.'8
+	- ### Listening to the many voices of God
+	  collapsed:: true
+		- The habit of discernment is an attitude of listening to God in all of life.
+		  
+		  It is a life of prayerful attention to God-a contemplative stance that Thomas Kelly refers to as "simplification" and that he describes as living "with a singleness of eye, from a holy Center where.. .we are wholly yielded to God."21
+		  
+		  Inherent in this discussion on the habit of discernment is the belief that God is actively and caringly involved with us in every moment of our lives, even the seemingly most mundane ones.
 - ## Openness to God
   collapsed:: true
 	- The habit of discernment is an attitude of listening to God in all of life.
@@ -153,12 +153,11 @@
 	- ### Contemplative dialogue
 	- ### Deepening authenticity
 - ## Conclusion
+  collapsed:: true
 	- Perhaps a discerning life begins when we can live each moment as though it were our last and make the choices that matter to us now.
 	  
 	  For these past few years it has been the people I have companioned as they are actively dying who have taught me most about appreciating the moment and yielding to the mysterious process of grace unfolding within.
-	  
-	  
-	  **From a woman's life**
+	- **From a woman's life**
 	  
 	  What Mary knew was just 
 	  enough for the usual day: 
