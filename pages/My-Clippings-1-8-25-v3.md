@@ -100,6 +100,7 @@
 		  
 		  We live in the ashes of our freedom. 4
 - ## Help along the way
+  collapsed:: true
 	- ### Spiritual direction and prayer
 	  collapsed:: true
 		- This prayer begins when a person realizes the desire for spiritual direction and prays to recognize the right spiritual director or group. It continues through the discernment process of the people who are considering coming together in direction.
@@ -115,70 +116,70 @@
 	- ### Finding one's authentic prayer
 	- ### Moving to the Holy Center
 - ## Choosing from the center
-  
-  sometimes we are impatient in the waiting. We repeatedly ask ourselves, "Who am I?" Instead of simple living with the question, we push to answer it.
-  
-  Their choices become expressions of their being.2
-  
-  What really decides any problem is the way we think in our hearts. How we see what our life is. Out of that we make our decision.... Serious practice changes the way we see our life, and so what we do with that life begins to shift. People want a mechanism for making decisions, for solving problems. There can be no fixed mechanism. But if we know more and more who we are, out of that we will make our decision.'
-- ### Acts of discernment
-  
-  Often, what is most important about the act of discernment is not really the decision itself or the process we use to arrive at it, but rather the process of opening to God through the decision and the learning that takes place in the process.
-  
-  We may become aware of core values that hadn't shown themselves before, or a direction in which we are subtly being drawn without having noticed it.
-  
-  It can also tell us something about our need to act as though we were autonomous.
-  
-  Perhaps we will find Thomas Merton's response to his questions ringing true for us: "My true identity lies hidden in God's call to my freedom and my response to God."6 What is that call? How do I discern my response in this moment?
-- ### Some personal examples
-  
-  In retrospect, I wonder if God's seeming silence in these circumstances isn't a tacit act of God's trust in me, inviting me to claim what I already know.
-  
-  I said, too, that we are a fun-loving, iconoclastic community, unafraid to dismantle our illusions of self-importance.
-- ### Methods of decision making
-- ### Methods as a way into prayer
-  
-  methods, although often very appealing, are not always necessary to discernment. In fact, they may militate against it.
-  
-  To subject our inner knowing to methods is like depending on a map of a given locale when one knows the terrain by heart, or relying on a how-to manual for creative expression.
-  
-  Teilhard de Chardin, in The Making of the Mind, reminds us, "Above all be patient with the slow work of God."8
-  
-  The author of the Tao Te Ching asks, "Who can wait quietly while the mud settles? Who can remain still until the moment of right action?"9
-  
-  it will mean sitting with God as we ask ourselves: "What do I want? What do I really want? How does this fit with what I really want?" or "How does it seem God has been leading me in this past year? How does this fit with what has been going on between God and me?"
+  collapsed:: true
+	- sometimes we are impatient in the waiting. We repeatedly ask ourselves, "Who am I?" Instead of simple living with the question, we push to answer it.
+	  collapsed:: true
+		- Their choices become expressions of their being.2
+		  
+		  What really decides any problem is the way we think in our hearts. How we see what our life is. Out of that we make our decision.... Serious practice changes the way we see our life, and so what we do with that life begins to shift. People want a mechanism for making decisions, for solving problems. There can be no fixed mechanism. But if we know more and more who we are, out of that we will make our decision.'
+	- ### Acts of discernment
+	  collapsed:: true
+		- Often, what is most important about the act of discernment is not really the decision itself or the process we use to arrive at it, but rather the process of opening to God through the decision and the learning that takes place in the process.
+		  
+		  We may become aware of core values that hadn't shown themselves before, or a direction in which we are subtly being drawn without having noticed it.
+		  
+		  It can also tell us something about our need to act as though we were autonomous.
+		  
+		  Perhaps we will find Thomas Merton's response to his questions ringing true for us: "My true identity lies hidden in God's call to my freedom and my response to God."6 What is that call? How do I discern my response in this moment?
+	- ### Some personal examples
+	  collapsed:: true
+		- In retrospect, I wonder if God's seeming silence in these circumstances isn't a tacit act of God's trust in me, inviting me to claim what I already know.
+		  
+		  I said, too, that we are a fun-loving, iconoclastic community, unafraid to dismantle our illusions of self-importance.
+	- ### Methods of decision making
+	- ### Methods as a way into prayer
+	  collapsed:: true
+		- methods, although often very appealing, are not always necessary to discernment. In fact, they may militate against it.
+		  
+		  To subject our inner knowing to methods is like depending on a map of a given locale when one knows the terrain by heart, or relying on a how-to manual for creative expression.
+		  
+		  Teilhard de Chardin, in The Making of the Mind, reminds us, "Above all be patient with the slow work of God."8
+		  
+		  The author of the Tao Te Ching asks, "Who can wait quietly while the mud settles? Who can remain still until the moment of right action?"9
+		  
+		  it will mean sitting with God as we ask ourselves: "What do I want? What do I really want? How does this fit with what I really want?" or "How does it seem God has been leading me in this past year? How does this fit with what has been going on between God and me?"
 - ## Discernment within groups
-- ### Contemplative dialogue
-- ### Deepening authenticity
+  collapsed:: true
+	- ### Contemplative dialogue
+	- ### Deepening authenticity
 - ## Conclusion
-  
-  Perhaps a discerning life begins when we can live each moment as though it were our last and make the choices that matter to us now.
-  
-  For these past few years it has been the people I have companioned as they are actively dying who have taught me most about appreciating the moment and yielding to the mysterious process of grace unfolding within.
-  
-  
-  **From a woman's life**
-  
-  What Mary knew was just 
-  enough for the usual day: 
-  Pull water, flint fire, bake 
-  bread, smile, pray 
-  
-  the dark orations, sleep, wake, 
-  wait. When pain honed a nerve, 
-  when birth or dying clotted 
-  an hour, she leaned to the curve 
-  
-  of living, resilient to fear, laughter, suffering. 
-  Partings are a little death. 
-  Each one's journey is a thing 
-  
-  wholly without precedent.
-  She looked at the sky
-  for compass. None. She, too,
-  created a road to travel by (3)
-  
-  Sr. Maura Eichner, *Hope Is a Blind Bard* (Wheaton, IL: Harold Shaw Publishers, 1989).
+	- Perhaps a discerning life begins when we can live each moment as though it were our last and make the choices that matter to us now.
+	  
+	  For these past few years it has been the people I have companioned as they are actively dying who have taught me most about appreciating the moment and yielding to the mysterious process of grace unfolding within.
+	  
+	  
+	  **From a woman's life**
+	  
+	  What Mary knew was just 
+	  enough for the usual day: 
+	  Pull water, flint fire, bake 
+	  bread, smile, pray 
+	  
+	  the dark orations, sleep, wake, 
+	  wait. When pain honed a nerve, 
+	  when birth or dying clotted 
+	  an hour, she leaned to the curve 
+	  
+	  of living, resilient to fear, laughter, suffering. 
+	  Partings are a little death. 
+	  Each one's journey is a thing 
+	  
+	  wholly without precedent.
+	  She looked at the sky
+	  for compass. None. She, too,
+	  created a road to travel by (3)
+	  
+	  Sr. Maura Eichner, *Hope Is a Blind Bard* (Wheaton, IL: Harold Shaw Publishers, 1989).
 - ## God is actively caring and involved with us
   
   Inherent in this discussion on the habit of discernment is the belief that God is actively and caringly involved with us in every moment of our lives, even the seemingly most mundane ones.
