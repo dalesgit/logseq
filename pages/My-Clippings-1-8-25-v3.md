@@ -373,59 +373,59 @@
 	- Your Highlight on Location 583-583 | Added on Wednesday, January 8, 2025 8:39:07 PM
 	  
 	  Net-hods as a -Way into 'Prayer
-- Your Highlight on Location 583-584 | Added on Wednesday, January 8, 2025 8:39:24 PM
-  
-  methods, although often very appealing, are not always necessary to discernment. In fact, they may militate against it.
-- Your Highlight on Location 586-588 | Added on Wednesday, January 8, 2025 8:39:54 PM
-  
-  Then to convince ourselves or someone else that we are being responsible, we put ourselves through the paces of some kind of methodical process.
-  To subject our inner knowing to methods is like depending on a map of a given locale when one knows the terrain by heart,
-- Your Highlight on Location 588-590 | Added on Wednesday, January 8, 2025 8:40:08 PM
-  
-  heart, or relying on a how-to manual for creative expression. Methods can lure us away from a confidence in God and a listening to inner guidance and move us into a false reliance on facts, or on our own or another's ability to figure out a right course of action. At times we are called to wait for inner guidance to reveal itself. Teilhard de Chardin,
-- Your Highlight on Location 587-590 | Added on Wednesday, January 8, 2025 8:40:17 PM
-  
-  To subject our inner knowing to methods is like depending on a map of a given locale when one knows the terrain by heart, or relying on a how-to manual for creative expression. Methods can lure us away from a confidence in God and a listening to inner guidance and move us into a false reliance on facts, or on our own or another's ability to figure out a right course of action. At times we are called to wait for inner guidance to reveal itself. Teilhard de Chardin,
-- Your Highlight on Location 587-588 | Added on Wednesday, January 8, 2025 8:40:28 PM
-  
-  To subject our inner knowing to methods is like depending on a map of a given locale when one knows the terrain by heart, or relying on a how-to manual for creative expression.
-- Your Highlight on Location 590-591 | Added on Wednesday, January 8, 2025 8:40:40 PM
-  
-  Teilhard de Chardin, in The Making of the Mind, reminds us, "Above all be patient with the slow work of God."8
-- Your Highlight on Location 591-592 | Added on Wednesday, January 8, 2025 8:40:50 PM
-  
-  The author of the Tao Te Ching asks, "Who can wait quietly while the mud settles? Who can remain still until the moment of right action?"9
-- Your Highlight on Location 595-596 | Added on Wednesday, January 8, 2025 8:41:53 PM
-  
-  "How does it seem God has been leading me in this past year? How does this fit with what has been going on between
-- Your Highlight on Location 595-595 | Added on Wednesday, January 8, 2025 8:42:13 PM
-  
-  "How does it seem God has been leading me in this past year? How does this fit with what
-- Your Highlight on Location 595-596 | Added on Wednesday, January 8, 2025 8:42:18 PM
-  
-  "How does it seem God has been leading me in this past year? How does this fit with what has been going on between God and me?"
-  "How does it seem God has been leading me in this past year? How does this fit with what has been going on between God and me?"
-- Your Highlight on Location 603-604 | Added on Wednesday, January 8, 2025 8:42:55 PM
-  
-  although we may never be able to name this. The more habitually we come to live in this space, and the fewer distinctions we notice between those times of conscious decision making and our ongoing prayer of attunement with inner wisdom, the more we live discernment.
-  6
-- Your Highlight on Location 604 | Added on Wednesday, January 8, 2025 8:43:16 PM
-  
-  6
-- Your Highlight on Location 610-610 | Added on Wednesday, January 8, 2025 8:43:51 PM
+	- Your Highlight on Location 583-584 | Added on Wednesday, January 8, 2025 8:39:24 PM
+	  
+	  methods, although often very appealing, are not always necessary to discernment. In fact, they may militate against it.
+	- Your Highlight on Location 586-588 | Added on Wednesday, January 8, 2025 8:39:54 PM
+	  
+	  Then to convince ourselves or someone else that we are being responsible, we put ourselves through the paces of some kind of methodical process.
+	  To subject our inner knowing to methods is like depending on a map of a given locale when one knows the terrain by heart,
+	- Your Highlight on Location 588-590 | Added on Wednesday, January 8, 2025 8:40:08 PM
+	  
+	  heart, or relying on a how-to manual for creative expression. Methods can lure us away from a confidence in God and a listening to inner guidance and move us into a false reliance on facts, or on our own or another's ability to figure out a right course of action. At times we are called to wait for inner guidance to reveal itself. Teilhard de Chardin,
+	- Your Highlight on Location 587-590 | Added on Wednesday, January 8, 2025 8:40:17 PM
+	  
+	  To subject our inner knowing to methods is like depending on a map of a given locale when one knows the terrain by heart, or relying on a how-to manual for creative expression. Methods can lure us away from a confidence in God and a listening to inner guidance and move us into a false reliance on facts, or on our own or another's ability to figure out a right course of action. At times we are called to wait for inner guidance to reveal itself. Teilhard de Chardin,
+	- Your Highlight on Location 587-588 | Added on Wednesday, January 8, 2025 8:40:28 PM
+	  
+	  To subject our inner knowing to methods is like depending on a map of a given locale when one knows the terrain by heart, or relying on a how-to manual for creative expression.
+	- Your Highlight on Location 590-591 | Added on Wednesday, January 8, 2025 8:40:40 PM
+	  
+	  Teilhard de Chardin, in The Making of the Mind, reminds us, "Above all be patient with the slow work of God."8
+	- Your Highlight on Location 591-592 | Added on Wednesday, January 8, 2025 8:40:50 PM
+	  
+	  The author of the Tao Te Ching asks, "Who can wait quietly while the mud settles? Who can remain still until the moment of right action?"9
+	- Your Highlight on Location 595-596 | Added on Wednesday, January 8, 2025 8:41:53 PM
+	  
+	  "How does it seem God has been leading me in this past year? How does this fit with what has been going on between
+	- Your Highlight on Location 595-595 | Added on Wednesday, January 8, 2025 8:42:13 PM
+	  
+	  "How does it seem God has been leading me in this past year? How does this fit with what
+	- Your Highlight on Location 595-596 | Added on Wednesday, January 8, 2025 8:42:18 PM
+	  
+	  "How does it seem God has been leading me in this past year? How does this fit with what has been going on between God and me?"
+	  "How does it seem God has been leading me in this past year? How does this fit with what has been going on between God and me?"
+	- Your Highlight on Location 603-604 | Added on Wednesday, January 8, 2025 8:42:55 PM
+	  
+	  although we may never be able to name this. The more habitually we come to live in this space, and the fewer distinctions we notice between those times of conscious decision making and our ongoing prayer of attunement with inner wisdom, the more we live discernment.
+	  6
+	- Your Highlight on Location 604 | Added on Wednesday, January 8, 2025 8:43:16 PM
+	  
+	  6
+	- Your Highlight on Location 610-610 | Added on Wednesday, January 8, 2025 8:43:51 PM
 - ### Contemplative Dialogue
-- Your Highlight on Location 624-624 | Added on Wednesday, January 8, 2025 8:45:04 PM
-  
-  Deepening
-- Your Highlight on Location 660-660 | Added on Wednesday, January 8, 2025 8:47:23 PM
-  
-  Perhaps a discerning life begins when we can live each moment as though it were our last and make the choices that matter to us now.
-- Your Highlight on Location 678-679 | Added on Wednesday, January 8, 2025 8:49:11 PM
-  
-  For these past few years it has been the people I have companioned as they are actively dying who have taught me most about appreciating the moment and yielding to the mysterious process of grace unfolding within.
-- Your Highlight on Location 692-694 | Added on Wednesday, January 8, 2025 8:52:48 PM
-- ### From A -Woman's L-Ife
-  What Mary knew was just enough for the usual day: Pull water, flint fire, bake bread, smile, pray
-  the dark orations, sleep, wake, wait. When pain honed a nerve, when birth or dying clotted an hour, she leaned to the curve
-  of living, resilient to fear, laughter, suffering. Partings are a little death. Each one's journey is a thing
-  wholly
+	- Your Highlight on Location 624-624 | Added on Wednesday, January 8, 2025 8:45:04 PM
+	  
+	  Deepening
+	- Your Highlight on Location 660-660 | Added on Wednesday, January 8, 2025 8:47:23 PM
+	  
+	  Perhaps a discerning life begins when we can live each moment as though it were our last and make the choices that matter to us now.
+	- Your Highlight on Location 678-679 | Added on Wednesday, January 8, 2025 8:49:11 PM
+	  
+	  For these past few years it has been the people I have companioned as they are actively dying who have taught me most about appreciating the moment and yielding to the mysterious process of grace unfolding within.
+	- Your Highlight on Location 692-694 | Added on Wednesday, January 8, 2025 8:52:48 PM
+	- ### From A -Woman's L-Ife
+	  What Mary knew was just enough for the usual day: Pull water, flint fire, bake bread, smile, pray
+	  the dark orations, sleep, wake, wait. When pain honed a nerve, when birth or dying clotted an hour, she leaned to the curve
+	  of living, resilient to fear, laughter, suffering. Partings are a little death. Each one's journey is a thing
+	  wholly
