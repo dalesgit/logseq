@@ -239,7 +239,7 @@
 - ### Discernment is ultimately about love.
 	- Your Highlight on Location 306-306 | Added on Wednesday, January 8, 2025 6:07:38 PM
 	  
-	  ,freedom and Unfreedom
+	  Freedom and Unfreedom
 	- Your Highlight on Location 306-306 | Added on Wednesday, January 8, 2025 6:08:11 PM
 	  
 	  If this freedom is our true essence, why is it that it seems so seldom available to us?
@@ -281,10 +281,10 @@
 	  
 	  As we do this, as we see the bigger picture, we also see ourselves in relation to it. We are freed to see our essential goodness and our desire to live in love, to be love. We also begin to notice our blind spots, the places where we cling to the little self for fear of losing ourselves, the places of attachment that keep us from living who we are. We cannot make ourselves free.
 	  begin to notice our blind spots, the places where we cling to the little self for fear of losing ourselves, the places of attachment that keep us from living who we are. We cannot make ourselves free.
-- Your Highlight on Location 389-389 | Added on Wednesday, January 8, 2025 6:19:13 PM
-  
-  We live in the ashes of our freedom.
-- Your Highlight on Location 396-396 | Added on Wednesday, January 8, 2025 6:20:02 PM
+	- Your Highlight on Location 389-389 | Added on Wednesday, January 8, 2025 6:19:13 PM
+	  
+	  We live in the ashes of our freedom.
+	- Your Highlight on Location 396-396 | Added on Wednesday, January 8, 2025 6:20:02 PM
 - ### Spiritual Direction and 'Prayer
 - Your Bookmark on Location 398 | Added on Wednesday, January 8, 2025 6:20:24 PM
 - Your Highlight on Location 397-398 | Added on Wednesday, January 8, 2025 7:11:03 PM
