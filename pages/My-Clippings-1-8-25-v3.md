@@ -3,19 +3,207 @@
 ## Introduction
 
 ## An overview of discernment
+"Don't get bogged down by concepts or analysis. Let this initial material `wash over you,' and see what, if anything, remains with you as you come to the end of this reflection."
 
+### lgnatius and Buddha
+
+The fruit of discernment is a deepening awareness of our oneness with all and a growing participation in God's caring love for all. Saint Ignatius speaks of this as "finding God in all things, in order that we might love and serve God in all."5
+
+### Discernment as Habit
+
+Supporting the reflections in this book is the understanding standing that discernment is primarily a habit, a way of being that, while initially cultivated by our skillful means, ultimately takes us beyond them.
+
+This discernment that I speak of is a gift that has been given all of us.
+
+We sensitize ourselves to the uniqueness of discernment through ongoing attentiveness to our experience in prayer and reflection and often through the assistance of spiritual direction and companionship,
+
+We might also clarify our understanding through listening to the experience of others and reading some of the classical literature on discernment.
+
+Thus the *Spiritual Exercises* were meant to foster the habit of discernment, a discerning way of life.
+
+The Spiritual Exercises, might better be called A School of Discernment.
+
+### Discernment of Spirits and Discernment of God's -Will
+
+Discernment of spirits is concerned with the discrimination of interior movements, those attractions or nudgings of the heart that evoke a response or move us toward a particular action.
+
+The purpose of this discrimination would be to facilitate a growing self-knowledge knowledge that frees us to move in harmony with those movements that draw us toward God.
+
+For this reason, the Spiritual Exercises suggest that we "track" a movement from the beginning, through the middle, to the end to see where it might be leading.
+
+Discerning of God's will is concerned with recognizing ing and making choices congruent with who we are in God.
+
+A crucial role of the literature on the discernment of God's will is, I think, the encouragement to reflect on our own experience and then seek to live in the authenticity of who we are.
+
+### Consolation and desolation
+For John (of the Cross), this decline may have to do very much with God's purifying spirit detaching us from images of ourselves or God related to faith, hope, and love, rather than being the work of an undermining spirit.13
+
+important not to allow our awareness of their presence or absence to become the basis of our judgment of what is going on between ourselves and God
+
+"Desire is the key to discernment. It is a more reliable criterion than feelings or inner peace.... Our habitual inner peace may be lacking, yet we still `hang on' to the desire to love and serve....
+
+In doing so, they use the language of "good spirit" and "evil spirit." I prefer to use the terms "friend of my authentic self" and "enemy of my authentic self."
+
+Finally, both Saint Teresa and Saint Ignatius remind us that sometimes the experience of desolation is meant for our good, to allow us to see through to our desire for God that can be constant, despite what we are feeling.
+
+There is the need then to return periodically to that classic discernment question, "What do I want: the consolation of God or the God of consolation?" and to Teresa of Avila's caution against praying for experiences of consolation lest we begin to try to create these experiences.'8
+
+### Listening to the many voices of God
+
+The habit of discernment is an attitude of listening to God in all of life.
+
+It is a life of prayerful attention to God-a contemplative stance that Thomas Kelly refers to as "simplification" and that he describes as living "with a singleness of eye, from a holy Center where.. .we are wholly yielded to God."21
+
+Inherent in this discussion on the habit of discernment is the belief that God is actively and caringly involved with us in every moment of our lives, even the seemingly most mundane ones.
 ## Openness to God
+
+The habit of discernment is an attitude of listening to God in all of life.
+
+### Intentional Prayer
+
+### Contemplative practices
+
+This safe place for a bull is called the querencia. For humans the querencia is the safe place in our inner world.... When a person finds their querencia, in full view of the matador, they are calm and peaceful. Wise. They have gathered their strength around them.'
+
+### Prayerful reflection on One's Day
+
+"the examen of consciousness."
+
+This prayer is not an attempt to master the day but rather our way of acknowledging how we want to live.
+
+Often, in the very act of praying over events that are to come, we begin to see more clearly "the tactics of the matador" within us that keep us from living in our querencia.
+
+### Spiritual Direction
+
+The Buddha called it "friendship with admirable people."4
+
+In cultivating the habit of discernment, we are invited to let go of the goal, to allow our lives "to flow unceasingly in that deep unknown where all that is necessary is to love and accept the present moment as the best, with perfect trust in God's universal goodness."'
 
 ## Freedom for love
 
+Discernment is ultimately about love.
+
+### Freedom and Unfreedom
+
+If this freedom is our true essence, why is it that it seems so seldom available to us?
+
+I would identify the world as aspects of our culture, our personal histories, our self-expectations, and all influences that contribute to the formation of a false identity.
+
+"God, this is where I am right now. I wish I could choose from a different place, but I'm not there yet. Maybe some day I will be, but for now, I just trust that you are with me as I move ahead from the place where I am."
+
+As stated earlier, discernment doesn't only have relevance for times of decision making. It is a stance, a way of being in all of life.
+
+"That's enough; this smoking is taking me away from what I most want." And she quit. (**very close to my experience**)
+
+You should roam in places that are your own, that arise in accordance with your own true nature. And what is the place that is your own? It's the pasture of ardent clearness and mindfulness, fulness, where discontent and greed are put aside for the sake of the world. That is your own place, your natural range.4
+
+### Self-Knowledge and Interior Freedom
+
+Spiritual giants of most religious traditions speak of the need for self-knowledge. Some see it as a prerequisite for interior freedom. I would say that it is a companion to interior freedom.
+
+It is our willingness to accept ourselves as okay or not that frees us to see ourselves as we are.
+
+Some may find a fitness in the prayer of Macrina Wiederkehr: "0 God help me to believe the truth about myself no matter how beautiful it is.""
+
+it is important that we detach ourselves from results, that we resist the temptation to make something happen.
+
+### I Look at God, I look at You
+
+When asked by a friend how she prayed for her, Julian responded, "I look at God, I look at you, and I keep on looking at God."13
+
+As we do this, as we see the bigger picture, we also see ourselves in relation to it. We are freed to see our essential goodness and our desire to live in love, to be love. We also begin to notice our blind spots, the places where we cling to the little self for fear of losing ourselves, the places of attachment that keep us from living who we are. We cannot make ourselves free.
+
+We live in the ashes of our freedom. 4
 ## Help along the way
+
+### Spiritual direction and prayer
+
+This prayer begins when a person realizes the desire for spiritual direction and prays to recognize the right spiritual director or group. It continues through the discernment process of the people who are considering coming together in direction.
+
+The prayerfulness of the spiritual direction meeting is more important than the knowledge, skills, and style of those gathered together.
+
+### The relationship between Images and Experience
+
+Our images of God often outlive their usefulness.
+
+I find for myself and others that it is often something outside our normal range of consideration that most facilitates fresh ways of seeing.
+
+It is also useful to outline the stepping-stones of our spiritual life-the key experiences that seem to have moved us from one place to another,
+
+### Finding one's authentic prayer
+### Moving to the Holy Center
 
 ## Choosing from the center
 
+sometimes we are impatient in the waiting. We repeatedly ask ourselves, "Who am I?" Instead of simple living with the question, we push to answer it.
+
+Their choices become expressions of their being.2
+
+What really decides any problem is the way we think in our hearts. How we see what our life is. Out of that we make our decision.... Serious practice changes the way we see our life, and so what we do with that life begins to shift. People want a mechanism for making decisions, for solving problems. There can be no fixed mechanism. But if we know more and more who we are, out of that we will make our decision.'
+
+### Acts of discernment
+
+Often, what is most important about the act of discernment is not really the decision itself or the process we use to arrive at it, but rather the process of opening to God through the decision and the learning that takes place in the process.
+
+We may become aware of core values that hadn't shown themselves before, or a direction in which we are subtly being drawn without having noticed it.
+
+It can also tell us something about our need to act as though we were autonomous.
+
+Perhaps we will find Thomas Merton's response to his questions ringing true for us: "My true identity lies hidden in God's call to my freedom and my response to God."6 What is that call? How do I discern my response in this moment?
+
+### Some personal examples
+
+In retrospect, I wonder if God's seeming silence in these circumstances isn't a tacit act of God's trust in me, inviting me to claim what I already know.
+
+I said, too, that we are a fun-loving, iconoclastic community, unafraid to dismantle our illusions of self-importance.
+
+### Methods of decision making
+
+### Methods as a way into prayer
+
+methods, although often very appealing, are not always necessary to discernment. In fact, they may militate against it.
+
+To subject our inner knowing to methods is like depending on a map of a given locale when one knows the terrain by heart, or relying on a how-to manual for creative expression.
+
+Teilhard de Chardin, in The Making of the Mind, reminds us, "Above all be patient with the slow work of God."8
+
+The author of the Tao Te Ching asks, "Who can wait quietly while the mud settles? Who can remain still until the moment of right action?"9
+
+it will mean sitting with God as we ask ourselves: "What do I want? What do I really want? How does this fit with what I really want?" or "How does it seem God has been leading me in this past year? How does this fit with what has been going on between God and me?"
 ## Discernment within groups
 
+### Contemplative dialogue
+
+### Deepening authenticity
 ## Conclusion
 
+Perhaps a discerning life begins when we can live each moment as though it were our last and make the choices that matter to us now.
+
+For these past few years it has been the people I have companioned as they are actively dying who have taught me most about appreciating the moment and yielding to the mysterious process of grace unfolding within.
+
+
+**From a woman's life**
+
+What Mary knew was just 
+enough for the usual day: 
+Pull water, flint fire, bake 
+bread, smile, pray 
+
+the dark orations, sleep, wake, 
+wait. When pain honed a nerve, 
+when birth or dying clotted 
+an hour, she leaned to the curve 
+
+of living, resilient to fear, laughter, suffering. 
+Partings are a little death. 
+Each one's journey is a thing 
+
+wholly without precedent.
+She looked at the sky
+for compass. None. She, too,
+created a road to travel by (3)
+
+Sr. Maura Eichner, *Hope Is a Blind Bard* (Wheaton, IL: Harold Shaw Publishers, 1989).
 ## God is actively caring and involved with us
 
 Inherent in this discussion on the habit of discernment is the belief that God is actively and caringly involved with us in every moment of our lives, even the seemingly most mundane ones.
