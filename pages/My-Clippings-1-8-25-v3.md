@@ -182,6 +182,7 @@
 	  Sr. Maura Eichner, *Hope Is a Blind Bard* (Wheaton, IL: Harold Shaw Publishers, 1989).
 - ## Imported
 - ### God is actively caring and involved with us
+  collapsed:: true
 	- Inherent in this discussion on the habit of discernment is the belief that God is actively and caringly involved with us in every moment of our lives, even the seemingly most mundane ones.
 	- Your Highlight on Location 248-249 | Added on Wednesday, January 8, 2025 5:55:43 PM
 - ### openness to God in all of life or simply as prayerfulness.
@@ -206,55 +207,57 @@
 	  May it be so!
 	- Your Highlight on Location 21 | Added on Wednesday, January 8, 2025 5:59:09 PM
 - ###  Introduction
+  collapsed:: true
 	- Your Highlight on Location 263-265 | Added on Wednesday, January 8, 2025 6:01:16 PM
 	  
 	  This safe place for a bull is called the querencia. For humans the querencia is the safe place in our inner world.... When a person finds their querencia, in full view of the matador, they are calm and peaceful. Wise. They have gathered their strength around them.'
 	- Your Highlight on Location 273-273 | Added on Wednesday, January 8, 2025 6:01:56 PM
 	  
 	  'Prayerful Reflection on One's Day
-- Your Highlight on Location 273-274 | Added on Wednesday, January 8, 2025 6:02:15 PM
-  
-  "the examen of consciousness."
-- Your Highlight on Location 281-282 | Added on Wednesday, January 8, 2025 6:02:53 PM
-  
-  This prayer is not an attempt to master the day but rather our way of acknowledging how we want to live.
-- Your Highlight on Location 283-284 | Added on Wednesday, January 8, 2025 6:03:14 PM
-  
-  Often, in the very act of praying over events that are to come, we begin to see more clearly "the tactics of the matador" within us that keep us from living in our querencia.
-- Your Highlight on Location 288-288 | Added on Wednesday, January 8, 2025 6:03:33 PM
+	- Your Highlight on Location 273-274 | Added on Wednesday, January 8, 2025 6:02:15 PM
+	  
+	  "the examen of consciousness."
+	- Your Highlight on Location 281-282 | Added on Wednesday, January 8, 2025 6:02:53 PM
+	  
+	  This prayer is not an attempt to master the day but rather our way of acknowledging how we want to live.
+	- Your Highlight on Location 283-284 | Added on Wednesday, January 8, 2025 6:03:14 PM
+	  
+	  Often, in the very act of praying over events that are to come, we begin to see more clearly "the tactics of the matador" within us that keep us from living in our querencia.
+	- Your Highlight on Location 288-288 | Added on Wednesday, January 8, 2025 6:03:33 PM
 - ### Spiritual Direction
-- Your Highlight on Location 289-289 | Added on Wednesday, January 8, 2025 6:03:42 PM
-  
-  The Buddha called it "friendship with admirable people."4
-- Your Bookmark on Location 286 | Added on Wednesday, January 8, 2025 6:03:49 PM
-- Your Highlight on Location 295-297 | Added on Wednesday, January 8, 2025 6:06:09 PM
-- ### In cultivating the habit of discernment, 
-  
-  we are invited to let go of the goal, to allow our lives to flow unceasingly in that deep unknown where all that is necessary is to love and accept the present moment as the best, with perfect trust in God's universal goodness.
-- Your Bookmark on Location 293 | Added on Wednesday, January 8, 2025 6:06:18 PM
-- Your Highlight on Location 299-299 | Added on Wednesday, January 8, 2025 6:07:17 PM
+  collapsed:: true
+	- Your Highlight on Location 289-289 | Added on Wednesday, January 8, 2025 6:03:42 PM
+	  
+	  The Buddha called it "friendship with admirable people."4
+	- Your Bookmark on Location 286 | Added on Wednesday, January 8, 2025 6:03:49 PM
+	- Your Highlight on Location 295-297 | Added on Wednesday, January 8, 2025 6:06:09 PM
+- ### In cultivating the habit of discernment,
+  collapsed:: true
+	- we are invited to let go of the goal, to allow our lives to flow unceasingly in that deep unknown where all that is necessary is to love and accept the present moment as the best, with perfect trust in God's universal goodness.
+	- Your Bookmark on Location 293 | Added on Wednesday, January 8, 2025 6:06:18 PM
+	- Your Highlight on Location 299-299 | Added on Wednesday, January 8, 2025 6:07:17 PM
 - ### Discernment is ultimately about love.
-- Your Highlight on Location 306-306 | Added on Wednesday, January 8, 2025 6:07:38 PM
-  
-  ,freedom and Unfreedom
-- Your Highlight on Location 306-306 | Added on Wednesday, January 8, 2025 6:08:11 PM
-  
-  If this freedom is our true essence, why is it that it seems so seldom available to us?
-- Your Highlight on Location 308-308 | Added on Wednesday, January 8, 2025 6:09:09 PM
-  
-  influences that contribute to the formation of a false identity.
-- Your Highlight on Location 319-320 | Added on Wednesday, January 8, 2025 6:10:15 PM
-  
-  "God, this is where I am right now. I wish I could choose from a different place, but I'm not there yet. Maybe some day I will be, but for now, I just trust that you are with me as I move ahead from the place where I am."
-- Your Highlight on Location 320-321 | Added on Wednesday, January 8, 2025 6:10:30 PM
-  
-  As stated earlier, discernment doesn't only have relevance for times of decision making. It is a stance, a way of being in all of life.
-- Your Highlight on Location 329-329 | Added on Wednesday, January 8, 2025 6:11:08 PM
-  
-  "That's enough; this smoking is taking me away from what I most want." And she quit.
-- Your Highlight on Location 334-336 | Added on Wednesday, January 8, 2025 6:11:57 PM
-  
-  You should roam in places that are your own, that arise in accordance with your own true nature. And what is the place that is your own? It's the pasture of ardent clearness and mindfulness, where discontent and greed are put aside for the sake of the world. That is your own place, your natural range.4
+	- Your Highlight on Location 306-306 | Added on Wednesday, January 8, 2025 6:07:38 PM
+	  
+	  ,freedom and Unfreedom
+	- Your Highlight on Location 306-306 | Added on Wednesday, January 8, 2025 6:08:11 PM
+	  
+	  If this freedom is our true essence, why is it that it seems so seldom available to us?
+	- Your Highlight on Location 308-308 | Added on Wednesday, January 8, 2025 6:09:09 PM
+	  
+	  influences that contribute to the formation of a false identity.
+	- Your Highlight on Location 319-320 | Added on Wednesday, January 8, 2025 6:10:15 PM
+	  
+	  "God, this is where I am right now. I wish I could choose from a different place, but I'm not there yet. Maybe some day I will be, but for now, I just trust that you are with me as I move ahead from the place where I am."
+	- Your Highlight on Location 320-321 | Added on Wednesday, January 8, 2025 6:10:30 PM
+	  
+	  As stated earlier, discernment doesn't only have relevance for times of decision making. It is a stance, a way of being in all of life.
+	- Your Highlight on Location 329-329 | Added on Wednesday, January 8, 2025 6:11:08 PM
+	  
+	  "That's enough; this smoking is taking me away from what I most want." And she quit.
+	- Your Highlight on Location 334-336 | Added on Wednesday, January 8, 2025 6:11:57 PM
+	  
+	  You should roam in places that are your own, that arise in accordance with your own true nature. And what is the place that is your own? It's the pasture of ardent clearness and mindfulness, where discontent and greed are put aside for the sake of the world. That is your own place, your natural range.4
 - Your Bookmark on Location 334 | Added on Wednesday, January 8, 2025 6:12:10 PM
 - Your Highlight on Location 338-339 | Added on Wednesday, January 8, 2025 6:14:26 PM
   
