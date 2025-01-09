@@ -70,3 +70,4 @@
 	- principle and foundation
 		- created to praise ... God. stunned in awe of God. Where have you been brought to your knees
 		-
+		-
