@@ -62,6 +62,7 @@
 	- How is God talking to that person (not how does God talk to me)?
 	- Where do I move? Ask "where are you going to feel closest to God?"
 - Ignatius compass, principle and foundation
+  collapsed:: true
 	- Exercises
 	  collapsed:: true
 		- week 1 **love of God** **look at sin** where do I fall away?
@@ -74,16 +75,19 @@
 		- human is to use as useful and discard as it hinders us (Ignatius' cannon ball was a gift) **freedom** is key
 		- be indifferent to all created things, health over sickness, etc. Honor the things that are most conducive for us to the end for which we are created. Nouwen: "downward mobility"
 - People coming to us looking for answers.
+  collapsed:: true
 	- job? ministry? retire? ... seeking certainty. Certainty is paralyzing for some.
 	- Ignatius: Pay attention to what is beneath the surface. Pay attention to the surrounding, epiphanies, dreams, daydreams,
 	- Danny, I notice you look especially thoughtful
 	- you're feeling uncomfortable
 	- **notice, get curious, wonder** ... (LS) -- *I was remember how significant that habit was in the last day as I prepared for today's class.*
 - Consolation / Desolation
+  collapsed:: true
 	- Louise case study
 	- testing the insights from above
 	- Where are the fruits? Sit with it.
 	- Will that project bring me closer to God?
 	- retell the story so you can see what's really going on.
 - social scientist: we make decisions impulsively, with little input, ... procrastinate or decide too quickly (What matters most and why?) Jim Manny. Usually choose what relatives or friends want ... what we've decided in the past.
-	- life is messy. we can't map it a
+	- life is messy. we can't map it out adequately. Get as much info as we can, but step back, pay attention
+-
