@@ -18,4 +18,6 @@
 	- examining his own experience of conversion, over and over, then wondering if he could share with others.
 	- Your image of God shapes your life
 	- Ign. Here is this God pokeing around in my life in all kinds of ways. If He desires a relationship, the goal of my life is "how do I deepen my life with this God of mine" -- rather than the image of God as a great teacher, examiner in the sky.
-	- "It's a 3-legged race" --
+	- "It's a 3-legged race" -- trying to take charge, we trip, if together, wind at the back.
+	- Examen prayer
+		- If you don't pray anything else ... more than 1 per day. Check-in with
