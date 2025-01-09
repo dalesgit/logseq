@@ -56,8 +56,11 @@
 	- not helpful to buy a copy of Exercises. The book is for those who are leading another in discernment.
 	- Greg B. & LS emphasize: My deepest desires are God's deepest desires.
 - Need to step out of oneself to begin
+  collapsed:: true
 	- If these same things were happening to your sister what would you ...
 	- There's not just **one way** God speaks to each person in what's best for them
 	- How is God talking to that person (not how does God talk to me)?
 	- Where do I move? Ask "where are you going to feel closest to God?"
 - Ignatius compass, principle and foundation
+	- week 1 **love of God**
+	- week 2
