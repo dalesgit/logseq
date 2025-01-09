@@ -34,3 +34,4 @@
 				- look at the ahead, utilize the learning of today
 				- end with a conversation with God or a prayer
 		- meditation example
+			-
