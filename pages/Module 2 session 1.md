@@ -14,7 +14,7 @@
 	- graphic designer by trade. did logo for st. Peter
 	- Igatius was lay person originally (only method by lay person)
 	- Listening "How is God speaking to us"
-	- watch video? [https://youtu.be/lehPjhAky6E](https://youtu.be/lehPjhAky6E)?si=IegZH7sKtGVzvlz3
+	- watch **video**? [https://youtu.be/lehPjhAky6E](https://youtu.be/lehPjhAky6E)?si=IegZH7sKtGVzvlz3
 	- examining his own experience of conversion, over and over, then wondering if he could share with others.
 	- Your image of God shapes your life
 	- Ign. Here is this God pokeing around in my life in all kinds of ways. If He desires a relationship, the goal of my life is "how do I deepen my life with this God of mine" -- rather than the image of God as a great teacher, examiner in the sky.
@@ -35,5 +35,7 @@
 			- end with a conversation with God or a prayer
 	- meditation example
 		- The fruit of this was **positive**
+		- Trust that it's going to work (future)
+		- Let go of **anxiety**
 		-
 		-
