@@ -73,7 +73,7 @@
 		- be indifferent to all created things, health over sickness, etc. Honor the things that are most conducive for us to the end for which we are created. Nouwen: "downward mobility"
 - People coming to us looking for answers.
 	- job? ministry? retire? ... seeking certainty. Certainty is paralyzing for some.
-	- Ignatius: pay attention to what is beneath the surface. Pay attention to the surrounding
+	- Ignatius: Pay attention to what is beneath the surface. Pay attention to the surrounding, epiphanies, dreams, daydreams,
 	-
 	-
 	-
