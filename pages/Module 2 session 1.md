@@ -50,4 +50,4 @@
 		- even a wrong decision, God is still there
 	- Shared video, 20 years or more. Greg Boyle, Elizabeth Liebert, Mark Thiebedeaux and others. Christine led a 97 y/o who found it very helpful "Discernment of spirits" on youtube
 		- help us to **listen** to God in our life
-		-
+	- not helpful to buy a copy of Exercises. The book is for those who are leading another in discernment.
