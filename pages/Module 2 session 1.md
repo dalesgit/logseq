@@ -92,4 +92,6 @@
 	- life is messy. we can't map it out adequately. Get as much info as we can, but step back, pay attention
 - **n.b. pre-work assignment.** due [[Jan 16th, 2025]] What is this?
 - cf. video above re. Ignatius
-- cf.
+- cf. "presession form"? from syllabus
+	- [Welcome to CAP Module Two.docx](../assets/Welcome_to_CAP_Module_Two_1736448169853_0.docx)
+	-
