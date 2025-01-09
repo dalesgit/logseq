@@ -71,6 +71,8 @@
 		- created to praise ... God. stunned in awe of God. Where have you been brought to your knees
 		- human is to use as useful and discard as it hinders us (Ignatius' cannon ball was a gift) **freedom** is key
 		- be indifferent to all created things, health over sickness, etc. Honor the things that are most conducive for us to the end for which we are created. Nouwen: "downward mobility"
-		-
-		-
-		-
+- People coming to us looking for answers.
+	- job? ministry? retire? ... seeking certainty. Certainty is paralyzing for some.
+	-
+	-
+	-
