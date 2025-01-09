@@ -31,4 +31,6 @@
 				- He believed everything was a gift -- start with gratitude. What is God giving me
 				- review
 				- pay attention to opportunities missed, ...
-				- look at the ahead
+				- look at the ahead, utilize the learning of today
+				- end with a conversation with God or a prayer
+		- meditation example
