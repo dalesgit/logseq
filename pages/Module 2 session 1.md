@@ -3,6 +3,7 @@
 	- Esther will miss 1st Thurs for call to prep for ordination
 	- Craig in a merging church situation
 	- Danny called to serve at a church in York, SC
+	- Allison has a sick grand child
 - Music
   collapsed:: true
 	- "Official Ignatian Prayer (self-offering) by St. Louis Jesuits "Take Lord Receive". LS was excited when they arrived on the scene in 60's
@@ -52,4 +53,4 @@
 	- Shared video, 20 years or more. Greg Boyle, Elizabeth Liebert, Mark Thiebedeaux and others. Christine led a 97 y/o who found it very helpful "Discernment of spirits" on youtube
 		- help us to **listen** to God in our life
 	- not helpful to buy a copy of Exercises. The book is for those who are leading another in discernment.
-	- Greg B.
+	- Greg B. & LS emphasize: My deepest desires are God's deepest desires.
