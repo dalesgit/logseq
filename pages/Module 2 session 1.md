@@ -84,4 +84,4 @@
 	- testing the insights from above
 	- Where are the fruits? Sit with it.
 	- Will that project bring me closer to God?
--
+	- retell the story so you can see what's really going on.
