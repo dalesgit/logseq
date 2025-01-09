@@ -10,4 +10,6 @@
 - Christine Pearson, resident Ignatian expert. St. Peter's since 2007
 	- Teaching at the center for many years
 	- Leader of the team at the center, 4-6 week program open to everyone
-	-
+	- led 14 people through exercises (ea 9 mos.)
+	- graphic designer by trade. did logo for st. Peter
+	- Igatius
