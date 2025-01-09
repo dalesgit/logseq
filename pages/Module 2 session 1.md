@@ -1,1 +1,2 @@
-- Esther will miss 1st Thurs for prep for
+- Esther will miss 1st Thurs for call to prep for ordination
+- Craig
