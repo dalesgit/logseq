@@ -48,5 +48,5 @@
 		- could be short or long
 		- bringing God into the decision
 		- even a wrong decision, God is still there
-	- Shared video, 20 years or more. Greg Boyle, Elizabeth Young and others. Christine led a 97 y/o
+	- Shared video, 20 years or more. Greg Boyle, Elizabeth Young and others. Christine led a 97 y/o who found it very helpful "Discernment of spirits" on youtube
 		-
