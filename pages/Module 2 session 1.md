@@ -64,5 +64,5 @@
 - Ignatius compass, principle and foundation
 	- week 1 **love of God** **look at sin** where do I fall away?
 	- week 2 What's happening with Jesus?
-	- week 3 Way of the cross
-	- week 4
+	- week 3 Way of the cross. Use all of thoughts, feelings, experiences
+	- week 4 Resurrection:
