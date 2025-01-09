@@ -8,7 +8,7 @@
   collapsed:: true
 	- "Official Ignatian Prayer (self-offering) by St. Louis Jesuits "Take Lord Receive". LS was excited when they arrived on the scene in 60's
 	- Your love is enough for me from Earthen Vessels. (John Foley)
-- Christine Pearson, resident Ignatian expert. St. Peter's since 2007
+- Christine Pea/rson, resident Ignatian expert. St. Peter's since 2007
   collapsed:: true
 	- Teaching at the center for many years
 	- Leader of the team at the center, 4-6 week program open to everyone
@@ -62,5 +62,7 @@
 	- How is God talking to that person (not how does God talk to me)?
 	- Where do I move? Ask "where are you going to feel closest to God?"
 - Ignatius compass, principle and foundation
-	- week 1 **love of God**
-	- week 2
+	- week 1 **love of God** **look at sin** where do I fall away?
+	- week 2 What's happening with Jesus?
+	- week 3 Way of the cross
+	- week 4
