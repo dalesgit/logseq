@@ -37,5 +37,6 @@
 		- The fruit of this was **positive**
 		- Trust that it's going to work (future)
 		- Let go of **anxiety**
+		- #thank-you
 		-
 		-
