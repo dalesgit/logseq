@@ -23,4 +23,9 @@
 		- If you don't pray anything else ... more than 1 per day. Check-in with God. (not examen of conscience) rather an examen of consciousness.
 			- cf. apps on phone etc.
 			- how to be aware of God in my life
-			- easier to recognize in t
+			- easier to recognize in retrospect than in moment
+			- 5 steps
+				- put self in presence of God
+					- shine on this day
+					- help me to see my day through God's eyes
+				- He believed everything was a gift -- start with gratitude. What is God giving me
