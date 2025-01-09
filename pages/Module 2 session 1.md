@@ -16,3 +16,4 @@
 	- Listening "How is God speaking to us"
 	- watch video? [https://youtu.be/lehPjhAky6E](https://youtu.be/lehPjhAky6E)?si=IegZH7sKtGVzvlz3
 	- examining his own experience of conversion, over and over, then wondering if he could share with others.
+	- Your image of God shapes your life
