@@ -78,4 +78,5 @@
 	- Ignatius: Pay attention to what is beneath the surface. Pay attention to the surrounding, epiphanies, dreams, daydreams,
 	- Danny, I notice you look especially thoughtful
 	- you're feeling uncomfortable
-	- notice, get curious, wonder ... (LS)
+	- **notice, get curious, wonder** ... (LS) -- *I was remember how significant that habit was in the last day as I prepared for today's class.*
+-
