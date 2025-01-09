@@ -80,4 +80,5 @@
 	- you're feeling uncomfortable
 	- **notice, get curious, wonder** ... (LS) -- *I was remember how significant that habit was in the last day as I prepared for today's class.*
 - Consolation / Desolation
+	- Louise case study
 	-
