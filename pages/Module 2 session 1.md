@@ -21,6 +21,7 @@
 	- "It's a 3-legged race" -- trying to take charge, we trip, if together, wind at the back.
 - Examen prayer
 	- If you don't pray anything else ... more than 1 per day. Check-in with God. (not examen of conscience) rather an examen of consciousness.
+	  collapsed:: true
 		- cf. apps on phone etc.
 		- how to be aware of God in my life
 		- easier to recognize in retrospect than in moment
@@ -43,5 +44,5 @@
 		- it's not just decisions, because include what comes during and after
 		- not a destination, it's the way to reach a destination
 		- could be short or long
-		-
+		- bringing God into the decision
 		-
