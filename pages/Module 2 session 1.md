@@ -83,3 +83,5 @@
 	- Louise case study
 	- testing the insights from above
 	- Where are the fruits? Sit with it.
+	- Will that project bring me closer to God?
+-
