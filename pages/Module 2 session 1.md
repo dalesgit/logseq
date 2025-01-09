@@ -39,5 +39,5 @@
 		- Let go of **anxiety**
 		- #thank-you
 	- Ask the directee to do this, walk through with,
-		-
+	- "Discernment" is ? -- judgment, wisdom, see what might be obscure, able to distinguish one thing from another
 		-
