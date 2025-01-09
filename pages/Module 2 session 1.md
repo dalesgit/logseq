@@ -29,3 +29,6 @@
 					- shine on this day
 					- help me to see my day through God's eyes
 				- He believed everything was a gift -- start with gratitude. What is God giving me
+				- review
+				- pay attention to opportunities missed, ...
+				- look at the ahead
