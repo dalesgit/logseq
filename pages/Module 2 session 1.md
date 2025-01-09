@@ -85,3 +85,4 @@
 	- Where are the fruits? Sit with it.
 	- Will that project bring me closer to God?
 	- retell the story so you can see what's really going on.
+- social scientist: we make decisions impulsively, with little input, ... procrastinate or decide too quickly (What matters most and why?)
