@@ -8,4 +8,6 @@
 	- "Official Ignatian Prayer (self-offering) by St. Louis Jesuits "Take Lord Receive". LS was excited when they arrived on the scene in 60's
 	- Your love is enough for me from Earthen Vessels. (John Foley)
 - Christine Pearson, resident Ignatian expert. St. Peter's since 2007
--
+	- Teaching at the center for many years
+	- Leader of the team at the center, 4-6 week program open to everyone
+	-
