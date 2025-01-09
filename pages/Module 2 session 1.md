@@ -82,4 +82,4 @@
 - Consolation / Desolation
 	- Louise case study
 	- testing the insights from above
-	- Where are the fruits
+	- Where are the fruits? Sit with it.
