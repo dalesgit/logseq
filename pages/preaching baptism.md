@@ -29,6 +29,7 @@
 	- Donovan story of baptism in Africa "We"
 	- Bp. Winston
 	- the "promises" of baptism
+- [[Epiphany 1 opening]]
 - ## Thoughts
 - [Certificates](Certificates.md)
 - [not an end but the beginning of a journey](not an end but the beginning of a journey.md)
