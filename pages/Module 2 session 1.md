@@ -69,5 +69,6 @@
 		- week 4 Resurrection:
 	- principle and foundation
 		- created to praise ... God. stunned in awe of God. Where have you been brought to your knees
+		- human is to use as useful and discard as it hinders us (Ignatius' cannon ball was a gift)
 		-
 		-
