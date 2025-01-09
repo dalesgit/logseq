@@ -63,8 +63,9 @@
 	- Where do I move? Ask "where are you going to feel closest to God?"
 - Ignatius compass, principle and foundation
 	- Exercises
-	- week 1 **love of God** **look at sin** where do I fall away?
-	- week 2 What's happening with Jesus?
-	- week 3 Way of the cross. Use all of thoughts, feelings, experiences
-	- week 4 Resurrection:
-	- :rince and foundation
+		- week 1 **love of God** **look at sin** where do I fall away?
+		- week 2 What's happening with Jesus?
+		- week 3 Way of the cross. Use all of thoughts, feelings, experiences
+		- week 4 Resurrection:
+	- principle and foundation
+		-
