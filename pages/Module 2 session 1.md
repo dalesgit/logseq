@@ -90,4 +90,6 @@
 	- retell the story so you can see what's really going on.
 - social scientist: we make decisions impulsively, with little input, ... procrastinate or decide too quickly (What matters most and why?) Jim Manny. Usually choose what relatives or friends want ... what we've decided in the past.
 	- life is messy. we can't map it out adequately. Get as much info as we can, but step back, pay attention
-- **n.b. pre-work assignment.** due [[Jan 16th, 2025]]
+- **n.b. pre-work assignment.** due [[Jan 16th, 2025]] What is this?
+- cf. video above re. Ignatius
+- cf.
