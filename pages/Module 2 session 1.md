@@ -22,6 +22,7 @@
 	- Ign. Here is this God pokeing around in my life in all kinds of ways. If He desires a relationship, the goal of my life is "how do I deepen my life with this God of mine" -- rather than the image of God as a great teacher, examiner in the sky.
 	- "It's a 3-legged race" -- trying to take charge, we trip, if together, wind at the back.
 - Examen prayer
+  collapsed:: true
 	- If you don't pray anything else ... more than 1 per day. Check-in with God. (not examen of conscience) rather an examen of consciousness.
 	  collapsed:: true
 		- cf. apps on phone etc.
@@ -54,3 +55,5 @@
 		- help us to **listen** to God in our life
 	- not helpful to buy a copy of Exercises. The book is for those who are leading another in discernment.
 	- Greg B. & LS emphasize: My deepest desires are God's deepest desires.
+- Need to step out of oneself to begin
+	- If these same things were happening to your sister what would you ...
