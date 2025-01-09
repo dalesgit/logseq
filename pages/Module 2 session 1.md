@@ -68,5 +68,5 @@
 		- week 3 Way of the cross. Use all of thoughts, feelings, experiences
 		- week 4 Resurrection:
 	- principle and foundation
-		- created to praise ... God
+		- created to praise ... God. stunned in awe of God. Where have you been brought to your knees
 		-
