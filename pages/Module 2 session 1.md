@@ -59,3 +59,5 @@
 	- If these same things were happening to your sister what would you ...
 	- There's not just **one way** God speaks to each person in what's best for them
 	- How is God talking to that person (not how does God talk to me)?
+	- Where do I move? Ask "where are you going to feel closest to God?"
+	-
