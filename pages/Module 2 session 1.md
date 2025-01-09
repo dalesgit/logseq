@@ -8,6 +8,7 @@
 	- "Official Ignatian Prayer (self-offering) by St. Louis Jesuits "Take Lord Receive". LS was excited when they arrived on the scene in 60's
 	- Your love is enough for me from Earthen Vessels. (John Foley)
 - Christine Pearson, resident Ignatian expert. St. Peter's since 2007
+  collapsed:: true
 	- Teaching at the center for many years
 	- Leader of the team at the center, 4-6 week program open to everyone
 	- led 14 people through exercises (ea 9 mos.)
@@ -35,6 +36,7 @@
 			- look at the ahead, utilize the learning of today
 			- end with a conversation with God or a prayer
 	- meditation example
+	  collapsed:: true
 		- The fruit of this was **positive**
 		- Trust that it's going to work (future)
 		- Let go of **anxiety**
@@ -45,4 +47,5 @@
 		- not a destination, it's the way to reach a destination
 		- could be short or long
 		- bringing God into the decision
+		- even a wrong decision, God is still there
 		-
