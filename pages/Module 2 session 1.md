@@ -38,5 +38,5 @@
 		- Trust that it's going to work (future)
 		- Let go of **anxiety**
 		- #thank-you
-		-
+	- Ask the directee to do this, walk through with,
 		-
