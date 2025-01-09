@@ -85,4 +85,5 @@
 	- Where are the fruits? Sit with it.
 	- Will that project bring me closer to God?
 	- retell the story so you can see what's really going on.
-- social scientist: we make decisions impulsively, with little input, ... procrastinate or decide too quickly (What matters most and why?)
+- social scientist: we make decisions impulsively, with little input, ... procrastinate or decide too quickly (What matters most and why?) Jim Manny. Usually choose what relatives or friends want ... what we've decided in the past.
+	- life is messy. we can't map it a
