@@ -40,4 +40,8 @@
 		- #thank-you
 	- Ask the directee to do this, walk through with,
 	- "Discernment" is ? -- judgment, wisdom, see what might be obscure, able to distinguish one thing from another
+		- it's not just decisions, because include what comes during and after
+		- not a destination, it's the way to reach a destination
+		- could be short or long
+		-
 		-
