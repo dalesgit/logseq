@@ -48,6 +48,6 @@
 		- could be short or long
 		- bringing God into the decision
 		- even a wrong decision, God is still there
-	- Shared video, 20 years or more. Greg Boyle, Elizabeth Liebert, mark Thiebedeaux and others. Christine led a 97 y/o who found it very helpful "Discernment of spirits" on youtube
+	- Shared video, 20 years or more. Greg Boyle, Elizabeth Liebert, Mark Thiebedeaux and others. Christine led a 97 y/o who found it very helpful "Discernment of spirits" on youtube
 		- help us to **listen** to God in our life
 		-
