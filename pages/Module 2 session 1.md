@@ -63,17 +63,20 @@
 	- Where do I move? Ask "where are you going to feel closest to God?"
 - Ignatius compass, principle and foundation
 	- Exercises
+	  collapsed:: true
 		- week 1 **love of God** **look at sin** where do I fall away?
 		- week 2 What's happening with Jesus?
 		- week 3 Way of the cross. Use all of thoughts, feelings, experiences
 		- week 4 Resurrection:
 	- principle and foundation
+	  collapsed:: true
 		- created to praise ... God. stunned in awe of God. Where have you been brought to your knees
 		- human is to use as useful and discard as it hinders us (Ignatius' cannon ball was a gift) **freedom** is key
 		- be indifferent to all created things, health over sickness, etc. Honor the things that are most conducive for us to the end for which we are created. Nouwen: "downward mobility"
 - People coming to us looking for answers.
 	- job? ministry? retire? ... seeking certainty. Certainty is paralyzing for some.
 	- Ignatius: Pay attention to what is beneath the surface. Pay attention to the surrounding, epiphanies, dreams, daydreams,
-	-
+	- Danny, I notice you look especially thoughtful
+	- you're feeling uncomfortable
 	-
 	-
