@@ -4,5 +4,6 @@
 	- Craig in a merging church situation
 	- Danny called to serve at a church in York, SC
 - Music
-	- "Official Ignatian Prayer (self-offering) by St. Louis Jesuits "Take Lord Receive". L
+  collapsed:: true
+	- "Official Ignatian Prayer (self-offering) by St. Louis Jesuits "Take Lord Receive". LS was excited when they arrived on the scene in 60's
 -
