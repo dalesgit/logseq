@@ -14,4 +14,5 @@
 	- graphic designer by trade. did logo for st. Peter
 	- Igatius was lay person originally (only method by lay person)
 	- Listening "How is God speaking to us"
-	- watch video?
+	- watch video? [https://youtu.be/lehPjhAky6E](https://youtu.be/lehPjhAky6E)?si=IegZH7sKtGVzvlz3
+	- examining his own experience of conversion, over and over, then wondering if he could share with others.
