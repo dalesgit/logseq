@@ -28,32 +28,29 @@ But, as Bp. Ray said, we have the importance of these certificates **backwards.*
 
 ## Epiphany (and Christmas)
 
-> (from Orthodox Church in America) *The services of Epiphany are set up exactly as those of Christmas, although historically it was most certainly Christmas which was made to imitate Epiphany since it was established later.*
-
-* *Epiphany means shining forth or manifestation. The feast is often called, as it is in the Orthodox service books, Theophany, which means the shining forth and manifestation of God. The emphasis in the present day celebration is on the appearance of Jesus as the human Messiah of Israel and the divine Son of God, One of the Holy Trinity with the Father and the Holy Spirit.*
-
-The season – what in the Catholic church is called **ordinary time** – is not just, “Oh, back to wearing Green”. It links the power we have celebrated over the past weeks, the power of incarnation together with the responsibility each of us has as followers of the *Incarnate one*. The significance of who this child of God named **Jesus** is made manifest to us who choose to follow him and proclaim it principally through **Baptism**. This season links **Incarnation** and **Manifestation**.
-
 ### Baptism
 
-**Christmas** as we know all too well can be trivialized. Each of us in this room, I believe, try in our own way to move beyond a sentimental appreciation of the innocence, tenderness, and vulnerability of an infant – to an appreciation and affirmation of the tremendous possibility and responsibility of being a grown up person – the one that infant is intended to be.
+We associate Christmas with an infant. The "baby Jesus." And we have associated baptism with infants. Christmas is in fact not about babies, but about a cosmic event. 
 
-So also **Epiphany** has been kept tidy in a box for centuries as being the celebration of the 3 wisemen to the baby Jesus. It fills out the creché and makes it complete for the photos we post on *Pinterest*.
+**Epiphany** has been kept tidy in a box for centuries as being the celebration of the 3 wisemen to the baby Jesus. It fills out the creché and makes it complete. Here, towards the end of my many years of ministry, my most glorious memories are of the adults I have accompanied into and through baptism.
+
+Baptism is not about infants. It is about the fullness of what a human being really is. **The Glory of God.** 
 
 > Jesus was born a human being, humble as that is, and he became known, he was manifest to the world, as the **Messiah** and **Son of God**.
 
-The season is marked above all by the account of Jesus’ **baptism** by John. The way had been prepared by the prophets – John being the latest example. And it was at that moment that God Himself announced to the world the relationship between Jesus and God.
+The season is marked above all by the account of Jesus’ **baptism** by John. The way had been prepared by the prophets – John being the latest example. And it was at that moment that God Himself announced to the world the relationship between Jesus and Abba, Father.
 
 > This is my beloved son!
 
 And so it is that we can see Jesus’ baptism as the beginning of his ministry, the beginning of his living out who he truly was.
 
-The church has always intended us to see our own lives as a reflection of Jesus’ life. The church has always intended us to live our lives into the fullness of what Christ did in the first place for us. The church has always called us to recognize that we are children of God through adoption by the power of the Holy Spirit in Jesus.
+The church has always intended us to see our own lives as a reflection of Jesus’ life. The church has always intended us to live our lives into the fullness of what Christ did in the first place for us. 
+
+The church has always called us to recognize that we are children of God through adoption by the power of the Holy Spirit in Jesus.
 
 We are meant to see the meaning of our own lives through the lens of Jesus’ baptism. Our own lives are given meaning as we recognize more and more an identification with Jesus’ baptism.
 
-The beginnings of my own journey as an adult Christian is wrapped up with trying to make sense out of **baptism.** That is because it is caught up in the birth and (shortly after that) the baptism of my first born child.
-
+The beginnings of my own journey as an adult Christian is wrapped up with trying to make sense out of **baptism.** 
 
 ## My own journey into my baptism
 
@@ -67,19 +64,15 @@ I spent several years overcoming that mistaken understanding.
 
 ### Baptism not an end but the beginning of a journey
 
-**Bump into baptism**
+**Bump into baptism** … [Image of retreat center east of Chicago and small church ministry] … having coffee with the designer of the chapel and talking about howmuch I loved the font he had designed. It was a small chapel, but in that space the 5 ft. flowing fountain into a 5 foot pool was impressive. One couldn't walk through the doors and straight up to the altar. You had to step around the font.
 
-[Image of retreat center east of Chicago and small church ministry] … having coffee with the designer of the chapel and the font.
+It font was so refreshing with water running down a little rivulet into a small pool. You could easily put your hand down into the water – make the sign of the cross.
 
-The font was so refreshing with water running down a little rivulet into a small pool. You could easily put your hand down into the water – make the sign of the cross.
-
-The architect told me he wanted people to bump into their baptism the moment they entered his chapel.
+The architect told me he wanted people to **bump into their baptism** the moment they entered his chapel.
 
 I immediately latched onto that phrase and thought “How perfect.”
 
-I first bumped into my baptism with Owen’s baptism (my first child), then subsequently at the baptism of Julian, then their sister Miriam, etc.
-
-Once my life reaches its end, my hope is that I will have not just bumped into my baptism but I will have lived into the fullness of it.
+Once my life reaches its end, my hope is that I will have not just bumped into it, but I will have lived into the **fullness** of it.
 
 ### Jesus baptism marks the beginning of his ministry
 
@@ -107,13 +100,9 @@ Baptism is about growing into a deeper understanding, day by day, year-by-year a
 
 ## You are my beloved
 
+It is about slowly shedding the skin of what society expects of us.It is abut taking on the clothes of one **beloved of God.**
 
-
-## Story (westerhoff) bury the child, raise up "Christian"
-
-We choose to give him the best armor that we know for the living of the life he has before him. He will need all of what Christ can give him. And so today we call him Christian…
-
-Frederich Buechner wrote: 
+Frederich Buechner once wrote of the grace of baptism: 
 
 > A crazy, holy grace I have called it. Crazy because whoever could have predicted it? Who can ever foresee the crazy how and when and where of a grace that wells up out of the lostness and pain of the world and of our own inner worlds?1
 
@@ -121,7 +110,7 @@ Baptism is a guide to becoming an adult and it is the measure of our life long j
 
 Baptism makes one a part of the Body of Christ, irrevocably, whether we acknowledge it or not, whether we ignore it for years at a time, Abba is with us.
 
-Baptism provides the assurance that we are justified in putting our trust into the hands of the only one worthy of it – Abba
+Baptism provides the assurance that we are justified in putting our trust into the hands of the only one worthy of it – Abba, Father.
 
 **Prayer of Abandonment**
 
@@ -133,20 +122,23 @@ Whatever you do with me, I will thank you for it.
 Giving thanks for anything, I am ready for anything,
 I accept anything, give thanks for anything.
 
-
 — Blessed Charles de Foucauld
+
+One person in our community gave me just in the last week my latest insight into baptism. This person observed that the word **beloved** is often heard as an adjective. One is beloved or ... well, something else. But the word might also be understood as a verb – an imperative verb at that – "be - loved." 
+
+Become who you really are.
 
 ### Come to the edge
 
-We are made in Christ to fly not walk about.Living into our baptism, like Jesus living into his, means living heroic lives. The calling requires extraordinary lives of blessing, forgiveness, service, prayer.
+We are made in Christ to fly not walk about. **Living into our baptism**, like Jesus living into his, means living heroic lives. The calling requires extraordinary lives of blessing, forgiveness, service, prayer.
 
-“Come to the edge,“ he said.
-”We can’t, we’re afraid!“ they responded.
-”Come to the edge,“ he said.
-”We can’t, We will fall!“ they responded.
-”Come to the edge," he said.
-And so they came.
-And he pushed them.
+“Come to the edge,“ he said.\
+”We can’t, we’re afraid!“ they responded.\
+”Come to the edge,“ he said.\
+”We can’t, We will fall!“ they responded.\
+”Come to the edge," he said.\
+And so they came.\
+And he pushed them.\
 And they flew.”
 
 ― Guillaume Apollinaire
