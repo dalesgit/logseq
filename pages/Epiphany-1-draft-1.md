@@ -1,5 +1,5 @@
 ---
-title: Baptism of the Lord - 2025
+title: Baptism of the Lord - 2025 draft-1
 subtitle: St. Alfred's, Palm Harbor
 author: Dale Hathaway
 date: Jan. 11, 2025
