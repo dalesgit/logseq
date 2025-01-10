@@ -1,31 +1,4 @@
 {
-  "app:toggle-right-sidebar": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "R"
-    }
-  ],
-  "app:toggle-left-sidebar": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "L"
-    }
-  ],
-  "daily-notes": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "H"
-    }
-  ],
   "daily-notes:goto-next": [
     {
       "modifiers": [
@@ -51,6 +24,33 @@
         "Shift"
       ],
       "key": "L"
+    }
+  ],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "R"
+    }
+  ],
+  "daily-notes": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "H"
     }
   ]
 }

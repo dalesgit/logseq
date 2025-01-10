@@ -42,7 +42,9 @@
 - Dale:[[Would you baptize me.md]]
 - the question: [what do you seek](what do you seek.md)
 - [My beloved](My beloved.md) (MPS) reading.
--[[Epiphany 1 opening.md]] 
+- [[Epiphany 1 opening.md]] [[Epiphany 1 opening]] 
+- [[Epiphany 1 draft 1]] 
+
 
 ---
 
