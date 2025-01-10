@@ -48,4 +48,4 @@
 
 ---
 
-[First Sunday after the Epiphany.md](First Sunday after the Epiphany.md)
+[First Sunday after the Epiphany.md](First Sunday after the Epiphany.md) [[First Sunday after the Epiphany]] 

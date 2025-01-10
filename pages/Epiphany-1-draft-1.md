@@ -32,17 +32,15 @@ But, as Bp. Ray said, we have the importance of these certificates **backwards.*
 
 * *Epiphany means shining forth or manifestation. The feast is often called, as it is in the Orthodox service books, Theophany, which means the shining forth and manifestation of God. The emphasis in the present day celebration is on the appearance of Jesus as the human Messiah of Israel and the divine Son of God, One of the Holy Trinity with the Father and the Holy Spirit.*
 
-* *This observance commemorates Christ’s baptism by John the Forerunner in the River Jordan, and the beginning of Christ’s earthly ministry. The Feast of Theophany is the culmination of the Christmas Season, which starts on December 25 and ends on January 6. In mystic commemoration of this event, the Great Blessing of Water is performed on this day, and the holy water so blessed is used by the local priest to bless the homes of the faithful.*
-
 The season – what in the Catholic church is called **ordinary time** – is not just, “Oh, back to wearing Green”. It links the power we have celebrated over the past weeks, the power of incarnation together with the responsibility each of us has as followers of the *Incarnate one*. The significance of who this child of God named **Jesus** is made manifest to us who choose to follow him and proclaim it principally through **Baptism**. This season links **Incarnation** and **Manifestation**.
 
 ### Baptism
 
 **Christmas** as we know all too well can be trivialized. Each of us in this room, I believe, try in our own way to move beyond a sentimental appreciation of the innocence, tenderness, and vulnerability of an infant – to an appreciation and affirmation of the tremendous possibility and responsibility of being a grown up person – the one that infant is intended to be.
 
-So also **Epiphany** has been kept tidy in a box for centuries as being the celebration of the 3 wisemen to the baby Jesus. It fills out the creché and makes it complete for the photos we post on *Pinterest*.
+So also **Epiphany** has been kept tidy in a box for centuries as being the celebration of the 3 wisemen to the baby Jesus. It fills out the creché .
 
-Historically the feast may well have predated the celebration of Christmas by more than a century. Epiphany and Christmas together mark a most momentous truth for any Christian to proclaim.
+**Historically the feast may well have predated the celebration of Christmas by more than a century. Epiphany and Christmas together mark a most momentous truth for any Christian to proclaim.**
 
 > Jesus was born a human being, humble as that is, and he became known, he was manifest to the world, as the **Messiah** and **Son of God**.
 

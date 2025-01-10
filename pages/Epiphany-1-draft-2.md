@@ -28,11 +28,9 @@ But, as Bp. Ray said, we have the importance of these certificates **backwards.*
 
 ## Epiphany (and Christmas)
 
-> (from Orth Church in America) *The services of Epiphany are set up exactly as those of Christmas, although historically it was most certainly Christmas which was made to imitate Epiphany since it was established later.*
+> (from Orthodox Church in America) *The services of Epiphany are set up exactly as those of Christmas, although historically it was most certainly Christmas which was made to imitate Epiphany since it was established later.*
 
 * *Epiphany means shining forth or manifestation. The feast is often called, as it is in the Orthodox service books, Theophany, which means the shining forth and manifestation of God. The emphasis in the present day celebration is on the appearance of Jesus as the human Messiah of Israel and the divine Son of God, One of the Holy Trinity with the Father and the Holy Spirit.*
-
-* *This observance commemorates Christ’s baptism by John the Forerunner in the River Jordan, and the beginning of Christ’s earthly ministry. The Feast of Theophany is the culmination of the Christmas Season, which starts on December 25 and ends on January 6. In mystic commemoration of this event, the Great Blessing of Water is performed on this day, and the holy water so blessed is used by the local priest to bless the homes of the faithful.*
 
 The season – what in the Catholic church is called **ordinary time** – is not just, “Oh, back to wearing Green”. It links the power we have celebrated over the past weeks, the power of incarnation together with the responsibility each of us has as followers of the *Incarnate one*. The significance of who this child of God named **Jesus** is made manifest to us who choose to follow him and proclaim it principally through **Baptism**. This season links **Incarnation** and **Manifestation**.
 
@@ -59,18 +57,17 @@ The beginnings of my own journey as an adult Christian is wrapped up with trying
 
 ## My own journey into my baptism
 
-I will present today a very quick overview of the growth of my understanding of baptism. I
-
-I take this approach not because my faith journey is particularly important. But to illustrate that baptism for all of us is a lifelong journey. Perhaps we might call it a **pilgrimage**.
-
 When I was a teenager I gave very little thought to baptism. My mother and my siblings all went to church every Sunday. I don’t think however that I saw very many baptisms because in those days baptisms were done outside of the Sunday service. Baptism was a private affair and indeed I think regarded primarily as a transaction between God and the infant. It was general practice in the Episcopal church that children were baptized not long after birth or at least when family could be gathered together.
 
 I’m pretty sure that no one set out to instruct me about what baptism was all about so what I knew and thought about it I picked up from general information, and particularly what was stressed at the time of my own confirmation.
 
 Somewhere I absorbed the notion that baptism was something that repaired original sin and thus assured that the infant was eligible for heaven. It was somehow about heaven and hell – but I didn’t have a clue about what I really believed or understood about those concepts.
 
-### not an end but the beginning of a journey
-Bump into baptism
+I spent several years overcoming that mistaken understanding.
+
+### Baptism not an end but the beginning of a journey
+
+**Bump into baptism**
 
 [Image of retreat center east of Chicago and small church ministry] … having coffee with the designer of the chapel and the font.
 
@@ -96,11 +93,9 @@ They all place this baptism at the beginning of the Good News
 
 As a great bible story-teller once put it, while telling the story of the whole Bible – “The Bible begins like all good stories begin, with ‘Once upon a time…’”
 
-So with the Gospels and their Good News, they begin the way the gospel has to begin – with Jesus’ baptism by John The evidence from the gospels demonstrates that the early church Gospel story-tellers were in fact scandalized by this part of the story, the part about Jesus being baptized by John at the beginning of his ministry.
+So with the Gospels and their Good News, they begin the way the gospel has to begin – with Jesus’ baptism by John. The evidence from the gospels demonstrates that the early church Gospel story-tellers were in fact **scandalized** by this part of the story – the part about Jesus being baptized by John at the beginning of his ministry.
 
 Imagine: at the very beginning, from the very beginning, the Gospel has caused a scandal.
-
-We might suspect, then, that where the gospel no longer scandalizes, it may have lost its connection to its origins.
 
 The scandal in the case of the baptism is that Jesus – whom John himself said he had come to prepare the way for – he was but a servant to the one who was to come after – that it was John who baptized Jesus. The lesser, as it were, baptizing the greater.
 
@@ -109,6 +104,10 @@ I tell you this … I tell you these stories in order to make this point about b
 > Baptism is about a journey, the journey of living the life of a Christian.
 
 Baptism is about growing into a deeper understanding, day by day, year-by-year as to what it means to be the body of Christ in the world of the living.
+
+## You are my beloved
+
+
 
 ## Story (westerhoff) bury the child, raise up "Christian"
 
