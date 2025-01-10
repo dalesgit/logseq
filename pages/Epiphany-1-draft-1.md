@@ -9,11 +9,54 @@ date: Jan. 11, 2025
 
 Each of us is gathered here this morning for a variety of reasons. Although there’s not a lot of youngsters, in other places, I’ve been it was the parents who told the young people that they would be in church. Others are here because it’s what they do every Sunday and they may even be aware that after the Christmas festivities, there is often a drop off in attendance.
 For myself, there is the fact that father Peter had sent me a list of who would celebrate and preach through February and March. This was one of my Sundays and I make a concerted effort to do what I said I would do.
-In the early centuries of the church on the day known as theophany or more recently epiphany parenthesis in the eastern orthodox tradition, people would be in church because it was one of the most important festival days of the year, much more important than Christmas, for example.
+
+In the early centuries of the church on the day known as **theophany** or more recently **epiphany** (parenthesis ) in the eastern orthodox tradition, people would be in church because it was one of the most important festival days of the year, much more important than Christmas, for example.
 
 One of us this weekend is in church because he wants to be baptized.
 
 ## Certificates
+
+A bishop once did a show and tell. It was in a teaching on the meaning and importance of baptism. He had a way of explaining theological truths in ways that I could accept for my own. 
+
+First he held up a certificate of ordination. See it's ornate frame, its size, the calligraphy which is real hand writing …
+
+Then he held up a baptismal certificate.
+
+> Most of them that I'm aware of are much smaller than this one. They're not usually framed. Most likely most of you have no idea where your baptismal certificate is.
+
+But, as Bp. Ray said, we have the importance of these certificates **backwards.** It is the baptism that is far and away the most important. Ordination has one main purpose and that is to serve the community of the **baptized**.
+
+## Epiphany (and Christmas)
+
+> (from Orth Church in America) *The services of Epiphany are set up exactly as those of Christmas, although historically it was most certainly Christmas which was made to imitate Epiphany since it was established later.*
+
+* *Epiphany means shining forth or manifestation. The feast is often called, as it is in the Orthodox service books, Theophany, which means the shining forth and manifestation of God. The emphasis in the present day celebration is on the appearance of Jesus as the human Messiah of Israel and the divine Son of God, One of the Holy Trinity with the Father and the Holy Spirit.*
+
+* *This observance commemorates Christ’s baptism by John the Forerunner in the River Jordan, and the beginning of Christ’s earthly ministry. The Feast of Theophany is the culmination of the Christmas Season, which starts on December 25 and ends on January 6. In mystic commemoration of this event, the Great Blessing of Water is performed on this day, and the holy water so blessed is used by the local priest to bless the homes of the faithful.*
+
+The season – what in the Catholic church is called **ordinary time** – is not just, “Oh, back to wearing Green”. It links the power we have celebrated over the past weeks, the power of incarnation together with the responsibility each of us has as followers of the *Incarnate one*. The significance of who this child of God named **Jesus** is made manifest to us who choose to follow him and proclaim it principally through **Baptism**. This season links **Incarnation** and **Manifestation**.
+
+### Baptism
+
+**Christmas** as we know all too well can be trivialized. Each of us in this room, I believe, try in our own way to move beyond a sentimental appreciation of the innocence, tenderness, and vulnerability of an infant – to an appreciation and affirmation of the tremendous possibility and responsibility of being a grown up person – the one that infant is intended to be.
+
+So also **Epiphany** has been kept tidy in a box for centuries as being the celebration of the 3 wisemen to the baby Jesus. It fills out the creché and makes it complete for the photos we post on *Pinterest*.
+
+Historically the feast may well have predated the celebration of Christmas by more than a century. Epiphany and Christmas together mark a most momentous truth for any Christian to proclaim.
+
+> Jesus was born a human being, humble as that is, and he became known, he was manifest to the world, as the **Messiah** and **Son of God**.
+
+The season is marked above all by the account of Jesus’ **baptism** by John. The way had been prepared by the prophets – John being the latest example. And it was at that moment that God Himself announced to the world the relationship between Jesus and God.
+
+> This is my beloved son!
+
+And so it is that we can see Jesus’ baptism as the beginning of his ministry, the beginning of his living out who he truly was.
+
+The church has always intended us to see our own lives as a reflection of Jesus’ life. The church has always intended us to live our lives into the fullness of what Christ did in the first place for us. The church has always called us to recognize that we are children of God through adoption by the power of the Holy Spirit in Jesus.
+
+We are meant to see the meaning of our own lives through the lens of Jesus’ baptism. Our own lives are given meaning as we recognize more and more an identification with Jesus’ baptism.
+
+The beginnings of my own journey as an adult Christian is wrapped up with trying to make sense out of **baptism.** That is because it is caught up in the birth and (shortly after that) the baptism of my first born child.
 
 
 ## My own journey into my baptism
@@ -79,10 +122,11 @@ I first bumped into my baptism with Owen’s baptism (my first child), then subs
 
 Once my life reaches its end, my hope is that I will have not just bumped into my baptism but I will have lived into the fullness of it.
 
-Jesus baptism marks the beginning of his ministry
+### Jesus baptism marks the beginning of his ministry
+
 Jesus’ baptism by John is at the beginning of all the gospels. The gospels are not reporting to us biographical data about Jesus. They are preaching to us the good news of God’s work in the life of God’s people.
 
-They are good news For people who need good news.
+They are good news for people who need good news.
 
 They are not biographies, they are proclamations, intended to create followers of the Risen Lord – otherwise known in later years as Christians
 
@@ -98,10 +142,39 @@ We might suspect, then, that where the gospel no longer scandalizes, it may have
 
 The scandal in the case of the baptism is that Jesus – whom John himself said he had come to prepare the way for – he was but a servant to the one who was to come after – that it was John who baptized Jesus. The lesser, as it were, baptizing the greater.
 
-wild-goose
-We are made in Christ to fly not walk about
+I tell you this …
+I tell you these stories in order to make this point about baptism . Baptism is about a journey, the journey of living the life of a Christian.
 
-Living into our baptism, like Jesus living into his, means living heroic lives. The calling requires extraordinary lives of blessing, forgiveness, service, prayer.
+Baptism is about growing into a deeper understanding, day by day, year-by-year as to what it means to be the body of Christ in the world of the living.
+
+## Story (westerhoff) bury the child, raise up "Christian"
+
+We choose to give him the best armor that we know for the living of the life he has before him. He will need all of what Christ can give him. And so today we call him Christian…
+
+Frederich Buechner wrote: A crazy, holy grace I have called it. Crazy because whoever could have predicted it? Who can ever foresee the crazy how and when and where of a grace that wells up out of the lostness and pain of the world and of our own inner worlds?1
+
+Baptism is a guide to becoming an adult and it is the measure of our life long journey. Baptism is a pilgrimage in which we fall many times, but Grace lifts us back up.
+
+Baptism makes one a part of the Body of Christ, irrevocably, whether we acknowledge it or not, whether we ignore it for years at a time, Abba is with us.
+
+Baptism provides the assurance that we are justified in putting our trust into the hands of the only one worthy of it – Abba
+
+**Prayer of Abandonment**
+
+Father, I put myself in your hands;
+Father I abandon myself to you,
+I entrust myself to you.
+Father do with me as it pleases you.
+Whatever you do with me, I will thank you for it.
+Giving thanks for anything, I am ready for anything,
+I accept anything, give thanks for anything.
+
+
+— Blessed Charles de Foucauld
+
+### Come to the edge
+
+We are made in Christ to fly not walk about.Living into our baptism, like Jesus living into his, means living heroic lives. The calling requires extraordinary lives of blessing, forgiveness, service, prayer.
 
 “Come to the edge,“ he said.
 ”We can’t, we’re afraid!“ they responded.
@@ -113,32 +186,3 @@ And he pushed them.
 And they flew.”
 
 ― Guillaume Apollinaire
-
-I tell you this …
-I tell you these stories in order to make this point about baptism . Baptism is about a journey, the journey of living the life of a Christian.
-
-Baptism is about growing into a deeper understanding, day by day, year-by-year as to what it means to be the body of Christ in the world of the living.
-
-I tell you the stories to illustrate that all of you have similar stories of how you have grown more fully into the stature of Jesus Christ as you have lived your life. Jameson will do no less.
-
-I tell you the stories because – if I had a lot more time --I would make it clear that I have fallen short over and over again from the goal that baptism sets before us. But I live by grace. The grace that lifts up the brokenhearted. The grace that mends the wounded. The grace that makes life worth living.
-
-That is a little something of why we baptize Jameson today. We choose to give him the best armor that we know for the living of the life he has before him. He will need all of what Christ can give him. And so today we call him Christian…
-
-Frederich Buechner wrote: A crazy, holy grace I have called it. Crazy because whoever could have predicted it? Who can ever foresee the crazy how and when and where of a grace that wells up out of the lostness and pain of the world and of our own inner worlds?1
-
-Baptism is a guide to becoming an adult and it is the measure of our life long journey. Baptism is a pilgrimage in which we fall many times, but Grace lifts us back up.
-
-Baptism makes one a part of the Body of Christ, irrevocably, whether we acknowledge it or not, whether we ignore it for years at a time, Abba is with us.
-
-Baptism provides the assurance that we are justified in putting our trust into the hands of the only one worthy of it – Abba
-
-Father, I put myself in your hands;
-Father I abandon myself to you,
-I entrust myself to you.
-Father do with me as it pleases you.
-Whatever you do with me, I will thank you for it.
-Giving thanks for anything, I am ready for anything,
-I accept anything, give thanks for anything.
-
-Prayer of Abandonment of Blessed Charles de Foucauld
