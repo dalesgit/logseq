@@ -33,7 +33,9 @@ But, as Bp. Ray said, we have the importance of these certificates **backwards.*
 
 ### Baptism
 
-We associate Christmas with an infant. The "baby Jesus." And we have associated baptism with infants. Christmas is in fact not about babies, but about a cosmic event. 
+We associate Christmas with an infant. The "baby Jesus." And we have associated baptism with infants. 
+
+But Christmas is in fact not about babies, but about a **cosmic event.** 
 
 **Epiphany** has been kept tidy in a box for centuries as being the celebration of the visit of the three wisemen to the baby Jesus. It fills out the creché and makes it complete. Here, towards the end of my many years of ministry, my most glorious memories are of the adults I have accompanied into and through baptism.
 
@@ -41,7 +43,7 @@ Baptism is not about infants. It is about the fullness of what a human being rea
 
 > Jesus was born a human being, humble as that is, and he became known, he was manifest to the world, as the **Messiah** and **Son of God**.
 
-The season is marked above all by the account of Jesus’ **baptism** by John. The way had been prepared by the prophets – John being the latest example. And it was at that moment that God Himself announced to the world the relationship between Jesus and Abba, Father.
+The season of Epiphany begins with the account of Jesus’ **baptism** by John. The way had been prepared by the prophets – John being the latest example. And it was at that moment that God Himself announced to the world the relationship between Jesus and Abba, Father.
 
 > This is my beloved son!
 
