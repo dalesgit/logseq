@@ -7,16 +7,16 @@ date: Jan. 11, 2025
 
 ## opening
 
-Each of us is gathered here this morning for a variety of reasons. Although there’s not a lot of youngsters, in other places, I’ve been it was the parents who told the young people that they would be in church. Others are here because it’s what they do every Sunday and they may even be aware that after the Christmas festivities, there is often a drop off in attendance.
-For myself, there is the fact that father Peter had sent me a list of who would celebrate and preach through February and March. This was one of my Sundays and I make a concerted effort to do what I said I would do.
+We are gathered here this morning for a variety of reasons. Although there’s not a lot of youngsters, in other places I’ve been it was the parents who told the young people that they would be in church. Others are here because it’s what they do every Sunday, although you may be aware that after the Christmas festivities, there is often a drop off in attendance.
+For myself, there is the fact that Fr. Peter had sent me a list of who would celebrate and preach through February and March. This was one of my Sundays and I make a concerted effort to do what I said I would do.
 
-In the early centuries of the church on the day known as **theophany** or more recently **epiphany** (parenthesis ) in the eastern orthodox tradition, people would be in church because it was one of the most important festival days of the year, much more important than Christmas, for example.
+In the early centuries of the church on the day known as **theophany** -- or more recently **epiphany** – in the eastern orthodox tradition, people would be in church because it was one of the most important festival days of the year, much more important than Christmas, for example.
 
 One of us this weekend is in church because he wants to be baptized.
 
 ## Certificates
 
-A bishop once did a show and tell. It was in a teaching on the meaning and importance of baptism. He had a way of explaining theological truths in ways that I could accept for my own. 
+A bishop once did a show and tell on the meaning and importance of **baptism**. He had a way of explaining theological truths in ways that I could accept for my own. 
 
 First he held up a certificate of ordination. See it's ornate frame, its size, the calligraphy which is real hand writing …
 
@@ -32,7 +32,7 @@ But, as Bp. Ray said, we have the importance of these certificates **backwards.*
 
 We associate Christmas with an infant. The "baby Jesus." And we have associated baptism with infants. Christmas is in fact not about babies, but about a cosmic event. 
 
-**Epiphany** has been kept tidy in a box for centuries as being the celebration of the 3 wisemen to the baby Jesus. It fills out the creché and makes it complete. Here, towards the end of my many years of ministry, my most glorious memories are of the adults I have accompanied into and through baptism.
+**Epiphany** has been kept tidy in a box for centuries as being the celebration of the visit of the three wisemen to the baby Jesus. It fills out the creché and makes it complete. Here, towards the end of my many years of ministry, my most glorious memories are of the adults I have accompanied into and through baptism.
 
 Baptism is not about infants. It is about the fullness of what a human being really is. **The Glory of God.** 
 
@@ -50,11 +50,11 @@ The church has always called us to recognize that we are children of God through
 
 We are meant to see the meaning of our own lives through the lens of Jesus’ baptism. Our own lives are given meaning as we recognize more and more an identification with Jesus’ baptism.
 
-The beginnings of my own journey as an adult Christian is wrapped up with trying to make sense out of **baptism.** 
+The beginning of my own journey as an adult Christian is wrapped up with trying to make sense out of **baptism.** 
 
 ## My own journey into my baptism
 
-When I was a teenager I gave very little thought to baptism. My mother and my siblings all went to church every Sunday. I don’t think however that I saw very many baptisms because in those days baptisms were done outside of the Sunday service. Baptism was a private affair and indeed I think regarded primarily as a transaction between God and the infant. It was general practice in the Episcopal church that children were baptized not long after birth or at least when family could be gathered together.
+When I was a teenager I gave very little thought to baptism. I went to church every Sunday, along with my mother and my siblings. I don’t think, however, that I saw very many baptisms because in those days baptisms were done outside of the Sunday service. Baptism was a private affair and indeed, I think, regarded primarily as a transaction between God and the infant. It was general practice in the Episcopal church that children were baptized not long after birth or at least when family could be gathered together.
 
 I’m pretty sure that no one set out to instruct me about what baptism was all about so what I knew and thought about it I picked up from general information, and particularly what was stressed at the time of my own confirmation.
 
@@ -62,11 +62,13 @@ Somewhere I absorbed the notion that baptism was something that repaired origina
 
 I spent several years overcoming that mistaken understanding.
 
-### Baptism not an end but the beginning of a journey
+### Bump into baptism
 
-**Bump into baptism** … [Image of retreat center east of Chicago and small church ministry] … having coffee with the designer of the chapel and talking about howmuch I loved the font he had designed. It was a small chapel, but in that space the 5 ft. flowing fountain into a 5 foot pool was impressive. One couldn't walk through the doors and straight up to the altar. You had to step around the font.
+Baptism is not an end but the beginning of a journey.
 
-It font was so refreshing with water running down a little rivulet into a small pool. You could easily put your hand down into the water – make the sign of the cross.
+In the 90's, I regularly met with a provincial task force on small church ministry. We generally met at a retreat center on the west side of Chicago. It was a comfortable place to gather, but it was the chapel that was special to me. One day I was having coffee with the designer / architect of the chapel. I told him how much  I loved the font he had designed. It was a small chapel and rather simply laid out. But just inside the entrance there was a flowing fountain into a 5 foot pool of water. One couldn't walk through the doors and straight up to the altar. You had to step around the font.
+
+My memory is that the font was made of green tiles. The water flowed from the top basin down into the pool. You could easily put your hand down into the water – make the sign of the cross.
 
 The architect told me he wanted people to **bump into their baptism** the moment they entered his chapel.
 
@@ -104,7 +106,7 @@ It is about slowly shedding the skin of what society expects of us.It is abut ta
 
 Frederich Buechner once wrote of the grace of baptism: 
 
-> A crazy, holy grace I have called it. Crazy because whoever could have predicted it? Who can ever foresee the crazy how and when and where of a grace that wells up out of the lostness and pain of the world and of our own inner worlds?1
+> A crazy, holy grace I have called it. Crazy because whoever could have predicted it? Who can ever foresee the crazy how and when and where of a grace that wells up out of the lostness and pain of the world and of our own inner worlds?
 
 Baptism is a guide to becoming an adult and it is the measure of our life long journey. Baptism is a pilgrimage in which we fall many times, but Grace lifts us back up.
 
