@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4445b0ea69a212cc",
+        "id": "b651d07bc775b144",
         "type": "tabs",
         "children": [
           {
-            "id": "5c756dd3e6823b02",
+            "id": "a6d2b370bfeea253",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2024-11-13.md",
+                "file": "pages/First Sunday after the Epiphany.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-13"
+              "title": "First Sunday after the Epiphany"
             }
           }
         ]
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "aaa30728eb28521a",
@@ -93,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Epiphany 1 draft 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Epiphany 1 draft 1"
             }
           },
           {
@@ -147,16 +149,16 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,11 +170,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5c756dd3e6823b02",
+  "active": "a6d2b370bfeea253",
   "lastOpenFiles": [
+    "journal/2025-01-11.md",
+    "pages/preaching baptism.md",
+    "journal/2025-01-10.md",
+    "pages/First.md",
+    "pages/epi-1-ending-1.md",
+    "Epiphany 1 draft 1.md",
+    "pages/wild-goose.md",
+    "pages/From Owen Morphing understand of baptism.md",
+    "pages/Epiphany 1 opening.md",
+    "pages/not an end but the beginning of a journey.md",
+    "pages/From.md",
+    "pages/not.md",
+    "pages/Certificates.md",
+    "pages/preaching.md",
+    "journal/2024-11-13.md",
     "journal/2024-11-07.md",
     "journal/2024-11-12.md",
-    "journal/2024-11-13.md",
     "pages/These Are the Best Personal Knowledge Management Tools for Organizing Information.md",
     "pages/SendToLogseq.md",
     "journal/2024-11-05.md",
@@ -184,23 +200,9 @@
     "logseq/bak/logseq/config/2024-05-13T17_58_12.047Z.android.edn",
     "logseq/bak/journals/2024_05_14/2024-05-15T10_44_15.800Z.android.md",
     "logseq/bak/journals/2024_05_14",
-    "logseq/bak/journals/2024_05_13/2024-05-13T17_58_09.612Z.android.md",
     "logseq/bak/journals/2024_05_13",
-    "logseq/bak/journals/2024_05_12/2024-05-13T17_58_12.255Z.android.md",
-    "logseq/bak/journals/2024_05_12/2024-05-13T17_57_51.095Z.android.md",
-    "logseq/bak/journals/2024_05_12/2024-05-12T22_35_30.593Z.android.md",
     "logseq/bak/journals/2024_05_12",
-    "logseq/bak/journals/2024_05_11/2024-05-12T22_32_16.866Z.ios.md",
-    "logseq/bak/journals/2024_05_11/2024-05-12T11_10_30.217Z.android.md",
-    "logseq/bak/journals/2024_05_10/2024-05-12T22_32_16.865Z.ios.md",
-    "logseq/bak/journals/2024_05_10/2024-05-13T17_57_51.083Z.android.md",
     "logseq/bak/journals/2024_05_10",
-    "logseq/bak/journals/2024_05_07/2024-05-10T17_10_22.372Z.android.md",
-    "logseq/bak/journals/2024_05_06/2024-05-10T17_10_22.369Z.android.md",
-    "logseq/bak/journals/2024_05_05/2024-05-10T17_10_22.367Z.android.md",
-    "logseq/bak/journals/2024_05_04/2024-05-10T17_10_22.364Z.android.md",
-    "logseq/bak/journals/2024_05_02/2024-05-03T11_23_45.439Z.android.md",
-    "logseq/bak/journals/2024_04_29/2024-05-10T17_10_22.358Z.android.md",
     "logseq/bak/journals/2024_03_13",
     "logseq/bak/journals/2024_03_12"
   ]
