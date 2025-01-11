@@ -7,7 +7,10 @@ date: Jan. 11, 2025
 
 ## opening
 
-We are gathered here this morning for a variety of reasons. Although there’s not a lot of youngsters, in other places I’ve been it was the parents who told the young people that they would be in church. Others are here because it’s what they do every Sunday, although you may be aware that after the Christmas festivities, there is often a drop off in attendance.
+We are gathered here this morning for a variety of reasons. In some places there might be children in church because their parents told them, "You will be in church." Others are here because it’s what they do every Sunday. Some places I think there's still a social expectation that a person will be in church. Some people, no doubt, don't really know why they're in church. 
+
+Now some of you may be aware that after the Christmas festivities, there is often a drop off in attendance. So you all are no doubt here because you have chosen to be.
+
 For myself, there is the fact that Fr. Peter had sent me a list of who would celebrate and preach through February and March. This was one of my Sundays and I make a concerted effort to do what I said I would do.
 
 In the early centuries of the church on the day known as **theophany** -- or more recently **epiphany** – in the eastern orthodox tradition, people would be in church because it was one of the most important festival days of the year, much more important than Christmas, for example.
