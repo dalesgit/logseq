@@ -1,0 +1,27 @@
+## Module 1 toc
+- [[2024-12-12]]
+- [[2024-12-05]]
+- [[SD Training Dec 5]]
+- [[2024-11-21]]
+- [[2024-11-14]]
+- [[2024-11-07]]
+- [[2024-11-01]]
+- [[2024-10-25]]
+- [[SD Sept 19 - Discussion]]
+- [[SD session  27 Sep 2024]]
+- [[SD session Oct 10]]
+- [[SD Session Thu 12 Sep 2024]]
+- [[SD Session Sept 19]]
+- [[SD Training Dec 5]]
+- [[SD Training Nov 14]]
+- [[SD Training Nov. 21]]
+- [[SD session Oct 24]]
+- [[SD session Oct 3]]
+- [[SD session Oct 31]]
+- [[SD training Nov 7]]
+- 
+
+## Module 2 toc
+
+- [[2025-01-09]]
+- [[2025-01-16]]
