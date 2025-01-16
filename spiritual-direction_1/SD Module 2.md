@@ -11,9 +11,6 @@
 - I will provide a full syllabus by Christmas or shortly after.
 - Please let me know if you need an invoice.  (I sent out a few of them to those who requested)
 - See you Thursday.  Please be sure to send your verbatims Shea, Craig and Alison :)
-
-## Weekly sessions:
-
+- ## Weekly sessions:
 - [2025-01-09](/journal/2025-01-09.md)
 - [/journal/2025-01-16](/journal/2025-01-16.md)
-
