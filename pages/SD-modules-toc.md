@@ -1,6 +1,6 @@
 ## Module 1 toc
-- [[2024-12-12]]
-- [[2024-12-05]]
+- [[2024-12-12]] -[[/journal/2024-12-12.md]] 
+- [[2024-12-05]] -[[/journal/2024-12-05.md]]  
 - [[SD Training Dec 5]]
 - [[SD Training Dec 5]]
 - [[SD Training Nov. 21]]
