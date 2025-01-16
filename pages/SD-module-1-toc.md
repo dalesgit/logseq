@@ -1,1 +1,3 @@
 - [[journal Wed 11 Sep 2024]]
+- [[Journal 2024-10-03 Thu|journal 2024-10-03 Thu]]
+-
