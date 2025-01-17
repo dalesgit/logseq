@@ -1,3 +1,9 @@
+---
+id: Lanai storage
+aliases: []
+tags: []
+---
+
 # Lanai storage :storage:
 ## Plastic
 ## File boxes
@@ -50,3 +56,5 @@ Medline "Stapler/labeler"
 Naked wines "Music"
 Clear plastic "Jouirnals"
 misc books in open
+
+[SD/Discernment Spiritual Awakening Clippings.md](SD/Discernment Spiritual Awakening Clippings.md)
