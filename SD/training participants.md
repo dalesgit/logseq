@@ -1,7 +1,11 @@
 ---
+id: training participants
+aliases: []
+tags:
+  - spiritual-direction,
+  - SD
+date: "2024-09-26"
 title: training participants
-date: 2024-09-26
-tags: 
 ---
 # training participants
 ## Cherie- 
