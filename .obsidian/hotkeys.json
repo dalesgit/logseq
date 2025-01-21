@@ -1,13 +1,4 @@
 {
-  "daily-notes:goto-next": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "N"
-    }
-  ],
   "daily-notes:goto-prev": [
     {
       "modifiers": [
@@ -69,6 +60,15 @@
         "Shift"
       ],
       "key": "ArrowUp"
+    }
+  ],
+  "daily-notes:goto-next": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "N"
     }
   ]
 }
