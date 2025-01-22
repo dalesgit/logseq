@@ -81,3 +81,8 @@ file-path:: ../assets/Working_with_emotions_in_spiritual_direction_-_Jan_11_2021
   hl-page:: 4
   hl-color:: green
   id:: 67917b75-8ba1-4fbd-bff1-5707e8841c54
+- Religiousfeeling often stretches and transcends the limim ofordinary language; it must speak ofthe iiae@able in symbol and parado
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: red
+  id:: 67917bde-2340-49b6-9b80-b65a791db0be
