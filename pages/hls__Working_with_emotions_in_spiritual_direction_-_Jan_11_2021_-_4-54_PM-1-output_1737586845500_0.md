@@ -41,3 +41,13 @@ file-path:: ../assets/Working_with_emotions_in_spiritual_direction_-_Jan_11_2021
   hl-page:: 3
   hl-color:: green
   id:: 67917a1f-2d82-4883-99df-40c1a9c59a43
+- eparare sphères but rarher dimensions of one realiiy,
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: green
+  id:: 67917a4a-b94e-4c50-ace2-81591ddc0a1e
+- tegrating emotions into the spiritual life 
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: blue
+  id:: 67917a60-c788-4fc9-addc-aebb5313365a
