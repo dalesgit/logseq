@@ -51,3 +51,18 @@ file-path:: ../assets/Working_with_emotions_in_spiritual_direction_-_Jan_11_2021
   hl-page:: 3
   hl-color:: blue
   id:: 67917a60-c788-4fc9-addc-aebb5313365a
+- ruits typical of the 5pirit's wodk:
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: red
+  id:: 67917a72-2ddc-4418-88aa-d3505f9f54a6
+- od duires that wc “choose life.
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: blue
+  id:: 67917a89-5802-4f3c-8cf3-3b9918b6485c
+- Naming emotions accurately 
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: purple
+  id:: 67917aa5-5454-45aa-a755-df1874d4b095
