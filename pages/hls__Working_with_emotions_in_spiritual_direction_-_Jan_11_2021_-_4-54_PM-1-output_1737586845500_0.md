@@ -96,3 +96,8 @@ file-path:: ../assets/Working_with_emotions_in_spiritual_direction_-_Jan_11_2021
   hl-page:: 5
   hl-color:: red
   id:: 67917c4e-17eb-4b92-90a1-f1bbcd71494c
+- t God can be found even in are negaiive emiotions O£ tllosfl VfCWCd &$ Unit table? @ 5acrCg( jpg ‹opens such feelings to gmce and discernment. Sucha ssetting mediates the divine presence, both in the prayer ‹experienccs that occur there and in the ray the dimctor miirrors GOd 5 tinConditional love. Thi5 r.mrtvgys tig accu tance that directces ohca nzwe xsxcr u•‹ in ;»«»‹ g«di‹y ina spiritual direction rclaxionshipc “It was the ons.place whereI feltI could sayanything, and it w‹niId be ‹okay”;
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: blue
+  id:: 67917c8d-1b87-40e9-91fd-b572ebc46bcd
