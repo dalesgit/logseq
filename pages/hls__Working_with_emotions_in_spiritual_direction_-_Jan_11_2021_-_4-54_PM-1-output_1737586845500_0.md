@@ -1,2 +1,13 @@
 file:: [Working_with_emotions_in_spiritual_direction_-_Jan_11_2021_-_4-54_PM-1-output_1737586845500_0.pdf](../assets/Working_with_emotions_in_spiritual_direction_-_Jan_11_2021_-_4-54_PM-1-output_1737586845500_0.pdf)
 file-path:: ../assets/Working_with_emotions_in_spiritual_direction_-_Jan_11_2021_-_4-54_PM-1-output_1737586845500_0.pdf
+
+- whic5 she could step outside c:olmer ond stramger
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: green
+  id:: 67917965-3c6e-4b5d-81f2-7a6271840a08
+- Holístic spiritaialiÇ thc ñntrinsic bond beWxieen mind andbody, reason aad emotion
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: red
+  id:: 67917974-25a9-4e1c-a038-96afc4177f3e
