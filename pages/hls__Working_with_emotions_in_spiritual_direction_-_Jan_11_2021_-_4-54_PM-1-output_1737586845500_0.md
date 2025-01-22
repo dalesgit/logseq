@@ -11,3 +11,8 @@ file-path:: ../assets/Working_with_emotions_in_spiritual_direction_-_Jan_11_2021
   hl-page:: 1
   hl-color:: red
   id:: 67917974-25a9-4e1c-a038-96afc4177f3e
+- . Emotions belong atthe center of spirituality, not at its edge
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: yellow
+  id:: 679179b5-02c7-40e7-91e1-08cd3d44b16a
