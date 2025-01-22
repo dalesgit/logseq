@@ -136,3 +136,8 @@ file-path:: ../assets/Working_with_emotions_in_spiritual_direction_-_Jan_11_2021
   hl-page:: 8
   hl-color:: red
   id:: 67917e3d-be6b-4bfe-94ed-5f252e5d79b0
+- Becca many spir
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: red
+  id:: 67917e66-31e7-4e0b-85b6-0f7ac826c20f
