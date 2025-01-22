@@ -111,3 +111,13 @@ file-path:: ../assets/Working_with_emotions_in_spiritual_direction_-_Jan_11_2021
   hl-page:: 6
   hl-color:: red
   id:: 67917d17-07e7-495b-b538-6a41725f3f98
+- raying with theimagination 
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: red
+  id:: 67917d81-6d42-4ce6-a909-8c92df23a4d3
+- orks oftheimagination—poetry,
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: red
+  id:: 67917dae-46ff-4785-9b9c-48f45ae89d17
