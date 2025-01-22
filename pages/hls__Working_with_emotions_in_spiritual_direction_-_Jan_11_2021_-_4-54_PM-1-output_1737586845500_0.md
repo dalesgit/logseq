@@ -16,3 +16,13 @@ file-path:: ../assets/Working_with_emotions_in_spiritual_direction_-_Jan_11_2021
   hl-page:: 1
   hl-color:: yellow
   id:: 679179b5-02c7-40e7-91e1-08cd3d44b16a
+- powerful window to theHoly. 
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: yellow
+  id:: 679179c6-c8f4-4272-ab53-a3a4a7b8cb13
+- God'x lois for us is tlin ultimate foundation of a healthy cmtotional life
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: red
+  id:: 679179d7-8f10-4a08-afaf-aed9689f4364
