@@ -26,3 +26,18 @@ file-path:: ../assets/Working_with_emotions_in_spiritual_direction_-_Jan_11_2021
   hl-page:: 2
   hl-color:: red
   id:: 679179d7-8f10-4a08-afaf-aed9689f4364
+- The biblical psalm
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: red
+  id:: 67917a02-3c32-4304-97c8-841a797c6f01
+- Emotions are not opposed to reason. grcatcr pa For czzmplc, @salm 22’be inswicha plea In fact, they area rrioda of knowin
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: red
+  id:: 67917a12-e1c7-464a-b3dc-26fbe3192dbd
+- upport for the intelligence of emotiona
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: green
+  id:: 67917a1f-2d82-4883-99df-40c1a9c59a43
