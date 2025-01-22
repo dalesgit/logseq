@@ -131,3 +131,8 @@ file-path:: ../assets/Working_with_emotions_in_spiritual_direction_-_Jan_11_2021
   hl-page:: 8
   hl-color:: green
   id:: 67917e04-db03-425d-a2e7-a75a35ae1900
+- pervision isa great help here, as is Our own prayer teaches us the language 
+  ls-type:: annotation
+  hl-page:: 8
+  hl-color:: red
+  id:: 67917e3d-be6b-4bfe-94ed-5f252e5d79b0
