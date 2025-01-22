@@ -76,3 +76,8 @@ file-path:: ../assets/Working_with_emotions_in_spiritual_direction_-_Jan_11_2021
   hl-page:: 4
   hl-color:: red
   id:: 67917aca-0cad-4853-9da6-8bcfe8c795bc
+- ery zct of listening can iuelf bring about
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: green
+  id:: 67917b75-8ba1-4fbd-bff1-5707e8841c54
