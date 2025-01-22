@@ -121,3 +121,8 @@ file-path:: ../assets/Working_with_emotions_in_spiritual_direction_-_Jan_11_2021
   hl-page:: 7
   hl-color:: red
   id:: 67917dae-46ff-4785-9b9c-48f45ae89d17
+- is )ight, ah ce that is presence, emptiness that is fullnext. In his poem “The Canticle of the Void,” Paul Murrayr tcdly turns m the imaginative language of the mCt8pM “singing si)Îœice” to suggest the apparent abs
+  ls-type:: annotation
+  hl-page:: 7
+  hl-color:: red
+  id:: 67917dd2-8322-428c-9e57-6b0a6d559c3d
