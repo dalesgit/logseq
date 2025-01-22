@@ -126,3 +126,8 @@ file-path:: ../assets/Working_with_emotions_in_spiritual_direction_-_Jan_11_2021
   hl-page:: 7
   hl-color:: red
   id:: 67917dd2-8322-428c-9e57-6b0a6d559c3d
+- ttention to their own emotional experience
+  ls-type:: annotation
+  hl-page:: 8
+  hl-color:: green
+  id:: 67917e04-db03-425d-a2e7-a75a35ae1900
