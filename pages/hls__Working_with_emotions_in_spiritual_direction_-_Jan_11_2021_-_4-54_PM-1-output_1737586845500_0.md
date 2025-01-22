@@ -66,3 +66,13 @@ file-path:: ../assets/Working_with_emotions_in_spiritual_direction_-_Jan_11_2021
   hl-page:: 3
   hl-color:: purple
   id:: 67917aa5-5454-45aa-a755-df1874d4b095
+- but rather as interwoven cluisters
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: red
+  id:: 67917ab5-cc07-4396-8077-1d252905742a
+- ell of sadn andEiund Ï@rNfmibbing az theloss
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: red
+  id:: 67917aca-0cad-4853-9da6-8bcfe8c795bc
