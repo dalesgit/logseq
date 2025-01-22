@@ -141,3 +141,8 @@ file-path:: ../assets/Working_with_emotions_in_spiritual_direction_-_Jan_11_2021
   hl-page:: 9
   hl-color:: red
   id:: 67917e66-31e7-4e0b-85b6-0f7ac826c20f
+- s God and the woman's spiritud lix This effort to work creatively with the wnotions in spiritud direction affirms the hope and {oy
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: green
+  id:: 67917eac-7a6b-4956-bb73-dd70490b53c2
