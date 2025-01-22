@@ -106,3 +106,8 @@ file-path:: ../assets/Working_with_emotions_in_spiritual_direction_-_Jan_11_2021
   hl-page:: 6
   hl-color:: red
   id:: 67917cc9-87d6-494f-a1b7-54904aa0b748
+- director's r
+  ls-type:: annotation
+  hl-page:: 6
+  hl-color:: red
+  id:: 67917d17-07e7-495b-b538-6a41725f3f98
