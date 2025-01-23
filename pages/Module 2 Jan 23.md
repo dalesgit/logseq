@@ -29,6 +29,7 @@
 	- praying with imagination and incorporating the arts leading to conversion and insight ((67917d81-6d42-4ce6-a909-8c92df23a4d3))
 		- ((67917dae-46ff-4785-9b9c-48f45ae89d17))
 		- apparent absence which is a divine presence ((67917dd2-8322-428c-9e57-6b0a6d559c3d))
+		- Christine: entering into
 	- need to pay attention to own emotional experience ((67917e04-db03-425d-a2e7-a75a35ae1900))
 		- ((67917e3d-be6b-4bfe-94ed-5f252e5d79b0))
 	- many traditions identify **suffering** with advancement, ... important not to assume depression is a cross to bear ((67917e66-31e7-4e0b-85b6-0f7ac826c20f))
