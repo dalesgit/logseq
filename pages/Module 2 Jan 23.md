@@ -106,6 +106,10 @@
 			  logseq.order-list-type:: number
 		- through **feelings**
 		  logseq.order-list-type:: number
+			- ((679286e1-76b9-4571-96a9-3902e51bd6b9))
+			  logseq.order-list-type:: number
+			- Nina engaged daughter when young. Pick up a doll. What does it make you feel?
+			  logseq.order-list-type:: number
 		- through **nature**
 		  logseq.order-list-type:: number
 	- What's your decision, book. following the pattern of last week's discussion. Case studies that make it easy to understand.
