@@ -57,3 +57,10 @@ file-path:: ../assets/Ways_Of_Knowing_In_Discernment_-_Jan_17_2025_-_9-01_AM_173
   id:: 679286e1-76b9-4571-96a9-3902e51bd6b9
   hl-type:: area
   hl-stamp:: 1737656030789
+- [:span]
+  ls-type:: annotation
+  hl-page:: 10
+  hl-color:: green
+  id:: 67928823-f243-4994-a7ac-a1894884406e
+  hl-type:: area
+  hl-stamp:: 1737656353809

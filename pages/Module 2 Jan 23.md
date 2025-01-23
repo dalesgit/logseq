@@ -118,6 +118,8 @@
 			  logseq.order-list-type:: number
 		- through **nature**
 		  logseq.order-list-type:: number
+			- ((67928823-f243-4994-a7ac-a1894884406e))
+			  logseq.order-list-type:: number
 	- What's your decision, book. following the pattern of last week's discussion. Case studies that make it easy to understand.
 	- book" Discernment: Ways of Knowing by Elizabeth Liebert: https://a.co/d/d6SRQiK   $8:39 kindle edition. Cherrie used the book in her teaching ordination students.
 	- Linda: "It's tough. 50/50 chance of survival (Paul, husband)
