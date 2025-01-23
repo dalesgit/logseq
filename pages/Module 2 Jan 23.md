@@ -1,5 +1,6 @@
 - Doc from individual direction ![Materials For Class One Formation - Jan 5 2024 - 6-07 PM-2pages.pdf](../assets/Materials_For_Class_One_Formation_-_Jan_5_2024_-_6-07_PM-2pages_1737586821224_0.pdf)
 - Doc for today's class (ocr) ![Working with emotions in spiritual direction - Jan 11 2021 - 4-54 PM-1-output.pdf](../assets/Working_with_emotions_in_spiritual_direction_-_Jan_11_2021_-_4-54_PM-1-output_1737586845500_0.pdf)
+  collapsed:: true
 	- 6 Hillesum drew prayer around like a dark protective wall ...
 	  logseq.order-list-type:: number
 	  collapsed:: true
@@ -42,7 +43,6 @@
 		- Christ: if you have directees you need a **supervisor** as well as your own **spiritual direction** Linda could give list of those trained as **supervisor** -- also possible to have **peer supervision**
 	-
 - Doc : ![Ways Of Knowing In Discernment - Jan 17 2025 - 9-01 AM.pdf](../assets/Ways_Of_Knowing_In_Discernment_-_Jan_17_2025_-_9-01_AM_1737588746451_0.pdf)
-  collapsed:: true
 	- This has meditation exercises with re. discernment
 	- befriending the imaginaton: "image guidance"
 	- This pushes me to practicing "guided meditation" -- which I find difficult myself and rarely done for others
@@ -126,7 +126,7 @@
 			  logseq.order-list-type:: number
 			- Mary Oliver poem  "... it doesn't have to be the iris, but maybe  weeds"
 			  logseq.order-list-type:: number
-	- What's your decision, book. following the pattern of last week's discussion. Case studies that make it easy to understand.
+- What's your decision, book. following the pattern of last week's discussion. Case studies that make it easy to understand. She will pass on the other re
 	- book" Discernment: Ways of Knowing by Elizabeth Liebert: https://a.co/d/d6SRQiK   $8:39 kindle edition. Cherrie used the book in her teaching ordination students.
 	- Linda: "It's tough. 50/50 chance of survival (Paul, husband)
 - Session
