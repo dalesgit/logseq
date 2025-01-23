@@ -110,6 +110,10 @@
 			  logseq.order-list-type:: number
 			- Nina engaged daughter when young. Pick up a doll. What does it make you feel?
 			  logseq.order-list-type:: number
+		- Naming a moment of grace.
+		  logseq.order-list-type:: number
+			- provides comparison, spiritual freedom,
+			  logseq.order-list-type:: number
 		- through **nature**
 		  logseq.order-list-type:: number
 	- What's your decision, book. following the pattern of last week's discussion. Case studies that make it easy to understand.
