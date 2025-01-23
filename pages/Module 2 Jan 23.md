@@ -89,13 +89,14 @@
 			  logseq.order-list-type:: number
 		- through **image**
 		  logseq.order-list-type:: number
+		  collapsed:: true
 			- write down and remember the **questions** to have them in your quiver for use with SDees. ((67928522-9c7c-4219-9606-c929eb1cf17a))
 			  logseq.order-list-type:: number
 			- Craig did this exercise at Wild Goose some years ago. The effect has stayed with him. (someone from Spirituality Center)
 			  logseq.order-list-type:: number
 				- image helps him to hang onto it.
 				  logseq.order-list-type:: number
-			- Cherrie lived with an image for **call** that lasted for a while and then didn't work.
+			- Cherrie lived with an image for **call** that lasted for a while and then didn't work. cf. "labyrinth"
 			  logseq.order-list-type:: number
 		- through **imaginative scenarios**
 		  logseq.order-list-type:: number
