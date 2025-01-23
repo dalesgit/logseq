@@ -47,8 +47,10 @@
 	- befriending the imaginaton: "image guidance"
 	- This pushes me to practicing "guided meditation" -- which I find difficult myself and rarely done for others
 	- 3 ways:
-		- through **memory**
+		- through **memory** ((67927b44-ccbd-4d85-a014-d613c0ffbf6e))
 		  logseq.order-list-type:: number
+			- logseq.order-list-type:: number
+			- logseq.order-list-type:: number
 		- through **intuition**
 		  logseq.order-list-type:: number
 		- through the **body**
