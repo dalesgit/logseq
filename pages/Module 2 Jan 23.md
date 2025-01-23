@@ -67,7 +67,8 @@
 			  logseq.order-list-type:: number
 			- You can see in the body more than what they are saying. Gathering truth from our directees.
 			  logseq.order-list-type:: number
-			- logseq.order-list-type:: number
+			- Craig: use of **mirroring** as a technique. Mirror the body reactions.
+			  logseq.order-list-type:: number
 		- through **imagination**
 		  logseq.order-list-type:: number
 		- through **image**
