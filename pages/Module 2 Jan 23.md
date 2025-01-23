@@ -53,6 +53,8 @@
 			  logseq.order-list-type:: number
 			- cp. my own experience
 			  logseq.order-list-type:: number
+			- This can be **terrifying**
+			  logseq.order-list-type:: number
 		- through **intuition**
 		  logseq.order-list-type:: number
 		- through the **body**
