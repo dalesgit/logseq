@@ -89,7 +89,8 @@
 			  logseq.order-list-type:: number
 		- through **image**
 		  logseq.order-list-type:: number
-		- logseq.order-list-type:: number
+			- write down and remember the **questions** to
+			  logseq.order-list-type:: number
 		- through **imaginative scenarios**
 		  logseq.order-list-type:: number
 		- seeking God with **one's mind**
