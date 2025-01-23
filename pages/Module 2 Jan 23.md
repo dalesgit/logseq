@@ -51,7 +51,7 @@
 		  logseq.order-list-type:: number
 			- Craig: not normally an emotional person. SD has begun to enhance for him. His tradition: "The heart is deceiving".
 			  logseq.order-list-type:: number
-			- cp. my
+			- cp. my own experience
 			  logseq.order-list-type:: number
 		- through **intuition**
 		  logseq.order-list-type:: number
