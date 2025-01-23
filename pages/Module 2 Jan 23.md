@@ -71,6 +71,8 @@
 			  logseq.order-list-type:: number
 			- Craig: use of **mirroring** as a technique. Mirror the body reactions.
 			  logseq.order-list-type:: number
+			- notice but let go (cp. welcoming prayer)
+			  logseq.order-list-type:: number
 		- through **imagination**
 		  logseq.order-list-type:: number
 		- through **image**
