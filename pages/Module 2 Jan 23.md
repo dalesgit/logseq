@@ -57,6 +57,8 @@
 			  logseq.order-list-type:: number
 		- through **intuition**
 		  logseq.order-list-type:: number
+			- ((67927e42-deef-4dd9-8cfe-874b65789154))
+			  logseq.order-list-type:: number
 		- through the **body**
 		  logseq.order-list-type:: number
 		- through **imagination**
