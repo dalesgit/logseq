@@ -77,6 +77,8 @@
 			  logseq.order-list-type:: number
 			- ((6792826a-9719-4ac8-a4bb-de2868ba7e25))
 			  logseq.order-list-type:: number
+			- Nina: 40 years ago work with "bio-feedback"
+			  logseq.order-list-type:: number
 		- through **imagination**
 		  logseq.order-list-type:: number
 		- through **image**
