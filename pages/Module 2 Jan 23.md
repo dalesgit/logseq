@@ -124,7 +124,8 @@
 			  logseq.order-list-type:: number
 			- Recognize that everyone is different and the timing can shift.
 			  logseq.order-list-type:: number
-			- logseq.order-list-type:: number
+			- Mary Oliver poem ... "it doesn't have to be the iris, but maybe  weeds"
+			  logseq.order-list-type:: number
 	- What's your decision, book. following the pattern of last week's discussion. Case studies that make it easy to understand.
 	- book" Discernment: Ways of Knowing by Elizabeth Liebert: https://a.co/d/d6SRQiK   $8:39 kindle edition. Cherrie used the book in her teaching ordination students.
 	- Linda: "It's tough. 50/50 chance of survival (Paul, husband)
