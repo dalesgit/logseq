@@ -36,10 +36,10 @@
 		- ((67917e3d-be6b-4bfe-94ed-5f252e5d79b0))
 		- Christ: face our own shortcomings
 	- many traditions identify **suffering** with advancement, ... important not to assume depression is a cross to bear ((67917e66-31e7-4e0b-85b6-0f7ac826c20f))
-	  collapsed:: true
 		- ((67917eac-7a6b-4956-bb73-dd70490b53c2))
 		- emotions that disrupt a person's life need for help of a therapist ((679279ff-e72e-4972-9ecd-8d140c4ac177))
 		- goal is to get someone to depend on God (not on us)
+		- Christ: if you have directees you need a **supervisor** as well as your own **spiritual direction** L
 	-
 - Doc : ![Ways Of Knowing In Discernment - Jan 17 2025 - 9-01 AM.pdf](../assets/Ways_Of_Knowing_In_Discernment_-_Jan_17_2025_-_9-01_AM_1737588746451_0.pdf)
 	- This has meditation exercises with re. discernment
