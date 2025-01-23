@@ -73,6 +73,8 @@
 			  logseq.order-list-type:: number
 			- notice but let go (cp. welcoming prayer)
 			  logseq.order-list-type:: number
+			- practice meditation: feeling the minor aches, esp. what feels like heart. Accepting death. Normal for aging. Take care of?
+			  logseq.order-list-type:: number
 		- through **imagination**
 		  logseq.order-list-type:: number
 		- through **image**
