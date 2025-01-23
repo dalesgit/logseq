@@ -10,7 +10,7 @@
 		- "choose life" ((67917a89-5802-4f3c-8cf3-3b9918b6485c))
 		- naming emotions accurately ((67917aa5-5454-45aa-a755-df1874d4b095))
 	- "listening heart" p. (4) ((67917b75-8ba1-4fbd-bff1-5707e8841c54))
-		- need to be comfortable with silence
+		- need to be comfortable with silence (Alison talked with someone who said she sat with a couple for 30 minutes)
 	- feelings transcend ordinary language => symbol and paradox ((67917bde-2340-49b6-9b80-b65a791db0be))
 		- leads to breakthroughs on spiritual journey ((67917c1c-33ce-45d6-be76-784fc1df450d))
 		- emotions not simply individual but also communal ((67917c4e-17eb-4b92-90a1-f1bbcd71494c))
