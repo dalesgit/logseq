@@ -49,7 +49,8 @@
 	- 3 ways:
 		- through **memory** ((67927b44-ccbd-4d85-a014-d613c0ffbf6e))
 		  logseq.order-list-type:: number
-			- logseq.order-list-type:: number
+			- Craig: not normally an emotional person
+			  logseq.order-list-type:: number
 			- cp. my
 			  logseq.order-list-type:: number
 		- through **intuition**
