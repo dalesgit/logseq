@@ -1,6 +1,6 @@
 - Doc from individual direction ![Materials For Class One Formation - Jan 5 2024 - 6-07 PM-2pages.pdf](../assets/Materials_For_Class_One_Formation_-_Jan_5_2024_-_6-07_PM-2pages_1737586821224_0.pdf)
 - Doc for today's class (ocr) ![Working with emotions in spiritual direction - Jan 11 2021 - 4-54 PM-1-output.pdf](../assets/Working_with_emotions_in_spiritual_direction_-_Jan_11_2021_-_4-54_PM-1-output_1737586845500_0.pdf)
-	- /nu6 Hillesum drew prayer around like a dark protective wall ...
+	- 6 Hillesum drew prayer around like a dark protective wall ...
 	  logseq.order-list-type:: number
 	  collapsed:: true
 		- Holístic spiritaialy emphasizes thc ñntrinsic bond beWxieen mind andbody, reason aad emotion ((67917974-25a9-4e1c-a038-96afc4177f3e))
@@ -32,12 +32,14 @@
 		- apparent absence which is a divine presence ((67917dd2-8322-428c-9e57-6b0a6d559c3d))
 		- **Christine**: entering into scripture with imagination is very Ignatian
 	- need to pay attention to own emotional experience ((67917e04-db03-425d-a2e7-a75a35ae1900))
+	  collapsed:: true
 		- ((67917e3d-be6b-4bfe-94ed-5f252e5d79b0))
 		- Christ: face our own shortcomings
 	- many traditions identify **suffering** with advancement, ... important not to assume depression is a cross to bear ((67917e66-31e7-4e0b-85b6-0f7ac826c20f))
+	  collapsed:: true
 		- ((67917eac-7a6b-4956-bb73-dd70490b53c2))
 		- emotions that disrupt a person's life need for help of a therapist ((679279ff-e72e-4972-9ecd-8d140c4ac177))
-		-
+		- goal is to get someone to depend on God (not on us)
 	-
 - Doc : ![Ways Of Knowing In Discernment - Jan 17 2025 - 9-01 AM.pdf](../assets/Ways_Of_Knowing_In_Discernment_-_Jan_17_2025_-_9-01_AM_1737588746451_0.pdf)
 	- This has meditation exercises with re. discernment
