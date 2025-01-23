@@ -57,10 +57,11 @@
 			  logseq.order-list-type:: number
 		- through **intuition**
 		  logseq.order-list-type:: number
-			- ((67927e42-deef-4dd9-8cfe-874b65789154))
-			  logseq.order-list-type:: number
+			- logseq.order-list-type:: number
 		- through the **body**
 		  logseq.order-list-type:: number
+			- ((67927e6f-e3c9-4a73-9b55-baf13950e96a))
+			  logseq.order-list-type:: number
 		- through **imagination**
 		  logseq.order-list-type:: number
 		- through **image**
