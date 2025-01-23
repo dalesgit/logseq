@@ -151,3 +151,8 @@ file-path:: ../assets/Working_with_emotions_in_spiritual_direction_-_Jan_11_2021
   hl-page:: 6
   hl-color:: red
   id:: 67927728-1876-4ffa-9f9c-2a2f591de67c
+- Anger, fcar, sadncss, ora sense of eup
+  ls-type:: annotation
+  hl-page:: 9
+  hl-color:: red
+  id:: 679279ff-e72e-4972-9ecd-8d140c4ac177
