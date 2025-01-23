@@ -65,8 +65,9 @@
 			  logseq.order-list-type:: number
 			- Christ: finds it difficult. Relatively new with SD -- first use by therapists. **7 steps.**
 			  logseq.order-list-type:: number
-			- You can see
+			- You can see in the body more than what they are saying. Gathering truth from our directees.
 			  logseq.order-list-type:: number
+			- logseq.order-list-type:: number
 		- through **imagination**
 		  logseq.order-list-type:: number
 		- through **image**
