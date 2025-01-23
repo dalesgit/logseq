@@ -7,6 +7,7 @@
 		- the full range of life that Hillesum drew into her spirituality
 	- ((67917a12-e1c7-464a-b3dc-26fbe3192dbd)) emotions not opposed to reason, but a mode of knowing
 	- intelligence of emotions ((67917a1f-2d82-4883-99df-40c1a9c59a43))
+	  collapsed:: true
 		- fruits of Spirit's work ((67917a72-2ddc-4418-88aa-d3505f9f54a6))
 		- "choose life" ((67917a89-5802-4f3c-8cf3-3b9918b6485c))
 		- naming emotions accurately ((67917aa5-5454-45aa-a755-df1874d4b095))
@@ -23,6 +24,7 @@
 	- Tracing emotional memory, the history ... often liberates ((67917cc9-87d6-494f-a1b7-54904aa0b748))
 		- ((67927728-1876-4ffa-9f9c-2a2f591de67c)) doing our own emotional work
 		- director's role not to probe but to be ready a ripeness -- become witness and companion ((67917d17-07e7-495b-b538-6a41725f3f98))
+		- Is this an odd thing to say (Cherrie thought so)
 	- praying with imagination and incorporating the arts leading to conversion and insight ((67917d81-6d42-4ce6-a909-8c92df23a4d3))
 		- ((67917dae-46ff-4785-9b9c-48f45ae89d17))
 		- apparent absence which is a divine presence ((67917dd2-8322-428c-9e57-6b0a6d559c3d))
