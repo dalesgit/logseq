@@ -95,7 +95,8 @@
 			  logseq.order-list-type:: number
 				- image helps him to hang onto it.
 				  logseq.order-list-type:: number
-			- logseq.order-list-type:: number
+			- Cherrie lived with an image for **call** that lasted for a while and then didn't work.
+			  logseq.order-list-type:: number
 		- through **imaginative scenarios**
 		  logseq.order-list-type:: number
 		- seeking God with **one's mind**
