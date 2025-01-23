@@ -1,0 +1,54 @@
+- Doc from individual direction ![Materials For Class One Formation - Jan 5 2024 - 6-07 PM-2pages.pdf](../assets/Materials_For_Class_One_Formation_-_Jan_5_2024_-_6-07_PM-2pages_1737586821224_0.pdf)
+- Doc for today's class (ocr) ![Working with emotions in spiritual direction - Jan 11 2021 - 4-54 PM-1-output.pdf](../assets/Working_with_emotions_in_spiritual_direction_-_Jan_11_2021_-_4-54_PM-1-output_1737586845500_0.pdf)
+  collapsed:: true
+	- 6 Hillesum drew prayer around like a dark protective wall ...
+		- Holístic spiritaialy emphasizes thc ñntrinsic bond beWxieen mind andbody, reason aad emotion ((67917974-25a9-4e1c-a038-96afc4177f3e))
+		- the full range of life that Hillesum drew into her spirituality
+	- ((67917a12-e1c7-464a-b3dc-26fbe3192dbd)) emotions not opposed to reason, but a mode of knowing
+	- intelligence of emotions ((67917a1f-2d82-4883-99df-40c1a9c59a43))
+		- fruits of Spirit's work ((67917a72-2ddc-4418-88aa-d3505f9f54a6))
+		- "choose life" ((67917a89-5802-4f3c-8cf3-3b9918b6485c))
+		- naming emotions accurately ((67917aa5-5454-45aa-a755-df1874d4b095))
+	- "listening heart" p. (4) ((67917b75-8ba1-4fbd-bff1-5707e8841c54))
+	- feelings transcend ordinary language => symbol and paradox ((67917bde-2340-49b6-9b80-b65a791db0be))
+		- leads to breakthroughs on spiritual journey ((67917c1c-33ce-45d6-be76-784fc1df450d))
+		- emotions not simply individual but also communal ((67917c4e-17eb-4b92-90a1-f1bbcd71494c))
+		- How trust that God found also in the negative? ((67917c8d-1b87-40e9-91fd-b572ebc46bcd))
+	- Tracing emotional memory, the history ... often liberates ((67917cc9-87d6-494f-a1b7-54904aa0b748))
+	- director's role not to probe but to be ready a ripeness -- become witness and companion
+	- praying with imagination and incorporating the arts leading to conversion and insight ((67917d81-6d42-4ce6-a909-8c92df23a4d3))
+		- ((67917dae-46ff-4785-9b9c-48f45ae89d17))
+		- apparent absence which is a divine presence ((67917dd2-8322-428c-9e57-6b0a6d559c3d))
+	- need to pay attention to own emotional experience ((67917e04-db03-425d-a2e7-a75a35ae1900))
+		- ((67917e3d-be6b-4bfe-94ed-5f252e5d79b0))
+	- many traditions identify **suffering** with advancement, ... important not to assume depression is a cross to bear ((67917e66-31e7-4e0b-85b6-0f7ac826c20f))
+		- ((67917eac-7a6b-4956-bb73-dd70490b53c2))
+	-
+- Doc : ![Ways Of Knowing In Discernment - Jan 17 2025 - 9-01 AM.pdf](../assets/Ways_Of_Knowing_In_Discernment_-_Jan_17_2025_-_9-01_AM_1737588746451_0.pdf)
+	- This has meditation exercises with re. discernment
+	- befriending the imaginaton: "image guidance"
+	- This pushes me to practicing "guided meditation" -- which I find difficult myself and rarely done for others
+	- 3 ways:
+		- through **memory**
+		  logseq.order-list-type:: number
+		- through **intuition**
+		  logseq.order-list-type:: number
+		- through the **body**
+		  logseq.order-list-type:: number
+		- through **imagination**
+		  logseq.order-list-type:: number
+		- through **image**
+		  logseq.order-list-type:: number
+		- through **imaginative scenarios**
+		  logseq.order-list-type:: number
+		- seeking God with **one's mind**
+		  logseq.order-list-type:: number
+		- through **feelings**
+		  logseq.order-list-type:: number
+		- through **nature**
+		  logseq.order-list-type:: number
+	- What's your decision, book. following the pattern of last week's discussion. Case studies that make it easy to understand.
+	- book" Discernment: Ways of Knowing by Elizabeth Liebert: https://a.co/d/d6SRQiK   $8:39 kindle edition
+	- Linda: "It's tough. 50/50 chance of survival (Paul, husband)
+- Session
+	-
