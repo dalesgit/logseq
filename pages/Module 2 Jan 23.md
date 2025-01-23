@@ -51,4 +51,4 @@
 	- book" Discernment: Ways of Knowing by Elizabeth Liebert: https://a.co/d/d6SRQiK   $8:39 kindle edition
 	- Linda: "It's tough. 50/50 chance of survival (Paul, husband)
 - Session
-	-
+	- inchoate message / word from God. incl. body etc.
