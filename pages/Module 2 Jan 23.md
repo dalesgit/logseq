@@ -82,8 +82,14 @@
 			  logseq.order-list-type:: number
 		- through **imagination**
 		  logseq.order-list-type:: number
+		  collapsed:: true
+			- ((6792847c-604d-40b8-b9ac-154d79a5b87e)) 
+			  logseq.order-list-type:: number
+			- Christ: all very ignation
+			  logseq.order-list-type:: number
 		- through **image**
 		  logseq.order-list-type:: number
+		- logseq.order-list-type:: number
 		- through **imaginative scenarios**
 		  logseq.order-list-type:: number
 		- seeking God with **one's mind**
