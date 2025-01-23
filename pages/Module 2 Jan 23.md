@@ -13,6 +13,7 @@
 		- need to be comfortable with silence (Alison talked with someone who said she sat with a couple for 30 minutes)
 	- feelings transcend ordinary language => symbol and paradox ((67917bde-2340-49b6-9b80-b65a791db0be))
 		- numbness is a feeling too.
+			- Ignatius: "what were you feeling before you were numb
 		- leads to breakthroughs on spiritual journey ((67917c1c-33ce-45d6-be76-784fc1df450d))
 		- emotions not simply individual but also communal ((67917c4e-17eb-4b92-90a1-f1bbcd71494c))
 		- How trust that God found also in the negative? ((67917c8d-1b87-40e9-91fd-b572ebc46bcd))
