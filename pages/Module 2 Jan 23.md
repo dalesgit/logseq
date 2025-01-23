@@ -75,6 +75,8 @@
 			  logseq.order-list-type:: number
 			- practice meditation: feeling the minor aches, esp. what feels like heart. Accepting death. Normal for aging. Take care of?
 			  logseq.order-list-type:: number
+			- ((6792826a-9719-4ac8-a4bb-de2868ba7e25))
+			  logseq.order-list-type:: number
 		- through **imagination**
 		  logseq.order-list-type:: number
 		- through **image**
