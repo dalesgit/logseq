@@ -102,6 +102,8 @@
 		  logseq.order-list-type:: number
 		- seeking God with **one's mind**
 		  logseq.order-list-type:: number
+			- powerful to write things down ((6792868d-5d56-4b3d-bfc1-e6936144d629))
+			  logseq.order-list-type:: number
 		- through **feelings**
 		  logseq.order-list-type:: number
 		- through **nature**
