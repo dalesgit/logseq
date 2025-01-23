@@ -49,7 +49,7 @@
 	- 3 ways:
 		- through **memory** ((67927b44-ccbd-4d85-a014-d613c0ffbf6e))
 		  logseq.order-list-type:: number
-			- Craig: not normally an emotional person
+			- Craig: not normally an emotional person. SD has begun to enhance for him. His tradition: "The heart is deceiving".
 			  logseq.order-list-type:: number
 			- cp. my
 			  logseq.order-list-type:: number
