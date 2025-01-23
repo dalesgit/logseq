@@ -102,15 +102,17 @@
 		  logseq.order-list-type:: number
 		- seeking God with **one's mind**
 		  logseq.order-list-type:: number
+		  collapsed:: true
 			- powerful to write things down ((6792868d-5d56-4b3d-bfc1-e6936144d629))
 			  logseq.order-list-type:: number
 		- through **feelings**
 		  logseq.order-list-type:: number
+		  collapsed:: true
 			- ((679286e1-76b9-4571-96a9-3902e51bd6b9))
 			  logseq.order-list-type:: number
 			- Nina engaged daughter when young. Pick up a doll. What does it make you feel?
 			  logseq.order-list-type:: number
-		- Naming a moment of grace.
+		- Naming a moment of grace. (not in our pdf)
 		  logseq.order-list-type:: number
 			- provides comparison, spiritual freedom,
 			  logseq.order-list-type:: number
