@@ -1,6 +1,7 @@
 - Doc from individual direction ![Materials For Class One Formation - Jan 5 2024 - 6-07 PM-2pages.pdf](../assets/Materials_For_Class_One_Formation_-_Jan_5_2024_-_6-07_PM-2pages_1737586821224_0.pdf)
 - Doc for today's class (ocr) ![Working with emotions in spiritual direction - Jan 11 2021 - 4-54 PM-1-output.pdf](../assets/Working_with_emotions_in_spiritual_direction_-_Jan_11_2021_-_4-54_PM-1-output_1737586845500_0.pdf)
-	- 6 Hillesum drew prayer around like a dark protective wall ...
+	- /nu6 Hillesum drew prayer around like a dark protective wall ...
+	  logseq.order-list-type:: number
 		- Holístic spiritaialy emphasizes thc ñntrinsic bond beWxieen mind andbody, reason aad emotion ((67917974-25a9-4e1c-a038-96afc4177f3e))
 		- the full range of life that Hillesum drew into her spirituality
 	- ((67917a12-e1c7-464a-b3dc-26fbe3192dbd)) emotions not opposed to reason, but a mode of knowing
