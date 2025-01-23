@@ -22,6 +22,7 @@
 		- emotions not simply individual but also communal ((67917c4e-17eb-4b92-90a1-f1bbcd71494c))
 		- How trust that God found also in the negative? ((67917c8d-1b87-40e9-91fd-b572ebc46bcd))
 	- Tracing emotional memory, the history ... often liberates ((67917cc9-87d6-494f-a1b7-54904aa0b748))
+	  collapsed:: true
 		- ((67927728-1876-4ffa-9f9c-2a2f591de67c)) doing our own emotional work
 		- director's role not to probe but to be ready a ripeness -- become witness and companion ((67917d17-07e7-495b-b538-6a41725f3f98))
 		- Is this an odd thing to say (Cherrie thought so)
