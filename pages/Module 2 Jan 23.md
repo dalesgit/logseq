@@ -33,6 +33,7 @@
 		- **Christine**: entering into scripture with imagination is very Ignatian
 	- need to pay attention to own emotional experience ((67917e04-db03-425d-a2e7-a75a35ae1900))
 		- ((67917e3d-be6b-4bfe-94ed-5f252e5d79b0))
+		- Christ: face our own shortcomings
 	- many traditions identify **suffering** with advancement, ... important not to assume depression is a cross to bear ((67917e66-31e7-4e0b-85b6-0f7ac826c20f))
 		- ((67917eac-7a6b-4956-bb73-dd70490b53c2))
 	-
