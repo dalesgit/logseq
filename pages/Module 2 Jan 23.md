@@ -49,6 +49,7 @@
 	- 3 ways:
 		- through **memory** ((67927b44-ccbd-4d85-a014-d613c0ffbf6e))
 		  logseq.order-list-type:: number
+		  collapsed:: true
 			- Craig: not normally an emotional person. SD has begun to enhance for him. His tradition: "The heart is deceiving".
 			  logseq.order-list-type:: number
 			- cp. my own experience
@@ -57,6 +58,7 @@
 			  logseq.order-list-type:: number
 		- through **intuition**
 		  logseq.order-list-type:: number
+		  collapsed:: true
 			- ((67927ea6-5de2-4aee-b480-e075bc60fa41))
 			  logseq.order-list-type:: number
 		- through the **body**
