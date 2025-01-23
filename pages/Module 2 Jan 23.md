@@ -43,6 +43,7 @@
 		- Christ: if you have directees you need a **supervisor** as well as your own **spiritual direction** Linda could give list of those trained as **supervisor** -- also possible to have **peer supervision**
 	-
 - Doc : ![Ways Of Knowing In Discernment - Jan 17 2025 - 9-01 AM.pdf](../assets/Ways_Of_Knowing_In_Discernment_-_Jan_17_2025_-_9-01_AM_1737588746451_0.pdf)
+  collapsed:: true
 	- This has meditation exercises with re. discernment
 	- befriending the imaginaton: "image guidance"
 	- This pushes me to practicing "guided meditation" -- which I find difficult myself and rarely done for others
