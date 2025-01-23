@@ -89,7 +89,7 @@
 			  logseq.order-list-type:: number
 		- through **image**
 		  logseq.order-list-type:: number
-			- write down and remember the **questions** to
+			- write down and remember the **questions** to have them in your quiver for use with SDees. ((67928522-9c7c-4219-9606-c929eb1cf17a))
 			  logseq.order-list-type:: number
 		- through **imaginative scenarios**
 		  logseq.order-list-type:: number
