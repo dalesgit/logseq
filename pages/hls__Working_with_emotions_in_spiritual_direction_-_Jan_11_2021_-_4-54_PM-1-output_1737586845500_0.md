@@ -146,3 +146,8 @@ file-path:: ../assets/Working_with_emotions_in_spiritual_direction_-_Jan_11_2021
   hl-page:: 9
   hl-color:: green
   id:: 67917eac-7a6b-4956-bb73-dd70490b53c2
+- Mirroriizg dealiZf'g Mitb p’pJj**8* requires that our owt
+  ls-type:: annotation
+  hl-page:: 6
+  hl-color:: red
+  id:: 67927728-1876-4ffa-9f9c-2a2f591de67c
