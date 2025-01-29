@@ -8,3 +8,5 @@
 			- write the theme
 			- emotional responses
 			- What is this dream asking of me?
+		- Storying the dream: ((679a65e6-0125-41cf-8085-997c62061706))
+		-
