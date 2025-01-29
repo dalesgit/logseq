@@ -12,4 +12,7 @@
 	- ((679a661a-4efa-41fe-804d-8e1afed2e48d))
 		- ((679a6635-9b46-40e2-bc30-91175873411b))
 		- ((679a6666-85a3-4217-a55d-bdc081748dde))
-		- Choose one image that seems to predominate. This is the image we will engage in conversaton.
+		- Choose one image that seems to predominate. This is the image we will engage in conversaton. ((679a69e1-5721-4bb0-a38d-36709727648d))
+	- ((679a69fb-2462-4ae7-bc1a-d5e8da73a507))
+	-
+-
