@@ -28,6 +28,7 @@
 		  logseq.order-list-type:: number
 		- poeting
 		  logseq.order-list-type:: number
+	- cf. esp the drawing ((679a6b53-7fb3-4558-bdac-e1965ddce85d))
 	-
 		- logseq.order-list-type:: number
 -
