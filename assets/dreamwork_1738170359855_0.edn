@@ -107,5 +107,22 @@
                                    :height 1372.8}),
                           :page 1},
                :content {:text " purchased the book Dreams and Spiritual Growth: A Christian Approach to Dreamwork by Louis M. Savary"},
+               :properties {:color "red"}}
+              {:id #uuid "679a6562-458e-4bd8-9f5b-d8f296678932",
+               :page 1,
+               :position {:bounding {:x1 572.955078125,
+                                     :y1 1284.0807495117188,
+                                     :x2 733.8759155273438,
+                                     :y2 1301.3132934570312,
+                                     :width 1023.4466666666668,
+                                     :height 1372.8},
+                          :rects ({:x1 572.955078125,
+                                   :y1 1284.0807495117188,
+                                   :x2 733.8759155273438,
+                                   :y2 1301.3132934570312,
+                                   :width 1023.4466666666668,
+                                   :height 1372.8}),
+                          :page 1},
+               :content {:text "story-ing” the dream."},
                :properties {:color "red"}}],
- :extra {:page 1}}
+ :extra {:page 2}}
