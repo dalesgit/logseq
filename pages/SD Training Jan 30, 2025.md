@@ -20,5 +20,14 @@
 	- ((679a6a74-baa8-4d88-a6a0-6f166a91e778))
 	- ((679a6aab-d70f-424f-baf5-20fc5324f62c))
 	- ((679a6adf-a28b-488c-830f-8db3a7dc4b85))
+		- storying
+		  logseq.order-list-type:: number
+		- conversing
+		  logseq.order-list-type:: number
+		- drawing
+		  logseq.order-list-type:: number
+		- poeting
+		  logseq.order-list-type:: number
+	-
 		- logseq.order-list-type:: number
 -
