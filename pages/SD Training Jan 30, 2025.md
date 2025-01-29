@@ -4,4 +4,7 @@
 	- ((679a64fe-50aa-4d23-9bf8-0e4c1025df17)) "Dreamwork"
 	- 1st 2 Techniques ((679a6533-632b-4c45-8b8c-7ca1654a455c))
 		- ((679a6562-458e-4bd8-9f5b-d8f296678932))
-			- allow the dreams to ask questions
+			- allow the dreams to ask questions ((679a6598-57ca-4945-9174-3c730f03c385))
+			- write the theme
+			- emotional responses
+			- What is this dream asking of me?

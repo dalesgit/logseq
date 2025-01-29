@@ -124,5 +124,17 @@
                                    :height 1372.8}),
                           :page 1},
                :content {:text "story-ing” the dream."},
+               :properties {:color "red"}}
+              {:id #uuid "679a6598-57ca-4945-9174-3c730f03c385",
+               :page 2,
+               :position {:bounding {:x1 200,
+                                     :y1 193,
+                                     :x2 402,
+                                     :y2 249,
+                                     :width 1029.496,
+                                     :height 1372.8},
+                          :rects (),
+                          :page 2},
+               :content {:text "[:span]", :image 1738171800389},
                :properties {:color "red"}}],
  :extra {:page 2}}
