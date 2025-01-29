@@ -15,5 +15,7 @@
 		- Choose one image that seems to predominate. This is the image we will engage in conversaton. ((679a69e1-5721-4bb0-a38d-36709727648d))
 	- ((679a69fb-2462-4ae7-bc1a-d5e8da73a507))
 		- ((679a6a1f-ae56-4565-b5a3-0de1fc8f8ed7))
-		-
+		- ((679a6a3e-cc46-4c3c-9f2b-422fe45bc1b3))
+		- ((679a6a60-4171-41ef-80a5-b452015e35ea))
+	-
 -
