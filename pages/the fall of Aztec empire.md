@@ -1,7 +1,3 @@
-- [[SD Training Jan 30, 2025]]
-- [Aztec Empire - Wikipedia](https://en.wikipedia.org/wiki/Aztec_Empire)
-  tags:: [[SendToLogseq]]
-	- [[the fall of Aztec empire]]
 - ![image](https://greekreporter.com/wp-content/uploads/2024/08/conquista-de-tenochtitlan-mexico-public-domain.jpg){:width 696 :height 450}
   tags:: [[SendToLogseq]]
   
