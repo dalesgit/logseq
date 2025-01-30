@@ -20,13 +20,12 @@
  ;; Define the default journal page template.
  ;; Enter the template name between the quotes.
  :default-templates
- {:journals ""}
+ {:journals "journal"}
 
  ;; Set a custom date format for the journal page title.
  ;; Default value: "MMM do, yyyy"
  ;; e.g., "Jan 19th, 2038"
  ;; Example usage e.g., "Tue 19th, Jan 2038"
- ;; :journal/page-title-format "EEE do, MMM yyyy"
 
  ;; Specify the journal filename format using a valid date format string.
  ;; !Warning:
@@ -142,7 +141,7 @@
  ;; Set the default location for storing journals.
  ;; Default value: "journals"
  ;; :journals-directory "journals"
-
+:journals-directory "journal"
  ;; Set the default location for storing whiteboards.
  ;; Default value: "whiteboards"
  ;; :whiteboards-directory "whiteboards"
@@ -173,7 +172,7 @@
  ;;  :editor/down            ["ctrl+j" "down"]
  ;;  :editor/left            ["ctrl+h" "left"]
  ;;  :editor/right           ["ctrl+l" "right"]}
- :shortcuts {:command-palette/toggle "alt+ctrl+p", :editor/escape-editing "alt+ctrl+e", :graph/save "alt+ctrl+s"}
+ :shortcuts {:command-palette/toggle "alt+ctrl+p"}
 
  ;; Configure the behavior of pressing Enter in document mode.
  ;; if set to true, pressing Enter will create a new block.
@@ -266,7 +265,11 @@
  ;; input "{{poem red,blue}}"
  ;; becomes
  ;; Rose is red, violet's blue. Life's ordered: Org assists you.
- :macros {}
+ :macros {
+    "today" "Today is **<% today %>**"
+    }
+        "compare" "This is better than $1 and $2"
+         }
 
  ;; Configure the default expansion level for linked references.
  ;; For example, consider the following block hierarchy:
