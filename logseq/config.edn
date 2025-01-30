@@ -265,9 +265,9 @@
  ;; input "{{poem red,blue}}"
  ;; becomes
  ;; Rose is red, violet's blue. Life's ordered: Org assists you.
- 
  :macros {
-        "short-meet" "<div class='kit' data-kit='expandmacro'>Talk with $1 <%today%> <%time%>\n background-color:: yellow \n participant:: $1\n tag:: $1 \n collapsed:: true</div>"
+    "today" "Today is **<% today %>**"
+    }
         "compare" "This is better than $1 and $2"
          }
 
