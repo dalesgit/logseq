@@ -8,3 +8,4 @@ tags: []
 
 [[SD-101 index]]
 
+https://mxlinux.org/mx-linux-blog/
