@@ -8,7 +8,7 @@
 
  ;; Set the preferred workflow style.
  ;; Available options:
- ;; - :now for NOW/LATER style mac(default)
+ ;; - :now for NOW/LATER style (default)
  ;; - :todo for TODO/DOING style
  :preferred-workflow :now
 
@@ -265,9 +265,9 @@
  ;; input "{{poem red,blue}}"
  ;; becomes
  ;; Rose is red, violet's blue. Life's ordered: Org assists you.
- ;;  "today" "Today is **<% today %>**"
  :macros {
- "compare" "This is better than $1 and $2"
+  "today" "Today is **<% today %>**"
+;; "compare" "This is better than $1 and $2"
 }
  
  ;; Configure the default expansion level for linked references.
