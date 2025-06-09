@@ -5,7 +5,7 @@
   
   If you still need to download or install Logseq, check out my [getting started with Logseq guide](https://facedragons.com/foss/getting-started-with-logseq/). It will guide you through downloading, installing, and setting up Logseq and some best practices you must know.
   
--  ## 1. Top Logseq Tip: Use the Daily Journal
+  ## 1. Top Logseq Tip: Use the Daily Journal
   
   When you first log in to Logseq, you open into the Daily Journal. If you have used other not-taking or PKM software, you might want to quickly switch to a regular page or file instead of writing in the journal. But in Logseq, the Daily Journal is much more powerful than just a place to write about your day.
   
@@ -15,7 +15,7 @@
   
   If you try to use Logseq like Evernote – making individual pages for each note and categorizing them with folders or some other strict top-down hierarchy, you won’t get far with Logseq. Instead, use the tool the way it was designed. Use the daily journal.
   
--  ## 2. Backup and Sync Your Logseq Folder
+  ## 2. Backup and Sync Your Logseq Folder
   
   Of all the Logseq tips in this list, only this one is essential for maintaining security. You must back up your Logseq files.
   
@@ -30,13 +30,13 @@
   3. Use git – git is great for saving and recovering past file versions.
   4. Sync your files across your devices.
   
--  ### Syncing
+  ### Syncing
   
   By syncing your Logseq files on your mobile devices and laptop or PC, you create multiple copies so you don’t lose your second brain or PKM if your computer fails.
   
   * **This guide shows you [how to sync Logseq for free](https://facedragons.com/foss/sync-logseq-with-devices-free/). It’s easy to follow and will have you set up in no time.**
   
--  ## 3. Learn Logseq Markdown
+  ## 3. Learn Logseq Markdown
   
   Logseq is many things: note-taking software, an outliner, a productivity app, but whatever you use Logseq for, it’s always a markdown editor.
   
@@ -50,7 +50,7 @@
   
   I have a [Logseq Markdown Cheatsheet](https://facedragons.com/foss/logseq-markdown-cheat-sheet/) with all the markdowns you need; add it to your bookmarks so you can always come back to it and find the markdown you need with examples.
   
--  ## 4. Understand Indenting in Logseq
+  ## 4. Understand Indenting in Logseq
   
   In Logseq, indenting is more than a stylistic choice; it is a core function of how Logseq works, and understanding it is essential to get to grips with Logseq.
   
@@ -62,17 +62,17 @@
   
   Logseq is unique because you can easily link and reference individual blocks (bullet points). Moreover, that power is extended beyond the point you reference to every line indented below it too.
   
--  ## 5. Use Headings in Your Notes
+  ## 5. Use Headings in Your Notes
   
   When you start using Logseq, and you’re still getting to grips with markdown, using headings might seem unnecessary, but they serve some real purposes.
   
--  ### Headings Make Your Notes More Readable
+  ### Headings Make Your Notes More Readable
   
   When you’re in the middle of writing a long note, you know where all the information is because you just wrote it moments ago. You feel like you’ll always know where everything is and what each section is about, but months later, you probably won’t remember writing it, not to mention where some specific area is located on the page.
   
   This is where headings make your notes so much better. When you have headings separating the sections of a note, everything is evident with a single scroll. You can see what each header is about and can quickly find what you’re looking for.
   
--  ### Headings Make a Note Look Cleaner
+  ### Headings Make a Note Look Cleaner
   
   A great Logseq tip is to use the hide arrows next to headings blocks.
   
@@ -80,7 +80,7 @@
   
   When you are working on a large note with multiple sections, this can help you to focus on only one section at a time.
   
--  ## 6. Use Backlinks as Collection Points
+  ## 6. Use Backlinks as Collection Points
   
   You’ll have heard much about backlinks if you’ve spent time online on YouTube or Reddit in the [personal knowledge management](https://facedragons.com/productivity/personal-knowledge-management/) space. Backlinks show who links to you or what pages link to a page. Here’s a simple example to illustrate.
   
@@ -98,7 +98,7 @@
   
   **Try it out. Don’t worry about creating too many pages with links; you can clean up your knowledge base later if you think you need to.**
   
--  ## 7. Logseq Templates Make You More Efficient
+  ## 7. Logseq Templates Make You More Efficient
   
   Using templates is a Logseq tip that you must learn. [Logseq Templates](https://facedragons.com/foss/logseq-templates/) will save you time and help keep your notes consistent.
   
@@ -116,17 +116,17 @@
   
   By inserting these variables, the correct information will appear; for example, a template with the text “Date: <% today %>” will, when inserted will, print today’s date. I.e., “Date: May 22nd, 2023.”
   
--  ### How to Create a Template in Logseq
+  ### How to Create a Template in Logseq
   
   * Create a template by right-clicking the bullet point next to a block and selecting “Make a Template,”
   * Give the Template a Name
   
--  ### How to Insert a Template into Your Note or Page
+  ### How to Insert a Template into Your Note or Page
   
   * Insert a template by typing slash, which brings up the command menu, then type “/Template.”
   * Select the template you want to embed
   
--  ## 8. Install Plugins for More Features
+  ## 8. Install Plugins for More Features
   
   Software like [Logseq and Obsidian](https://facedragons.com/productivity/logseq-vs-obsidian/) are unique among note-taking apps because their functionality can be extended by installing plugins.
   
@@ -138,7 +138,7 @@
   2. **[Markdown Table Editor](https://github.com/haydenull/logseq-plugin-markdown-table):** Creating tables in markdown can be a headache; this plugin makes it easy.
   3. **[Logseq Journals Calendar](https://github.com/xyhp915/logseq-journals-calendar):** Logseq doesn’t have a graphical calendar by default; this one shows which days have journal entries.
   
--  ## 9. Learn Logseq Hotkeys
+  ## 9. Learn Logseq Hotkeys
   
   Hotkeys make using Logseq faster, but remembering them can be a challenge. Rather than trying to look through lists of hotkeys and trying to remember them when you’re working in Logseq, pick one or two that will be most useful.
   
@@ -152,7 +152,7 @@
   
   **You can change your keyboard shortcuts under Menu>Settings>General>Keyboard Shortcuts**
   
--  ## 10. Update Logseq Regularly
+  ## 10. Update Logseq Regularly
   
   Logseq is a free and open-source project, and as of May 2023, it is still in beta testing, which means that development is ongoing and updates are released frequently.
   
@@ -172,4 +172,3 @@
   Are you still hungry for more Logseq tips? Face Dragons has an entire category dedicated to personal knowledge management, [zettelkasten](https://facedragons.com/productivity/zettelkasten-method/), and GTD. Helping you better utilize Logseq or any productivity or note-taking app.
   
   * [Become a personal knowledge management aficionado!](https://facedragons.com/tag/pkm/)
-- **08:36** [[quick capture]]: How to Sync Logseq with Devices Free (Step by Step Instructions) - Face Dragons https://facedragons.com/foss/sync-logseq-with-devices-free/

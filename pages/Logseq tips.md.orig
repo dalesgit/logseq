@@ -4,8 +4,12 @@
   tags:: [[SendToLogseq]]
   
   If you still need to download or install Logseq, check out my [getting started with Logseq guide](https://facedragons.com/foss/getting-started-with-logseq/). It will guide you through downloading, installing, and setting up Logseq and some best practices you must know.
+<<<<<<< HEAD
   
 -  ## 1. Top Logseq Tip: Use the Daily Journal
+=======
+- ## 1. Top Logseq Tip: Use the Daily Journal
+>>>>>>> c9d6bd86044731015d6d8c49d94da03a1ac84e43
   
   When you first log in to Logseq, you open into the Daily Journal. If you have used other not-taking or PKM software, you might want to quickly switch to a regular page or file instead of writing in the journal. But in Logseq, the Daily Journal is much more powerful than just a place to write about your day.
   
@@ -14,8 +18,12 @@
   So starting in the daily journal makes sense. It reduces friction in writing notes down in your system. Just open up Logseq and start writing; later, you can move it or link to another page to ensure it appears where you want it.
   
   If you try to use Logseq like Evernote – making individual pages for each note and categorizing them with folders or some other strict top-down hierarchy, you won’t get far with Logseq. Instead, use the tool the way it was designed. Use the daily journal.
+<<<<<<< HEAD
   
 -  ## 2. Backup and Sync Your Logseq Folder
+=======
+- ## 2. Backup and Sync Your Logseq Folder
+>>>>>>> c9d6bd86044731015d6d8c49d94da03a1ac84e43
   
   Of all the Logseq tips in this list, only this one is essential for maintaining security. You must back up your Logseq files.
   
@@ -172,4 +180,7 @@
   Are you still hungry for more Logseq tips? Face Dragons has an entire category dedicated to personal knowledge management, [zettelkasten](https://facedragons.com/productivity/zettelkasten-method/), and GTD. Helping you better utilize Logseq or any productivity or note-taking app.
   
   * [Become a personal knowledge management aficionado!](https://facedragons.com/tag/pkm/)
+<<<<<<< HEAD
+=======
 - **08:36** [[quick capture]]: How to Sync Logseq with Devices Free (Step by Step Instructions) - Face Dragons https://facedragons.com/foss/sync-logseq-with-devices-free/
+>>>>>>> c9d6bd86044731015d6d8c49d94da03a1ac84e43

@@ -172,4 +172,3 @@
   Are you still hungry for more Logseq tips? Face Dragons has an entire category dedicated to personal knowledge management, [zettelkasten](https://facedragons.com/productivity/zettelkasten-method/), and GTD. Helping you better utilize Logseq or any productivity or note-taking app.
   
   * [Become a personal knowledge management aficionado!](https://facedragons.com/tag/pkm/)
-- **08:36** [[quick capture]]: How to Sync Logseq with Devices Free (Step by Step Instructions) - Face Dragons https://facedragons.com/foss/sync-logseq-with-devices-free/

@@ -265,8 +265,8 @@
  ;; input "{{poem red,blue}}"
  ;; becomes
  ;; Rose is red, violet's blue. Life's ordered: Org assists you.
+ ;;  "today" "Today is **<% today %>**"
  :macros {
-;;  "today" "Today is **<% today %>**"
  "compare" "This is better than $1 and $2"
 }
  
