@@ -8,7 +8,7 @@
 
  ;; Set the preferred workflow style.
  ;; Available options:
- ;; - :now for NOW/LATER style (default)
+ ;; - :now for NOW/LATER style mac(default)
  ;; - :todo for TODO/DOING style
  :preferred-workflow :now
 
@@ -265,8 +265,8 @@
  ;; input "{{poem red,blue}}"
  ;; becomes
  ;; Rose is red, violet's blue. Life's ordered: Org assists you.
+ ;;  "today" "Today is **<% today %>**"
  :macros {
-;;  "today" "Today is **<% today %>**"
  "compare" "This is better than $1 and $2"
 }
  
@@ -415,4 +415,6 @@
  ;;      ;use triple underscore `___` for slash `/` in page title
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
- :zotero/settings-v2 {"default" {:type-id "979977"}}}
+ :zotero/settings-v2 {"default" {:type-id "979977"}}
+ :journal/page-title-format "yyyy-MM-dd"
+ :editor/logical-outdenting? true}
