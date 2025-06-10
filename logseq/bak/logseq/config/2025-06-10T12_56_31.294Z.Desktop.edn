@@ -8,7 +8,7 @@
 
  ;; Set the preferred workflow style.
  ;; Available options:
- ;; - :now for NOW/LATER style (default)
+ ;; - :now for NOW/LATER style mac(default)
  ;; - :todo for TODO/DOING style
  :preferred-workflow :now
 
@@ -172,8 +172,7 @@
  ;;  :editor/down            ["ctrl+j" "down"]
  ;;  :editor/left            ["ctrl+h" "left"]
  ;;  :editor/right           ["ctrl+l" "right"]}
- :shortcuts {:command-palette/toggle "alt+ctrl+p"
- :editor/escape-editing "alt+ctrl+e"}
+ :shortcuts {:command-palette/toggle "alt+ctrl+p"}
 
  ;; Configure the behavior of pressing Enter in document mode.
  ;; if set to true, pressing Enter will create a new block.
@@ -266,11 +265,11 @@
  ;; input "{{poem red,blue}}"
  ;; becomes
  ;; Rose is red, violet's blue. Life's ordered: Org assists you.
+ ;;  "today" "Today is **<% today %>**"
  :macros {
-        "short-meet" "<div class='kit' data-kit='expandmacro'>Talk with $1 <%today%> <%time%>\n background-color:: yellow \n participant:: $1\n tag:: $1 \n collapsed:: true</div>"
-        "compare" "This is better than $1 and $2"
-         }
-
+ "compare" "This is better than $1 and $2"
+}
+ 
  ;; Configure the default expansion level for linked references.
  ;; For example, consider the following block hierarchy:
  ;; - a [[page]] (level 1)
@@ -416,4 +415,5 @@
  ;;      ;use triple underscore `___` for slash `/` in page title
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
- :zotero/settings-v2 {"default" {:type-id "979977"}}}
+ :zotero/settings-v2 {"default" {:type-id "979977"}}
+ :journal/page-title-format "E, dd-MM-yyyy"}
