@@ -81,7 +81,7 @@
 		  icon:: 📂
 		-
 		- ### Project Meta
-			- DOING #project <% current page %>
+			- DONE #project <% current page %>
 			- query-table:: false
 			- query-table:: false
 		- ### Notes

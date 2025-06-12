@@ -5,7 +5,7 @@
 	- ### Critical Tasks for today
 	  =======
 - Morning review
-	- LATER Create solid schedule for today.  Look at your "TODOS" down below and make sure you are developing a good plan.
+	- DONE Create solid schedule for today.  Look at your "TODOS" down below and make sure you are developing a good plan.
 	- Critical Tasks for today
 	  >>>>>>> main:pages/nov-2-backup.md
 		- Get Logseq, Nvim working nicely together
