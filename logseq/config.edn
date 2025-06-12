@@ -418,4 +418,5 @@
  ;;:zotero/settings-v2 {"default" {:type-id "979977", :include-attachments? false}}
  ;;:journal/page-title-format "EEEE, dd-MM-yyyy"
  :editor/logical-outdenting? true
- :editor/preferred-pasting-file? true}
+ :editor/preferred-pasting-file? true
+ :zotero/settings-v2 {"default" {:type-id "ZdKKzN2aesLSsEODIpOfWIiI"}}}
