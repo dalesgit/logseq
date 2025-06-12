@@ -415,5 +415,8 @@
  ;;      ;use triple underscore `___` for slash `/` in page title
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
- :zotero/settings-v2 {"default" {:type-id "979977"}}
- :journal/page-title-format "E, yyyy/MM/dd"}
+ ;;:zotero/settings-v2 {"default" {:type-id "979977", :include-attachments? false}}
+ ;;:journal/page-title-format "EEEE, dd-MM-yyyy"
+ :editor/logical-outdenting? true
+ :editor/preferred-pasting-file? true
+ :zotero/settings-v2 {"default" {:type-id "979977"}}}
