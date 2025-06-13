@@ -21,6 +21,7 @@ num-pages:: 1
 	- Katharine Lee Bates
 	- Inez Milholland
 	- Inouyes
-	- Claudett
+	- Claudette Colvin, Septima Clark
+	- Teenagers in the American South
 - [[Notes]]
 	- Description based on publisher supplied metadata and other sources
