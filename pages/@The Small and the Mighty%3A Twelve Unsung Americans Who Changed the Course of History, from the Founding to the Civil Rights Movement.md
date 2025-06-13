@@ -23,9 +23,11 @@ num-pages:: 1
 			- Virginia Randolph
 		- America the beautiful
 			- Katharine Lee Bates
-		- FOrw
-		- Inez Milholland, Maria de Lopez
-		- Anna Thomas Jeanes, William James Edwards, Julius Rosenwald, Booker T. Washington
+		- Forward out of darkness
+			- Inez Milholland, Maria de Lopez, Rebecca Milholland
+		- An orientation of the Spirit
+			- Anna Thomas Jeanes, William James Edwards, Julius Rosenwald, Booker T. Washington
+		- Go for Broke
 		- Inouyes
 		- Claudette Colvin, Septima Clark
 		- Teenagers in the American South
