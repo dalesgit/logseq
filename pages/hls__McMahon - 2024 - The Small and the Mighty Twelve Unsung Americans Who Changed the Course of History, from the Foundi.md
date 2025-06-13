@@ -1,0 +1,2 @@
+file:: [McMahon - 2024 - The Small and the Mighty Twelve Unsung Americans Who Changed the Course of History, from the Foundi.pdf](file:///home/dale/Zotero/storage/L3FDMXT7/McMahon - 2024 - The Small and the Mighty Twelve Unsung Americans Who Changed the Course of History, from the Foundi.pdf)
+file-path:: file:///home/dale/Zotero/storage/L3FDMXT7/McMahon - 2024 - The Small and the Mighty Twelve Unsung Americans Who Changed the Course of History, from the Foundi.pdf
