@@ -20,7 +20,7 @@ num-pages:: 1
 		- Clara Brown
 		- Katharine Lee Bates
 		- Inez Milholland, Maria de Lopez
-		-
+		- Anna Thomas Jeanes, William James Edwards, Julius Rosenwald, Booker T. Washington
 		- Inouyes
 		- Claudette Colvin, Septima Clark
 		- Teenagers in the American South
