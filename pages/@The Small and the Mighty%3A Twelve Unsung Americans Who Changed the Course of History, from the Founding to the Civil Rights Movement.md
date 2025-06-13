@@ -17,5 +17,6 @@ num-pages:: 1
 	- "From America's favorite government teacher, a heartfelt, inspiring portrait of twelve ordinary Americans whose courage formed the character of our country"--
 - [[Attachments]]
 	- [Table of Contents PDF](https://www.gbv.de/dms/bowker/toc/9780593541678.pdf) {{zotero-imported-file L3FDMXT7, "McMahon - 2024 - The Small and the Mighty Twelve Unsung Americans Who Changed the Course of History, from the Foundi.pdf"}}
+	-
 - [[Notes]]
 	- Description based on publisher supplied metadata and other sources
