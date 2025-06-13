@@ -19,7 +19,8 @@ num-pages:: 1
 	- [Table of Contents PDF](https://www.gbv.de/dms/bowker/toc/9780593541678.pdf) {{zotero-imported-file L3FDMXT7, "McMahon - 2024 - The Small and the Mighty Twelve Unsung Americans Who Changed the Course of History, from the Foundi.pdf"}}
 		- Clara Brown
 		- Katharine Lee Bates
-		- Inez Milholland
+		- Inez Milholland, Maria de Lopez
+		-
 		- Inouyes
 		- Claudette Colvin, Septima Clark
 		- Teenagers in the American South
