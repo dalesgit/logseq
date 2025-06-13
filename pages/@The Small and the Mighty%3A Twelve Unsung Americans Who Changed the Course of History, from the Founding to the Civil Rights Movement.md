@@ -28,8 +28,9 @@ num-pages:: 1
 		- An orientation of the Spirit
 			- Anna Thomas Jeanes, William James Edwards, Julius Rosenwald, Booker T. Washington
 		- Go for Broke
-		- Inouyes
-		- Claudette Colvin, Septima Clark
-		- Teenagers in the American South
+			- Inouyes, Norman Mineta
+		- Momentum
+			- Claudette Colvin, Septima Clark
+			- Teenagers in the American South
 - [[Notes]]
 	- Description based on publisher supplied metadata and other sources
