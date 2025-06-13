@@ -31,6 +31,6 @@ num-pages:: 1
 			- Inouyes, Norman Mineta
 		- Momentum
 			- Claudette Colvin, Septima Clark
-			- Teenagers in the American South
+			- Teenagerghs in the American South
 - [[Notes]]
 	- Description based on publisher supplied metadata and other sources
