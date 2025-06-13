@@ -21,6 +21,5 @@
   Were vexed to nightmare by a rocking cradle,   
   And what rough beast, its hour come round at last,   
   Slouches towards Bethlehem to be born?
-  
-  [^1]: "gyre" as outlined in his book *Vision* refers to his understanding of Classical -> Christian -> ?
-- [The Second Coming (poem) - Wikipedia](https://en.wikipedia.org/wiki/The_Second_Coming_(poem))
+	- [^1]: "gyre" as outlined in his book *Vision* refers to his understanding of Classical -> Christian -> ?
+	- [The Second Coming (poem) - Wikipedia](https://en.wikipedia.org/wiki/The_Second_Coming_(poem))
