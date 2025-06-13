@@ -22,6 +22,6 @@ num-pages:: 1
 		- Inez Milholland
 		- Inouyes
 		- Claudette Colvin, Septima Clark
-	- Teenagers in the American South
+		- Teenagers in the American South
 - [[Notes]]
 	- Description based on publisher supplied metadata and other sources
