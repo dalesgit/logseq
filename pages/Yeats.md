@@ -1,4 +1,4 @@
-- Turning and turning in the widening gyre   
+- Turning and turning in the widening gyre[^1]   
   The falcon cannot hear the falconer;
   Things fall apart; the centre cannot hold;
   Mere anarchy is loosed upon the world,
@@ -21,4 +21,6 @@
   Were vexed to nightmare by a rocking cradle,   
   And what rough beast, its hour come round at last,   
   Slouches towards Bethlehem to be born?
+  
+  {^}
 - [The Second Coming (poem) - Wikipedia](https://en.wikipedia.org/wiki/The_Second_Coming_(poem))
