@@ -17,9 +17,13 @@ num-pages:: 1
 	- "From America's favorite government teacher, a heartfelt, inspiring portrait of twelve ordinary Americans whose courage formed the character of our country"--
 - [[Attachments]]
 	- [Table of Contents PDF](https://www.gbv.de/dms/bowker/toc/9780593541678.pdf) {{zotero-imported-file L3FDMXT7, "McMahon - 2024 - The Small and the Mighty Twelve Unsung Americans Who Changed the Course of History, from the Foundi.pdf"}}
-		- Ang
-		- Clara Brown
-		- Katharine Lee Bates
+		- Angel of the Rockies
+			- Clara Brown
+		- The next needed thing
+			- Virginia Randolph
+		- America the beautiful
+			- Katharine Lee Bates
+		- FOrw
 		- Inez Milholland, Maria de Lopez
 		- Anna Thomas Jeanes, William James Edwards, Julius Rosenwald, Booker T. Washington
 		- Inouyes
