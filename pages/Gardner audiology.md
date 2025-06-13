@@ -1,0 +1,2 @@
+- Starkey has better connectivity with iPhones because it uses standard Bluetooth whereas Phonak uses a specialized form. Starkey claims to have an astounding battery life, but certainly better than Phonak
+- She commented on how good my insurance was she’s happy to do business obviously with me.

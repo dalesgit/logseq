@@ -416,4 +416,4 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :zotero/settings-v2 {"default" {:type-id "979977"}}
- :journal/page-title-format "E, dd-MM-yyyy"}
+ :journal/page-title-format "yyyy-MM-dd"}
