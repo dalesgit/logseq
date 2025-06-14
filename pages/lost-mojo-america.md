@@ -9,7 +9,8 @@
   enjoying themselves together in a moment of relaxation. No 
   Obamas on the beach in Hawaii moments, or Bushes fishing in 
   Kennebunkport, no Reagans on horseback, no Kennedys 
-  playing touch football on the Cape. I was thinking the other 
+  playing touch football on the Cape.
+- I was thinking the other 
   day of the summer when George H couldn't catch a fish and all 
   the grand kids made signs and counted the fish-less days. And 
   somehow, even if you didn't even like GHB, you got caught up 
