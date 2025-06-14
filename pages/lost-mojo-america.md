@@ -20,7 +20,8 @@
   that did the ice bucket challenge and raised millions for charity. 
   We used to have a president that calmed and soothed the nation 
   instead of dividing it. A First Lady that planted a garden 
-  instead of ripping one out. We are rudderless and joyless. We 
+  instead of ripping one out.
+- We are rudderless and joyless. We 
   have lost the cultural aspects of society that make America 
   great. We have lost our mojo. Our fun, our happiness. The 
   cheering on of others. The shared experiences of humanity that 
@@ -28,4 +29,3 @@
   celebrated. The unique can-do spirit Americans have always 
   been known for. We have lost so much in so short a time.
   - Elayne Griffin Baker
-  fgh
