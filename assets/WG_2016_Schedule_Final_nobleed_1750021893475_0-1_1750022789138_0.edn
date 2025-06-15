@@ -1149,5 +1149,22 @@
                                    :height 697.9821428571428}),
                           :page 3},
                :content {:text "aize Vespers Service Leslie Withers & Mark Ree"},
+               :properties {:color "red"}}
+              {:id #uuid "684f3da4-0bd6-4194-9b43-2e533113e9fe",
+               :page 3,
+               :position {:bounding {:x1 695.3499999940395,
+                                     :y1 399.68750762939453,
+                                     :x2 709.7381835877895,
+                                     :y2 411.68750762939453,
+                                     :width 908.9999999999999,
+                                     :height 697.9821428571428},
+                          :rects ({:x1 695.3499999940395,
+                                   :y1 399.68750762939453,
+                                   :x2 709.7381835877895,
+                                   :y2 411.68750762939453,
+                                   :width 908.9999999999999,
+                                   :height 697.9821428571428}),
+                          :page 3},
+               :content {:text "Complin"},
                :properties {:color "red"}}],
- :extra {:page 3}}
+ :extra {:page 4}}
