@@ -58,15 +58,5 @@
 	- [People are sharing which great American hero they'd add to Mount Rushmore ›](https://www.upworthy.com/mount-rushmore-additions-ex1)
 	- [This black American flag has a disturbing message and has been popping up across the U.S. ›](https://www.upworthy.com/if-your-neighbor-is-flying-a-black-american-flag-from-their-home-you-should-be-a-little-concerned)
 	  
-	  A Raptive Partner Site
-	  
-	  [america](https://www.upworthy.com/tag/america)
-	  
-	  [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.upworthy.com%2Feconomics-expert-pinpoints-the-exact-moment-in-2012-when-america-went-to-hell%3Fxrs%3DRebelMouse_fb%26ts%3D1750064732)[](https://twitter.com/intent/tweet?url=https://www.upworthy.com/economics-expert-pinpoints-the-exact-moment-in-2012-when-america-went-to-hell&text=Economics%20expert%20pinpoints%20the%20exact%20moment%20in%202012%20when%20%27America%20went%20to%20hell%27&)[](https://share.flipboard.com/bookmarklet/popout?v=2&url=https://www.upworthy.com/economics-expert-pinpoints-the-exact-moment-in-2012-when-america-went-to-hell)[](mailto:?subject=Economics%20expert%20pinpoints%20the%20exact%20moment%20in%202012%20when%20%27America%20went%20to%20hell%27&body=https://www.upworthy.com/economics-expert-pinpoints-the-exact-moment-in-2012-when-america-went-to-hell)[](javascript:void(0) "Copy this link to clipboard")
-	  
-	  {"customDimensions": {"3":"Tod Perry","8":2672366166,"4":"social media, 2012, like button, noah smith, noahpinion substack, noah smith blog, eocnomics blog, political polarization, red state blue state, american institutions, sexism, racism, mental health, america","7":"america","2":"democracy","5":"06/16/2025","9":true,"10":false}, "post": {"id": 2672366166, "providerId": 0, "sections": \[0, 472898923, 404297102, 556943878\], "authors": \[19772528\], "tags": \["social media", "2012", "like button", "noah smith", "noahpinion substack", "noah smith blog", "eocnomics blog", "political polarization", "red state blue state", "american institutions", "sexism", "racism", "mental health", "america"\], "streams": \[\], "split\_testing": {}} }
-	  
-	  #action-button-react-iframe {height: 0;max-width: 630px; display: block; margin: 0 auto;} @media all and (max-width: 515px) {#action-button-react-iframe { }}<iframe id="action-button-react-iframe" src="https://prod-native.actionbutton.co?isNativeEmbed=true&amp;500a0be4-16ad-40b8-813d-6d2221bcef7b&amp;embedType=0&amp;articleUrlTracking=https://www.upworthy.com/economics-expert-pinpoints-the-exact-moment-in-2012-when-america-went-to-hell&amp;articleUrl=https://www.upworthy.com/economics-expert-pinpoints-the-exact-moment-in-2012-when-america-went-to-hell&amp;sponsored=undefined" allow="camera; microphone" ab-id="action_button_container" scrolling="no" is-iframe-loaded="true" style="width: 100%; height: 0px; border: 0px; overflow: hidden;"></iframe>
-	  
 	  [Learning](https://www.upworthy.com/education/learning/)
-	- ## [The one sign that someone is highly intelligent, according to literary genius Leo Tolstoy](https://www.upworthy.com/tolstoys-sign-someone-is-intelligent-ex1)
+-
