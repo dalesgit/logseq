@@ -34,13 +34,9 @@
 	  
 	  __Like some kind of forcible hive mind out of science fiction, social media suddenly threw every American in one small room with every other American. Decades of hard work spent running away from each other and creating our ideologically fragmented patchwork of geographies went up in smoke overnight, as geography suddenly ceased to mediate the everyday discussion of politics and culture.__
 	  
-	  
-	  
 	  __The sudden collapse of geographic sorting in political discussion threw all Americans in the same room with each other — and like the characters in Sartre’s No Exit, they discovered that “Hell is other people.” Conservatives suddenly discovered that a lot of Americans despise Christianity or resent White people over the legacy of discrimination. Liberals suddenly remembered that a lot of their countrymen frown on their lifestyles. Every progressive college kid got to see every piece of right-wing fake news that their grandparents were sharing on Facebook (whereas before, these would have been quietly confined to chain emails). Every conservative in a small town got to see Twitter activists denouncing White people. And so on.__
 	  
 	  ![protests, american protest, protest sign, demonstration, mass gathering](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20863%20374'%3E%3C/svg%3E)
-	  
-	  <small class="image-media media-caption" placeholder="Add Photo Caption...">A group of people protesting in the street.</small><small class="image-media media-photo-credit" placeholder="Add Photo Credit...">via <a href="https://www.flickr.com/photos/taedc/49978001278/in/photolist-2j9ojzd-NVPR2D-P1st9C-2j9UYfs-P1tPg9-oYcgwG-xVVfXh-NVNoc8-7MauA2-2j9fDTQ-pCAyKZ-bCU47m-N6Ry9N-2kmc5Vw-2kcvdbg-2jqRc8j-pUGLRT-X7vW1f-2kmUixH-2j8a5HF-fXTcri-ydcW35-yfvnqT-bEZqKP-2j9TE9i-ySQCo4-yAcY1q-2m1qapv-NB1wmJ-N81n2c-2jddibS-2j9TEdG-N6vB6Z-MdZmsi-pCnbas-pUXzTa-2kndWDm-2j7DjLT-2mZRTDt-2kmzwoQ-2jqRADT-bGP1de-a1XoDY-2jqHRw3-2j9TCJQ-MTMvvd-2j88LVi-2kSfNDB-H8kXqj-2j9QZs1" target="_blank" class="rm-stats-tracked">Ted Eytan/Flickr</a></small>
 	  
 	  It may sound cynical to believe that America was a better place when people were less likely to talk to people with a different worldview. But, given how things have gone in the past 15 years, it’s fair to say that putting every American in a proverbial ring to fight it out just makes everyone feel under attack... and the fight never ends.
 	- ## The problem with the Like button
