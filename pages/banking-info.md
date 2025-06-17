@@ -44,15 +44,14 @@
 - ## South State Bank
 	- (MPH) as of 6/6/25  
 	  mph2South$
-	  
-	  https://www.southstatebank.com/  
+	- https://www.southstatebank.com/  
 	  user: **hathashoe2**  
 	  password:dch2SouthState  
 	  12/31/20 new password: **dch2SouthState!**  
 	  High School mascot: Tigers  
 	  Mothers middle name: Marie
 - ## Chase
-  
-  https://www.chase.com/  
-  mpshoe818  
-  mps2Chase
+  collapsed:: true
+	- https://www.chase.com/  
+	  mpshoe818  
+	  mps2Chase
