@@ -22,19 +22,18 @@
 	  dch2amex  
 	  
 	  ---
-	  with new Hilton amex  
+	- with new Hilton amex  
 	  passcode:  
 	  mother's birthday: 0116
 	  
 	  ---
-	  mpshoe  
+	- mpshoe  
 	  ~mph2dch2019 (10/6/19)~
 	  ~password: gini29~
 	  ~as of Jan 2020 mph2AmericanExpress~
 	  
-	  Look for icon to click indicating "download"  
-	  
-	  mph2DeltaAEcard (3/23/20) (reset to this 7/26/22)  
+	  Look for icon to click indicating "download"
+	- mph2DeltaAEcard (3/23/20) (reset to this 7/26/22)  
 	  NB: The QFX file from AMEX has to be modified:  
 	  
 	  1. borrow the header from south state qfx files
@@ -42,14 +41,14 @@
 	  3. add <QFX> at the top
 	  4. verify </QFX> at bottom?
 - ## South State Bank
-	- (MPH) as of 6/6/25  
-	  mph2South$
 	- https://www.southstatebank.com/  
 	  ttstsuser: **hathashoe2**  
 	  password:dch2SouthState  
 	  12/31/20 new password: **dch2SouthState!**  
 	  High School mascot: Tigers  
 	  Mothers middle name: Marie
+	- (MPH) as of 6/6/25  
+	  mph2South$
 - ## Chase
   collapsed:: true
 	- https://www.chase.com/  
