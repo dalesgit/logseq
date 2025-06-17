@@ -5,9 +5,8 @@
 	  mph2CitiCosco% [Citibank Visa]
 - ## Citibank (Costco)
 	- https://online.citi.com/US/ag/dashboard/credit-card?
-		- accountId=aa8ca2ec-2919-4631-936a-6945f7bcadcc citi Costco  
-		  
-		  userid: dale4Citi!  
+		- accountId=aa8ca2ec-2919-4631-936a-6945f7bcadcc citi Costco
+		- userid: dale4Citi!  
 		  password: dch2Citi!  
 		  
 		  security questions:  
