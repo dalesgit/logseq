@@ -1,0 +1,10 @@
+- In the beginner's mind there are many possibilities, but in the expert's mind there are few.
+- Before a person studies Zen,
+- mountains are mountains and waters are waters; after a first glimpse into the truth of Zen, mountains are no longer mountains and waters are not waters; after enlightenment, mountains are once again mountains and waters once again waters.
+- I'm not young enough to know everything.
+	- -J. M. Barrie
+- Good pitching will always stop good hitting, and vice versa.
+	- —Casey Stengel
+- "I am going to pose a question" King Milinda said to Venerable Nagasena. "Can you answer?" Nagasena said, "Please ask your question." The king said, "I have already asked." Nagasena said, "I have already answered." The king said, "What did you answer?" Nagasena said, "What did you ask?" The king said, "I asked nothing." Nagasena said, "I answered nothing."
+	- Who’s on first
+-
