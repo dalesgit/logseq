@@ -30,8 +30,7 @@
   that word 'Attention' mean, anyway?"
 - Ikkyu gently responded, "Attention means attention."
 	- -Zen story
-- Standing on the bare ground... a mean egotism vanishes. I become a transparent eyeball; I am nothing;
-- I see all; the currents of the Universal Being circulate through me; I am part or particle of God.
+- Standing on the bare ground... a mean egotism vanishes. I become a transparent eyeball; I am nothing; I see all; the currents of the Universal Being circulate through me; I am part or particle of God.
 	- Emerson
 - The nature of God is a circle of which the center is everywhere and the circumference is nowhere.
 	- Empedocles
