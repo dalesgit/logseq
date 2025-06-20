@@ -6,19 +6,14 @@
 	- —Casey Stengel
 - "I am going to pose a question" King Milinda said to Venerable Nagasena. "Can you answer?" Nagasena said, "Please ask your question." The king said, "I have already asked." Nagasena said, "I have already answered." The king said, "What did you answer?" Nagasena said, "What did you ask?" The king said, "I asked nothing." Nagasena said, "I answered nothing."
 	- Who’s on first
-- If you have to ask what jazz is, you'll
-- never know.
+- If you have to ask what jazz is, you'll never know.
 	- -Louis Armstrong
 - The tao that can be told is not the eternal Tao.
-- The name that can be named is not the eternal Name.
+  The name that can be named is not the eternal Name.
 	- -Tao te Ching
-- The thing about Zen is that it pushes
-- contradictions to their ultimate limit where one has to choose between madness and innocence.
-- And Zen suggests that we may be driving toward one or the other on a cosmic scale. Driving toward them because, one way or the other, as madmen or innocents, we are already there.
-- It might be good to open our eyes and see.
+- The thing about Zen is that it pushes contradictions to their ultimate limit where one has to choose between madness and innocence. And Zen suggests that we may be driving toward one or the other on a cosmic scale. Driving toward them because, one way or the other, as madmen or innocents, we are already there. It might be good to open our eyes and see.
 	- Thomas Merton
-- "But the limperor
-- has nothing on at all!" cried a little child.
+- "But the Emperor has nothing on at all!" cried a little child.
 	- -Hans Christian Andersen
 - Soon the child's clear eye is clouded over by ideas and opinions, preconceptions and abstractions.
 - Simple free being becomes encrusted with the burdensome armor of the ego. Not until years later does an instinct come that a vital sense of mystery has been withdrawn. The sun glints through the pines, and the heart is pierced in a moment of beauty and strange pain, like a memory of paradise. After that day... we become seekers.
