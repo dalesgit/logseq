@@ -15,22 +15,20 @@
 	- Thomas Merton
 - "But the Emperor has nothing on at all!" cried a little child.
 	- -Hans Christian Andersen
-- Soon the child's clear eye is clouded over by ideas and opinions, preconceptions and abstractions.
-- Simple free being becomes encrusted with the burdensome armor of the ego. Not until years later does an instinct come that a vital sense of mystery has been withdrawn. The sun glints through the pines, and the heart is pierced in a moment of beauty and strange pain, like a memory of paradise. After that day... we become seekers.
+- Soon the child's clear eye is clouded over by ideas and opinions, preconceptions and abstractions. Simple free being becomes encrusted with the burdensome armor of the ego. Not until years later does an instinct come that a vital sense of mystery has been withdrawn. The sun glints through the pines, and the heart is pierced in a moment of beauty and strange pain, like a memory of paradise. After that day... we become seekers.
 	- Peter Matthiessen
 - One day a man approached Ikkyu and asked:
-- "Master, will you please write for me some maxims of the highest wisdom?"
-- Ikkyu took his brush and wrote: "Attention."
-- "Is that all?" asked the man.
-- Ikkyu then wrote: "Attention. Attention."
-- "Well," said the man, "I really don't see much
-- depth in what you have written."
-- Then Ikkyu wrote the same word three times:
-- "Attention. Attention. Attention""
-- Half-angered, the man demanded: "What does
-- that word 'Attention' mean, anyway?"
-- Ikkyu gently responded, "Attention means
-- attention."
+  "Master, will you please write for me some maxims of the highest wisdom?"
+  Ikkyu took his brush and wrote: "Attention."
+  "Is that all?" asked the man.
+  Ikkyu then wrote: "Attention. Attention."
+  "Well," said the man, "I really don't see much
+  depth in what you have written."
+  Then Ikkyu wrote the same word three times:
+  "Attention. Attention. Attention""
+  Half-angered, the man demanded: "What does
+  that word 'Attention' mean, anyway?"
+- Ikkyu gently responded, "Attention means attention."
 	- -Zen story
 - Standing on the bare ground... a mean egotism vanishes. I become a transparent eyeball; I am nothing;
 - I see all; the currents of the Universal Being circulate through me; I am part or particle of God.
