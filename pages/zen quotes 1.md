@@ -1,6 +1,5 @@
 - In the beginner's mind there are many possibilities, but in the expert's mind there are few.
-- Before a person studies Zen,
-- mountains are mountains and waters are waters; after a first glimpse into the truth of Zen, mountains are no longer mountains and waters are not waters; after enlightenment, mountains are once again mountains and waters once again waters.
+	- Before a person studies Zen, mountains are mountains and waters are waters; after a first glimpse into the truth of Zen, mountains are no longer mountains and waters are not waters; after enlightenment, mountains are once again mountains and waters once again waters.
 - I'm not young enough to know everything.
 	- -J. M. Barrie
 - Good pitching will always stop good hitting, and vice versa.
