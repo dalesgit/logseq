@@ -1,1 +1,1 @@
-- [[zen quotes 1]]
+- [[zen quotes 1]] see simplenote
