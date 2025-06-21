@@ -1,2 +1,4 @@
 - https://docs.google.com/spreadsheets/d/1-SSwTjduxCOalDT7WjgCTh3WkG7m4KxI/edit?usp=sharing&ouid=117327053971217180357&rtpof=true&sd=true for spreadsheet worksheet
-- [[Feb 13th, 2024]] for obsidian plugins
+- [[Feb 13th, 2024]] for notion plugins
+- ((684a3f63-f6e6-49a4-9d23-37f0aa831c38))
+-
