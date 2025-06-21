@@ -4,3 +4,4 @@
 	- I gave example examples from Romans seven and first care Iâ€™m sorry second Corinthians 5 maybe about doing what I donâ€™t wanna do and the thorn that stays with him from Paul.
 	- He said plainly at the end that our time together was good for him. With reference to walking together with community.
 	- I identified two different ways of reading Paul that was new to me. One way divides up into us and them and separates. The other emphasizes, we all have the human condition and his efforts were aimed at forming community.
+
