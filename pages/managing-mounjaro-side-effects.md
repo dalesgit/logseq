@@ -15,8 +15,7 @@
 	  * resting and not over-exerting yourself
 	  
 	  When you start to feel better, eat small portions of plain food and slowly introduce foods back if you don’t get more diarrhoea. Re-introducing food too quickly may upset your stomach, so take it slow. Just keep hydrated, as severe or long-lasting diarrhoea can cause dehydration. **If you get severe diarrhoea, speak to your doctor**.
-	  
-	  #### Mounjaro sickness
+	- #### Mounjaro sickness
 	  
 	  This is a term used to cover Mounjaro nausea and Mounjaro vomiting, which are mainly treated the same way.
 	  
