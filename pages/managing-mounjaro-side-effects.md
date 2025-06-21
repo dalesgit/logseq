@@ -34,7 +34,7 @@
 	  
 	  As with diarrhoea, introduce foods back slowly as you start to feel better. Severe vomiting can cause dehydration, so **speak to your doctor if you’re being sick frequently and can’t keep anything down**.
 	  
-	  #### Mounjaro constipation
+	  - #### Mounjaro constipation
 	  
 	  **Constipation can be treated by**:
 	  
@@ -52,7 +52,7 @@
 	  
 	  ### Common side effects
 	  
-	  #### Mounjaro burping
+	 -  #### Mounjaro burping
 	  
 	  **Burping can be treated by**:
 	  
@@ -83,7 +83,7 @@
 	  
 	  **If your symptoms don’t get better and you’re taking over-the-counter medication every day, speak with your doctor**. They may prescribe a different treatment that could help more.
 	  
-	  #### Mounjaro tiredness
+	 -  #### Mounjaro tiredness
 	  
 	  Mounjaro may cause tiredness by itself, or other side effects may make you feel tired, especially if they’re preventing you from getting quality sleep.
 	  
@@ -114,9 +114,9 @@
 	  * avoiding stressful situations and finding ways to reduce your stress levels, as this could be contributing to your dizziness
 	  * taking Mounjaro after food and drink, especially if you get dizzy right after your injection
 	  
-	  Mounjaro is most likely to cause dizziness if your blood sugar levels are low (hypoglycaemia), although you can get dizziness as a side effect with normal blood sugar levels. If you get dizziness when taking Mounjaro, especially if you have other symptoms like headache, weakness, or irritability, speak with your doctor so they can check your levels. **People with type 2 diabetes should take special care**, as Mounjaro can increase the risk of hypoglycaemia if taken with insulin.
+	 -  Mounjaro is most likely to cause dizziness if your blood sugar levels are low (hypoglycaemia), although you can get dizziness as a side effect with normal blood sugar levels. If you get dizziness when taking Mounjaro, especially if you have other symptoms like headache, weakness, or irritability, speak with your doctor so they can check your levels. **People with type 2 diabetes should take special care**, as Mounjaro can increase the risk of hypoglycaemia if taken with insulin.
 	  
-	  #### Mounjaro stomach pain
+	  - #### Mounjaro stomach pain
 	  
 	  **Stomach pain can be treated by**:
 	  
