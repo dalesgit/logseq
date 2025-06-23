@@ -2,3 +2,4 @@
 	- He has 2 children. Out of the house and 5 year old.
 	- Former soldier. Now?
 - Not teaching. Administrator at Autism clinic .
+- She's happy.
