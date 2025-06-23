@@ -1,4 +1,5 @@
 - Systems
+  collapsed:: true
 	- Irrigation
 	- A/C
 	- car battery
