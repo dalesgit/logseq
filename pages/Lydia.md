@@ -1,3 +1,4 @@
 - Very much older boyfriend
 	- He has 2 children. Out of the house and 5 year old.
-	- Former soldier
+	- Former soldier. Now?
+- Not teaching. Administrator at Autism clinic .
