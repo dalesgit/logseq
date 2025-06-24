@@ -1,1 +1,1 @@
-- Julian sober 6/16/
+- Julian sober 6/16/2016 (when we went to Europe)
