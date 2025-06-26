@@ -12,4 +12,6 @@ tags: []
 
 [Kathleen Norris and Gareth Higgins](Kathleen Norris and Gareth Higgins.md)
 
+[pages/Manchin on Democrats as toxic.md](pages/Manchin on Democrats as toxic.md)
 
+[Bibliography](/For Sara.md)
