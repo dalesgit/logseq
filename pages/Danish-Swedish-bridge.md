@@ -1,3 +1,8 @@
+---
+tags: world,Scandinavia, :world:,:Scandinavia:
+---
+
+
 - After 19 years of commuting to [Denmark](https://www.theguardian.com/world/denmark) from Sweden, Helen Sjögren is so used to crossing the bridge that she identifies as Scandinavian rather than Swedish. The researcher at a Danish pharmaceutical company lives in the Swedish university town of Lund with her three children but has become accustomed to Danish working practices, and the idea of working in Sweden is now difficult to imagine.
   
   “Because I’m Swedish, colleagues would expect me to behave like a Swede,” she said, referring to their reputation for seeking consensus. “So I would be seen as rude – too direct to fit in [Sweden](https://www.theguardian.com/world/sweden).”
