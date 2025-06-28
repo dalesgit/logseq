@@ -1,7 +1,7 @@
 file:: [WG_2016_Schedule_Final_nobleed_1750021893475_0.pdf](../assets/WG_2016_Schedule_Final_nobleed_1750021893475_0.pdf)
 file-path:: ../assets/WG_2016_Schedule_Final_nobleed_1750021893475_0.pdf
 
--
+- [[Wild Goose Festival]]
 - How To Get the Most Out Of the Goose- Joy Wal
   ls-type:: annotation
   hl-page:: 1
