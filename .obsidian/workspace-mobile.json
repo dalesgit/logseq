@@ -11,10 +11,24 @@
             "id": "a43f0a00b519d3eb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "journal/2025-07-11.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-07-11"
             }
           }
         ]
@@ -145,6 +159,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "quick-tagger:Add tag to current note": false,
+      "quick-tagger:Remove tag from current note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -155,6 +171,7 @@
   },
   "active": "a43f0a00b519d3eb",
   "lastOpenFiles": [
+    "journal/2025-06-13.md",
     "journal/2025-01-08.md",
     "journal/2025-01-16.md",
     "journals/2024_04_13.md",
@@ -186,7 +203,6 @@
     "logseq/bak/pages/Baptism/2024-04-01T11_06_57.303Z.android.md",
     "logseq/bak/journals/2024_03_02/2024-03-28T16_52_35.835Z.Desktop.md",
     "logseq/bak/journals/2024_02_21/2024-03-28T16_52_35.823Z.Desktop.md",
-    "journals/2024_03_27.md",
     "pages/sermon-vigil.epub",
     "assets/sermon-vigil-final.pdf",
     "logseq/bak/journals/2024_03_31",
