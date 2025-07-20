@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8db459bc41ff1d19",
+        "id": "1297328ca8261039",
         "type": "tabs",
         "children": [
           {
-            "id": "a43f0a00b519d3eb",
+            "id": "fe31528da2071479",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journal/2025-07-11.md",
+                "file": "journal/2025-07-20.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-07-11"
+              "title": "2025-07-20"
             }
           }
         ]
@@ -46,7 +46,8 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "byModifiedTime"
+            "sortOrder": "byModifiedTime",
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -169,9 +170,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a43f0a00b519d3eb",
+  "active": "fe31528da2071479",
   "lastOpenFiles": [
+    "pages/@Good soil.md",
+    "pages/book.md",
+    "pages/Notes.md",
+    "journal/2025-07-20.md",
     "journal/2025-06-13.md",
+    "journal/2025-07-11.md",
     "journal/2025-01-08.md",
     "journal/2025-01-16.md",
     "journals/2024_04_13.md",
@@ -198,11 +204,6 @@
     "logseq/bak/pages/Easter Vigil Sermon/2024-04-01T11_06_58.428Z.android.md",
     "logseq/bak/journals/2024_01_27/2024-03-28T16_52_35.783Z.Desktop.md",
     "logseq/bak/pages/Easter Vigil Draft 1/2024-03-29T11_50_57.932Z.ios.md",
-    "logseq/bak/pages/Exultet/2024-04-01T11_06_57.865Z.android.md",
-    "logseq/bak/journals/2024_03_21/2024-04-01T11_07_01.461Z.android.md",
-    "logseq/bak/pages/Baptism/2024-04-01T11_06_57.303Z.android.md",
-    "logseq/bak/journals/2024_03_02/2024-03-28T16_52_35.835Z.Desktop.md",
-    "logseq/bak/journals/2024_02_21/2024-03-28T16_52_35.823Z.Desktop.md",
     "pages/sermon-vigil.epub",
     "assets/sermon-vigil-final.pdf",
     "logseq/bak/journals/2024_03_31",
