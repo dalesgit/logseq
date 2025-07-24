@@ -5,7 +5,7 @@
   
   *   [Ecclesiastes 1:1–11](#ot1)
   *   [Psalm 113](#ps1)
-  *   [Ephesians 4:32–5:2](#nt1)
+ k*   [Ephesians 4:32–5:2](#nt1)
   *   [Matthew 18:18-20](#gsp1)
   
   >  _Preface of a Saint (2)_ 
