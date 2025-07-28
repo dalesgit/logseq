@@ -8,7 +8,7 @@
 
  ;; Set the preferred workflow style.
  ;; Available options:
- ;; - :now for NOW/LATER style mac(default)
+ ;; - :now for NOW/LATER style (default)
  ;; - :todo for TODO/DOING style
  :preferred-workflow :now
 
@@ -20,12 +20,13 @@
  ;; Define the default journal page template.
  ;; Enter the template name between the quotes.
  :default-templates
- {:journals "journal"}
+ {:journals ""}
 
  ;; Set a custom date format for the journal page title.
  ;; Default value: "MMM do, yyyy"
  ;; e.g., "Jan 19th, 2038"
  ;; Example usage e.g., "Tue 19th, Jan 2038"
+ ;; :journal/page-title-format "EEE do, MMM yyyy"
 
  ;; Specify the journal filename format using a valid date format string.
  ;; !Warning:
@@ -34,8 +35,7 @@
  ;;   journal directory to match the new format.
  ;; Default value: "yyyy_MM_dd"
  ;; :journal/file-name-format "yyyy_MM_dd"
- :journal/file-name-format "yyyy-MM-dd"
- 
+
  ;; Enable tooltip preview on hover.
  ;; Default value: true
  :ui/enable-tooltip? true
@@ -141,7 +141,7 @@
  ;; Set the default location for storing journals.
  ;; Default value: "journals"
  ;; :journals-directory "journals"
-:journals-directory "journal"
+
  ;; Set the default location for storing whiteboards.
  ;; Default value: "whiteboards"
  ;; :whiteboards-directory "whiteboards"
@@ -172,7 +172,7 @@
  ;;  :editor/down            ["ctrl+j" "down"]
  ;;  :editor/left            ["ctrl+h" "left"]
  ;;  :editor/right           ["ctrl+l" "right"]}
- :shortcuts {:command-palette/toggle "alt+ctrl+p"}
+ :shortcuts {}
 
  ;; Configure the behavior of pressing Enter in document mode.
  ;; if set to true, pressing Enter will create a new block.
@@ -265,11 +265,8 @@
  ;; input "{{poem red,blue}}"
  ;; becomes
  ;; Rose is red, violet's blue. Life's ordered: Org assists you.
- ;;  "today" "Today is **<% today %>**"
- :macros {
- "compare" "This is better than $1 and $2"
-}
- 
+ :macros {}
+
  ;; Configure the default expansion level for linked references.
  ;; For example, consider the following block hierarchy:
  ;; - a [[page]] (level 1)
@@ -294,8 +291,15 @@
  ;;  :excluded-pages? false  ; Default value: false
  ;;  :journal?        false} ; Default value: false
 
+ ;; Graph view configuration.
+ ;; Example usage:
+ ;; :graph/forcesettings
+ ;; {:link-dist       180    ; Default value: 180
+ ;;  :charge-strength -600   ; Default value: -600
+ ;;  :charge-range    600}   ; Default value: 600
+
  ;; Favorites to list on the left sidebar
- :favorites ["quick capture"]
+ :favorites []
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -414,6 +418,4 @@
  ;;   - :triple-lowbar (default)
  ;;      ;use triple underscore `___` for slash `/` in page title
  ;;      ;use Percent-encoding for other invalid characters
- :file/name-format :triple-lowbar
- :zotero/settings-v2 {"default" {:type-id "979977"}}
- :journal/page-title-format "yyyy-MM-dd"}
+ :file/name-format :triple-lowbar}
