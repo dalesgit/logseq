@@ -1,5 +1,5 @@
 - *The killing of UnitedHealthcare CEO Brian Thompson has set off soul-searching among many Americans. Part of that reflection is about the public reaction to Thompson’s death and the sympathy the suspect received online, with some people critical of the insurance industry [celebrating the assailant](https://www.npr.org/transcripts/1219032782) as [a sort of folk hero](https://theconversation.com/luigi-mangione-isnt-the-first-alleged-criminal-to-capture-many-peoples-imaginations-and-hearts-245918).*
-  tags:: [[SendToLogseq]]
+  tags:: [[Health care]] 
   
   *As many observers [have pointed out](https://www.nytimes.com/2024/12/13/opinion/united-healthcare-shooting-brian-thompson.html), frustrations are no excuse for murder. But it has become a moment of wider reflection on health care in America, and why so many patients [feel the system is broken](https://theconversation.com/response-to-ceo-killing-reveals-antipathy-toward-health-insurers-but-entire-patchwork-system-is-to-blame-for-ill-feeling-245901).*
   

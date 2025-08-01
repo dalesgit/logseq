@@ -1,5 +1,5 @@
 - ![image](https://greekreporter.com/wp-content/uploads/2023/08/ancient-Greek-language-credit-Maurice-Flesier-CC-BY-SA-40.jpg){:width 696 :height 522}
-  tags:: [[SendToLogseq]]
+  tags:: [[oldest-language]] 
   
   [Ancient Greek](https://greekreporter.com/ancient-greece/) is among the oldest languages in the world. Credit: Maurice Flesier / CC BY-SA 4.0 / Wikimedia Commons
   
@@ -8,8 +8,6 @@
   Ancient written languages emerged as a revolutionary development in human history, allowing civilizations to record and preserve their knowledge, culture, and history for future generations.
   
   The study of ancient languages, known as philology or historical linguistics, is vital for deciphering ancient texts, understanding cultural interactions, and tracing the migratory patterns of early human populations. Comparative linguistic analysis allows researchers to identify language families and reconstruct proto-languages, which can provide insights into prehistoric societies and their ways of life.
-  
-
 - ## The oldest languages and the importance of writing
   
   According to the British Library, the [invention of full writing systems](https://www.bl.uk/history-of-writing/articles/where-did-writing-begin) seems to have occurred independently in at least four distinct instances. The earliest of these occurred in [Mesopotamia](https://greekreporter.com/2022/12/20/3200-year-old-mesopotamian-perfume-recreated/) (present-day Iraq) around 3400 to 3300 BC, where the script known as cuneiform was employed. Shortly thereafter, around 3200 BC, a writing system emerged in [Egypt](https://greekreporter.com/2023/07/15/x-rays-ancient-egyptian-tomb-art/). By 1300 BC, during the late Shang dynasty in China, there is evidence of a fully functional writing system in use. Sometime between 900 and 600 BC, writing also made its appearance in the cultures of Mesoamerica. In addition to these known instances, there are certain regions like the Indus River Valley but the scripts remain undeciphered.
@@ -17,10 +15,8 @@
   Although the dates of these developments suggest the possibility of writing spreading from a central point of origin, there is limited evidence of direct links between these writing systems. Each system possesses unique characteristics, indicating independent invention in various parts of the world.
   
   ![image](https://greekreporter.com/wp-content/uploads/2024/03/698x175.jpg){:width 100 :height 175}
-  
--   The diversity of these ancient scripts reflects the ingenuity and creativity of different human cultures, each finding its distinctive way to express and record information. The study of these ancient writing systems not only sheds light on the history of human communication but also enhances our understanding of the cultural and intellectual achievements of our ancestors.
-  
--  ## Mesopotamia
+- The diversity of these ancient scripts reflects the ingenuity and creativity of different human cultures, each finding its distinctive way to express and record information. The study of these ancient writing systems not only sheds light on the history of human communication but also enhances our understanding of the cultural and intellectual achievements of our ancestors.
+- ## Mesopotamia
   
   According to scholarly consensus, writing’s earliest form emerged approximately 5,500 years ago in Mesopotamia, present-day Iraq. Initially, it comprised simple pictorial signs, which over time evolved into a more intricate system of characters that represented the sounds of [Sumerian](https://greekreporter.com/2023/02/21/4500-year-old-sumerian-palace-discovered-iraq-desert/) and other languages spoken in Southern Mesopotamia.
   
@@ -37,8 +33,7 @@
   ![image](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201088%20899'%3E%3C/svg%3E){:width 696 :height 575}
   
   Sumerian cuneiform writing. Credit: Osama Shukir Muhammed Amin FRCP(Glasg) / CC BY-SA 4.0 / Wikimedia Commons
-  
-  ## Egypt
+- ## Egypt
   
   Recent archaeological discoveries have shed new light on the [ancient Egyptian written language](https://greekreporter.com/2022/12/25/greek-alphabet-egyptian-hieroglyphics/), revealing an earlier date for its origins, closely resembling that of Mesopotamia. The rock art site of El-Khawy in Egypt, dating back to around 3250 BC, has unveiled large-scale incised ceremonial scenes that bear striking similarities to early [hieroglyphic forms](https://greekreporter.com/2022/11/20/ancient-pillars-discovered-hill-pharaoh-egypt/). Some of these rock-carved signs are nearly half a meter tall, demonstrating the significance of writing in ancient Egyptian culture.
   
@@ -55,8 +50,7 @@
   ![image](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201178%20758'%3E%3C/svg%3E){:width 696 :height 448}
   
   Egyptian hieroglyphs from the tomb of Seti I. Credit: Public Domain / Wikimedia Commons
-  
-  ## China
+- ## China
   
   The [earliest traces of writing in China](https://www.jstor.org/stable/24053703) were discovered near present-day Anyang, close to the Yellow River’s tributary, about 500km south of [Beijing](https://greekreporter.com/2023/04/08/china-greek-mythology-festival-beijing/). These inscriptions were found on the “[oracle bones](https://cudl.lib.cam.ac.uk/view/MS-CUL-00001-00155)“, the shoulder blades of oxen, and turtle plastrons, used by the late Shang dynasty kings (1300–1050 BC) for divination rituals.
   
@@ -71,8 +65,7 @@
   ![image](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%20800'%3E%3C/svg%3E){:width 696 :height 464}
   
   Chinese oracle bones. Credit: Gary Lee Todd / CC0 / Wikimedia Commons
-  
-  ## Mesoamerica
+- ## Mesoamerica
   
   Recent discoveries in Mesoamerica, spanning from southern Mexico to Costa Rica, have pushed the evidence for writing in the region back to around 900 BC. These findings have expanded our knowledge of cultures and languages that utilized writing, including not only the Maya, Mixtecs, and Aztecs but also the earlier Olmecs and Zapotecs.
   
@@ -89,8 +82,7 @@
   ![image](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%20864'%3E%3C/svg%3E){:width 696 :height 501}
   
   Maya codex. Credit: Public Domain / Wikimedia Commons
-  
-  ## Indus Valley
+- ## Indus Valley
   
   In the Indus River valley of Pakistan and northwest India, archaeologists have discovered symbols on various objects that are believed to be a form of writing. This ancient civilization, which thrived from at least 7000 BC, reached its pinnacle between 2600 and 1900 BC when a sophisticated urban culture flourished in the region. However, after 1900 BC, the once-thriving cities declined.
   
@@ -101,8 +93,7 @@
   ![image](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%20604'%3E%3C/svg%3E){:width 696 :height 350}
   
   Indus Valley seal and a modern reconstruction. Credit: Metropolitan Museum of Art / CC0 / Wikimedia Commons
-  
-  ## Where does Greek fit in?
+- ## Where does Greek fit in?
   
   The history of the ancient [Greek written language](https://greekreporter.com/2023/06/22/history-greek-language-throughout-time/) is a fascinating journey that spans several millennia. It is one of the oldest written languages and like Chinese one of the oldest languages still spoken and written today.
   

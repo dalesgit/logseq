@@ -1,13 +1,12 @@
 - Once you've [installed Yazi](https://yazi-rs.github.io/docs/installation), start the program with:
-  tags:: [[SendToLogseq]]
+  tags:: [[yazi]] 
   
   ```
   yazi
   ```
   
   Press q to quit and ~ to open the help menu.
-  
-  ## Shell wrapper[](https://yazi-rs.github.io/docs/quick-start//#shell-wrapper)
+- ## Shell wrapper[](https://yazi-rs.github.io/docs/quick-start//#shell-wrapper)
   
   We suggest using this `y` shell wrapper that provides the ability to change the current working directory when exiting Yazi.
   
@@ -25,10 +24,8 @@
   To use it, copy the function into the configuration file of your respective shell.
   
   Then use `y` instead of `yazi` to start, and press q to quit, you'll see the CWD changed. Sometimes, you don't want to change, press Q to quit.
-  
--  ## Keybindings[](https://yazi-rs.github.io/docs/quick-start//#keybindings)
-  
-  ### Navigation[](https://yazi-rs.github.io/docs/quick-start//#navigation)
+- ## Keybindings[](https://yazi-rs.github.io/docs/quick-start//#keybindings)
+- ### Navigation[](https://yazi-rs.github.io/docs/quick-start//#navigation)
   
   To navigate between files and directories you can use the arrow keys ←, ↓, ↑ and → or Vim-like keys such as h, j, k, l:
   
@@ -49,8 +46,7 @@
   | G   | Move cursor to the bottom |
   | z   | Jump to a directory using zoxide |
   | Z   | Jump to a directory or reveal a file using fzf |
-  
--  ### Selection[](https://yazi-rs.github.io/docs/quick-start//#selection)
+- ### Selection[](https://yazi-rs.github.io/docs/quick-start//#selection)
   
   To select files and directories, the following commands are available.
   
@@ -62,8 +58,7 @@
   | Ctrl + a | Select all files |
   | Ctrl + r | Inverse selection of all files |
   | Esc | Cancel selection |
-  
--  ### File operations[](https://yazi-rs.github.io/docs/quick-start//#file-operations)
+- ### File operations[](https://yazi-rs.github.io/docs/quick-start//#file-operations)
   
   To interact with selected files/directories use any of the commands below.
   
@@ -94,8 +89,7 @@
   | -  | Symlink the absolute path of yanked files |
   | \_  | Symlink the relative path of yanked files |
   | Ctrl + - | Hardlink yanked files |
-  
--  ### Copy paths[](https://yazi-rs.github.io/docs/quick-start//#copy-paths)
+- ### Copy paths[](https://yazi-rs.github.io/docs/quick-start//#copy-paths)
   
   To copy paths, use any of the following commands below.
   
@@ -107,14 +101,12 @@
   | c ⇒ d | Copy the directory path |
   | c ⇒ f | Copy the filename |
   | c ⇒ n | Copy the filename without extension |
-  
--  ### Filter files[](https://yazi-rs.github.io/docs/quick-start//#filter-files)
+- ### Filter files[](https://yazi-rs.github.io/docs/quick-start//#filter-files)
   
   | Key binding | Action |
   | --- | --- |
   | f   | Filter files |
-  
-  ### Find files[](https://yazi-rs.github.io/docs/quick-start//#find-files)
+- ### Find files[](https://yazi-rs.github.io/docs/quick-start//#find-files)
   
   | Key binding | Action |
   | --- | --- |
@@ -122,16 +114,14 @@
   | ?   | Find previous file |
   | n   | Go to the next found |
   | N   | Go to the previous found |
-  
-  ### Search files[](https://yazi-rs.github.io/docs/quick-start//#search-files)
+- ### Search files[](https://yazi-rs.github.io/docs/quick-start//#search-files)
   
   | Key binding | Action |
   | --- | --- |
   | s   | Search files by name using [fd](https://github.com/sharkdp/fd) |
   | S   | Search files by content using [ripgrep](https://github.com/BurntSushi/ripgrep) |
   | Ctrl + s | Cancel the ongoing search |
-  
--  ### Sorting[](https://yazi-rs.github.io/docs/quick-start//#sorting)
+- ### Sorting[](https://yazi-rs.github.io/docs/quick-start//#sorting)
   
   To sort files/directories use the following commands.
   
@@ -152,8 +142,7 @@
   | , ⇒ s | Sort by size |
   | , ⇒ S | Sort by size (reverse) |
   | , ⇒ r | Sort randomly |
-  
-  ### Multi-tab[](https://yazi-rs.github.io/docs/quick-start//#multi-tab)
+- ### Multi-tab[](https://yazi-rs.github.io/docs/quick-start//#multi-tab)
   
   | Key binding | Action |
   | --- | --- |
@@ -164,7 +153,6 @@
   | {   | Swap current tab with previous tab |
   | }   | Swap current tab with next tab |
   | Ctrl + c | Close the current tab |
-  
-  ## Flavors[](https://yazi-rs.github.io/docs/quick-start//#flavors)
+- ## Flavors[](https://yazi-rs.github.io/docs/quick-start//#flavors)
   
   Pick a color scheme you like from our [flavors repository](https://github.com/yazi-rs/flavors), or [cooking a flavor](https://yazi-rs.github.io/docs/flavors/overview#cooking)!
