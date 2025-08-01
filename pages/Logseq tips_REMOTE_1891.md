@@ -1,5 +1,5 @@
 - [10 Logseq Tips You Need in Your Productivity Arsenal - Face Dragons](https://facedragons.com/foss/logseq-tips/)
-  tags:: [[SendToLogseq]]
+  tags:: [[logseq]]
 - Logseq is the latest in a new trend of personal knowledge management applications. But learning how to use this note-taking and outlining software requires a little learning, and becoming an advanced logseq user needs some experience. Get there faster with these 10 Logseq tips.
   tags:: [[SendToLogseq]]
   
