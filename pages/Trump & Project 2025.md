@@ -1,7 +1,7 @@
 - [Project 2025 is already massively reshaping America - POLITICO](https://www.politico.com/news/2025/01/29/trump-federal-spending-freeze-project-2025-007378)
   tags:: [[trump]] [[dictatorship]]
 - President Trump delivering a virtual speech last week. | Markus Schreiber/AP
-  tags:: [[SendToLogseq]]
+  tags:: [[trump]] [[project-2025]] 
   
   President Donald Trump says he’s never read Project 2025. But his advisers sure have.
   

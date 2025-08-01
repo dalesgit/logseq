@@ -1,2 +1,2 @@
 - [Conrack - Wikipedia](https://en.wikipedia.org/wiki/Conrack)
-  tags:: [[SendToLogseq]]
+  tags:: [[conrack]] [[movies]] [[education]]

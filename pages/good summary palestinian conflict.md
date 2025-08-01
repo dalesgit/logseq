@@ -1,15 +1,12 @@
 - 20 January 2025
-  tags:: [[SendToLogseq]]
+  tags:: [[israel-palestine]] 
   
   ![image](https://ichef.bbci.co.uk/news/480/cpsprodpb/12231/production/_133698247_protest-gettyimages-958134532.jpg.webp){:width 932 :height 524}Getty Images
-  
-  - **The conflict between Israel and the Palestinian people is one of the longest-running and most violent disputes in the world. Its origins go back more than a century.**
-  
-  There have been a series of wars between Israel and Arab nations. Uprisings - called intifadas - against Israeli occupation, and reprisals and crackdowns by Israel have also taken place.
-  
-  The consequences of the historic dispute over issues including land, borders and rights are still being felt, and include the latest war between Israel and Hamas in Gaza.
-  
-
+	- **The conflict between Israel and the Palestinian people is one of the longest-running and most violent disputes in the world. Its origins go back more than a century.**
+	  
+	  There have been a series of wars between Israel and Arab nations. Uprisings - called intifadas - against Israeli occupation, and reprisals and crackdowns by Israel have also taken place.
+	  
+	  The consequences of the historic dispute over issues including land, borders and rights are still being felt, and include the latest war between Israel and Hamas in Gaza.
 - ## What was Israel before 1948 and how was it created?
   
   Britain took control of the area known as Palestine in World War One, following the defeat of the Ottoman Empire, which had ruled that part of the Middle East.
@@ -33,32 +30,30 @@
   Britain abstained. It decided to withdraw and to hand the problem to the UN at the end of 14 May 1948.
   
   Jewish leaders in Palestine declared an independent state known as Israel hours before British rule ended. Israel was recognised by the UN the following year.
-  
-  - ## What was the 1948 Arab-Israeli war?
-  
-  The day after Israel declared independence, it was attacked and surrounded by the armies of five Arab nations.
-  
-  The conflict came to be known in Israel as its war of independence.
-  
-  ![image](https://ichef.bbci.co.uk/news/480/cpsprodpb/A3D8/production/_106944914_gettyimages-944228334.jpg.webp){:width 722 :height 406}Getty Images
-  
-  A Haganah (Jewish Underground) fighter just before the start of the Israeli war of independence in 1948
-  
-  By the time the fighting ended with an armistice in 1949, Israel controlled most of the territory.
-  
-  Agreements left Egypt occupying the Gaza Strip, Jordan occupying the West Bank and East Jerusalem, and Israel occupying West Jerusalem.
-  
-  About 750,000 Palestinians fled, or were forced from, their homes on land which became Israel and ended up as refugees.
-  
-  The event is known in Arabic as the Nakba (Catastrophe).
-  
-  ![image](https://ichef.bbci.co.uk/news/480/cpsprodpb/1124/production/_106788340_gettyimages-51425451.jpg.webp){:width 722 :height 406}Getty Images
-  
-  Arab Legion soldiers fire on fighters of the Haganah, the Jewish Agency self-defence force, in March 1948
-  
-  In the years that followed, hundreds of thousands of Jews left, or were expelled from, Muslim majority countries across the Middle East and North Africa, with many going to Israel.
-  
-  ## What was the 1967 Middle East war?
+	- ## What was the 1948 Arab-Israeli war?
+	  
+	  The day after Israel declared independence, it was attacked and surrounded by the armies of five Arab nations.
+	  
+	  The conflict came to be known in Israel as its war of independence.
+	  
+	  ![image](https://ichef.bbci.co.uk/news/480/cpsprodpb/A3D8/production/_106944914_gettyimages-944228334.jpg.webp){:width 722 :height 406}Getty Images
+	  
+	  A Haganah (Jewish Underground) fighter just before the start of the Israeli war of independence in 1948
+	  
+	  By the time the fighting ended with an armistice in 1949, Israel controlled most of the territory.
+	  
+	  Agreements left Egypt occupying the Gaza Strip, Jordan occupying the West Bank and East Jerusalem, and Israel occupying West Jerusalem.
+	  
+	  About 750,000 Palestinians fled, or were forced from, their homes on land which became Israel and ended up as refugees.
+	  
+	  The event is known in Arabic as the Nakba (Catastrophe).
+	  
+	  ![image](https://ichef.bbci.co.uk/news/480/cpsprodpb/1124/production/_106788340_gettyimages-51425451.jpg.webp){:width 722 :height 406}Getty Images
+	  
+	  Arab Legion soldiers fire on fighters of the Haganah, the Jewish Agency self-defence force, in March 1948
+	  
+	  In the years that followed, hundreds of thousands of Jews left, or were expelled from, Muslim majority countries across the Middle East and North Africa, with many going to Israel.
+- ## What was the 1967 Middle East war?
   
   What is known as the Six-Day War changed boundaries in the Middle East and had major consequences for Palestinians.
   
@@ -79,8 +74,7 @@
   Israel signed a peace treaty with Egypt in 1979 and returned the Sinai.
   
   It annexed East Jerusalem and the Golan Heights, making them part of Israel, although this has not been recognised by most of the international community.
-  
-  ## What is the status of the West Bank now?
+- ## What is the status of the West Bank now?
   
   The West Bank - land between Israel and the River Jordan - is home to an estimated three million Palestinians.
   
@@ -105,24 +99,22 @@
   In July 2024, the top court of the UN, the International Court of Justice (ICJ), said that Israel's continued presence in the Occupied Palestinian Territories is illegal. It said that Israel should withdraw all settlers and that it was in breach of international agreements on racism and apartheid.
   
   * [Israel's borders explained in maps](https://www.bbc.co.uk/news/world-middle-east-54116567)
-  
- -  ## What is the dispute over Jerusalem?
-  
-  Israel and the Palestinians both claim Jerusalem as their capital.
-  
-  Israel, which already controlled West Jerusalem, occupied East Jerusalem in the 1967 war and later declared the entire city its permanent capital. It says Jerusalem cannot be divided.
-  
-  The Palestinians claim East Jerusalem as the capital of a future Palestinian state.
-  
-  Most of the population of East Jerusalem is Palestinian, only a small minority of whom have chosen to become Israeli citizens.
-  
-  ![image](https://ichef.bbci.co.uk/news/480/cpsprodpb/7357/production/_91972592_b839d734-0cbe-441a-99ae-c3aad6f1ec18.jpg.webp){:width 722 :height 406}AFP
-  
-  Holy sites in Jerusalem are at the centre of the Palestinian-Israeli conflict. The most sacred site - known to Muslims as Al Aqsa Mosque compound, or Haram al-Sharif (Noble Sanctuary), and to Jews as Temple Mount - lies in East Jerusalem.
-  
-  The UN and most international opinion consider East Jerusalem to be Palestinian land occupied by Israel.
-  
-  ## What has happened in the Gaza Strip?
+	- ## What is the dispute over Jerusalem?
+	  
+	  Israel and the Palestinians both claim Jerusalem as their capital.
+	  
+	  Israel, which already controlled West Jerusalem, occupied East Jerusalem in the 1967 war and later declared the entire city its permanent capital. It says Jerusalem cannot be divided.
+	  
+	  The Palestinians claim East Jerusalem as the capital of a future Palestinian state.
+	  
+	  Most of the population of East Jerusalem is Palestinian, only a small minority of whom have chosen to become Israeli citizens.
+	  
+	  ![image](https://ichef.bbci.co.uk/news/480/cpsprodpb/7357/production/_91972592_b839d734-0cbe-441a-99ae-c3aad6f1ec18.jpg.webp){:width 722 :height 406}AFP
+	  
+	  Holy sites in Jerusalem are at the centre of the Palestinian-Israeli conflict. The most sacred site - known to Muslims as Al Aqsa Mosque compound, or Haram al-Sharif (Noble Sanctuary), and to Jews as Temple Mount - lies in East Jerusalem.
+	  
+	  The UN and most international opinion consider East Jerusalem to be Palestinian land occupied by Israel.
+- ## What has happened in the Gaza Strip?
   
   The Gaza Strip is a stretch of land surrounded by Israel, Egypt and the Mediterranean Sea. It is 41km (25 miles) long and 10km wide.
   
@@ -173,29 +165,27 @@
   In the UK, MPs voted in favour of recognition in 2014, but the government has not done so. In 2021, the then Conservative government said: "The UK will recognise a Palestinian state at a time of our choosing, and when it best serves the objective of peace."
   
   Israel says it has a historical right to the West Bank and opposes an independent Palestinian state, saying it would pose an unacceptable threat.
-  
- -  ## What about Palestinian refugees?
-  
-  There are about 5.9 million Palestinians registered by the UN as refugees.
-  
-  They are descendants of the Palestinians who fled or were forced from their homes on land which became Israel in the 1948-49 Middle East war.
-  
-  Most live in Jordan, the Gaza Strip, the West Bank, Syria and Lebanon.
-  
-  Palestinians insist on the right of refugees to return but Israel has refused this. It criticises the UN's Palestinian refugee agency, Unrwa, for allowing refugee status to be inherited by successive generations.
-  
-  * [What is Unrwa and why has Israel banned it?](https://www.bbc.co.uk/news/articles/c8jy9v43z89o)
-  
- -  ## What is the two-state solution?
-  
-  The "two-state solution" is an internationally backed formula for peace between Israel and the Palestinians.
-  
-  It proposes an independent Palestinian state in the West Bank and Gaza, with East Jerusalem as its capital. It would exist alongside Israel.
-  
-  Israel rejects a two-state solution. It says any final settlement must be the result of negotiations with the Palestinians, and statehood should not be a precondition.
-  
-  The Palestinian Authority backs a two-state solution but Hamas does not because it is opposed to the existence of Israel.
-  
-  Hamas says that it could accept an interim Palestinian state based on 1967 de facto borders, without officially recognising Israel, if refugees were given the right to return.
-  
-  Earlier efforts to settle the conflict saw Israel and Palestinian leaders sign a deal called the Oslo Peace Accords, in 1993. This was intended to provide a framework for peace talks. However, talks eventually collapsed with each side blaming the other.
+	- ## What about Palestinian refugees?
+	  
+	  There are about 5.9 million Palestinians registered by the UN as refugees.
+	  
+	  They are descendants of the Palestinians who fled or were forced from their homes on land which became Israel in the 1948-49 Middle East war.
+	  
+	  Most live in Jordan, the Gaza Strip, the West Bank, Syria and Lebanon.
+	  
+	  Palestinians insist on the right of refugees to return but Israel has refused this. It criticises the UN's Palestinian refugee agency, Unrwa, for allowing refugee status to be inherited by successive generations.
+	  
+	  * [What is Unrwa and why has Israel banned it?](https://www.bbc.co.uk/news/articles/c8jy9v43z89o)
+	- ## What is the two-state solution?
+	  
+	  The "two-state solution" is an internationally backed formula for peace between Israel and the Palestinians.
+	  
+	  It proposes an independent Palestinian state in the West Bank and Gaza, with East Jerusalem as its capital. It would exist alongside Israel.
+	  
+	  Israel rejects a two-state solution. It says any final settlement must be the result of negotiations with the Palestinians, and statehood should not be a precondition.
+	  
+	  The Palestinian Authority backs a two-state solution but Hamas does not because it is opposed to the existence of Israel.
+	  
+	  Hamas says that it could accept an interim Palestinian state based on 1967 de facto borders, without officially recognising Israel, if refugees were given the right to return.
+	  
+	  Earlier efforts to settle the conflict saw Israel and Palestinian leaders sign a deal called the Oslo Peace Accords, in 1993. This was intended to provide a framework for peace talks. However, talks eventually collapsed with each side blaming the other.

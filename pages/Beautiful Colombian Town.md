@@ -1,7 +1,6 @@
 - 3 days ago
-  tags:: [[SendToLogseq]]
-  
--  Catherine Ellis
+  tags:: [[world]]
+- Catherine Ellis
   
   ![image](https://ichef.bbci.co.uk/images/ic/480xn/p0kcxgyr.jpg.webp){:width 932 :height 524}Catherine Ellis
   
@@ -24,8 +23,7 @@
   It's therefore easy for fans to understand what García Márquez meant when he [once said](https://lithub.com/intuition-is-essential-writing-advice-from-gabriel-garcia-marquez/): "Caribbean reality resembles the wildest imagination."
   
   Here are the real-life places that inspired the magical realism in One Hundred Years of Solitude to come to life.
-  
--  ## **Aracataca**
+- ## **Aracataca**
   
   A little before the late-morning heat casts a hazy spell over the sleepy town of Aracataca, a smattering of tourists, guides and vendors shelter in the shade of a tree-lined street near a large white house-turned [museum](https://www.gabrielgarciamarquezfundacion.com/casa-museo-gabriel-garc%C3%ADa-m%C3%A1rquez).
   
@@ -58,8 +56,7 @@
   At Aracataca's central Plaza de Simón Bolívar, women with push carts sell drinks, just as vendors do in Macondo's main square. Nearby, residents rest in doorways on what García Márquez called The Street of Turks – Macondo's main commercial hub, where Middle Eastern immigrants would sell their merchandise. When children finish school for the day, some dash off to play in the town's river, with its bed of polished stones that García Márquez wrote resembled "prehistoric eggs".
   
   Elsewhere, businesses are named after Macondo, murals of García Márquez abound, the library and certain hotel rooms are named after characters in the novel and paintings and statues immortalise key moments in the book – such as one of [Remedios the Beauty](https://www.bbc.co.uk/sounds/play/p020hms9) floating to heaven while hanging laundry.
-  
--  ## **Ciénaga**
+- ## **Ciénaga**
   
   A 60km drive north from Aracataca, [Ciénaga](https://colombia.travel/en/cienaga) is an attractive town set on the salty shores of the Caribbean Sea. Its paved and cobbled streets offer a glimpse of the wealth that once flourished thanks to its huge banana exports at the start of the 20th Century. Yet, Ciénaga is used as a backdrop for a harrowing event that takes places in the latter half of the novel.
   
@@ -74,8 +71,7 @@
   Despite its pretty colonial and [Republican-style](https://www.re-thinkingthefuture.com/city-and-architecture/a5482-the-politically-inclined-architecture-of-colombia/) architecture, the name Ciénaga actually means "swamp". Adjacent to the town lies the [Ciénaga Grande de Santa Marta](https://www.unesco.org/en/mab/cienaga-grande-de-santa-marta), a Unesco Biosphere Reserve and the largest swamp in Colombia.
   
   "Márquez would travel \[from Ciénaga] across it towards the city of Barranquilla, at a time when the highway didn't exist," Mendoza explains. "And so, Gabriel García Márquez was able to describe so vividly what it was like crossing the 'great swamp' where the gypsy character Melquiades passed through."
-  
--  ## **Riohacha and La Guajira**
+- ## **Riohacha and La Guajira**
   
   Tracing the Caribbean coast, buses dip into the city of [Santa Marta](https://colombia.travel/en/meetings/santa-marta) – the first Spanish settlement in Colombia, founded in 1525 – before continuing towards the country's northernmost tip. The region of La Guajira is home to a sanctuary of vibrant pink flamingos, blue seas, golden beaches, tawny brown desert and a carpet of shimmering salt flats with dusty pink pools.
   

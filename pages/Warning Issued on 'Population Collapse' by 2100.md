@@ -1,11 +1,10 @@
 - Major economies are heading toward a "population collapse" by 2100 because of falling fertility rates, new research has found.
 - A report by the McKinsey Global Institute (MGI) on Wednesday, warns the rate of births is way below that needed to sustain current populations in may countries across the globe.
 - Major economies are heading toward a "population collapse" by 2100 because of falling fertility rates, new research has found.
-  tags:: [[SendToLogseq]]
+  tags:: [[population]] [[world]] 
   
   A report by the McKinsey Global Institute (MGI) on Wednesday, warns the rate of births is way below that needed to sustain current populations in may countries across the globe.
-  
-  ## **What's New**
+- ## **What's New**
   
   By 2100, populations in major economies will fall by 20 to 50 percent, based on U.N. projections, the study says.
   
@@ -16,8 +15,7 @@
   Over the past quarter century, some 90 percent of the world's countries have seen the fertility rate decline, while life expectancy has increased in most places.
   
   Researchers wrote: "Falling fertility rates shift the demographic balance toward youth scarcity and more older people, who are dependent on a shrinking working-age population. Longer life spans accelerate the shift."
-  
-  ## **What Will Be The Consequences Of Depopulation?**
+- ## **What Will Be The Consequences Of Depopulation?**
   
   One of the major fallouts of declining population around the world will be that younger people will live in an economy with less growth while simultaneously having to support bigger groups of retired people, with seniors accounting for a quarter of global consumption, the study said.
   

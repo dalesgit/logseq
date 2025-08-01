@@ -45,7 +45,7 @@
 		- [](https://www.youtube.com/watch?v=knBsMeDM5Ac)
 	-
 - [Bathroom Remodeling in Tampa, FL | Re-Bath®](https://www.rebath.com/location/tampa/)
-  tags:: [[SendToLogseq]]
+  tags:: [[bathroom]]
 	- [Bathroom Remodeling in Tampa, FL | Re-Bath®](https://www.rebath.com/location/tampa/)
 		- ![image](https://www.rebath.com/uploads/2024/02/white-calcutta-transitional-1536x992.jpg){:width 860 :height 555}
 		- ## Meet Tampa’s best full-service bathroom remodeling company
@@ -53,7 +53,7 @@
 		- 12/31/24 - \*If you were referred by a friend, receive $1000 off a full bathroom remodel or $500 off a tub or shower update.
 		  Your friend receives a $500 Visa Gift Card once your remodel is complete. Please include the name of the person who referred you in the comments.
 - [Beautiful DIY Small Bathroom Remodel on a Budget](https://www.lovelyetc.com/beautiful-diy-small-bathroom-remodel-on-a-budget/)
-  tags:: [[SendToLogseq]]
+  tags:: [[bathroom]]
 	- [Beautiful DIY Small Bathroom Remodel on a Budget](https://www.lovelyetc.com/beautiful-diy-small-bathroom-remodel-on-a-budget/)
 		- **I completely renovated our small master bathroom on a budget. This DIY bathroom remodel took everything down to the studs and now the room feels bigger, brighter, and much more inviting.**
 		- When we moved into our fixer upper years ago, this bathroom clearly hadn’t been updated in a few decades. While it wasn’t the worst bathroom I’ve seen (or even the worst bathroom in our house), it was pretty outdated.

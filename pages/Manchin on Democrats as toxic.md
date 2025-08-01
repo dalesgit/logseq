@@ -1,5 +1,5 @@
 - US senator [Joe Manchin](https://www.theguardian.com/us-news/joe-manchin), a lifelong Democrat who left the party earlier this year to become an independent and is now stepping down from the Senate after 15 years, issued a series of warnings on Sunday to members of his former party.
-  tags:: [[SendToLogseq]]
+  tags:: [[democratic-party]] 
   
   “The D-brand has been so maligned from the standpoint of – it’s just, it’s toxic,” Manchin told [CNN](https://www.cnn.com/2024/12/22/politics/joe-manchin-congress-democratic-party/index.html), saying he had not been able to consider himself a Democrat “in the form of what Democratic party has turned itself into”.
   
@@ -12,7 +12,6 @@
   The senator also said Republicans lacked common sense on the issue of gun control, and neither had adopted a reasonable approach to the perennially high number of mass shootings.
   
   “They’re too extreme – it’s just common sense,” Manchin said of parties. “So the [Democrats](https://www.theguardian.com/us-news/democrats) go too far, want to ban. The Republican says: ‘Oh, let the good times roll. Let anybody have anything they want.’”
-  
 - Asked about remarks made by Greg Casar, incoming chair of the progressive wing in Congress, that Democrats would have won the election if they were more like progressive congresswoman [Pramila Jayapal](https://www.theguardian.com/us-news/2024/nov/11/progressive-caucus-democrats-populist-economic-policies), Manchin responded: “For someone to say that, they’ve got to be completely insane.”
   
   The senator also blamed [Kamala Harris](https://www.theguardian.com/us-news/kamala-harris)’s White House election loss to Donald Trump in November on her struggle to cast herself as a moderate candidate after supporting progressive causes during her Democratic nomination run in 2019.
@@ -26,7 +25,6 @@
   [skip past newsletter promotion](https://www.theguardian.com/us-news/2024/dec/22/joe-manchin-democratic-party#EmailSignup-skip-link-13)
   
   after newsletter promotion
-  
 - “The centrist-moderate vote decides who’s going to be the president of the United States. And when they get here, they don’t govern that way. Neither side does. They go to their respective corners,” Manchin said.
   
   “If the center had a voice and had a party that could make both of these – the Democrat, Republican party – come back, OK, that would be something.”

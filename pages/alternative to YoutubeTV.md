@@ -1,5 +1,5 @@
 - If YouTube TV’s forthcoming price hike feels like a breaking point to you, you’re not alone.
-  tags:: [[SendToLogseq]]
+  tags:: [[media]] [[technical]] 
   
   Over the last week, I’ve heard from a bunch of folks who say the rate hike—from $73 per month to $83 per month, starting January 13, 2025—is the last straw. They’re now seeking alternatives to YouTube TV that will provide comparable channel coverage for less.
   
@@ -8,14 +8,12 @@
   > *This story is part of TechHive’s in-depth coverage of the [best live TV streaming services](https://www.pcworld.com/article/582896/best-streaming-tv-service.html)*.
   
   The only alternative is to ditch your big pay TV package entirely. While this approach does involve sacrifice, the savings can be significant. Here are your options:
-  
-  ## Consider an antenna
+- ## Consider an antenna
   
   With an inexpensive over-the-air antenna and good-enough reception, you can watch the big four broadcast channels—ABC, CBS, Fox, and NBC—for free, along with PBS and a smattering of rerun-centric subchannels. An antenna won’t entirely replace a bigger bundle, but it’ll give you a big head start. You can even set up an [over-the-air DVR](https://www.pcworld.com/article/582706/best-dvr-for-cord-cutters.html) to record shows for later.
   
   Antennas won’t work for everyone. Roughly speaking, you’ll want to be within at most 30 miles of local broadcast stations to use an indoor antenna, and within 60 miles for an outdoor model. Even then, obstructions and topography can impact the signal. Use the [Antennaweb site](https://go.skimresources.com/?id=111346X1569483\&xs=1\&url=https://www.antennaweb.org\&xcust=2-1-2561680-1-0-0-0-0\&sref=https://www.pcworld.com/article/2561680/fed-up-with-youtube-tvs-next-price-hike-try-this.html) to look up nearby stations for a sense of what you need, and be prepared for some trial and error. If you’re ready to experiment, we have a list of the [best indoor and outdoor antennas](https://www.pcworld.com/article/583544/the-best-tv-antennas.html) available.
-  
-  ## Stream (some) local stations
+- ## Stream (some) local stations
   
   If an antenna isn’t feasible, you can stream some local stations instead, but it’ll cost you:
   

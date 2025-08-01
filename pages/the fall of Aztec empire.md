@@ -1,5 +1,5 @@
 - ![image](https://greekreporter.com/wp-content/uploads/2024/08/conquista-de-tenochtitlan-mexico-public-domain.jpg){:width 696 :height 450}
-  tags:: [[SendToLogseq]]
+  tags:: [[world]] [[history]] [[Aztec]] 
   
   The old Templo Mayor in the city of Tenochtitlan before the arrival of the Spanish. Credits: Public Domain
   
@@ -10,8 +10,7 @@
   Emperor Moctezuma II, known as a wise and cunning leader, ruled the Aztecs during this period. With such a large and successful empire, millions of people, thousands of soldiers, and an intelligent ruler, it’s a wonder that by 1521, the Aztec Empire would collapse in ruins.
   
   How did this once great empire have such a rapid demise? The world has Hernán Cortés and his crew of 500 mutineers to thank for that.
-  
-  ## The ambitions of Hernán Cortés
+- ## The ambitions of Hernán Cortés
   
   Spain was building its empire in the 15th and 16th centuries, conquering and colonizing places like Cuba, Haiti, Jamaica, and Puerto Rico.
   
@@ -24,16 +23,14 @@
   Velázquez’s advisors warned him and convinced him to take Cortés off the expedition. However, Cortés caught wind of the plot and set sail before word could officially reach him, turning him and his crew into mutineers.
   
   Cortés knew that when he returned to Spain, he would likely be tried for crimes and imprisoned. But he figured the Spanish crown would forgive him if he brought back a mountain of gold and silver.
-  
-  ## The Aztec Empire’s iron fist
+- ## The Aztec Empire’s iron fist
   
   The Aztecs came into being when three of the most powerful city-states around Lake Texcoco, Tenochtitlan, Tetzcoco, and Tlacopan, united to control what is now central Mexico.
   
   The Aztec Empire was unconventional in its conquests. When they conquered a place, they changed absolutely nothing about it. They didn’t even bother to rule over their new acquisition. Instead, they demanded that the newly conquered place pay tribute. The people and its leaders would be safe if they paid the tribute. They would send elite soldiers over to injure or kill if they didn’t pay it until they received their tribute.
   
   This system worked exceptionally well, but the only side effect was that their subjects detested them.
-  
-  ## Cortés acquires the key to conquest
+- ## Cortés acquires the key to conquest
   
   Hernán Cortés and the mutineers first stopped at Cozumel, where they already had good relations with the Mayans. They made a pit stop to stock up on munitions and supplies.
   
@@ -50,8 +47,7 @@
   Cortés developed a system with his two translators. He would speak in Spanish to de Aguilar, who would then translate it to Yucatec Mayan for Marina, and Marina translated that to Nahuatl.
   
   With the combination of de Aguilar and Marina, Cortés unknowingly got himself the key to toppling the Aztec Empire.
-  
-  ## The rogue expedition arrives in the Aztec Empire
+- ## The rogue expedition arrives in the Aztec Empire
   
   Cortés and his crew reached the Aztec Empire but were surprised to be greeted with a welcome party.
   
@@ -66,16 +62,14 @@
   The plan stopped the conflict, and they were invited to the Tlaxcalan capital, Tlaxcala. Cortés spoke with the leaders of Tlaxcala over the next three weeks. He learned they had been engaged in a generational war with the Aztecs, known as the Flower War.
   
   In those three weeks, he converted several Tlaxcalan nobles to Catholicism, married off some of his lieutenants to Tlaxcalan princesses, and established an alliance with the nation of Tlaxcala.
-  
-  ## The Cholula Massacre
+- ## The Cholula Massacre
   
   The crew left Tlaxcala and went to the Aztec city of Cholula. Having known of their time in Tlaxcala and Cholula’s proximity to the capital, Moctezuma did not respond kindly to their arrival.
   
   He ordered the local Cholula chiefs to murder Cortés and his crew in the dead of night. Marina heard of the plot while in town from the wife of a noble, and she notified Cortés immediately.
   
   Cortés responded by causing a bloodbath of the city and torching it. Supposedly, Cortés and his men murdered 3,000 people in just three hours. This would be known as the Cholula massacre.
-  
-  ## Capturing Moctezuma
+- ## Capturing Moctezuma
   
   Moctezuma heard of the massacre, and Cortés and his crew marched over to Tenochtitlan.
   
@@ -88,8 +82,7 @@
   Moctezuma chose to greet the Spanish in his finest gold garments on one of the bridges, and he welcomed the crew into the city with magnificent gifts.
   
   No one knows how it happened, but that night, Cortés captured Emperor Moctezuma II and placed him on house arrest. Moctezuma was allowed to go about his duties in his home, but from that time on he was no more than a puppet for Cortés.
-  
-  ## Velázquez retaliates
+- ## Velázquez retaliates
   
   Meanwhile, Diego Velázquez assembled a crew led by conquistador Pánfilo de Narváez. Narváez’s crew was twice the size of Cortés’ and possessed horses and more munitions.
   
@@ -98,8 +91,7 @@
   Cortés was outnumbered two-to-one but had the advantage of being familiar with the land and its people, so he orchestrated a sneak attack in the middle of the night. He killed Narváez’s horses and blew up the gunpowder first before attacking.
   
   The attack was a rousing success. Upon hearing of the Aztecs’ riches, Narváez’s remaining crew defected and joined Cortés. From this battle, he won hundreds of men and plenty of horses.
-  
-  ## The massacre in the Great Temple of Tenochtitlan and the night of sorrows
+- ## The massacre in the Great Temple of Tenochtitlan and the night of sorrows
   
   The problem with taking his best men to Cempoala was that Cortés left behind his worst men in Tenochtitlan.
   
@@ -116,8 +108,7 @@
   They made it a decent distance down the causeway before the Aztecs realized they were escaping. Cortés and the main troops got away via horseback, but the back half wasn’t so lucky. Tenochtitlan was nearly impossible to escape, and many Spaniards and Tlaxcalans drowned or were murdered that night.
   
   This night is known as the night of sorrows, in which 800 Spanish and 4000 natives died.
-  
-  ## The Battle of Otumba
+- ## The Battle of Otumba
   
   Severely weakened, Cortés and his crew were in a desperate retreat to Tlaxcala when they encountered the Aztec forces in the plains of Otumba.
   
@@ -130,8 +121,7 @@
   The sudden attack of the horsemen stunned the Aztecs and Matlatzincatzin. Matlatzincatzin lost his footing, and horseman Juan de Salamanca did not hesitate to take advantage of the moment, killing him with his lance and capturing the Aztec standard.
   
   The capture of the standard scattered the Aztecs, leading to the Spanish victory. Following the battle, Cortés and his men made it to Tlaxcala to recuperate safely.
-  
-  ## Disease and the fall of the Aztec Empire
+- ## Disease and the fall of the Aztec Empire
   
   Upon leaving the city, the Spanish left a surprise behind them. Narváez’s crew was carrying smallpox, and they transferred it to Cortés’ men, who gave it to the Aztecs.
   
@@ -144,8 +134,7 @@
   He laid siege for eight months before Tenochtitlan fell, and the sitting Emperor Cuahtémoc was captured after he tried to flee in a canoe.
   
   The city was in ruins, and by August 13, 1521, the Aztec Empire was gone.
-  
-  ## The aftermath
+- ## The aftermath
   
   The city was in ruins after being torched and sieged. The people were brutalized. Cortés needed to rebuild, and he did.
   
