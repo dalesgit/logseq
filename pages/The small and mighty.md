@@ -1,5 +1,5 @@
 - CNN  — 
-  tags:: [[SendToLogseq]]
+  tags:: [[reading]] 
   
   On a cool, breezy Monday afternoon, a crowd of drunken, rowdy men gathering in the nation’s capital [stared in astonishment](https://www.washingtonpost.com/graphics/2020/local/history/inez-milholland-suffrage-parade-womens-rights/) as a striking figure headed toward them. It was a regal young woman riding a magnificent white horse, wearing a gold crown and a flowing white cape.
   

@@ -1,11 +1,10 @@
 - [10 Logseq Tips You Need in Your Productivity Arsenal - Face Dragons](https://facedragons.com/foss/logseq-tips/)
   tags:: [[SendToLogseq]]
 - Logseq is the latest in a new trend of personal knowledge management applications. But learning how to use this note-taking and outlining software requires a little learning, and becoming an advanced logseq user needs some experience. Get there faster with these 10 Logseq tips.
-  tags:: [[SendToLogseq]]
+  tags:: [[logseq]] 
   
   If you still need to download or install Logseq, check out my [getting started with Logseq guide](https://facedragons.com/foss/getting-started-with-logseq/). It will guide you through downloading, installing, and setting up Logseq and some best practices you must know.
-  
-  ## 1. Top Logseq Tip: Use the Daily Journal
+- ## 1. Top Logseq Tip: Use the Daily Journal
   
   When you first log in to Logseq, you open into the Daily Journal. If you have used other not-taking or PKM software, you might want to quickly switch to a regular page or file instead of writing in the journal. But in Logseq, the Daily Journal is much more powerful than just a place to write about your day.
   
@@ -14,8 +13,7 @@
   So starting in the daily journal makes sense. It reduces friction in writing notes down in your system. Just open up Logseq and start writing; later, you can move it or link to another page to ensure it appears where you want it.
   
   If you try to use Logseq like Evernote – making individual pages for each note and categorizing them with folders or some other strict top-down hierarchy, you won’t get far with Logseq. Instead, use the tool the way it was designed. Use the daily journal.
-  
-  ## 2. Backup and Sync Your Logseq Folder
+- ## 2. Backup and Sync Your Logseq Folder
   
   Of all the Logseq tips in this list, only this one is essential for maintaining security. You must back up your Logseq files.
   
