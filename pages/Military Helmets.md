@@ -1,4 +1,4 @@
-- **08:42** [[quick capture]]: ---
+- **08:42** [[military]] : ---
   collapsed:: true
   created: 2023-10-25T20:24:00 (UTC -04:00)
   tags: []

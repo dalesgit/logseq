@@ -167,5 +167,5 @@
   * [Become a personal knowledge management aficionado!](https://facedragons.com/tag/pkm/)
   <<<<<<< HEAD
   =======
-- **08:36** [[quick capture]]: How to Sync Logseq with Devices Free (Step by Step Instructions) - Face Dragons https://facedragons.com/foss/sync-logseq-with-devices-free/
+- **08:36** [[logseq]] : How to Sync Logseq with Devices Free (Step by Step Instructions) - Face Dragons https://facedragons.com/foss/sync-logseq-with-devices-free/
   >>>>>>> c9d6bd86044731015d6d8c49d94da03a1ac84e43
