@@ -1,5 +1,5 @@
 - **17:07** [[church]] [[names]] : Meeting Zack August 1.
-	- I want on a big long jag telling him an overview of my 20s. That I wanted to go deeper into spirituality and mysticism and it was a matter of taking one step forward learning about closed doors and period. 
+	- #names I want on a big long jag telling him an overview of my 20s. That I wanted to go deeper into spirituality and mysticism and it was a matter of taking one step forward learning about closed doors and period. 
 	  
 	  I have sketched out a map of what he wanted out of life. She came up with two things to begin with Musick and helping people with his music. Ended up talking about all the things that it would take to support pursuing that. It seemed beyond him.
 	  
