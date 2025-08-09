@@ -1,4 +1,5 @@
 - #names Mark and Rebecca.
+  collapsed:: true
 	- Aug 6, 10 year anniversary of his stroke. 6 days before his birthday. 69/79
 	- This week (8/2) they are zooming a memorial for her mother (held in Michigan)
 - #names Barbara (Agostino) was an archaeologist
