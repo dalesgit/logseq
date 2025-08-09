@@ -10,7 +10,7 @@
 	- Lyn: imageless is her goal
 	- Agostino: thinking his father was kind and loving -- but he realized at class in becoming Anglicized that many people don't have a loving father, but abusive
 - #names Margaret? is back feelign lonely
-- #names At Sat. evening
+- #names At Sat. evening #church
 	- Richard / Carol Bliss
 	- John / Joyce Bryant
 	- Richard / Ann Clark
