@@ -20,7 +20,7 @@
  ;; Define the default journal page template.
  ;; Enter the template name between the quotes.
  :default-templates
- {:journals ""}
+ {:journal ""}
 
  ;; Set a custom date format for the journal page title.
  ;; Default value: "MMM do, yyyy"
@@ -207,7 +207,7 @@
  ;; The "NOW" query returns tasks with "NOW" or "DOING" status.
  ;; The "NEXT" query returns tasks with "NOW", "LATER", or "TODO" status.
  :default-queries
- {:journals
+ {:journal
   [{:title "🔨 NOW"
     :query [:find (pull ?h [*])
             :in $ ?start ?today
