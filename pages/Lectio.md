@@ -12,7 +12,6 @@ tags:
 		  This seems to a common interpretation in some Catholic circles -- seeing in the rich young man a prefigured Francis of Assisi.
 		- Peter preached on 1 Co. 13 --
 - September
-  collapsed:: true
 	- ## Tue 17 Sep 2024
 	- ## psalm 137
 	- Hokuleia
