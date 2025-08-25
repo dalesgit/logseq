@@ -61,68 +61,62 @@
 	  
 	  Save and close the file.
 - ## Step 6: Start Nginx and PHP-FPM
-  
-  Now start the Nginx and PHP-FPM services:
-  
-  ```bash
-  sudo systemctl enable nginx
-  sudo systemctl start nginx
-  sudo systemctl enable php-fpm
-  sudo systemctl start php-fpm
-  ```
+	- Now start the Nginx and PHP-FPM services:
+	  
+	  ```bash
+	  sudo systemctl enable nginx
+	  sudo systemctl start nginx
+	  sudo systemctl enable php-fpm
+	  sudo systemctl start php-fpm
+	  ```
 - ## Step 7: Configure the Database
-  
-  Grocy requires a database to store its data. You can use either MySQL or SQLite.
+	- Grocy requires a database to store its data. You can use either MySQL or SQLite.
 - ### Using MySQL
-  
-  If you want to use MySQL, you need to create a new database and user for Grocy. Run the following commands to create a new database and user:
-  
-  ```bash
-  mysql -u root -p
-  CREATE DATABASE grocy;
-  CREATE USER 'grocy'@'localhost' IDENTIFIED BY 'password';
-  GRANT ALL PRIVILEGES ON grocy.* TO 'grocy'@'localhost';
-  FLUSH PRIVILEGES;
-  exit;
-  ```
+	- If you want to use MySQL, you need to create a new database and user for Grocy. Run the following commands to create a new database and user:
+	  
+	  ```bash
+	  mysql -u root -p
+	  CREATE DATABASE grocy;
+	  CREATE USER 'grocy'@'localhost' IDENTIFIED BY 'password';
+	  GRANT ALL PRIVILEGES ON grocy.* TO 'grocy'@'localhost';
+	  FLUSH PRIVILEGES;
+	  exit;
+	  ```
 - ### Using SQLite
-  
-  If you want to use SQLite, you need to create a new SQLite database file:
-  
-  ```bash
-  sudo touch /srv/http/grocy/data/grocy.db
-  sudo chown http:http /srv/http/grocy/data/grocy.db
-  ```
+	- If you want to use SQLite, you need to create a new SQLite database file:
+	  
+	  ```bash
+	  sudo touch /srv/http/grocy/data/grocy.db
+	  sudo chown http:http /srv/http/grocy/data/grocy.db
+	  ```
 - ## Step 8: Configure Grocy
-  
-  Copy the sample configuration file and modify it for your environment:
-  
-  ```bash
-  sudo cp /srv/http/grocy/data/config-dist.php /srv/http/grocy/data/config.php
-  sudo nano /srv/http/grocy/data/config.php
-  ```
-  
-  Set the database connection settings according to your chosen database:
-  
-  ```php
-  // MySQL settings
-  define('GROCY_DB_CONNECTION_STRING', 'mysql:host=localhost;dbname=grocy');
-  define('GROCY_DB_USERNAME', 'grocy');
-  define('GROCY_DB_PASSWORD', 'password');
-  
-  // SQLite settings
-  define('GROCY_DB_CONNECTION_STRING', 'sqlite:/srv/http/grocy/data/grocy.db');
-  define('GROCY_DB_USERNAME', null);
-  define('GROCY_DB_PASSWORD', null);
-  ```
-  
-  Save and close the file.
+	- Copy the sample configuration file and modify it for your environment:
+	  
+	  ```bash
+	  sudo cp /srv/http/grocy/data/config-dist.php /srv/http/grocy/data/config.php
+	  sudo nano /srv/http/grocy/data/config.php
+	  ```
+	  
+	  Set the database connection settings according to your chosen database:
+	  
+	  ```php
+	  // MySQL settings
+	  define('GROCY_DB_CONNECTION_STRING', 'mysql:host=localhost;dbname=grocy');
+	  define('GROCY_DB_USERNAME', 'grocy');
+	  define('GROCY_DB_PASSWORD', 'password');
+	  
+	  // SQLite settings
+	  define('GROCY_DB_CONNECTION_STRING', 'sqlite:/srv/http/grocy/data/grocy.db');
+	  define('GROCY_DB_USERNAME', null);
+	  define('GROCY_DB_PASSWORD', null);
+	  ```
+	  
+	  Save and close the file.
 - ## Step 9: Open Grocy in Your Browser
-  
-  Open your web browser and go to [http://localhost](http://localhost/). You should see the Grocy homepage.
-  
-  Congratulations, you have successfully installed Grocy on Arch Linux!
-  
-  If you want to self-host in an easy, hands free way, need an external IP address, or simply want your data in your own hands, give [IPv6.rs](https://ipv6.rs/) a try!
-  
-  Alternatively, for the best virtual desktop, try [Shells](https://www.shells.com/?_a=1Viyms)!
+	- Open your web browser and go to [http://localhost](http://localhost/). You should see the Grocy homepage.
+	  
+	  Congratulations, you have successfully installed Grocy on Arch Linux!
+	  
+	  If you want to self-host in an easy, hands free way, need an external IP address, or simply want your data in your own hands, give [IPv6.rs](https://ipv6.rs/) a try!
+	  
+	  Alternatively, for the best virtual desktop, try [Shells](https://www.shells.com/?_a=1Viyms)!
