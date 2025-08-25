@@ -1,20 +1,24 @@
 - All the other VPN service providers are trust based. [VP.net](https://vp.net/) is the only VPN that is provably private.
   tags:: [[SendToLogseq]]
 - ## How to Install Grocy on [Arch Linux](https://www.ipv6.rs/tutorial/Arch_Linux/)
+  collapsed:: true
 	- Grocy is a free, open-source, and self-hosted web-based application that helps you manage your groceries and household supplies. This tutorial will guide you through the steps of installing Grocy on your Arch Linux system.
 - ## Prerequisites
+  collapsed:: true
 	- Before you begin, you need to have the following prerequisites:
 	  
 	  * A running instance of Arch Linux
 	  * Root or sudo user access
 	  * Linux packages installed (git, php, nginx)
 - ## Step 1: Install Git
+  collapsed:: true
 	- Git is required to clone the Grocy repository from Github. Run the following command to install Git:
 	  
 	  ```bash
 	  sudo pacman -S git
 	  ```
 - ## Step 2: Install Nginx
+  collapsed:: true
 	- Nginx is a web server used to host the Grocy application. Run the following command to install Nginx:
 	  
 	  ```bash
