@@ -1,81 +1,66 @@
 - All the other VPN service providers are trust based. [VP.net](https://vp.net/) is the only VPN that is provably private.
   tags:: [[SendToLogseq]]
-  
-  ## How to Install Grocy on [Arch Linux](https://www.ipv6.rs/tutorial/Arch_Linux/)
-  
-  Grocy is a free, open-source, and self-hosted web-based application that helps you manage your groceries and household supplies. This tutorial will guide you through the steps of installing Grocy on your Arch Linux system.
-  
--  ## Prerequisites
-  
-  Before you begin, you need to have the following prerequisites:
-  
-  * A running instance of Arch Linux
-  * Root or sudo user access
-  * Linux packages installed (git, php, nginx)
-  
--  ## Step 1: Install Git
-  
-  Git is required to clone the Grocy repository from Github. Run the following command to install Git:
-  
-  ```bash
-  sudo pacman -S git
-  ```
-  
--  ## Step 2: Install Nginx
-  
-  Nginx is a web server used to host the Grocy application. Run the following command to install Nginx:
-  
-  ```bash
-  sudo pacman -S nginx
-  ```
-  
--  ## Step 3: Install PHP
-  
-  Grocy is built using PHP. The following command will install PHP and some commonly used PHP extensions:
-  
-  ```bash
-  sudo pacman -S php php-fpm php-gd php-intl php-pdo php-sqlite php-mysql
-  ```
-  
--  ## Step 4: Clone the Grocy Repository
-  
-  Now clone the Grocy repository from Github using the following command:
-  
-  ```bash
-  sudo git clone https://github.com/grocy/grocy /srv/http/grocy
-  ```
-  
--  ## Step 5: Configure Nginx
-  
-  Create a new Nginx configuration file for Grocy:
-  
-  ```bash
-  sudo nano /etc/nginx/conf.d/grocy.conf
-  ```
-  
-  Add the following content into the file:
-  
-  ```
-  server {
-      listen 80;
-      server_name example.com;
-      root /srv/http/grocy/public;
-      index index.php;
-      location / {
-          try_files $uri $uri/ /index.php?$query_string;
-      }
-      location ~ \.php$ {
-          fastcgi_pass unix:/run/php-fpm/php-fpm.sock;
-          fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
-          fastcgi_index index.php;
-          include fastcgi_params;
-      }
-  }
-  ```
-  
-  Save and close the file.
-  
-  ## Step 6: Start Nginx and PHP-FPM
+- ## How to Install Grocy on [Arch Linux](https://www.ipv6.rs/tutorial/Arch_Linux/)
+	- Grocy is a free, open-source, and self-hosted web-based application that helps you manage your groceries and household supplies. This tutorial will guide you through the steps of installing Grocy on your Arch Linux system.
+- ## Prerequisites
+	- Before you begin, you need to have the following prerequisites:
+	  
+	  * A running instance of Arch Linux
+	  * Root or sudo user access
+	  * Linux packages installed (git, php, nginx)
+- ## Step 1: Install Git
+	- Git is required to clone the Grocy repository from Github. Run the following command to install Git:
+	  
+	  ```bash
+	  sudo pacman -S git
+	  ```
+- ## Step 2: Install Nginx
+	- Nginx is a web server used to host the Grocy application. Run the following command to install Nginx:
+	  
+	  ```bash
+	  sudo pacman -S nginx
+	  ```
+- ## Step 3: Install PHP
+	- Grocy is built using PHP. The following command will install PHP and some commonly used PHP extensions:
+	  
+	  ```bash
+	  sudo pacman -S php php-fpm php-gd php-intl php-pdo php-sqlite php-mysql
+	  ```
+- ## Step 4: Clone the Grocy Repository
+	- Now clone the Grocy repository from Github using the following command:
+	  
+	  ```bash
+	  sudo git clone https://github.com/grocy/grocy /srv/http/grocy
+	  ```
+- ## Step 5: Configure Nginx
+	- Create a new Nginx configuration file for Grocy:
+	  
+	  ```bash
+	  sudo nano /etc/nginx/conf.d/grocy.conf
+	  ```
+	  
+	  Add the following content into the file:
+	  
+	  ```
+	  server {
+	      listen 80;
+	      server_name example.com;
+	      root /srv/http/grocy/public;
+	      index index.php;
+	      location / {
+	          try_files $uri $uri/ /index.php?$query_string;
+	      }
+	      location ~ \.php$ {
+	          fastcgi_pass unix:/run/php-fpm/php-fpm.sock;
+	          fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
+	          fastcgi_index index.php;
+	          include fastcgi_params;
+	      }
+	  }
+	  ```
+	  
+	  Save and close the file.
+- ## Step 6: Start Nginx and PHP-FPM
   
   Now start the Nginx and PHP-FPM services:
   
@@ -85,12 +70,10 @@
   sudo systemctl enable php-fpm
   sudo systemctl start php-fpm
   ```
-  
--  ## Step 7: Configure the Database
+- ## Step 7: Configure the Database
   
   Grocy requires a database to store its data. You can use either MySQL or SQLite.
-  
--  ### Using MySQL
+- ### Using MySQL
   
   If you want to use MySQL, you need to create a new database and user for Grocy. Run the following commands to create a new database and user:
   
@@ -102,8 +85,7 @@
   FLUSH PRIVILEGES;
   exit;
   ```
-  
--  ### Using SQLite
+- ### Using SQLite
   
   If you want to use SQLite, you need to create a new SQLite database file:
   
@@ -111,8 +93,7 @@
   sudo touch /srv/http/grocy/data/grocy.db
   sudo chown http:http /srv/http/grocy/data/grocy.db
   ```
-  
--  ## Step 8: Configure Grocy
+- ## Step 8: Configure Grocy
   
   Copy the sample configuration file and modify it for your environment:
   
@@ -136,8 +117,7 @@
   ```
   
   Save and close the file.
-  
--  ## Step 9: Open Grocy in Your Browser
+- ## Step 9: Open Grocy in Your Browser
   
   Open your web browser and go to [http://localhost](http://localhost/). You should see the Grocy homepage.
   
