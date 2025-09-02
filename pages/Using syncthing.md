@@ -1,0 +1,55 @@
+- [My entire family replaced Google Drive with Syncthing, and here's how I set it up](https://www.xda-developers.com/replaced-google-drive-with-syncthing-heres-how-set-up/)
+	- My family and I used to rely on a [well-organized Google Drive](https://www.xda-developers.com/tools-keep-google-drive-organized/) for everything. It was convenient, but I always worried about our most important files, like family photos, legal documents, etc., being stored on a company's servers. What if there were a data breach? I wanted the convenience of a shared, synced folder but with the peace of mind that comes from owning your own data. So, I [switched us to Syncthing](https://www.xda-developers.com/replaced-dropbox-with-syncthing-learned-these-things/). It’s an amazing open-source tool that lets you create a private, offline syncing network. We got all the benefits of the cloud without the cloud itself. Here’s how I set it all up for my family.
+	- ##  The central hub — setting up my Syncthing server
+	- ###  Creating our central sync hub
+	- ![Syncthing installed on Windows device](https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/08/syncthing-installed.jpg?q=49&fit=crop&w=825&dpr=2)
+	- When I decided to set up Syncthing for my entire family, my first step was to create a central hub for all our data. My personal Windows device was the perfect choice because it's always on, and I could manage everything from a single place. The setup was a breeze.
+	- ###  Installation
+	- First, I went to the official Syncthing website and downloaded the **Windows installer**. I ran it using Windows PowerShell, for which I chose the option to install for **all users**. During this installation process, it gives an option to change the port, auto-upgrade intervals, and other configuration settings. However, I kept the default settings as they are. This set up Syncthing to run as a Windows service.
+	- I opened my web browser and navigated to **http://localhost:8384** to access the control panel of Syncthing. The first thing I did was click "Actions" in the top-right corner, then "Settings," and set a strong username and password for the Web GUI. This keeps Syncthing secure on my computer.
+	- ###  Set Folder Permissions
+	- Since Syncthing is now running as a service, it operates under a special system account, not my personal user account. The installer automatically created a folder in the _Users_ directory named **SyncthingServiceAcct** for this purpose. I had to give this service account permission to access my sync folders.
+	- * **Right-click** on the folder I wanted to sync (e.g., C:\\Users\\patel\\Documents\\Work\\Sync).
+	- * Select **Properties** from the menu.
+	- * Go to the **Security** tab and click the **Edit** button.
+	- ![Open folder properties](https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/08/open-folder-properties.jpg)
+	- * Click **Add** to open a new window.
+	- * In the text box, type **SyncthingServiceAcct** and click **Check Names**. The full name should appear underlined. Click **OK**.
+	- ![Add syncthing service acct](https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/08/add-syncthing-service-acct.jpg)
+	- * Back in the permissions window, select the newly added SyncthingServiceAcct user.
+	- * In the permissions list below, check the box for **Full control** under the "Allow" column.
+	- * Click **Apply** and then **OK** to save the changes. This granted the Syncthing service the necessary read and write access to the folder, preventing any "access denied" errors.
+	- ![Permission syncthing account](https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/08/permission-syncthing-account.jpg)
+	- ##  Bringing the family onboard — connecting devices
+	- ###  From solo sync to family team: the connection phase
+	- ![Add device using device ID in Syncthing](https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/08/device-id-add-device.jpg?q=49&fit=crop&w=825&dpr=2)
+		- After setting up the central hub, the next step was to **install Syncthing on each device** to get everyone on board. I helped each family member install Syncthing on their device. On the other family's Windows PC, I followed the same steps as on my laptop. For the Android phone, I downloaded the **Syncthing-Fork** app from the Google Play Store.
+	- Once the app was running on each device, I opened the web interface or the app to find its unique **Device ID**. This long, secure code is how Syncthing devices find each other on the network.
+	- On my main laptop, I clicked **Actions -> Show ID**. A QR code instantly appeared on the screen. On the Android phone, I selected "Add Remote Device" and used the camera to scan the QR code on my laptop's screen. For the Windows PC, I just copied and pasted the Device ID.
+	- After they scanned my laptop's QR code, a notification popped up on my screen asking if I wanted to connect with their device. I clicked "Add Device" and gave it a recognizable name, like "Family PC" or "Android Phone."
+	- I repeated this simple process for every device in the family. In just a few minutes, we had a fully meshed network of devices all ready to share files securely and privately.
+	- ![Accept folder on Syncthing](https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/08/syncthing-android-00.png?q=49&fit=crop&w=480&dpr=2)
+	- ![Folder details on syncthing shared folder](https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/08/syncthing-android-01.png?q=49&fit=crop&w=480&dpr=2)
+	- ![select location on syncthing shared folder](https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/08/syncthing-android-02.png?q=49&fit=crop&w=480&dpr=2)
+	- ![folders on syncthing mobile app](https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/08/syncthing-android-03.png?q=49&fit=crop&w=480&dpr=2)
+	- With all our devices connected, the final, and most important, step was creating the shared folders. The entire point of this setup was to have dedicated spaces for different types of family data — photos, documents, and more. This process is a two-way street: create the folder on the central hub and then share it with the devices that need access. The process is straightforward.
+	- ![create shared folder on syncthing](https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/08/create-folder.jpg?q=49&fit=crop&w=825&dpr=2)
+	- * On my central laptop, I navigated back to the Syncthing web interface at http://localhost:8384\.
+	- * I clicked the **Add Folder** button. This opens a new window with a few options.
+	- * I gave the folder a clear **Folder Label** like **Family Photos**. This is what everyone will see on their devices.
+	- * For the **Folder Path**, I entered the location on my laptop where I wanted these photos to be stored (e.g., C:\\Users\\patel\\Documents\\Family Data\\Photos).
+	- ![Share syncthing folder with connected devices](https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/08/share-syncthing-folder.jpg?q=49&fit=crop&w=825&dpr=2)
+	- * After creating the folder, I clicked on the **Sharing** tab in the same pop-up window.
+	- * This showed a list of all the devices I had previously connected. I simply selected the checkboxes next to the devices that should be part of this folder.
+	- * I then clicked **Save**.
+	- ###  Accept the folder on each device
+	- ![Accept shared folder on other device](https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/08/accespt-shared-folder.jpg?q=49&fit=crop&w=825&dpr=2)
+	- * Within a few seconds, a notification popped up on the web interface of each device I shared the folder with. The message asked if they wanted to **Add** the new folder called "Family Photos."
+	- * On each device, either I or a family member clicked **Add**.
+	- * This opened a new screen where we had to choose the **Folder Path** on their local computer or phone. For example, on the Android phone, I chose the designated folder so that all new photos would be automatically synced. On the Windows PC, I created a new folder in the E: drive called "Family Photos."
+	- * We clicked **Save** on each device to complete the process.
+	- The folder then began to sync automatically. The files started flowing from the central hub to the other devices, creating a perfect, up-to-date copy on every single device that needed it.
+	- ###  Our digital lives, now effortlessly in sync
+	- ![Final connected Syncthing](https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/08/final-connected-syncthing.jpg?q=49&fit=crop&w=825&dpr=2)
+	- With everything set up, Syncthing's real power comes to life. If I add a new photo to our shared folder, it instantly appears on my family's devices. No more personal data on Google’s servers. The app handles everything automatically, so our photos are always shared and backed up, and our important documents are always ready on any device we need them on.
+	- Beyond this basic setup, I also have the flexibility to explore other [Syncthing features](https://www.xda-developers.com/syncthing-ruined-cloud-storage-best-way/) down the road, like selective sync for specific files or ignoring certain folders if needed. This system is a perfect way to keep our digital lives in sync without any extra effort.
