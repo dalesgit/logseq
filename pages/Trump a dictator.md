@@ -1,4 +1,4 @@
-- [Donald Trump says he is not a dictator. Isn’t he? | Donald Trump | The Guardian](https://www.theguardian.com/us-news/ng-interactive/2025/sep/01/trump-dictator-authoritarianism-politics)
+- [Donald Trump says he is not a dictator. Isn’t he? | Donald Trump | The Guardian] (https://www.theguardian.com/us-news/ng-interactive/2025/sep/01/trump-dictator-authoritarianism-politics) [[trump]]
 	- Speaking in the Oval Office this week, [Donald Trump](https://www.theguardian.com/us-news/donaldtrump) had something he wanted to clarify.
 	- “I’m not a dictator. I don’t like a dictator,” the president said.
 	- Yet his comments came weeks after he [deployed](https://www.theguardian.com/us-news/2025/aug/12/mayor-national-guard-washington-dc) armed soldiers and Humvee-style military vehicles to patrol the streets of Washington, claiming, despite all available evidence, that the use of the national guard was [necessary](https://www.theguardian.com/us-news/2025/aug/11/trump-washington-dc-crime) to control crime.
