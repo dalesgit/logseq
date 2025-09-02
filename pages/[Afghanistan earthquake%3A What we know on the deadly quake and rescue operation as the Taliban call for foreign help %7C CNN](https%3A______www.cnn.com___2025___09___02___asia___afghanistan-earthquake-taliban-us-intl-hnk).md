@@ -1,0 +1,41 @@
+- EDITOR’S NOTE: _This story contains a disturbing image._
+	- Afghanistan’s Taliban rulers have called for international help after a huge earthquake killed hundreds of people and leveled entire villages, piling further misery on the war-ravaged country that was already grappling with food shortages and cuts to foreign aid.
+	- At least 1,411 were killed and 3,124 others injured after the 6.0-magnitude quake struck towns and villages close to the Pakistan border on Sunday, causing strong aftershocks in Kabul, according to Taliban government spokesperson Zabihullah Mujahid on Tuesday.The devastating earthquake has also destroyed more than 5,400 homes, Mujahid added.
+	- Heavy rain, landslides and damaged roads have made it difficult for relief teams to access the remote mountainous areas hit hardest by the quake.
+	- Meanwhile, recent US aid cuts have crunched relief efforts in the country, which has been contending with shrinking global aid since the Taliban seized control in 2021, imposing harsh rules and punishments on the nation’s 43 million people.
+	- Here’s what we know about the earthquake and the rescue operation.
+	- The earthquake hit just before midnight 27 kilometers (16.77 miles) north-east of Jalalabad, a bustling city of about 200,000 people in Nangarhar province near the border with Pakistan, in a mountainous area known for its seismic activity, according to the United States Geological Survey (USGS).
+	- The quake was relatively shallow with a depth of about 8 kilometers (4.97 miles), according to the USGS. Shallow earthquakes tend to be more destructive.
+	- The earthquake devastated neighboring Kunar province, razing three villages, Reuters reported, citing local authorities. Damage and injuries were also reported in Laghman, Nuristan and Panjshir provinces, according to the Taliban government and humanitarian workers.
+	- The earthquake was also felt in several cities in neighboring Pakistan, the Pakistan Meteorological Department said in a statement.
+	- The region was hit by at least five aftershocks, the strongest measuring 5.2-magnitude in the hours after the initial quake, according to USGS.
+	- This is the third major quake to hit since 2021 in Afghanistan, which faces a litany of man-made and natural disasters, including poverty, conflict, drought, and the forced return of millions of refugees by neighbors Pakistan and Iran.
+	- Powerful earthquakes in 2022 and 2023 killed more than 3,000 people in Afghanistan’s Paktika and Herat provinces, by some estimates.
+	- Nearly half a million people likely felt strong to very strong shaking, which can result in considerable damage to poorly built structures, according to the USGS.
+	- Yousaf Hammad, a spokesman for Afghanistan’s National Disaster Management Authority, said the number of dead and injured is likely to rise.
+	- “The injured are being evacuated, so these figures may change significantly,” he told the AP.
+	- Photos from the aftermath showed rows of brick houses swept under muddy debris, as residents clambered over huge piles of fallen concrete.
+- ![An Afghan boy carries a baby's shrouded body through the ruins of a damaged house of the Mazar Dara village, in the hard-hit Kunar Province, eastern Afghanistan, on Monday.](https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2232653250.jpg?c=original&q=w_860,c_fill)
+	- Eyewitnesses recalled fumbling for loved ones stuck under collapsed homes, as they waited hours for emergency workers to reach the worst-affected regions, according to the AP.
+	- “I was half-buried and unable to get out,” Sadiqullah, a resident of Nurgal, in Kunar province, told AP. His wife and two sons were killed, he added.
+	- Ahmad Zameer, 41, a resident of Kabul, more than 100 miles from the epicenter, told CNN the earthquake jolted his neighborhood. He added that everyone from the nearby apartment buildings rushed into the street in fear of being trapped inside.
+	- Videos obtained by CNN show men digging with shovels to search for survivors under the rubble in Kunar province. Others showed chaotic scenes as officials worked to stretcher the wounded onto helicopters to be airlifted to hospital.
+	- The war-ravaged nation is in the throes of a humanitarian crisis that has only worsened since the Taliban seized power in 2021 following a chaotic United States withdrawal.
+	- Many international aid groups, wary of collaborating with a repressive regime known for its persecution of [women and girls](https://www.cnn.com/2025/08/04/asia/afghanistan-religious-schools-for-girls-expansion-intl-cmd), have since pulled out of the country.
+	- Earlier this year, the White House halted more than $1.7 billion worth of American aid contracts supporting dozens of programs in Afghanistan. The United Kingdom, France and Germany swiftly followed suit.
+	- Humanitarian aid to Afghanistan shrank to $767 million in 2025, down from $3.8 billion in 2022, according to Reuters.
+	- Thamindri De Silva, National Director of World Vision Afghanistan, said the sheer number of challenges facing the country has made it difficult for humanitarian organizations to support Afghans.
+	- “This is not the first shock that we’ve faced this year. We’re undergoing a drought. We’re supporting the returnee response. We’re still working with the earthquake-affected people in Herat. There’s a huge malnutrition crisis in the country,” De Silva told CNN’s Lynda Kinkade.
+	- “So it’s not just the funding shortfalls, it’s the compounding of shock after shock in the country, which is stretching already very thin resources.”
+	- Body bags are one of the greatest needs in terms of supplies, she said, as well as basic necessities, such as clothing, hygiene products, and cooking equipment.
+- ![A man walks clambers over a collapsed house in the Mazar Dara village of Nurgal, on Monday. More than 5,000 homes were destroyed in Afghanistan, according to a government spokesperson.](https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2232653502.jpg?c=original&q=w_860,c_fill)
+	- The Taliban have appealed to the world for more aid to support relief efforts, but so far, few countries have stepped up.
+	- “We need it because here lots of people lost their lives and houses,” health ministry spokesperson Sharafat Zaman told Reuters.
+	- The United Arab Emirates has dispatched food, medical supplies and tents to quake-stricken regions in Afghanistan – as well as a search and rescue team, state-run Emirate News Agency, WAM, reported [on Monday](https://www.wam.ae/en/article/blhn085-under-directives-uae-president-search-and-rescue).
+	- The UK on Tuesday announced £1 million ($1.3 million) in new emergency funding to support families affected by the earthquake, to be split between the UN Population Fund and the International Red Cross.
+	- “The UK remains grateful to the aid workers on the ground, who help us to provide support to Afghanistan’s most vulnerable people,” Foreign Secretary David Lammy [said in a statement.](https://www.gov.uk/government/news/uk-provides-emergency-aid-to-afghanistan-earthquake-victims)
+	- European leaders donated $1.16 million (€1 million) of humanitarian emergency funding, as well as tents, clothes, medical supplies and other aid stocks to the region, the European Commission said [on Tuesday](https://ec.europa.eu/commission/presscorner/detail/en/ip%5F25%5F2014).
+	- A spokesperson for China’s foreign ministry said it was ready to provide disaster relief assistance “according to Afghanistan’s needs and within its capacity,” Reuters reported.
+	- Meanwhile, India delivered 1,000 family tents to Kabul and 15 metric tons of food aid to Kunar, with more relief to come, Foreign Minister Subrahmanyam Jaishankar said according to Reuters.
+	- The US State Department’s Bureau of South and Central Asian Affairs extended “heartfelt condolences to the Afghan people” in a [post to X](https://x.com/state%5Fsca/status/1962512119431057694?s=46), but there was no immediate word of aid from the US.
+	- CNN’s Ivana Kottasová and Catherine Nicholls contributed reporting.
