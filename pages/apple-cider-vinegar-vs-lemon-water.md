@@ -1,0 +1,36 @@
+- [Apple Cider Vinegar vs. Lemon Water: Which Is Better for Weight Loss, Digestion, and More](https://www.verywellhealth.com/lemon-water-vs-apple-cider-vinegar-11799327)
+  tags:: [[health]] [[kitchen]]
+- https://www.verywellhealth.com/lemon-water-vs-apple-cider-vinegar-11799327
+	- * Apple cider vinegar may boost weight loss through multiple mechanisms, like increased energy expenditure and appetite suppression.
+	- * Lemon water may help digestion by stimulating the release of stomach acid.
+	- * Both apple cider vinegar and lemon water have been shown to lower blood sugar, but there is more evidence for apple cider vinegar's effects.
+		- Many people turn to apple cider vinegar and lemon water for specific health benefits, such as weight loss, digestion, and blood sugar control. Learn which one to choose based on your goals.
+		- Drinking [apple cider vinegar](https://www.verywellhealth.com/apple-cider-vinegar-weight-loss-11685408) (ACV) or [lemon water](https://www.verywellhealth.com/best-time-to-drink-lemon-water-11726627) in combination with exercise and/or a low-calorie diet may help boost weight loss. Neither one alone will make you lose weight.
+		- Various studies have found that ACV can boost weight loss results. Some theories on why it may help with weight loss include:
+	- * Acetic acid (ACV's active ingredient) contributes to fat burning
+	- * Improves insulin sensitivity
+	- * Increases energy expenditure
+	- * Increases feeling of fullness
+	- * Lowers your appetite
+		- There is little to no evidence that lemon water, specifically, may aid weight loss. However, drinking water in general (whether or not it's flavored with lemon) may help with weight loss. Water contains no calories, and staying hydrated can make you feel fuller, so you eat less.
+		- Fresh lemon juice contains small amounts of [fiber](https://www.verywellhealth.com/dietary-fiber-7496057) from lemon pulp, which can act as a [prebiotic](https://www.verywellhealth.com/prebiotics-and-ibs-1944748) and feed the healthy bacteria in your gut. Lemon water also contains vitamin C and citrus flavanones, which can support gut health and function.
+		- A very small study of 10 participants compared drinking water, lemon water, or tea at breakfast. It found that, compared to drinking plain water, lemon water increased gastric secretions (fluid produced in the stomach that helps digestion) and gastric emptying (how fast food exits the stomach).
+		- There was no difference between water and tea. This study provides some initial evidence that lemon water may affect digestion.
+		- There is limited evidence that ACV affects gut health. The myth that it contains probiotics is the source of many claims that it's good for your gut health. ACV is indeed a fermented food, but it does not contain enough microorganisms to be considered a probiotic when you drink or eat it.
+		- ACV may have more blood sugar-regulating benefits than lemon water, but both can lower blood sugar.
+		- Multiple studies have found that ACV lowers blood sugar, whether taken in the morning on an empty stomach, or before or after meals. This effect is particularly pronounced in people with [type 2 diabetes](https://www.verywellhealth.com/type-2-diabetes-7371634), who already have higher blood sugar.
+		- One experiment found that taking 15 mL of ACV for eight weeks or more could reduce fasting blood sugar, as well as cholesterol, for people with overweight or obesity.
+		- There are a few explanations for why ACV might be able to lower blood sugar:
+	- * It may slow the breakdown of carbohydrates, meaning sugars are released into the bloodstream more slowly.
+	- * It may increase the amount of glucose your body's cells use, reducing glucose levels in the bloodstream.
+		- There is also some evidence that drinking lemon water could regulate blood sugar. In the previously mentioned study that compared drinking water, lemon water, or tea with breakfast, the lemon water group had significantly lower post-meal blood sugar than the plain water or tea groups.
+		- It also took longer for blood sugar to peak after eating for the lemon juice group. It's unclear why this happens, but it could be a mechanism similar to vinegar due to lemon water's acidic nature.
+		- Lemon water is prepared by diluting the juice of one to two lemons in warm or room-temperature water. ACV is often taken as a "shot" or diluted in water.
+		- Below is the nutrition information for the juice of one lemon compared to 1 tablespoon (Tbsp) of ACV:
+	- | Nutrients | Lemon Juice | ACV       |
+	- | --------- | ----------- | --------- |
+	- | Calories  | 10.6 kcal   | 3.13 kcal |
+	- | Sodium    | 0.48 mg     | 0.745 mg  |
+	- | Sugar     | 1.21 g      | 0.06 g    |
+	- | Vitamin C | 18.6 mg     | 0 mg      |
+	- | Fiber     | 0.144 g     | 0 g       |
