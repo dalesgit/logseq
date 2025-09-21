@@ -1,0 +1,6 @@
+- Heron
+	- forgivenness directed at being freed from the sin that is perpetrated on us rather than on the other perpetrator.
+- Parable
+	- "God is change"
+	- **13:01** [[process-theology]] #change :  [A Changing World and Unchanging God – Well-Watered Women](https://wellwateredwomen.com/a-changing-world-and-unchanging-god/)
+	- **13:06** [[change]] :  [God is Change – Earthseed](https://godischange.org/god-is-change/)
