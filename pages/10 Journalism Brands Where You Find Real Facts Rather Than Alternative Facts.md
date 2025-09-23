@@ -4,7 +4,7 @@
   
   Shutterstock
   
-  Where do we most often find real truth, real facts in a new era of Internet hoaxes, fake news stories and new political administrations that tout their own "alternative facts"?
+- * Where do we most often find real truth, real facts in a new era of Internet hoaxes, fake news stories and new political administrations that tout their own "alternative facts"?
   
   Many citizens appear confused and worried. News stories from the [BBC](http://www.bbc.com/news/magazine-38764041) and the \_New York Time\_s and *[Money](http://time.com/money/4648774/trump-1984-dystopian-novel-sales-brave-new-world/)* magazine are reporting (with proof) that dystopian novels such as *1984* by George Orwell and *Brave New World* by Aldous Huxley are seeing a noticeable boost in sales. After [Meryl Streep's anti-Trump and pro-journalism speech](https://www.bostonglobe.com/arts/movies/2017/01/09/read-meryl-streep-blasts-donald-trump-golden-globes-speech/R9a5oL3ym22YZMC2U44hUO/story.html) at the Golden Globe awards in January, donations picked up to the [Committee to Protect Journalists](https://www.poynter.org/2017/committee-to-protect-journalists-saw-a-spike-in-donations-after-meryl-streeps-speech/444693/). Subscriptions to the *New York Times* and other newspapers have picked up dramatically since Donald Trump was elected president according to the *Columbia Journalism Review* and other sources.
   
@@ -14,7 +14,7 @@
   
   Video unavailable
   
-  One key question for any publication is this: If a reporter gets facts in a story wrong, will the news outlet investigate a complaint and publish a correction? Does the publication have its own code of ethics? Or does it subscribe to and endorse the [Society of Professional Journalist's code of ethics](http://www.spj.org/ethicscode.asp)? And if a reporter or editor seriously violates ethical codes - such as being a blatant or serial plagiarizer, fabulist or exaggerator - will they be fired at a given news outlet? While some may criticize mainstream media outlets for a variety of sins, top outlets such as the *Washington Post,* the *New York Times, NBC News* and the *New Republic* have fired journalists for such ethics violations. That is remarkable in a world where some celebrities, politicians and other realms of media (other than news... such as Hollywood films "based on a true story") can spread falsehood with impunity.
+-   One key question for any publication is this: If a reporter gets facts in a story wrong, will the news outlet investigate a complaint and publish a correction? Does the publication have its own code of ethics? Or does it subscribe to and endorse the [Society of Professional Journalist's code of ethics](http://www.spj.org/ethicscode.asp)? And if a reporter or editor seriously violates ethical codes - such as being a blatant or serial plagiarizer, fabulist or exaggerator - will they be fired at a given news outlet? While some may criticize mainstream media outlets for a variety of sins, top outlets such as the *Washington Post,* the *New York Times, NBC News* and the *New Republic* have fired journalists for such ethics violations. That is remarkable in a world where some celebrities, politicians and other realms of media (other than news... such as Hollywood films "based on a true story") can spread falsehood with impunity.
   
   Another friend writes, "Trump's attacks on the free media has me spooked and I want to support the media somehow. At the same time, I am aware of my liberal bias and would welcome a different point of view as long as it isn't 'alternative facts.' Any suggestions for good publications to subscribe to? I already have subscriptions to the \[*Washington*] *Post*, \[*New York*] *Times* and \[*Wall Street*] *Journal*."
   
@@ -22,7 +22,7 @@
   
   Email Address
   
-  In the post-post truth age (that is, an age where one has to work hard to be media literate and find the truthful sources of information), citizens should support local and regional publications that hew to ethical journalism standards and cover local government entities. In my corner of Long Island, that means I read (and sometimes write for) the *Great Neck News* and the chain of local newspapers to which it belongs. This year, I also plan to subscribe to *Newsday*, which is the largest paper that covers Long Island. I would urge citizens to subscribe to their local newspapers as well. This action helps these organizations employ journalists who attend city hall meetings, school board meetings and police precincts to report on how your tax-dollars are being spent, how your constitutional rights are being safeguarded, and to serve as watch dogs on how well your elected officials are serving you.
+-   In the post-post truth age (that is, an age where one has to work hard to be media literate and find the truthful sources of information), citizens should support local and regional publications that hew to ethical journalism standards and cover local government entities. In my corner of Long Island, that means I read (and sometimes write for) the *Great Neck News* and the chain of local newspapers to which it belongs. This year, I also plan to subscribe to *Newsday*, which is the largest paper that covers Long Island. I would urge citizens to subscribe to their local newspapers as well. This action helps these organizations employ journalists who attend city hall meetings, school board meetings and police precincts to report on how your tax-dollars are being spent, how your constitutional rights are being safeguarded, and to serve as watch dogs on how well your elected officials are serving you.
   
   Realizing that millions more people are scratching their heads, wondering what to read and where to spend their subscription dollars, here are my top 10 large journalistic brands where I believe you can most often find real, reported facts:
   
@@ -68,7 +68,7 @@
   
   \* Disclosures: Earlier in my career, I interned at the *Associated Press* and the *Washington Post.* I worked as a staff writer at the *Wall Street Journal* between 2001-2011. I have also published free-lance articles in the *Post, t\_he *New York Times* and t\_he New Yorker* (website) as well as some of the publications listed in the runner up lists.
   
-  **Runners Up:**
+-   **Runners Up:**
   
   \- National Public Radio
   
@@ -88,7 +88,7 @@
   
   \- ABC News
   
-  **Business News Sources:**
+-  **Business News Sources:**
   
   \- *FORBES* magazine
   
@@ -98,7 +98,7 @@
   
   *- The Financial Times* newspaper
   
-  **Sources of reporting and opinion from the right of the political spectrum:**
+-  **Sources of reporting and opinion from the right of the political spectrum:**
   
   *- National Review*
   
