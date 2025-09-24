@@ -1,3 +1,5 @@
+- https://www.sciencealert.com/we-emit-a-visible-light-that-vanishes-when-we-die-says-surprising-study
+- tags: #life #death
 - ![image](https://www.sciencealert.com/images/2025/05/hand_glow_header-642x260.jpg){:width 642 :height 260} Our bodies could emit an extremely faint visible light at all times. (Jyoti Sangya/Getty Images)
   
   Life truly is radiant, according to an experiment conducted by researchers from the University of Calgary and the National Research Council of Canada.
