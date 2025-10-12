@@ -26,4 +26,14 @@
 	-
 - **12:54** [[process-theology]] [[God-as-change]] :  [Process theology - Wikipedia](https://en.wikipedia.org/wiki/Process_theology)
 - Ax (split wood)
-	-
+- [[Oct 12th, 2025]] 12:22
+	- Seeds: for what to grow for the feast.
+	- "What do you want?" re. vocation and what's going on here? p.234, 236 (Chu)
+	- Individualistic approach vs. communal. My years of seminary were spent a bunch of people asking, "What is God doing in my life?" All of us were limited and judgmental, but all of us doing it in community.
+		- Joyce suggests that the rest of the book is directed about communal aspect: Rachel, feast, graduation, ...
+	- *Tomato skin*
+		- projecting onto others what our own needs may be
+-
+- Butler, Octavia E. Parable of the Sower. 2023.
+  Chu, Jeff. Good Soil. Convergent, 2025.
+  Pagels, Elaine H. Miracles and Wonder: The Historical Mystery of Jesus. First edition, Doubleday, 2025.
