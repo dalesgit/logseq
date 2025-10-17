@@ -1,3 +1,4 @@
+alias:: parable of the ower
 tags:: [[science-fiction]]
 date:: 2023
 extra:: OCLC: 1480990850
