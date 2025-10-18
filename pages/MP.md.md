@@ -1,2 +1,3 @@
-- alias:Mary Pat
+alias:: Mary Pat
+
 -
