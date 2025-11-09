@@ -41,3 +41,13 @@
 	- Butler, Octavia E. Parable of the Sower. 2023.
 	  Chu, Jeff. Good Soil. Convergent, 2025.
 	  Pagels, Elaine H. Miracles and Wonder: The Historical Mystery of Jesus. First edition, Doubleday, 2025.
+- [[Nov 9th, 2025]] 13:08
+	- Peter: The book is basically about **grief**:
+		- on the farm
+		- family alienated
+		- Rachel Held Evans
+	- n.b. Nadia ... was at bedside and funeral
+	- Anything changed since book written?
+	- Kevin visited a sister, dying of Parkinsons like disease. Alienated but good to have seen.
+	- Karen: so many of the details of Jeff's life are totally alien to **my** life. But all the way through the book I could identify with what he experiences.
+	-
