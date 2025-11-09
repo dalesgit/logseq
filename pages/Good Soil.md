@@ -50,4 +50,6 @@
 	- Anything changed since book written?
 	- Kevin visited a sister, dying of Parkinsons like disease. Alienated but good to have seen.
 	- Karen: so many of the details of Jeff's life are totally alien to **my** life. But all the way through the book I could identify with what he experiences.
-	-
+	- Ed (on screen) question for Jeff
+		- > Love doesn’t protect us from grief. If anything, it makes grief all the more likely, because grief is love that has no place else to go. Grief is the love that remains after your friend has died. Grief is love that is still searching for home—and that home, for me, is in my memories. Eis telos. (p.305)
+		- Ed: "Memory is all I have to live for."
