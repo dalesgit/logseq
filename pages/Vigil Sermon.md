@@ -8,7 +8,8 @@
 	- Telling the story
 		- Story where you're from
 		- Oral histories
-		-
+		- Who are you?
+		- What do you seek?
 	- Baptism
 		- Stories of water
 		- Old man and the sea
@@ -18,3 +19,5 @@
 	- Eucharistic
 		- Stories of food
 		- Spirits
+	- Summary
+		- The Orthodox shorthand: born,  washed, wrapped in cloth, fed
