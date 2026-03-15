@@ -1,0 +1,20 @@
+- The 4 parts. I could approach each in turn. Telling stories.
+	- Light
+		- Getting glasses at early age
+		- Cataracts
+		- Walking in tunnels in Cheyenne Canyon
+		- May's Boy. Mother gave him a glorious life.
+		- Fire ?
+	- Telling the story
+		- Story where you're from
+		- Oral histories
+		-
+	- Baptism
+		- Stories of water
+		- Old man and the sea
+		- I jumped into water at lake Granby
+		- Julian immersed
+		- Hawaiians couldn't swim?
+	- Eucharistic
+		- Stories of food
+		- Spirits
